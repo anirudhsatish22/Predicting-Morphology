@@ -2,26 +2,26 @@ import argparse
 import sys
 
 
-def main(args):
+def Reformat(inputFp, outputFp, mode):
 
-    inputFp = args.input_file
-
-    outputFp = args.output_file
 
     for line in inputFp:
         newLine  = line.rstrip()
-        
         listOfWords = newLine.split("\t")
         lemma = listOfWords[0]
         conjugated = listOfWords[1]
         features = listOfWords[2]
         
-        if (args.train):
+        if (mode):
             reformatted = features+lemma+features + "\t" + conjugated + "\n"
         else:
             reformatted = features+lemma+features + "\n"
         outputFp.write(reformatted)
 
+def main(args):
+
+    Reformat(args.input_file, args.output_file, args.train)
+    
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
