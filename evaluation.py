@@ -1,4 +1,7 @@
 import numpy as np
+import argparse
+import sys 
+import os.path
 
 def distance(str1, str2):
     """Simple Levenshtein implementation for evalm."""
@@ -29,30 +32,142 @@ def readCorrectTest(fp):
 
 
 
-def accuracy(fp):
+def accuracy(predictedFp, expectedFp):
     i = 0
-    for line in fp:
+    j = 0
+    setOfCorrectInflections = readCorrectTest(expectedFp)
+    expectedFp.seek(0)
+    for line in predictedFp:
         newLine  = line.rstrip()
         listOfWords = newLine.split("\t")
-
-        correctfp = open("testData/hindi-test", "r")
-    
-
-        setOfCorrectInflections = readCorrectTest(correctfp)
+        j+=1
         if listOfWords[1] in setOfCorrectInflections:
             i+=1
         
-    print(i/1000)
+    predictedFp.seek(0)
+    if j == 0:
+        j = 1
+    return (i/1000, i/j)
 
 
-# def levenshtein(predictedfp, correctfp):
 
-print(distance("नहाना", "तुम नहाते"))
+
+def levenshtein(predictedfp, correctfp):
+    correctfp.seek(0)
+
+    # for line in correctfp:
+    #     newLine = line.rstrip()
+    #     listOfWords = newLine.split("\t")
+    #     correctInflection = listOfWords[1]
+        
+    #     predictedLine = predictedfp.readline()
+    #     newPredictedLine = predictedLine.rstrip()
+    #     predictedInflection = newPredictedLine.split("\t")[1]
+    dist = 0
+    total = 0
+    for line in predictedfp:
+        # print(line)
+        newLine = line.rstrip()
+        listOfWords = newLine.split("\t")
+        predictedInflection = listOfWords[1]
+
+        correctLine = correctfp.readline()
+        newCorrectLine = correctLine.rstrip()
+        correctListOfWords = newCorrectLine.split("\t")
+        lemma = correctListOfWords[0]
+        while (lemma not in listOfWords[0]):
+            correctLine = correctfp.readline()
+            newCorrectLine = correctLine.rstrip()
+            correctListOfWords = newCorrectLine.split("\t")
+            lemma = correctListOfWords[0]
+
+
+        correctInflection = correctListOfWords[1]
+        # print(correctInflection, predictedInflection)
+        dist += distance(predictedInflection, correctInflection)
+        total += 1
+
+    if total == 0:
+        total = 1
+
+
+    # print(round(dist/total, 2))
+    # print(total)
+    return round(dist/total, 2)
+        
+            
+
+# print(round(distance("नहाना", "तुम नहाते"), 2))
+
+
+# round(dist/total, 2)
 # fp = open("testData/hindi-test", "r")
 
 
 
-fp = open("hindi.txt", "r")
-accuracy(fp)
+# fp = open("hindi.txt", "r")
+# output = open("testData/hindi-test", "r")
+# levenshtein(fp, output)
+# accuracy(fp)
 # readCorrectTest(fp)
 
+
+def evaluateOutput(predictedFp, expectedFp):
+    acc = accuracy(predictedFp, expectedFp)
+    levDist = levenshtein(predictedFp, expectedFp)
+
+    return ((acc[0]*100, acc[1]*100), levDist)
+
+
+def evalAll(outputFp,directory):
+    for root, _, files in os.walk(directory, topdown=False):
+        for name in files:
+            if not name.startswith("."):
+                full_path = os.path.join(root, name)
+
+                expectedFilePath = "testData/" + name + "-test"
+
+                print(expectedFilePath)
+
+                predicted = open(full_path, "r")
+                expected = open(expectedFilePath, "r")
+
+                acc, levDist = evaluateOutput(predicted, expected)
+                outputStr = name + "   total accuracy: " + str(acc[0]) + "  accuracy of guessed: " + str(acc[1]) + "  levenshtein: " + str(levDist) + "\n"
+                outputFp.write(outputStr)
+                
+
+
+
+
+def main(args):
+    # if args:
+    #     x = evaluateOutput(args.predictedOutput, args.expectedOutput)    
+    #     # for line in args.expectedOutput:
+    #     #     print(line)
+    #     print(x)
+    # else:
+    #     evalAll()
+
+    if (args.run_all):    
+        evalAll(args.writeOutput, args.directory)
+    else:
+        x = evaluateOutput(args.predictedOutput, args.expectedOutput)    
+    #     # for line in args.expectedOutput:
+    #     #     print(line)
+        print(x)
+
+
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--predictedOutput", "-p", type=argparse.FileType('r'), help="txt file with the predicted inflections from the model", metavar="FILE")
+    parser.add_argument("--expectedOutput", "-e", type=argparse.FileType('r'), help="test file with lemma, features and expected correct inflection", metavar="FILE", default=sys.stdout)
+
+    parser.add_argument("--run_all", action="store_true")
+    parser.add_argument("--writeOutput", "-w", type=argparse.FileType('w'), help="File to write output for all the data", metavar="FILE")
+    parser.add_argument("--directory", help="Directory name")
+    args=parser.parse_args()
+    main(args)
+
+    for fp in (args.predictedOutput, args.expectedOutput): fp.close()
