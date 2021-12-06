@@ -25,6 +25,7 @@ def readCorrectTest(fp):
     for line in fp:
         newLine  = line.rstrip()
         listOfWords = newLine.split("\t")
+        
         D.add(listOfWords[1])
 
     return D
@@ -40,6 +41,7 @@ def accuracy(predictedFp, expectedFp):
     for line in predictedFp:
         newLine  = line.rstrip()
         listOfWords = newLine.split("\t")
+        print(listOfWords[1])
         j+=1
         if listOfWords[1] in setOfCorrectInflections:
             i+=1
@@ -116,7 +118,7 @@ def evaluateOutput(predictedFp, expectedFp):
     acc = accuracy(predictedFp, expectedFp)
     levDist = levenshtein(predictedFp, expectedFp)
 
-    return ((round(acc[0]*100,2), round(acc[1]*100, 2)), levDist)
+    return ((acc), levDist)
 
 
 def evalAll(outputFp,directory):

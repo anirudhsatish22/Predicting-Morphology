@@ -1,0 +1,85 @@
+49dodi49	dodwch
+50mynd50	âi fe
+53mwynhau53	mwynhewch
+54niweidio54	niweidion
+55swyno55	swynwn
+56cyfrwyo56	cyfrwywn
+57marchogaeth57	marchogwn
+58llyfu58	llyf
+59gwrthod59	gwrthoda
+60sefyll60	safwch
+61braenu61	braena
+62aros62	arosasech
+64poeni64	poeni
+65treisio65	treisiwn
+66diolch66	diolchwch
+67ysgrifennu67	ysgrifennwn
+68cuddio68	cuddwch
+69bwyta69	bwyta
+70uno70	unwn
+71ystyried71	ystyriwn
+72siafio72	siafiwn
+73smygu73	smygwn
+75cynnwys75	cynhwyswn
+76pwyso76	pwyswn
+77siafio77	siafiwn
+78caru78	nhw
+79rhoi79	rhown
+80dychwelyd80	dychwelwn
+81croestorri81	croestorrwn
+82darlunio82	darlunia
+83codi83	codwch
+85adwthio85	adwthien di
+86swyno86	swynwn
+87ceisio87	ceisiwch
+88torri88	torrodd
+89dangos89	dangoswn
+90yfed90	yfwyd
+91meddwl91	meddyliech
+92edliw92	edliwiwn
+93claddu93	claddwn
+94taro94	trawn
+96pwyso96	pwyswn
+97cwyno97	cwynwn
+98pydru98	pydrwn
+99dileu99	dilewn
+100ymddwyn100	ymddygasent
+102gwrthod102	gwrthodwn
+103teimlo103	teithiasit
+104lleoli104	lleolwn
+105penderfynu105	penderfynent
+106cnuchio106	cnuchien ni
+107ysbrydoli107	ysbrydolwn
+109diolch109	diolchent
+111taro111	taro
+112treisio112	treisiwch
+113hofran113	hofranwn
+114ysbrydoli114	ysbrydoloch
+115palu115	palych
+116dathlu116	chi
+117ffili117	ffilasech
+118pydru118	pydrais
+119atal119	atalwn ni
+120tybio120	tybiaswn
+121gwylio121	gwylia
+122pasio122	pasiwch
+123peidio123	peidiwch
+124lleihau124	lleiasai
+126treisio126	treisia
+128canlyn128	canlynech
+130cysgu130	cysgwch chi
+131dileu131	dileer
+132taro132	trawaf
+133lleihau133	lleiasai
+134gafael134	gafaelwn
+135stopio135	stopiodd
+136anghofio136	anghofioch
+137taro137	trawn
+140cysylltu140	cysylltai
+141golchi141	golchasent
+143ymddwyn143	ymddygasent
+144aros144	arhoswn ni
+145talu145	talwn
+146ymolchi146	ymolchwn ffilych
+147bwyta147	bwytai ni
+148diolch148	diolchwch

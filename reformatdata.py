@@ -18,9 +18,47 @@ def Reformat(inputFp, outputFp, mode):
             reformatted = features+lemma+features + "\n"
         outputFp.write(reformatted)
 
+
+def Ref2(fp, op, mode):
+    D = {}
+    i = 1
+    for line in fp:
+        newLine = line.rstrip()
+        listOfWords = newLine.split("\t")
+
+        x = listOfWords[2]
+        features = x.split(";")
+        y = ''.join(features)
+        # print(y)
+        if y not in D:
+            D[y] = i
+            i+=1
+    fp.seek(0)
+
+
+    for line in fp:
+        newLine  = line.rstrip()
+        listOfWords = newLine.split("\t")
+        lemma = listOfWords[0]
+        conjugated = listOfWords[1]
+        features = listOfWords[2]
+
+        if features in D:
+            x = D[features]
+        else:
+            x = i
+            i+=1
+        
+        if (mode):
+            reformatted = str(x)+lemma+str(x) + "\t" + conjugated + "\n"
+        else:
+            reformatted = str(x)+lemma+str(x) + "\n"
+        op.write(reformatted)
+
 def main(args):
 
     Reformat(args.input_file, args.output_file, args.train)
+    # Ref2(args.input_file, args.output_file, args.train)
     
 
 if __name__ == '__main__':
