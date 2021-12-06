@@ -1,0 +1,565 @@
+V;ACT;PRS;PRF;POS;POT;1;SGkähetäV;ACT;PRS;PRF;POS;POT;1;SG	lienen
+V;ACT;PRS;PRF;NEG;IMP;2;PLkodifioidaV;ACT;PRS;PRF;NEG;IMP;2;PL	älkää olko
+V;ACT;PRS;PRF;NEG;IND;3;SGruhjoaV;ACT;PRS;PRF;NEG;IND;3;SG	ei ole ruikuttaisi lahjottaneen
+N;FRML;PLorgaaniN;FRML;PL	organisaatiokulttuurien
+V;PASS;PRS;PRF;NEG;INDrynnätäV;PASS;PRS;PRF;NEG;IND	ei ole
+V;ACT;PRS;POS;POT;2;PLsepelöidäV;ACT;PRS;POS;POT;2;PL	sepelöitäneen
+ADJ;IN+ESS;SGtautofoninenADJ;IN+ESS;SG	tautofonioista
+V;ACT;PRS;PRF;NEG;IND;1;SGoptimoidaV;ACT;PRS;PRF;NEG;IND;1;SG	en ole
+V;ACT;PRS;PRF;NEG;COND;2;PLkumuloidaV;ACT;PRS;PRF;NEG;COND;2;PL	ette olisi
+N;ACC;PLkanadanhanhiN;ACC;PL	lumihanhille
+ADJ;PRIV;PLtoteutumatonADJ;PRIV;PL	toteutuneet
+V;ACT;PRS;NEG;POT;2;SGkelataV;ACT;PRS;NEG;POT;2;SG	et
+N;INS;PLdiplomaattisuusN;INS;PL	diplomaattisuuksiksi
+V;ACT;PRS;POS;IMP;3;SGsynnyttääV;ACT;PRS;POS;IMP;3;SG	synnyttäne
+V;ACT;PRS;PRF;POS;IND;3;SGnyrjäyttääV;ACT;PRS;PRF;POS;IND;3;SG	on nyrjäyttänyt
+N;AT+ABL;SGruumenN;AT+ABL;SG	ruumeniksi
+V;ACT;PST;NEG;IND;3;PLfosforesoidaV;ACT;PST;NEG;IND;3;PL	eivät fosforinsiirroiksi
+V;ACT;PRS;PRF;NEG;POT;3;PLpaahdellaV;ACT;PRS;PRF;NEG;POT;3;PL	eivät liene
+V;ACT;PST;PRF;NEG;IND;3;SGmojauttaaV;ACT;PST;PRF;NEG;IND;3;SG	ei ollut
+V;ACT;PRS;PRF;NEG;IMP;1;PLhavistaV;ACT;PRS;PRF;NEG;IMP;1;PL	älkäämme olko hakautuneet
+N;COM;PLhöyrypilliN;COM;PL	höyrystimet
+N;IN+ABL;PLfuusioN;IN+ABL;PL	futuristisiin
+V;ACT;PRS;PRF;NEG;IMP;2;SGmitoittaaV;ACT;PRS;PRF;NEG;IMP;2;SG	älä ole
+N;IN+ALL;PLjättiläiskilpikonnaN;IN+ALL;PL	merikilpikonnineen
+V;ACT;PRS;PRF;POS;POT;1;SGhavaitaV;ACT;PRS;PRF;POS;POT;1;SG	lienen havainnee
+N;AT+ESS;SGSI-järjestelmäN;AT+ESS;SG	e-julkaisuilla
+N;FRML;PLhajulukkoN;FRML;PL	hajustakoot
+ADJ;AT+ABL;PLkalseampiADJ;AT+ABL;PL	kalseampia
+V;ACT;PRS;POS;COND;1;PLhenkilöityäV;ACT;PRS;POS;COND;1;PL	henkilöitynyt
+V;ACT;PRS;PRF;NEG;IND;3;SGnyökätäV;ACT;PRS;PRF;NEG;IND;3;SG	ei ole
+V;ACT;PRS;PRF;POS;COND;2;PLvähentääV;ACT;PRS;PRF;POS;COND;2;PL	olisitte
+V;ACT;PRS;NEG;COND;3;PLkiinteyttääV;ACT;PRS;NEG;COND;3;PL	eivät kiinteytimme
+N;IN+ABL;SGtuoretuoteN;IN+ABL;SG	tuore
+V;ACT;PST;PRF;NEG;IND;2;PLkiinantaaV;ACT;PST;PRF;NEG;IND;2;PL	ette olleet kiinantaneet
+N;IN+ALL;SGirokeesikampausN;IN+ALL;SG	irokeesilla
+V;ACT;PRS;PRF;NEG;IND;3;SGdreseerataV;ACT;PRS;PRF;NEG;IND;3;SG	ei ole dreseerannut
+V;ACT;PRS;POS;POT;1;SGkarnevalisoituaV;ACT;PRS;POS;POT;1;SG	karneoleiksi
+N;AT+ALL;PLlaivanvarustajaN;AT+ALL;PL	laivamatoineen
+V;ACT;PRS;NEG;IMP;3;SGpuoliutuaV;ACT;PRS;NEG;IMP;3;SG	älköön puoliuduttaisiin
+V;ACT;PRS;POS;COND;1;SGjyskytelläV;ACT;PRS;POS;COND;1;SG	jymäyttäisi
+V;ACT;PRS;PRF;POS;COND;1;PLstanssataV;ACT;PRS;PRF;POS;COND;1;PL	olisimme stanssannut
+V;ACT;PRS;PRF;NEG;IND;3;SGtekstaillaV;ACT;PRS;PRF;NEG;IND;3;SG	ei ole tekstailin
+N;AT+ABL;PLpilvenpiirtäjäN;AT+ABL;PL	pilvenhattaroina pilapiirtäjää
+V;PASS;PRS;PRF;POS;INDvarustautuaV;PASS;PRS;PRF;POS;IND	on varustautuisi
+N;IN+ESS;SGhevonpaskaN;IN+ESS;SG	hevonvitussa
+V;ACT;PRS;PRF;NEG;IMP;3;SGäitelöittääV;ACT;PRS;PRF;NEG;IMP;3;SG	älköön olko äitynyt
+V;ACT;PST;PRF;NEG;IND;3;SGhangataV;ACT;PST;PRF;NEG;IND;3;SG	ei ollut
+V;ACT;PRS;PRF;POS;IND;3;PLähkiäV;ACT;PRS;PRF;POS;IND;3;PL	ovat
+V;ACT;PRS;NEG;POT;3;PLrääkyäV;ACT;PRS;NEG;POT;3;PL	eivät rääkynyt
+ADJ;PRT;PLtakaperoinenADJ;PRT;PL	takaperoinen
+V;ACT;PRS;NEG;IND;2;SGdiskotaV;ACT;PRS;NEG;IND;2;SG	et
+V;PASS;PRS;PRF;POS;CONDmessutaV;PASS;PRS;PRF;POS;COND	olisi
+V;ACT;PRS;PRF;NEG;COND;1;SGkerätäV;ACT;PRS;PRF;NEG;COND;1;SG	en olisi
+ADJ;TRANS;PLabsurdeinADJ;TRANS;PL	absurdismit
+V;ACT;PRS;PRF;NEG;POT;3;PLhotaistaV;ACT;PRS;PRF;NEG;POT;3;PL	eivät liene hotaisseet
+N;NOM;SGsalakapakkaN;NOM;SG	salakapakatta
+N;TRANS;SGsydänpuuN;TRANS;SG	sydänpuiksi
+V;PASS;PRS;NEG;INDgonahtaaV;PASS;PRS;NEG;IND	ei
+N;PRIV;SGbrittienglantiN;PRIV;SG	australianenglannitta
+N;IN+ALL;PLorasyökkönenN;IN+ALL;PL	orasyökköseksi
+N;TRANS;SGkeulapurjeN;TRANS;SG	varpapurjeilta
+V;ACT;PST;NEG;IND;2;PLlöyhentyäV;ACT;PST;NEG;IND;2;PL	ette löyhähtäneet
+V;ACT;PRS;NEG;COND;1;SGkuvantaaV;ACT;PRS;NEG;COND;1;SG	en
+V;PASS;PRS;PRF;POS;IMPvitaminoidaV;PASS;PRS;PRF;POS;IMP	olkoon vitaminoinut
+N;NOM;PLkuolemansyyN;NOM;PL	kuolemansyiltä
+V;ACT;PRS;PRF;NEG;IMP;3;PLnilkuttaaV;ACT;PRS;PRF;NEG;IMP;3;PL	älkööt olko nilkuttaneet
+V;ACT;PST;PRF;NEG;IND;3;SGtihetäV;ACT;PST;PRF;NEG;IND;3;SG	ei ollut
+V;ACT;PRS;POS;COND;2;SGvieriäV;ACT;PRS;POS;COND;2;SG	vierinyt
+N;IN+ESS;SGarfvedsoniittiN;IN+ESS;SG	parfymoi podsolit
+N;AT+ALL;PLkosmosN;AT+ALL;PL	kosmologeineen
+N;AT+ABL;SGoligopoliN;AT+ABL;SG	olkikatolta negligoineet
+V;ACT;PRS;PRF;POS;COND;2;PLkarhentaaV;ACT;PRS;PRF;POS;COND;2;PL	olisitte karhenneet
+V;ACT;PRS;POS;IND;2;SGinhimillistääV;ACT;PRS;POS;IND;2;SG	inhimillistynyt
+V;ACT;PRS;PRF;NEG;IMP;3;PLoudoksuaV;ACT;PRS;PRF;NEG;IMP;3;PL	älkööt olko oudostuttaneet
+V;ACT;PRS;PRF;NEG;POT;3;PLpruukataV;ACT;PRS;PRF;NEG;POT;3;PL	eivät liene
+V;ACT;PRS;NEG;COND;1;PLrampataV;ACT;PRS;NEG;COND;1;PL	emme
+N;GEN;SGloppuvaiheN;GEN;SG	loppunut
+V;ACT;PST;PRF;NEG;IND;1;SGvedätyttääV;ACT;PST;PRF;NEG;IND;1;SG	en ollut vedätyksiltä
+V;ACT;PRS;PRF;POS;IND;2;SGpainekyllästääV;ACT;PRS;PRF;POS;IND;2;SG	olet
+V;PASS;PRS;PRF;NEG;POTnärkästyäV;PASS;PRS;PRF;NEG;POT	ei liene närkästytetty
+ADJ;IN+ABL;SGallerginenADJ;IN+ABL;SG	allergisoiva
+N;GEN;SGtarkka-ampujaN;GEN;SG	skeet-ammuntoineen
+V;ACT;PRS;PRF;NEG;POT;1;PLepuuttaaV;ACT;PRS;PRF;NEG;POT;1;PL	emme liene
+V;ACT;PRS;POS;COND;2;PLmallataV;ACT;PRS;POS;COND;2;PL	mallatkoot
+V;ACT;PRS;PRF;POS;POT;2;SGlaastitaV;ACT;PRS;PRF;POS;POT;2;SG	lienet
+V;ACT;PRS;PRF;NEG;IND;2;SGfudataV;ACT;PRS;PRF;NEG;IND;2;SG	et ole fudannevat
+N;FRML;SGlohkohedelmäN;FRML;SG	lohkona
+V;ACT;PRS;PRF;NEG;IMP;1;PLleimutaV;ACT;PRS;PRF;NEG;IMP;1;PL	älkäämme olko leimasin
+V;ACT;PST;PRF;NEG;IND;1;PLkrematoidaV;ACT;PST;PRF;NEG;IND;1;PL	emme olleet
+N;FRML;SGsähköpostiN;FRML;SG	sähköparistolla
+ADJ;PRIV;PLdieselkäyttöinenADJ;PRIV;PL	käyttöjärjestelmänä
+V;ACT;PRS;POS;COND;1;PLsäädelläV;ACT;PRS;POS;COND;1;PL	säädelkäämme
+N;AT+ABL;SGlaukkuryssäN;AT+ABL;SG	laukkuryssän
+V;ACT;PRS;NEG;IMP;3;SGriiustaaV;ACT;PRS;NEG;IMP;3;SG	älköön riisiviinalle
+N;PRIV;PLmölyN;PRIV;PL	mölynneet
+N;NOM;SGpommituskoneN;NOM;SG	pommikoneelta
+N;AT+ALL;SGextreme-lajiN;AT+ALL;SG	texasilaisesta agape-terapiaa eläinlajille
+V;ACT;PRS;POS;POT;2;PLavartaaV;ACT;PRS;POS;POT;2;PL	avartako
+V;ACT;PRS;PRF;NEG;POT;3;PLhangataV;ACT;PRS;PRF;NEG;POT;3;PL	eivät liene
+N;PRT;PLtilinumeroN;PRT;PL	kuusinumeroisilta
+V;ACT;PRS;PRF;POS;IND;3;SGsteriloidaV;ACT;PRS;PRF;POS;IND;3;SG	on
+N;PRIV;PLitsemurhasopimusN;PRIV;PL	itsemurhaiskuilla
+V;ACT;PRS;PRF;NEG;POT;1;SGkyörätäV;ACT;PRS;PRF;NEG;POT;1;SG	en liene
+V;PASS;PRS;PRF;POS;INDsuolautuaV;PASS;PRS;PRF;POS;IND	on
+V;ACT;PRS;PRF;POS;IND;3;SGsähliäV;ACT;PRS;PRF;POS;IND;3;SG	on sähline
+V;ACT;PRS;POS;POT;1;PLirrotaV;ACT;PRS;POS;POT;1;PL	irronneet
+N;PRIV;SGjoukkomurhaajaN;PRIV;SG	joukkuekilpailussa
+N;TRANS;PLepisodiN;TRANS;PL	episykleiksi
+V;ACT;PRS;PRF;POS;COND;3;PLkitkeröittääV;ACT;PRS;PRF;POS;COND;3;PL	olisivat kitkeröityneet
+V;ACT;PRS;NEG;POT;2;PLhaukahdellaV;ACT;PRS;NEG;POT;2;PL	ette haukahdelleet
+V;ACT;PRS;PRF;POS;COND;2;PLpummataV;ACT;PRS;PRF;POS;COND;2;PL	olisitte pummanneet
+ADJ;ACC;PLsensitiivinenADJ;ACC;PL	positiivinen
+V;ACT;PRS;NEG;IMP;2;PLzoomataV;ACT;PRS;NEG;IMP;2;PL	älkää
+N;ACC;SGlössiylänköN;ACC;SG	löyhennys
+V;ACT;PRS;PRF;POS;POT;2;PLmaistuaV;ACT;PRS;PRF;POS;POT;2;PL	lienette
+N;GEN;PLlatvialainenN;GEN;PL	latvoille
+V;ACT;PRS;PRF;POS;POT;3;SGtuivertaaV;ACT;PRS;PRF;POS;POT;3;SG	kaivertaneet
+V;ACT;PRS;NEG;COND;2;SGsalliaV;ACT;PRS;NEG;COND;2;SG	et
+N;IN+ABL;PLtax-free-myymäläN;IN+ABL;PL	flip-flopia agape-terapiaa
+ADJ;TRANS;PLböömiläinenADJ;TRANS;PL	höösättiin
+N;IN+ABL;SGballistaN;IN+ABL;SG	ballistiselta
+V;ACT;PST;NEG;IND;1;SGkipertyäV;ACT;PST;NEG;IND;1;SG	en
+V;ACT;PRS;PRF;NEG;COND;2;SGhivutellaV;ACT;PRS;PRF;NEG;COND;2;SG	et olisi
+N;INS;PLbetoniN;INS;PL	betonimassoitta
+V;ACT;PRS;NEG;POT;2;PLloitontuaV;ACT;PRS;NEG;POT;2;PL	ette
+N;IN+ALL;PLvirtsaelintautioppiN;IN+ALL;PL	tautioppia
+N;IN+ALL;SGkeskikymriN;IN+ALL;SG	kuusikymppisiä
+V;ACT;PRS;POS;IMP;2;PLkanavoidaV;ACT;PRS;POS;IMP;2;PL	kanavoineet
+V;ACT;PST;NEG;IND;3;SGpedataV;ACT;PST;NEG;IND;3;SG	ei perkasi
+V;ACT;PRS;NEG;IMP;1;PLnuljahtaaV;ACT;PRS;NEG;IMP;1;PL	älkäämme nuorrutimme kiljahdat
+V;ACT;PRS;POS;IND;3;SGkorvataV;ACT;PRS;POS;IND;3;SG	korvaantunut
+V;ACT;PST;PRF;NEG;IND;2;PLkouluttuaV;ACT;PST;PRF;NEG;IND;2;PL	ette olleet
+ADJ;NOM;SGtemperamenttinenADJ;NOM;SG	temperoikoon
+V;PASS;PST;PRF;POS;INDhuuruuntuaV;PASS;PST;PRF;POS;IND	oli huipattu
+V;ACT;PRS;POS;IMP;1;PLnelinkertaistuaV;ACT;PRS;POS;IMP;1;PL	nelinkertaistuneet
+V;ACT;PRS;PRF;NEG;COND;3;PLromauttaaV;ACT;PRS;PRF;NEG;COND;3;PL	eivät olisi romauttaneet
+N;PRT;SGäänestysprosenttiN;PRT;SG	ennakkoäänestyksillä
+V;ACT;PRS;PRF;POS;COND;1;SGhöyläytyäV;ACT;PRS;PRF;POS;COND;1;SG	olisin höyrystänyt
+N;NOM;PLkiehauttaminenN;NOM;PL	kiehnätkää
+ADJ;PRT;SGlainsäädännöllinenADJ;PRT;SG	käytännöllistänyt
+V;PASS;PST;NEG;INDpenetroidaV;PASS;PST;NEG;IND	ei peitetty
+N;PRIV;PLbussikaistaN;PRIV;PL	brasilialaisitta
+N;IN+ABL;PLrauhoitusaikaN;IN+ABL;PL	rauhoitelleet
+N;TRANS;SGtandempyöräN;TRANS;SG	kansandemokratioille pyörähdä
+N;IN+ABL;PLoikeusoppinutN;IN+ABL;PL	lainoppineen
+V;PASS;PRS;PRF;NEG;CONDtietokoneistaaV;PASS;PRS;PRF;NEG;COND	ei olisi tietokoneistuneet
+N;NOM;SGystävyysN;NOM;SG	säästäväisyyksissä
+ADJ;AT+ALL;PLsensuelliADJ;AT+ALL;PL	seidoille
+N;AT+ALL;PLrosettiN;AT+ALL;PL	rosetin
+V;PASS;PST;NEG;INDhylätäV;PASS;PST;NEG;IND	ei
+N;AT+ALL;PLpäivämääräN;AT+ALL;PL	päiväuniin
+V;ACT;PST;PRF;POS;IND;3;PLnapsutellaV;ACT;PST;PRF;POS;IND;3;PL	napsauttelimme
+N;AT+ABL;SGtyömaakypäräN;AT+ABL;SG	työmarkkinajärjestöstä
+V;ACT;PRS;PRF;NEG;POT;1;SGhiestyäV;ACT;PRS;PRF;NEG;POT;1;SG	en liene
+V;ACT;PRS;PRF;POS;IND;2;PLpoltellaV;ACT;PRS;PRF;POS;IND;2;PL	olette politisoineet
+N;IN+ESS;PLflunssakausiN;IN+ESS;PL	flaamin
+V;ACT;PRS;NEG;COND;1;PLpuurtaaV;ACT;PRS;NEG;COND;1;PL	emme
+V;ACT;PRS;PRF;NEG;COND;3;PLloikkiaV;ACT;PRS;PRF;NEG;COND;3;PL	eivät olisi
+V;ACT;PRS;POS;COND;2;PLkirskuttaaV;ACT;PRS;POS;COND;2;PL	kirskunut
+N;ACC;SGallekirjoittanutN;ACC;SG	allekirjoitukset
+V;ACT;PRS;PRF;NEG;IMP;2;SGrutistaaV;ACT;PRS;PRF;NEG;IMP;2;SG	älä ole rutinoidu
+V;ACT;PRS;PRF;POS;IND;3;PLsedimentoituaV;ACT;PRS;PRF;POS;IND;3;PL	ovat sedimentoineet
+V;ACT;PRS;PRF;NEG;IND;2;PLoikoillaV;ACT;PRS;PRF;NEG;IND;2;PL	ette ole
+V;ACT;PRS;NEG;POT;3;PLmoottoroidaV;ACT;PRS;NEG;POT;3;PL	eivät
+N;IN+ABL;SGrukouslippuN;IN+ABL;SG	rukoilijaan
+V;ACT;PRS;PRF;NEG;IMP;2;SGmukautuaV;ACT;PRS;PRF;NEG;IMP;2;SG	älä ole
+V;ACT;PRS;PRF;NEG;IND;2;SGkirkuaV;ACT;PRS;PRF;NEG;IND;2;SG	et ole
+V;PASS;PRS;PRF;POS;POThavahtuaV;PASS;PRS;PRF;POS;POT	lienee hamstrattu
+V;ACT;PRS;PRF;NEG;IND;3;SGstandardoituaV;ACT;PRS;PRF;NEG;IND;3;SG	ei ole standardisoiko
+V;ACT;PRS;PRF;NEG;POT;2;SGbanaalistaaV;ACT;PRS;PRF;NEG;POT;2;SG	et liene
+ADJ;IN+ABL;PLinformatiivinenADJ;IN+ABL;PL	informaatikoilla
+V;ACT;PRS;PRF;NEG;IMP;3;PLtukistaaV;ACT;PRS;PRF;NEG;IMP;3;PL	älkööt olko
+ADJ;IN+ABL;SGgeomorfologinenADJ;IN+ABL;SG	geomorfologioissa
+N;PRT;PLmaharauhanenN;PRT;PL	kilpirauhasiin
+V;ACT;PRS;PRF;NEG;COND;2;SGruskistuaV;ACT;PRS;PRF;NEG;COND;2;SG	et olisi ruskistat
+V;PASS;PRS;PRF;NEG;POTtuutoroidaV;PASS;PRS;PRF;NEG;POT	ei liene
+N;IN+ABL;PLcsárdásN;IN+ABL;PL	curryilta kardioidi
+N;IN+ABL;SGkymmenysN;IN+ABL;SG	kymmenottelijaksi
+V;ACT;PRS;NEG;IMP;2;SGpuistellaV;ACT;PRS;NEG;IMP;2;SG	älä
+N;AT+ALL;PLpohjallinenN;AT+ALL;PL	pohjallinen
+V;ACT;PRS;POS;COND;1;SGryöstöviljelläV;ACT;PRS;POS;COND;1;SG	ryöstellyt
+N;AT+ABL;SGradiokuvaN;AT+ABL;SG	radiosanomalta
+V;ACT;PRS;PRF;POS;POT;3;SGmurskautuaV;ACT;PRS;PRF;POS;POT;3;SG	murskanne
+V;ACT;PRS;NEG;POT;3;SGnokkaistaV;ACT;PRS;NEG;POT;3;SG	ei
+V;ACT;PRS;PRF;NEG;COND;1;SGliehakoidaV;ACT;PRS;PRF;NEG;COND;1;SG	en olisi liehakoinee
+N;AT+ALL;SGkohdantoN;AT+ALL;SG	kohdellut
+V;PASS;PRS;PRF;NEG;CONDmustentaaV;PASS;PRS;PRF;NEG;COND	ei olisi
+V;PASS;PRS;NEG;IMPtotuttautuaV;PASS;PRS;NEG;IMP	älköön totuttauduimme
+V;ACT;PRS;NEG;POT;3;PLomistautuaV;ACT;PRS;NEG;POT;3;PL	eivät omista
+N;AT+ALL;SGköynnösN;AT+ALL;SG	köynnöspuumuuraa
+V;ACT;PRS;PRF;POS;IMP;2;PLharppiaV;ACT;PRS;PRF;POS;IMP;2;PL	olkaa
+N;IN+ABL;SGlaryngiittiN;IN+ABL;SG	laryngospasmin
+V;ACT;PRS;NEG;IND;3;SGkellistääV;ACT;PRS;NEG;IND;3;SG	ei
+N;TRANS;SGsisarentytärN;TRANS;SG	sisarelliseksi
+V;ACT;PRS;PRF;POS;IMP;1;PLharmahtaaV;ACT;PRS;PRF;POS;IMP;1;PL	olkaamme harmahtaisi
+ADJ;NOM;PLuruguaylainenADJ;NOM;PL	uruguaylaisista
+V;ACT;PRS;PRF;POS;COND;1;PLhavainnollistaaV;ACT;PRS;PRF;POS;COND;1;PL	olisimme havainnollistaneet
+V;ACT;PST;PRF;NEG;IND;2;PLporhaltaaV;ACT;PST;PRF;NEG;IND;2;PL	ette olleet porhaltakaa
+V;ACT;PRS;PRF;POS;COND;3;SGmuodostaaV;ACT;PRS;PRF;POS;COND;3;SG	olisi muodosta
+V;ACT;PST;POS;IND;1;PLkritikoidaV;ACT;PST;POS;IND;1;PL	kristallisoineet
+V;ACT;PRS;PRF;NEG;IND;2;SGstailataV;ACT;PRS;PRF;NEG;IND;2;SG	et ole
+V;PASS;PST;PRF;NEG;INDnäpistääV;PASS;PST;PRF;NEG;IND	ei ollut
+V;ACT;PRS;POS;IND;1;SGlusikoidaV;ACT;PRS;POS;IND;1;SG	lusikoinut
+V;ACT;PRS;NEG;IND;1;SGräätälöidäV;ACT;PRS;NEG;IND;1;SG	en
+N;AT+ALL;PLsamppanjavispiläN;AT+ALL;PL	espanjalaiselle
+V;ACT;PRS;PRF;NEG;POT;2;PLpalpeerataV;ACT;PRS;PRF;NEG;POT;2;PL	ette liene palpeeranne
+V;PASS;PRS;NEG;POTpörhistääV;PASS;PRS;NEG;POT	ei pörhistyneet
+N;PRIV;PLtilinumeroN;PRIV;PL	kuusinumeroisilta
+N;IN+ABL;PLterrori-iskuN;IN+ABL;PL	keski-ikäistyneet
+ADJ;FRML;PLeksperimentaalinenADJ;FRML;PL	eksperimentaaliset
+V;ACT;PRS;PRF;POS;POT;3;PLkaunistuaV;ACT;PRS;PRF;POS;POT;3;PL	lienevät kaunistautuneet
+N;AT+ALL;PLmiehisyysN;AT+ALL;PL	miehimykset
+V;ACT;PRS;NEG;COND;2;SGkorjautuaV;ACT;PRS;NEG;COND;2;SG	et korjaillut
+V;ACT;PRS;PRF;NEG;IMP;2;PLnytkyäV;ACT;PRS;PRF;NEG;IMP;2;PL	älkää olko nytkynyt
+N;INS;PLedustaja-aloiteN;INS;PL	edustajuuksin alustajin Natura-alueet
+N;AT+ESS;SGdybowskinmangustiN;AT+ESS;SG	dynamometri borrelioosit
+V;PASS;PRS;NEG;IMPvilvoitellaV;PASS;PRS;NEG;IMP	älköön
+V;ACT;PRS;PRF;NEG;IND;2;SGporhaltaaV;ACT;PRS;PRF;NEG;IND;2;SG	et ole porhaltakaa
+N;FRML;PLviininvalmistamoN;FRML;PL	valmistamiselta
+ADJ;AT+ABL;PLyksisuuntainenADJ;AT+ABL;PL	yksikamarisilta
+N;PRIV;PLhienovaraisuusN;PRIV;PL	hienouksilla
+V;ACT;PRS;PRF;NEG;COND;1;PLitsenäistääV;ACT;PRS;PRF;NEG;COND;1;PL	emme olisi
+N;TRANS;PLcouscousN;TRANS;PL	coulombein gascognenajokoiriksi
+N;IN+ABL;SGkärsädikiN;IN+ABL;SG	kärsivällisyydet säädelkäämme
+ADJ;PRIV;SGsaatanallinenADJ;PRIV;SG	salakapakatta
+N;NOM;SGetujalkaN;NOM;SG	etujalatta
+V.PTCP;PASS;PRStanssiaV.PTCP;PASS;PRS	temmattava
+V;ACT;PRS;PRF;NEG;COND;1;PLrapistuaV;ACT;PRS;PRF;NEG;COND;1;PL	emme olisi
+V;ACT;PRS;POS;IND;2;PLfilosofoidaV;ACT;PRS;POS;IND;2;PL	filosofissa
+V;ACT;PRS;PRF;NEG;IMP;3;SGpökerryttääV;ACT;PRS;PRF;NEG;IMP;3;SG	älköön olko pökerryttäisi
+V;ACT;PRS;NEG;IMP;1;PLmollataV;ACT;PRS;NEG;IMP;1;PL	älkäämme
+V;PASS;PST;POS;INDhimmentääV;PASS;PST;POS;IND	himmentykö
+V;ACT;PRS;POS;IND;2;SGsuvaitaV;ACT;PRS;POS;IND;2;SG	suvaitkoon
+V;ACT;PST;PRF;NEG;IND;3;SGiestääV;ACT;PST;PRF;NEG;IND;3;SG	ei ollut
+V;ACT;PRS;NEG;COND;2;PLaikuistuaV;ACT;PRS;NEG;COND;2;PL	ette aientaisitte
+V;ACT;PRS;PRF;NEG;IND;3;PLäyskyäV;ACT;PRS;PRF;NEG;IND;3;PL	eivät ole
+N;ACC;PLradioasemaN;ACC;PL	radiokasettisoittimet
+V;ACT;PRS;POS;COND;2;SGkeriytyäV;ACT;PRS;POS;COND;2;SG	leiriytykää
+V;PASS;PRS;NEG;POTkiitelläV;PASS;PRS;NEG;POT	ei kiitettäne
+V;ACT;PRS;NEG;IMP;2;PLhoiketaV;ACT;PRS;NEG;IMP;2;PL	älkää
+V;ACT;PRS;NEG;COND;1;SGnikkaroidaV;ACT;PRS;NEG;COND;1;SG	en
+V;ACT;PRS;POS;IND;2;SGaukoaV;ACT;PRS;POS;IND;2;SG	auoit
+V;PASS;PRS;POS;INDmiedontaaV;PASS;PRS;POS;IND	miedontaneet
+N;AT+ALL;PLonttosarvinenN;AT+ALL;PL	sarvikruunulle
+V;ACT;PST;POS;IND;3;SGmuhinoidaV;ACT;PST;POS;IND;3;SG	mulkaisee
+V;ACT;PST;NEG;IND;1;PLrähmiäV;ACT;PST;NEG;IND;1;PL	emme räpäytä kähmineet
+V;ACT;PRS;NEG;POT;1;PLorjuuttaaV;ACT;PRS;NEG;POT;1;PL	emme orjuuttaneet
+N;IN+ESS;SGehdottomuusN;IN+ESS;SG	ehdottaisit
+V;PASS;PRS;NEG;POTasfaltoidaV;PASS;PRS;NEG;POT	ei asfaltoitu
+V;ACT;PRS;POS;POT;3;SGdyykataV;ACT;PRS;POS;POT;3;SG	brodyyrinauhoihin
+N;IN+ABL;PLadventtikalenteriN;IN+ABL;PL	adventismeilta
+V;ACT;PRS;PRF;POS;IND;2;SGrantautuaV;ACT;PRS;PRF;POS;IND;2;SG	olet
+V;PASS;PRS;PRF;NEG;POTläpikäydäV;PASS;PRS;PRF;NEG;POT	ei liene
+N;INS;PLtoiveN;INS;PL	toivomuksia
+V;ACT;PRS;PRF;NEG;POT;1;SGkaaviloidaV;ACT;PRS;PRF;NEG;POT;1;SG	en liene kaaviloine
+N;NOM;SGneuvottelupöytäN;NOM;SG	neuvottelun kirjoituspöydän
+V;ACT;PRS;NEG;POT;3;SGnauliutuaV;ACT;PRS;NEG;POT;3;SG	ei nauliutune
+V;ACT;PRS;PRF;POS;IMP;3;PLnäpistelläV;ACT;PRS;PRF;POS;IMP;3;PL	olkoot
+V;ACT;PRS;PRF;POS;COND;1;SGharmonistaaV;ACT;PRS;PRF;POS;COND;1;SG	olisin
+V;ACT;PRS;NEG;IND;3;SGkorskahtaaV;ACT;PRS;NEG;IND;3;SG	ei kirskahtanut
+V;ACT;PST;NEG;IND;1;PLliuotaV;ACT;PST;NEG;IND;1;PL	emme
+V;ACT;PRS;NEG;COND;2;SGenglannintaaV;ACT;PRS;NEG;COND;2;SG	et englantilaisuuden
+N;IN+ESS;PLkobolttiväriN;IN+ESS;PL	kobolttisinillä
+V.PTCP;ACT;PRSmongertaaV.PTCP;ACT;PRS	mongertaneet
+ADJ;IN+ABL;SGinhimillisinADJ;IN+ABL;SG	inhimillistynyt
+V;PASS;PST;PRF;POS;INDkunnallistaaV;PASS;PST;PRF;POS;IND	oli kaavailtu
+V;PASS;PRS;NEG;CONDnäpelöidäV;PASS;PRS;NEG;COND	ei
+V;ACT;PRS;PRF;POS;POT;3;PLpaksuntuaV;ACT;PRS;PRF;POS;POT;3;PL	paksunnu
+N;FRML;PLnatriumfluoriasetaattiN;FRML;PL	fluoranneet
+N;NOM;SGchilenpussirottaN;NOM;SG	chilenpussirotan
+ADJ;FRML;SGunivormupukuinenADJ;FRML;SG	universaalistunut
+V;ACT;PRS;PRF;POS;IMP;3;PLselkiyttääV;ACT;PRS;PRF;POS;IMP;3;PL	olkoot
+N;PRT;SGsafkaN;PRT;SG	safkanneet
+V;ACT;PRS;PRF;POS;IMP;3;PLkupertaaV;ACT;PRS;PRF;POS;IMP;3;PL	olkoot
+N;PRT;SGpaikkaustiedostoN;PRT;SG	komentojonotiedostot
+V;ACT;PRS;PRF;POS;IMP;3;SGkuopiaV;ACT;PRS;PRF;POS;IMP;3;SG	olkoon
+V;ACT;PST;NEG;IND;3;SGseditelläV;ACT;PST;NEG;IND;3;SG	ei
+N;IN+ABL;SGpandakarhuN;IN+ABL;SG	kultapandoissa
+V;ACT;PRS;NEG;POT;2;PLvääntäytyäV;ACT;PRS;NEG;POT;2;PL	ette
+V;ACT;PRS;NEG;COND;3;SGammuskellaV;ACT;PRS;NEG;COND;3;SG	ei
+V;ACT;PRS;NEG;IMP;1;PLjäsentyäV;ACT;PRS;NEG;IMP;1;PL	älkäämme
+V;ACT;PRS;NEG;IND;1;SGloiskuaV;ACT;PRS;NEG;IND;1;SG	en
+V;ACT;PRS;PRF;POS;COND;1;SGkatsoa vierestäV;ACT;PRS;PRF;POS;COND;1;SG	olisin katsoneet
+N;IN+ALL;PLfregattilintuN;IN+ALL;PL	frottaaseihin
+N;IN+ABL;PLbanjaN;IN+ABL;PL	banaanitasavalloista
+N;TRANS;SGfinanssitiedeN;TRANS;SG	fiideliksi oikeustieteeksi
+V;ACT;PRS;PRF;POS;COND;2;SGluimistaaV;ACT;PRS;PRF;POS;COND;2;SG	olisit luimistanut
+ADJ;PRIV;SGvahvuinenADJ;PRIV;SG	vahvistetulla
+ADJ;TRANS;PLpäärmättyADJ;TRANS;PL	päärmänneet
+V;ACT;PRS;PRF;POS;IND;2;SGherpaannuttaaV;ACT;PRS;PRF;POS;IND;2;SG	olet herpaantukaa
+N;PRIV;SGöljyntuontiN;PRIV;SG	öljyturmatta
+V;ACT;PRS;PRF;POS;COND;2;SGsekoittuaV;ACT;PRS;PRF;POS;COND;2;SG	olisit sekoittanut
+V.PTCP;ACT;PSTnyppäistäV.PTCP;ACT;PST	nytkynyt
+N;IN+ABL;PLsiirtymäriittiN;IN+ABL;PL	siirtymä
+V;ACT;PRS;PRF;NEG;IMP;2;SGhuoataV;ACT;PRS;PRF;NEG;IMP;2;SG	älä ole huoannut
+V;ACT;PRS;PRF;NEG;IMP;3;SGkuherrellaV;ACT;PRS;PRF;NEG;IMP;3;SG	älköön olko
+V;PASS;PST;PRF;NEG;INDhavisuttaaV;PASS;PST;PRF;NEG;IND	ei ollut
+N;NOM;PLblondiiniN;NOM;PL	blokannut
+V;PASS;PRS;PRF;POS;INDleikkautuaV;PASS;PRS;PRF;POS;IND	on
+N;IN+ESS;SGfääriN;IN+ESS;SG	fillaripoliisissa
+V;PASS;PRS;NEG;IMPlutkuttaaV;PASS;PRS;NEG;IMP	olko lutkutettu
+N;PRIV;SGsarveiskalvoN;PRIV;SG	sarveiskalvotulehdusta
+ADJ;PRIV;PLpohjoisempiADJ;PRIV;PL	pohjoiseurooppalaisten
+V;ACT;PRS;NEG;IMP;3;PLilmituodaV;ACT;PRS;NEG;IMP;3;PL	älkööt
+N;ACC;PLehkäisyrengasN;ACC;PL	ehkäisijöinä lantiorenkaan
+N;TRANS;SGkalliokyyhkyN;TRANS;SG	kyyhkysillä
+N;GEN;PLprosenttipalkkioN;GEN;PL	prosessiteollisuuksien
+V;ACT;PRS;PRF;POS;IND;2;SGvitsaillaV;ACT;PRS;PRF;POS;IND;2;SG	olet vitonut
+N;GEN;PLdubniumN;GEN;PL	dubniumeille
+V;ACT;PST;PRF;POS;IND;3;PLämpäröidäV;ACT;PST;PRF;POS;IND;3;PL	ämpärillisen epäröimisineen
+V;ACT;PRS;NEG;COND;1;PLympyröidäV;ACT;PRS;NEG;COND;1;PL	emme
+N;AT+ALL;PLimmenkalvoN;AT+ALL;PL	immuunivasteista vatsakalvolta
+N;GEN;SGestablishmentN;GEN;SG	aborttitabletteineen
+V;ACT;PRS;PRF;POS;POT;2;SGnuortuaV;ACT;PRS;PRF;POS;POT;2;SG	nuortunut
+N;IN+ALL;SGjärvilohiN;IN+ALL;SG	järvisienelle
+V;ACT;PRS;PRF;NEG;POT;1;SGilmaillaV;ACT;PRS;PRF;NEG;POT;1;SG	en liene
+V;ACT;PRS;PRF;POS;IND;2;SGkoksautuaV;ACT;PRS;PRF;POS;IND;2;SG	koksittunut
+N;PRIV;SGkauppatavaraN;PRIV;SG	kauppahallin
+N;IN+ALL;SGafakiaN;IN+ALL;SG	afakia
+N;IN+ALL;PLyöapinaN;IN+ALL;PL	yöunille
+V;ACT;PRS;NEG;COND;1;SGpistelläV;ACT;PRS;NEG;COND;1;SG	en
+V;ACT;PRS;PRF;POS;POT;3;SGkirveltääV;ACT;PRS;PRF;POS;POT;3;SG	kirvoitettakoon
+V;ACT;PRS;PRF;NEG;COND;3;PLhommataV;ACT;PRS;PRF;NEG;COND;3;PL	eivät olisi hommanneet
+N;AT+ABL;PLspondylodiskiittiN;AT+ABL;PL	spondyloosin
+N;AT+ALL;SGbrikettiN;AT+ALL;SG	brokadiin
+V;ACT;PRS;PRF;NEG;IND;3;PLmodifioituaV;ACT;PRS;PRF;NEG;IND;3;PL	eivät ole
+N;COM;PLetanoliN;COM;PL	etanoleilla
+N;ACC;PLhiustenhalkaisuN;ACC;PL	hiustenhalkomisista
+N;GEN;SGtorkeN;GEN;SG	torke
+V;ACT;PRS;POS;POT;3;SGsurffataV;ACT;PRS;POS;POT;3;SG	surffannevat
+N;PRT;SGruhtinaskuntaN;PRT;SG	ruhtinatarta
+V;PASS;PRS;POS;INDlauhetaV;PASS;PRS;POS;IND	lauhennut
+V;ACT;PRS;PRF;POS;COND;2;SGtyhjetäV;ACT;PRS;PRF;POS;COND;2;SG	olisit tyhjemerkein
+V;ACT;PRS;NEG;POT;2;SGkäyristääV;ACT;PRS;NEG;POT;2;SG	et käyristynyt
+N;COM;PLmolemminpuolisuusN;COM;PL	molemminpuolisuuksien
+N;IN+ESS;PLkenttäyhtälöN;IN+ESS;PL	kenttäyhtälöä
+V;ACT;PRS;PRF;NEG;COND;3;SGkuroutuaV;ACT;PRS;PRF;NEG;COND;3;SG	ei olisi kuronut
+N;ACC;PLongintaN;ACC;PL	onginnalla
+V;ACT;PRS;NEG;IND;3;SGelpyäV;ACT;PRS;NEG;IND;3;SG	ei
+V;ACT;PRS;NEG;POT;1;PLlatinalaistaaV;ACT;PRS;NEG;POT;1;PL	emme
+N;ACC;SGyksityiskouluN;ACC;SG	yksityistynyt
+N;IN+ESS;SGlyijykromaattiN;IN+ESS;SG	lyijymuurina
+N;FRML;PLhöyrystinN;FRML;PL	höyrystyneet
+N;ACC;SGalaskanhuskyN;ACC;SG	tanhuoitta
+N;FRML;SGmölkkyN;FRML;SG	möyhentänyt
+V;ACT;PST;PRF;POS;IND;2;SGjäntevöittääV;ACT;PST;PRF;POS;IND;2;SG	pätevöikö
+V;ACT;PRS;NEG;IMP;2;PLpilkistääV;ACT;PRS;NEG;IMP;2;PL	älkää
+N;FRML;SGruksiN;FRML;SG	ruksinut
+N;TRANS;PLnahkapääN;TRANS;PL	niskanahkoista
+V;ACT;PRS;PRF;POS;COND;1;PLstandardisoidaV;ACT;PRS;PRF;POS;COND;1;PL	olisimme standardisoineet
+N;PRIV;SGetusijaN;PRIV;SG	etusijaistaneet
+N;PRT;PLtervapaperiN;PRT;PL	tervapapereina
+ADJ;NOM;SGsievinADJ;NOM;SG	sieventänyt
+ADJ;TRANS;PLmuodokasADJ;TRANS;PL	muodontaneet
+V.PTCP;ACT;PSThiiltyäV.PTCP;ACT;PST	hillinnyt
+V;ACT;PRS;PRF;POS;COND;1;SGtoitottaaV;ACT;PRS;PRF;POS;COND;1;SG	olisin toitottanut
+N;NOM;SGPR-kampanjaN;NOM;SG	tartar-kastikkeeksi
+V;ACT;PRS;PRF;POS;POT;1;PLehdyttääV;ACT;PRS;PRF;POS;POT;1;PL	lienemme
+V;PASS;PRS;NEG;CONDmahtuaV;PASS;PRS;NEG;COND	ei
+V;PASS;PRS;PRF;NEG;IMPosoittaa mieltäänV;PASS;PRS;PRF;NEG;IMP	älköön olko
+N;IN+ESS;SGhybridiautoN;IN+ESS;SG	hybridisoitu
+V;ACT;PRS;PRF;POS;IMP;3;SGrapistuaV;ACT;PRS;PRF;POS;IMP;3;SG	olkoon
+V;ACT;PST;PRF;POS;IND;1;SGsäästyäV;ACT;PST;PRF;POS;IND;1;SG	säästyi
+V;PASS;PST;PRF;NEG;INDtouhutaV;PASS;PST;PRF;NEG;IND	ei ollut
+N;AT+ABL;SGhiuspantaN;AT+ABL;SG	hiuslakalta
+V;ACT;PRS;PRF;NEG;IND;3;PLprepataV;ACT;PRS;PRF;NEG;IND;3;PL	eivät ole preparoineet
+V;ACT;PRS;NEG;COND;1;PLköyttääV;ACT;PRS;NEG;COND;1;PL	emme köyhäilisimme
+V;ACT;PRS;PRF;POS;IND;2;PLkultautuaV;ACT;PRS;PRF;POS;IND;2;PL	olette
+N;AT+ESS;SGkottikärryN;AT+ESS;SG	peräkärryiksi
+ADJ;NOM;PLkiittämätönADJ;NOM;PL	käsittämättöminä
+V;ACT;PST;POS;IND;2;SGloiventuaV;ACT;PST;POS;IND;2;SG	loiventanut
+V;PASS;PRS;PRF;POS;CONDvapaamielistyäV;PASS;PRS;PRF;POS;COND	olisi
+V;ACT;PRS;POS;IND;3;SGkuiduttaaV;ACT;PRS;POS;IND;3;SG	kutistuu vasikoinut
+V;PASS;PRS;NEG;IMPhuventaaV;PASS;PRS;NEG;IMP	älköön
+N;TRANS;SGylikuumeneminenN;TRANS;SG	ylikuormitukseksi
+V;ACT;PRS;PRF;NEG;COND;2;SGmennä virran mukanaV;ACT;PRS;PRF;NEG;COND;2;SG	et olisi mennyt
+N;ACC;SGlintuinfluenssaN;ACC;SG	inflaatioteoria
+N;AT+ESS;PLCD-ROM-levyN;AT+ESS;PL	suistuttu evankelis-luterilaisuutena
+V;ACT;PRS;PRF;POS;IND;1;PLpanetellaV;ACT;PRS;PRF;POS;IND;1;PL	panettelen
+ADJ;PRT;SGepäinhimillinenADJ;PRT;SG	epäillyllä inhimillistynyt
+V;ACT;PST;PRF;POS;IND;2;PLprostituoidaV;ACT;PST;PRF;POS;IND;2;PL	proppasitte
+V;ACT;PST;NEG;IND;2;PLpohjataV;ACT;PST;NEG;IND;2;PL	ette pohjanne
+V;ACT;PRS;PRF;NEG;IMP;2;PLkouluttuaV;ACT;PRS;PRF;NEG;IMP;2;PL	älkää olko
+V;ACT;PST;PRF;NEG;IND;1;SGtuulettaaV;ACT;PST;PRF;NEG;IND;1;SG	en ollut tuulastanut
+V;ACT;PRS;PRF;POS;COND;3;PLvelkoaV;ACT;PRS;PRF;POS;COND;3;PL	olisivat velkonut
+V;PASS;PRS;NEG;INDyksinäistyäV;PASS;PRS;NEG;IND	ei
+N;AT+ALL;PLkäyrätorviN;AT+ALL;PL	käyrätorvien
+N;TRANS;SGzoologiaN;TRANS;SG	zombieksi
+V;ACT;PRS;PRF;POS;POT;1;SGkämmentääV;ACT;PRS;PRF;POS;POT;1;SG	lienen kämmentänyt
+V;ACT;PRS;NEG;COND;3;SGsynketäV;ACT;PRS;NEG;COND;3;SG	ei synkennyt
+ADJ;NOM;SGhelppotajuinenADJ;NOM;SG	helppotajuista
+V;ACT;PRS;PRF;NEG;IND;1;SGsnaijataV;ACT;PRS;PRF;NEG;IND;1;SG	en ole snaijaa
+V;ACT;PST;NEG;IND;2;SGkumuloidaV;ACT;PST;NEG;IND;2;SG	et
+V;ACT;PRS;PRF;POS;POT;1;SGkeikaroidaV;ACT;PRS;PRF;POS;POT;1;SG	lienen keikaroine
+V;ACT;PRS;PRF;POS;POT;1;PLapplikoidaV;ACT;PRS;PRF;POS;POT;1;PL	lienemme applikoinut
+V;ACT;PRS;PRF;POS;POT;1;PLkohahdellaV;ACT;PRS;PRF;POS;POT;1;PL	lienemme kohahdellut
+V;PASS;PST;PRF;POS;INDsosiaalistuaV;PASS;PST;PRF;POS;IND	oli
+V;ACT;PRS;POS;IND;2;PLpudistellaV;ACT;PRS;POS;IND;2;PL	pudistelet
+V;PASS;PST;NEG;INDlaulaaV;PASS;PST;NEG;IND	ei
+V;PASS;PST;POS;INDvilkuillaV;PASS;PST;POS;IND	viihdyttiin
+V;PASS;PRS;PRF;NEG;CONDkombinoituaV;PASS;PRS;PRF;NEG;COND	ei olisi kombinoineet
+V;ACT;PRS;POS;COND;3;PLjohdatellaV;ACT;PRS;POS;COND;3;PL	johdottaneet
+V;PASS;PRS;PRF;NEG;IMPasustellaV;PASS;PRS;PRF;NEG;IMP	älköön olko
+V;ACT;PRS;NEG;IMP;3;PLhoksataV;ACT;PRS;NEG;IMP;3;PL	älkööt
+V;ACT;PRS;POS;POT;3;PLhytkähdyttääV;ACT;PRS;POS;POT;3;PL	sykähdytä
+V;ACT;PST;PRF;POS;IND;3;SGvituttaaV;ACT;PST;PRF;POS;IND;3;SG	vipannut
+V;PASS;PRS;PRF;POS;CONDsublimoidaV;PASS;PRS;PRF;POS;COND	olisi sublimoineet
+V;ACT;PRS;NEG;IND;1;SGsekaantuaV;ACT;PRS;NEG;IND;1;SG	en
+N;PRIV;SGkirjahyllyN;PRIV;SG	kirjavatta
+V;ACT;PRS;PRF;POS;POT;2;SGaltistuaV;ACT;PRS;PRF;POS;POT;2;SG	lienet
+ADJ;FRML;PLmarsilainenADJ;FRML;PL	marsipaaneiksi
+N;PRIV;SGufologiN;PRIV;SG	eufemismit
+V;ACT;PST;POS;IND;3;PLpysähtyäV;ACT;PST;POS;IND;3;PL	pysytelkö
+V;ACT;PST;NEG;IND;1;PLtasauttaaV;ACT;PST;NEG;IND;1;PL	emme
+N;GEN;SGkiintolevyN;GEN;SG	alkiolevyihin
+V;PASS;PST;NEG;INDventiloidaV;PASS;PST;NEG;IND	ei
+V;ACT;PRS;NEG;IMP;3;PLlypsääV;ACT;PRS;NEG;IMP;3;PL	älkööt lyyhistäkööt
+N;IN+ESS;SGspraypulloN;IN+ESS;SG	spraymaalannut
+ADJ;ACC;SGepäsuotuisaADJ;ACC;SG	epäturvallinen
+V;ACT;PRS;PRF;POS;IND;3;SGkuohketaV;ACT;PRS;PRF;POS;IND;3;SG	on kuohkeaa
+N;AT+ABL;PLsijaisvanhempiN;AT+ABL;PL	vanhennut
+V;ACT;PRS;PRF;POS;POT;1;PLlopettaaV;ACT;PRS;PRF;POS;POT;1;PL	lienemme
+ADJ;PRT;PLmachiavellimainenADJ;PRT;PL	machomiehestä
+V;ACT;PST;PRF;POS;IND;2;PLvälähtääV;ACT;PST;PRF;POS;IND;2;PL	välttyneet
+V;ACT;PRS;PRF;POS;IND;3;PListuttaaV;ACT;PRS;PRF;POS;IND;3;PL	ovat
+N;TRANS;PLlintuinfluenssaN;TRANS;PL	inflaatioteoria
+V;PASS;PRS;PRF;POS;POTtuumaillaV;PASS;PRS;PRF;POS;POT	lienee tursuttu
+V;ACT;PRS;POS;IMP;3;PLhuojentaaV;ACT;PRS;POS;IMP;3;PL	huojentuisi
+V;ACT;PRS;NEG;IMP;2;SGetikoituaV;ACT;PRS;NEG;IMP;2;SG	älä
+V;ACT;PRS;PRF;NEG;IND;3;SGlököttääV;ACT;PRS;PRF;NEG;IND;3;SG	ei ole lököttänyt
+N;IN+ESS;SGviskisieppoN;IN+ESS;SG	sieppomuurat
+N;FRML;SGkardinaalimunausN;FRML;SG	kardinaalimunaukselle
+V;ACT;PRS;NEG;POT;2;PLjuksataV;ACT;PRS;NEG;POT;2;PL	ette julistane
+V;ACT;PRS;POS;POT;3;SGkietoutuaV;ACT;PRS;POS;POT;3;SG	kietoutune
+N;AT+ALL;SGsufleeN;AT+ALL;SG	fluoroimmunometriat
+N;AT+ESS;PLandrologiN;AT+ESS;PL	androgyynisiin
+V;ACT;PST;PRF;NEG;IND;1;PLhaarukoidaV;ACT;PST;PRF;NEG;IND;1;PL	emme olleet haarukoiko
+N;AT+ESS;PLkenraalitarN;AT+ESS;PL	kenraaliluutnantti
+V;ACT;PST;NEG;IND;1;PLsimputtaaV;ACT;PST;NEG;IND;1;PL	emme
+V;ACT;PRS;PRF;NEG;IND;3;SGdominoidaV;ACT;PRS;PRF;NEG;IND;3;SG	ei ole
+V;ACT;PRS;NEG;POT;2;SGrutinoituaV;ACT;PRS;NEG;POT;2;SG	et rutinoidu
+V;ACT;PST;PRF;NEG;IND;3;SGelpyäV;ACT;PST;PRF;NEG;IND;3;SG	ei ollut
+N;GEN;PLfenyylialaniiniN;GEN;PL	fenyylietikkahapoiksi
+V;PASS;PST;PRF;POS;INDsukuloidaV;PASS;PST;PRF;POS;IND	oli
+V;PASS;PST;NEG;INDmutristaaV;PASS;PST;NEG;IND	ei mutristane
+V;ACT;PRS;PRF;NEG;POT;2;SGblondataV;ACT;PRS;PRF;NEG;POT;2;SG	et liene blokannut
+V;PASS;PST;POS;INDsplitataV;PASS;PST;POS;IND	splittaat
+V;ACT;PRS;POS;IMP;3;SGhaaroaV;ACT;PRS;POS;IMP;3;SG	haarottako
+N;IN+ABL;SGbudjettineuvotteluN;IN+ABL;SG	budjettiongelmaa neuvotteluilta
+V;ACT;PRS;POS;IND;2;SGsyljeskelläV;ACT;PRS;POS;IND;2;SG	syljeskelleet
+V;ACT;PST;PRF;NEG;IND;3;SGhurahtaaV;ACT;PST;PRF;NEG;IND;3;SG	ei ollut
+V;ACT;PRS;PRF;NEG;IMP;3;PLuitellaV;ACT;PRS;PRF;NEG;IMP;3;PL	älkööt olko
+V;ACT;PRS;NEG;POT;1;PLelostuttaaV;ACT;PRS;NEG;POT;1;PL	emme
+N;IN+ALL;SGjalkapallojoukkueN;IN+ALL;SG	jalkapallojoukkueen
+N;GEN;SGlehdistökonferenssiN;GEN;SG	inferentiaalisissa
+V;PASS;PST;NEG;INDhaistellaV;PASS;PST;NEG;IND	ei
+N;AT+ABL;PLkiehuminenN;AT+ABL;PL	kiehunnan
+V;ACT;PRS;PRF;POS;COND;1;PLkietaistaV;ACT;PRS;PRF;POS;COND;1;PL	olisimme
+V;ACT;PRS;NEG;IND;2;PLepäröidäV;ACT;PRS;NEG;IND;2;PL	ette epäröimisineen
+V;PASS;PRS;PRF;NEG;CONDtiuskiaV;PASS;PRS;PRF;NEG;COND	ei olisi tiuskin
+V;ACT;PST;PRF;NEG;IND;3;PLanimoidaV;ACT;PST;PRF;NEG;IND;3;PL	eivät olleet
+V;ACT;PRS;PRF;POS;COND;2;SGmädättääV;ACT;PRS;PRF;POS;COND;2;SG	olisit mädäntyne
+V;ACT;PST;NEG;IND;1;SGhuonontaaV;ACT;PST;NEG;IND;1;SG	en
+V;ACT;PRS;POS;IND;1;SGlujittaaV;ACT;PRS;POS;IND;1;SG	lujittivat
+N;IN+ABL;PLsiemenviljaN;IN+ABL;PL	keinosiementäjästä syömäviljatta
+V;ACT;PRS;PRF;POS;IND;3;PLleijuaV;ACT;PRS;PRF;POS;IND;3;PL	ovat australianmerileijonineen
+V;ACT;PST;POS;IND;3;PLstabiloidaV;ACT;PST;POS;IND;3;PL	stabiliteettien
+V;ACT;PRS;PRF;NEG;IND;1;SGylensyödäV;ACT;PRS;PRF;NEG;IND;1;SG	en ole
+N;ACC;SGkivipölykeuhkoN;ACC;SG	kivikasa
+V;ACT;PRS;POS;IND;2;SGpuolantaaV;ACT;PRS;POS;IND;2;SG	puolantanut
+V;ACT;PRS;POS;POT;3;SGerikoistaaV;ACT;PRS;POS;POT;3;SG	erikoistunut
+V;PASS;PRS;PRF;NEG;IMPlikistääV;PASS;PRS;PRF;NEG;IMP	älköön olko
+V;ACT;PST;POS;IND;3;SGejakuloidaV;ACT;PST;POS;IND;3;SG	ejakuloinut
+N;INS;PLvanhustenhoitoN;INS;PL	vanhennut
+V;PASS;PST;PRF;NEG;INDuurrostaaV;PASS;PST;PRF;NEG;IND	ei ollut
+V;ACT;PRS;NEG;IND;2;SGhäväistäV;ACT;PRS;NEG;IND;2;SG	et
+V;ACT;PRS;NEG;COND;3;PLpunoutuaV;ACT;PRS;NEG;COND;3;PL	eivät punoutuneet
+N;GEN;SGbehavioristiN;GEN;SG	behavioristisen
+ADJ;IN+ESS;PLroutainenADJ;IN+ESS;PL	romantiikoilla
+N;IN+ESS;SGyksikköpalloN;IN+ESS;SG	pehmeiköiltä
+V;ACT;PRS;PRF;POS;POT;1;SGmyrkyttääV;ACT;PRS;PRF;POS;POT;1;SG	lienen
+V;PASS;PRS;POS;IMPjäräyttääV;PASS;PRS;POS;IMP	järäytä
+V;ACT;PST;PRF;NEG;IND;3;SGlevyttääV;ACT;PST;PRF;NEG;IND;3;SG	ei ollut
+V;ACT;PRS;PRF;NEG;COND;3;SGtuodaV;ACT;PRS;PRF;NEG;COND;3;SG	ei olisi
+V.PTCP;ACT;PSTtuftataV.PTCP;ACT;PST	liftannut
+V;ACT;PRS;PRF;POS;COND;1;SGmaistattaaV;ACT;PRS;PRF;POS;COND;1;SG	olisin
+N;IN+ESS;SGyksityisasiakasN;IN+ESS;SG	yksityistynyt
+N;PRT;SGdekonstruktioN;PRT;SG	despoottia
+ADJ;AT+ESS;SGeufemistinenADJ;AT+ESS;SG	eufemismit
+ADJ;AT+ESS;PLtylpempiADJ;AT+ESS;PL	tylpentäneet
+N;ACC;PLauringonkehräN;ACC;PL	auringonpimennyksissä
+V;ACT;PRS;NEG;POT;3;SGnuoleksiaV;ACT;PRS;NEG;POT;3;SG	ei
+N;IN+ALL;SGpähkyläN;IN+ALL;SG	pähkinänkuorelta
+V;ACT;PST;NEG;IND;1;PLvaikeroidaV;ACT;PST;NEG;IND;1;PL	emme vaikeroineet
+V;ACT;PRS;POS;IMP;2;PLabstrahoidaV;ACT;PRS;POS;IMP;2;PL	abstrahoitte
+V;ACT;PRS;PRF;NEG;IND;3;PLhaiskahtaaV;ACT;PRS;PRF;NEG;IND;3;PL	eivät ole
+V;ACT;PRS;PRF;NEG;COND;1;PLliimoittuaV;ACT;PRS;PRF;NEG;COND;1;PL	emme olisi
+V;ACT;PST;NEG;IND;2;PLvalvoaV;ACT;PST;NEG;IND;2;PL	ette valvoneet
+V;PASS;PRS;NEG;INDrasahtaaV;PASS;PRS;NEG;IND	ei
+ADJ;INS;PLlenkoADJ;INS;PL	lengoiksi
+V;ACT;PRS;PRF;POS;COND;1;SGnikkelöidäV;ACT;PRS;PRF;POS;COND;1;SG	olisin
+N;AT+ALL;SGhepuliN;AT+ALL;SG	heuristiseen
+V;ACT;PRS;PRF;NEG;POT;2;PLmuhiaV;ACT;PRS;PRF;NEG;POT;2;PL	ette liene
+V;PASS;PRS;NEG;CONDtaarataV;PASS;PRS;NEG;COND	ei
+V;ACT;PRS;NEG;POT;3;PLlyödäV;ACT;PRS;NEG;POT;3;PL	eivät lyöttykö
+ADJ;IN+ABL;PLauktoriteettisuusADJ;IN+ABL;PL	auktoritaariset
+N;GEN;SGkukkakasviN;GEN;SG	kukkakasvit
+V;ACT;PRS;PRF;NEG;IND;2;SGrällätäV;ACT;PRS;PRF;NEG;IND;2;SG	et ole rällästit
+V;ACT;PRS;PRF;NEG;COND;1;SGsaksalaistuaV;ACT;PRS;PRF;NEG;COND;1;SG	en olisi saksannan
+V;ACT;PRS;PRF;POS;COND;3;SGpyältääV;ACT;PRS;PRF;POS;COND;3;SG	olisi
+V;ACT;PRS;PRF;NEG;COND;1;SGköpitelläV;ACT;PRS;PRF;NEG;COND;1;SG	en olisi köpitellemme
+V;ACT;PRS;NEG;IND;1;SGonnellistaaV;ACT;PRS;NEG;IND;1;SG	en onnelliseksi
+V;ACT;PRS;PRF;POS;IMP;3;SGarkistoidaV;ACT;PRS;PRF;POS;IMP;3;SG	olkoon arkistoinut
+V;PASS;PRS;PRF;POS;CONDretostaaV;PASS;PRS;PRF;POS;COND	olisi
+V;ACT;PRS;PRF;POS;IND;1;PLsuitseaV;ACT;PRS;PRF;POS;IND;1;PL	olemme
+V;ACT;PRS;PRF;POS;IMP;1;PLvasemmistolaistuaV;ACT;PRS;PRF;POS;IMP;1;PL	olkaamme vasemmistolaistuisi
+V;ACT;PRS;PRF;NEG;POT;1;SGbrodeerataV;ACT;PRS;PRF;NEG;POT;1;SG	en liene brodeerattiin
+V;ACT;PRS;PRF;NEG;POT;3;PLnopeuttaaV;ACT;PRS;PRF;NEG;POT;3;PL	eivät liene
+V;ACT;PRS;PRF;NEG;POT;2;PLpiipittääV;ACT;PRS;PRF;NEG;POT;2;PL	ette liene piipertäneet
+V;PASS;PRS;NEG;INDhuipistaaV;PASS;PRS;NEG;IND	ei
+V;ACT;PRS;NEG;COND;3;PLvaikuttaaV;ACT;PRS;NEG;COND;3;PL	eivät
+V;ACT;PRS;PRF;POS;IMP;2;SGkitkuttaaV;ACT;PRS;PRF;POS;IMP;2;SG	ole kitkuttaneet
+V;ACT;PRS;PRF;NEG;COND;2;PLkuohketaV;ACT;PRS;PRF;NEG;COND;2;PL	ette olisi kuohkennemme
+V;ACT;PRS;PRF;POS;IMP;3;SGpaahtaaV;ACT;PRS;PRF;POS;IMP;3;SG	olkoon pakittanut
+ADJ;FRML;PLaggressiivinenADJ;FRML;PL	aggregoinnit
+ADJ;IN+ALL;SGtypografinenADJ;IN+ALL;SG	biografisitta
+N;COM;PLkeikauskakkuN;COM;PL	keittoineen
+N;PRIV;PLkleptokratiaN;PRIV;PL	kleptokraateitta
+N;COM;PLvertaisverkkoN;COM;PL	vertailevia
+N;AT+ALL;SGkatkaisijaN;AT+ALL;SG	katkaisse
+V;ACT;PRS;PRF;NEG;COND;2;SGpahastuttaaV;ACT;PRS;PRF;NEG;COND;2;SG	et olisi
+N;ACC;SGbalettikoulutusN;ACC;SG	baletti
+V;ACT;PRS;NEG;COND;1;SGpaapiaV;ACT;PRS;NEG;COND;1;SG	en paaluttanut
+V;ACT;PRS;NEG;COND;3;PLvaihdellaV;ACT;PRS;NEG;COND;3;PL	eivät vaihdellut
+N;GEN;PLlysotsyymiN;GEN;PL	lysotsyymiltä
+V;ACT;PRS;POS;POT;2;PLimmuunistaaV;ACT;PRS;POS;POT;2;PL	immuunivasteista
+N;IN+ESS;PLtruveeriN;IN+ESS;PL	truveerina
+V;ACT;PRS;PRF;NEG;IND;3;SGvärähdelläV;ACT;PRS;PRF;NEG;IND;3;SG	ei ole
+V;ACT;PRS;NEG;IND;1;SGtamponoidaV;ACT;PRS;NEG;IND;1;SG	en
+N;TRANS;SGriippuliidinN;TRANS;SG	riippunut äidinkielinen
+V;ACT;PRS;PRF;POS;IND;2;PLsintrataV;ACT;PRS;PRF;POS;IND;2;PL	olette
+V;ACT;PRS;NEG;IMP;2;SGkohdentuaV;ACT;PRS;NEG;IMP;2;SG	älä kohdentanut
+N;ACC;PLkanarianpeippoN;ACC;PL	papukaijapeippoa
+V;ACT;PRS;NEG;COND;1;PLmuristaV;ACT;PRS;NEG;COND;1;PL	emme
+N;NOM;SGsivumyötäinenN;NOM;SG	myötäjäisiin
+V;ACT;PRS;PRF;NEG;POT;2;SGtukahtuaV;ACT;PRS;PRF;NEG;POT;2;SG	et liene
+V;PASS;PRS;PRF;POS;CONDnuolaistaV;PASS;PRS;PRF;POS;COND	olisi numeeristettu
+V;ACT;PRS;NEG;COND;2;SGoi'istuaV;ACT;PRS;NEG;COND;2;SG	et oi'istunut
+N;GEN;SGbiovaltaN;GEN;SG	bioklimatologian
+V;ACT;PRS;PRF;NEG;COND;3;SGunohtuaV;ACT;PRS;PRF;NEG;COND;3;SG	ei olisi
+V;ACT;PRS;PRF;NEG;IMP;3;SGkummutaV;ACT;PRS;PRF;NEG;IMP;3;SG	älköön olko kumman
+V;ACT;PRS;PRF;NEG;IND;1;SGliejuuntuaV;ACT;PRS;PRF;NEG;IND;1;SG	en ole
+ADJ;PRT;SGtyytymätönADJ;PRT;SG	väsymättömiä
+V;PASS;PST;NEG;INDkilisyttääV;PASS;PST;NEG;IND	ei
+N;TRANS;PLtunkeutujaN;TRANS;PL	tunkeutuisi
+N;IN+ALL;PLchipsN;IN+ALL;PL	chilentsintsillarotille
+N;AT+ESS;SGkryptofyyttiN;AT+ESS;SG	kryptandeille spermatofyyttiin
+V;ACT;PRS;NEG;POT;2;SGyliarvioidaV;ACT;PRS;NEG;POT;2;SG	et
+ADJ;PRIV;SGfamiliaarinenADJ;PRIV;SG	falskitta
+N;AT+ALL;SGlokvattiN;AT+ALL;SG	valokvantteineen
+V;ACT;PRS;PRF;NEG;POT;2;PLnukkua yön yliV;ACT;PRS;PRF;NEG;POT;2;PL	ette liene
+V;PASS;PRS;PRF;NEG;CONDhivuttaaV;PASS;PRS;PRF;NEG;COND	ei olisi
+N;IN+ABL;SGilmanvaihtoN;IN+ABL;SG	ilmavaarasta
+V;ACT;PRS;NEG;POT;2;PLfluoresoidaV;ACT;PRS;NEG;POT;2;PL	ette fluoresoisi
+N;TRANS;SGorastoukkaN;TRANS;SG	orastoukista

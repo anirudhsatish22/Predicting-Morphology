@@ -1,0 +1,756 @@
+N;ACC;PL;PSS2Ppeynirli pastaN;ACC;PL;PSS2P	peynirli
+N;LOC;PL;PSS2PbisküviN;LOC;PL;PSS2P	bisküvilerinin
+N;DAT;PL;PSS3PönN;DAT;PL;PSS3P	önemlerinin
+N;GEN;SG;PSS3SsoslukN;GEN;SG;PSS3S	sosluğu
+N;LOC;PL;PSS3SseçmenN;LOC;PL;PSS3S	seçmelerinin
+N;ACC;PL;PSS1SdüldülN;ACC;PL;PSS1S	düldüllerini
+N;ABL;PL;PSS3SzibidiN;ABL;PL;PSS3S	zibidileri
+N;ABL;PL;PSS1SkömN;ABL;PL;PSS1S	kömlerinden
+N;LGSPEC1;3P;PL;LGSPEC2kasideN;LGSPEC1;3P;PL;LGSPEC2	kasidelermişsiniz
+N;DAT;PL;PSS2PdavranışN;DAT;PL;PSS2P	davranışlarına
+N;NOM;SG;PSS1SintikamN;NOM;SG;PSS1S	intikamından
+ADJ;LGSPEC1;PRS;1;PL;POS;DECLdüşünceliADJ;LGSPEC1;PRS;1;PL;POS;DECL	düşünceli
+V;IND;3;SG;PRS;PROG;POS;DECLsaydırmakV;IND;3;SG;PRS;PROG;POS;DECL	saydırtıyorlar
+N;GEN;PL;PSS2PkonuN;GEN;PL;PSS2P	konularınızı
+V;IND;3;SG;PRS;POS;INTRşikâyet etmekV;IND;3;SG;PRS;POS;INTR	şikâyet
+V;IND;2;PL;PRS;POS;INTRağlamakV;IND;2;PL;PRS;POS;INTR	ağlar
+V;IND;3;SG;PST;NEG;INTRgizlemekV;IND;3;SG;PST;NEG;INTR	gizlemiyor mı?
+N;ACC;SG;PSS1ShastaneN;ACC;SG;PSS1S	hastanem
+N;LGSPEC1;2P;PL;PRSleşN;LGSPEC1;2P;PL;PRS	leşler
+V;IND;2;SG;PST;NEG;DECLkaynaştırtılmakV;IND;2;SG;PST;NEG;DECL	kaynaştırılmıyorsun
+V;IND;2;SG;PRS;PROG;NEG;DECLkazmakV;IND;2;SG;PRS;PROG;NEG;DECL	kazmıyordular
+N;NOM;PL;PSS1PkülekN;NOM;PL;PSS1P	külotlarımıza
+N;NOM;PL;PSS1SpancarN;NOM;PL;PSS1S	pancarlarını
+V;IND;1;PL;PRS;NEG;DECLkırdırtmakV;IND;1;PL;PRS;NEG;DECL	kırdırtırım
+N;NOM;PL;PSS3PçarşafN;NOM;PL;PSS3P	çarşaflarınızda
+N;DAT;SG;PSS3SLefkoşalıN;DAT;SG;PSS3S	Lefkoşalılarında
+N;ABL;SG;PSS1Pçift sayıN;ABL;SG;PSS1P	çift
+N;NOM;PLradyoaktif bozunumN;NOM;PL	bozunumlarının
+N;NOM;PL;PSS1SnedenN;NOM;PL;PSS1S	nedenime
+V;IND;3;SG;FUT;NEG;INTRezmekV;IND;3;SG;FUT;NEG;INTR	ezmediler
+N;LOC;SG;PSS3PkoşucuN;LOC;SG;PSS3P	koşucularından
+N;ABL;PLön ekN;ABL;PL	öncelikler
+N;ABL;SG;PSS1SabajurcuN;ABL;SG;PSS1S	abajurcularından
+V;IND;1;PL;PST;NEG;INTRşaşırttırmakV;IND;1;PL;PST;NEG;INTR	mı?
+N;DAT;SG;PSS3PgürzN;DAT;SG;PSS3P	gürzlerine
+N;DAT;PL;PSS3PsülüsN;DAT;PL;PSS3P	sülüsüme
+V;IND;2;PL;PRS;PROG;POS;DECLtaşımakV;IND;2;PL;PRS;PROG;POS;DECL	taşıyorlardı
+N;DAT;PL;PSS3PyolculukN;DAT;PL;PSS3P	yollarına
+V;IND;3;PL;PRS;PROG;POS;INTRiçmekV;IND;3;PL;PRS;PROG;POS;INTR	içiyor
+V;IND;1;SG;PRS;PROG;NEG;DECLkızmakV;IND;1;SG;PRS;PROG;NEG;DECL	kızıyor
+N;LGSPEC1;3P;PL;PSTevcikkıranN;LGSPEC1;3P;PL;PST	evcikkıranlardık
+V;IND;1;PL;FUT;NEG;DECLtoprak olmakV;IND;1;PL;FUT;NEG;DECL	toprak
+N;NOM;SG;PSS3PstriptizN;NOM;SG;PSS3P	striptizin
+V;IND;1;SG;FUT;POS;DECLtutmakV;IND;1;SG;FUT;POS;DECL	tutuyorduk
+N;GEN;PL;PSS3PözneN;GEN;PL;PSS3P	sözlerine
+N;DAT;SG;PSS1StutulmaN;DAT;SG;PSS1S	tutulmalardan
+N;DAT;SG;PSS2SmeniN;DAT;SG;PSS2S	meninde
+V;IND;1;SG;PRS;PROG;POS;INTRgebermekV;IND;1;SG;PRS;PROG;POS;INTR	gebermiyor
+N;ACC;SGcinsellikN;ACC;SG	cinsel
+N;ABL;PL;PSS1PdudakN;ABL;PL;PSS1P	dudaklarımız
+N;ACC;SG;PSS1PaşıkN;ACC;SG;PSS1P	aşık
+N;LGSPEC1;2P;PL;LGSPEC2ziyaretçiN;LGSPEC1;2P;PL;LGSPEC2	ziyaretçilermiş
+N;ABL;SG;PSS3PkırbaçN;ABL;SG;PSS3P	kırbacımın
+V;IND;1;PL;PRS;PROG;NEG;DECLyoksullaştırmakV;IND;1;PL;PRS;PROG;NEG;DECL	yoksullaştırmıyordular
+V;IND;3;PL;PRS;NEG;DECLkış uykusuna yatmakV;IND;3;PL;PRS;NEG;DECL	kışkırtmazlar uykusuna
+N;ACC;SG;PSS3SoynatıcıN;ACC;SG;PSS3S	oyuncusunu
+N;LGSPEC1;2P;PL;PSTşerbetçiN;LGSPEC1;2P;PL;PST	şerbetçilerine
+V;IND;2;SG;PRS;PROG;NEG;INTRyıpratmakV;IND;2;SG;PRS;PROG;NEG;INTR	yıpratıyor
+N;ABL;SG;PSS3PeksiklikN;ABL;SG;PSS3P	eksikliklerini
+N;ABL;PL;PSS1SseyahatN;ABL;PL;PSS1S	seyahatlerine
+N;LGSPEC1;3P;PL;LGSPEC2uçurtmaN;LGSPEC1;3P;PL;LGSPEC2	uçurtmalardı
+N;GEN;SG;PSS3PgiysiN;GEN;SG;PSS3P	giysilerinde
+V;IND;3;SG;PST;PROG;POS;INTRdalgalandırmakV;IND;3;SG;PST;PROG;POS;INTR	dalgalandırıyor
+V;IND;1;SG;PRS;POS;DECLdirilmemekV;IND;1;SG;PRS;POS;DECL	dirilmemedi
+N;ABL;SG;PSS1Pçoktan seçmeli soruN;ABL;SG;PSS1P	çoktan seçmeli seçmelerinin
+N;ACC;PLplatformN;ACC;PL	planetleri
+N;ACC;PL;PSS1SsonbaharN;ACC;PL;PSS1S	sonbaharımın
+V;IND;2;SG;PST;POS;DECLettirtmekV;IND;2;SG;PST;POS;DECL	ettirtmeyiz
+N;NOM;PL;PSS3PkalamarN;NOM;PL;PSS3P	kalamarlarınızın
+N;NOM;PL;PSS1PprototiplemeN;NOM;PL;PSS1P	prototipleme
+V;IND;3;PL;PST;PROG;NEG;DECLpisletmekV;IND;3;PL;PST;PROG;NEG;DECL	pisletmiyoruz
+N;GEN;PLkörlükN;GEN;PL	körlükler
+N;NOM;PL;PSS3SmedreseN;NOM;PL;PSS3S	medreselerini
+N;ABL;SG;PSS1SşerbetçiN;ABL;SG;PSS1S	şerbetçiliklerimi
+V;IND;1;PL;FUT;NEG;INTRtemizlemekV;IND;1;PL;FUT;NEG;INTR	temizliyor
+V;IND;2;PL;PST;POS;INTRilklendirmekV;IND;2;PL;PST;POS;INTR	misin? mı?
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECLesrarengizADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	esrarengiz
+N;DAT;PL;PSS2StotemcilikN;DAT;PL;PSS2S	totemciliklerime
+N;GEN;SG;PSS3SdalgaN;GEN;SG;PSS3S	dalgasından
+N;NOM;SG;PSS2PsüzgeçN;NOM;SG;PSS2P	süzgeçlerin
+N;LOC;PL;PSS1SstartN;LOC;PL;PSS1S	startımın
+N;NOM;SG;PSS1PsözcükN;NOM;SG;PSS1P	sözcüğü
+V;IND;1;SG;PST;NEG;DECLkurutmakV;IND;1;SG;PST;NEG;DECL	kurutmazsın
+N;DAT;SG;PSS1SçarmıhN;DAT;SG;PSS1S	çarmıha
+N;NOM;SG;PSS2SgırtlakN;NOM;SG;PSS2S	gırtlağına
+N;LGSPEC1;3S;PL;PSTkolonyaN;LGSPEC1;3S;PL;PST	kolonyalarınıza
+V;IND;3;PL;PST;PROG;POS;DECLaçmakV;IND;3;PL;PST;PROG;POS;DECL	açıyordum
+N;NOM;PL;PSS2PröportajN;NOM;PL;PSS2P	röportajlar
+N;NOM;SG;PSS3SmuslukN;NOM;SG;PSS3S	musluklarında
+V;IND;2;SG;PST;POS;DECLyapışmakV;IND;2;SG;PST;POS;DECL	yapışmazsın
+N;NOM;SG;PSS2SyanıtN;NOM;SG;PSS2S	yanıtlarının
+V;IND;2;PL;PST;PROG;NEG;DECLaltını çizmekV;IND;2;PL;PST;PROG;NEG;DECL	altını
+N;ABL;SG;PSS2PhükûmetN;ABL;SG;PSS2P	hükûmet
+N;GEN;SG;PSS2PbankN;GEN;SG;PSS2P	banklarını
+V;IND;2;SG;PRS;PROG;POS;INTRyaymakV;IND;2;SG;PRS;PROG;POS;INTR	yayıyorlar
+N;ACC;PL;PSS1PyankıN;ACC;PL;PSS1P	yankımız
+N;LOC;SGdışkıN;LOC;SG	dışkıları
+N;LGSPEC1;2S;PL;LGSPEC2şarkıcıN;LGSPEC1;2S;PL;LGSPEC2	şarkıcının
+N;LOC;PLhastalıkN;LOC;PL	hastalıklarından
+N;NOM;SG;PSS1PklatratN;NOM;SG;PSS1P	klatratlarımızı
+N;NOM;PL;PSS2PkerpiçN;NOM;PL;PSS2P	kerpice
+V;IND;2;SG;FUT;POS;DECLkanıtlamakV;IND;2;SG;FUT;POS;DECL	kanıtlamadın
+N;NOM;PL;PSS2PhavraN;NOM;PL;PSS2P	havram
+V;IND;3;SG;PRS;PROG;NEG;DECLgiymekV;IND;3;SG;PRS;PROG;NEG;DECL	giymiyorsun mu?
+N;NOM;SG;PSS2SbarışN;NOM;SG;PSS2S	barışının
+N;GEN;SG;PSS2SmaymunN;GEN;SG;PSS2S	maymunlardı
+N;GEN;PLsüre sınırlamasıN;GEN;PL	sınırlı
+N;ABL;PLseccadeN;ABL;PL	seccadelerimden
+N;ABL;SG;PSS2SmazotN;ABL;SG;PSS2S	mazotlarınız
+V;IND;3;SG;PST;PROG;NEG;DECLaçılmakV;IND;3;SG;PST;PROG;NEG;DECL	açılmadınız
+V;IND;1;SG;PST;POS;INTRyolunmakV;IND;1;SG;PST;POS;INTR	yolunur
+N;NOM;SGfragmanN;NOM;SG	fragmanlarının
+N;GEN;SG;PSS2PsorumlulukN;GEN;SG;PSS2P	sorumluluğunuza
+V;IND;1;PL;PST;POS;INTRsönmekV;IND;1;PL;PST;POS;INTR	sönmüyor mı?
+N;NOM;PL;PSS3SyapışmaN;NOM;PL;PSS3S	yapışmalarıma
+N;ACC;PL;PSS1PiçyüzN;ACC;PL;PSS1P	içyüzlerinizin
+N;LOC;PL;PSS3Pkontak lensN;LOC;PL;PSS3P	kontakt
+N;NOM;PL;PSS2PhomonimN;NOM;PL;PSS2P	homonimlerinizin
+N;DAT;SG;PSS1SçekirdekN;DAT;SG;PSS1S	çekirdeğimden
+V;IND;3;SG;PRS;PROG;NEG;INTRcanlanılmakV;IND;3;SG;PRS;PROG;NEG;INTR	canlanılmıyor
+V;IND;1;PL;PRS;NEG;DECLel sıkışmakV;IND;1;PL;PRS;NEG;DECL	ellemez sıkışıyor
+N;DAT;PL;PSS2SecelN;DAT;PL;PSS2S	ecellerinin
+N;NOM;PLyüksek fırınN;NOM;PL	yüksek fırınlarımız
+N;GEN;SGhikayeN;GEN;SG	hikayelerden
+N;ACC;PLNusayrîN;ACC;PL	Nusayrî
+N;ABL;PL;PSS2SkansızlıkN;ABL;PL;PSS2S	kansızlıkların
+N;DAT;SG;PSS1ShomurdanmaN;DAT;SG;PSS1S	homurdanmalarına
+N;ACC;PL;PSS2SâlemN;ACC;PL;PSS2S	âliminin
+N;LGSPEC1;1S;PL;PSTmucizeN;LGSPEC1;1S;PL;PST	mucizende
+N;ABL;PL;PSS2SZagrepliN;ABL;PL;PSS2S	Zagreplinizin
+V;IND;3;PL;PRS;NEG;INTRgiymekV;IND;3;PL;PRS;NEG;INTR	giyiyor mı?
+N;DAT;SG;PSS2PdövüşçüN;DAT;SG;PSS2P	dövüşçüyüz
+N;LOC;PL;PSS3Ppembe diziN;LOC;PL;PSS3P	pembe
+N;DAT;SG;PSS3PodacıN;DAT;SG;PSS3P	odacılarında
+N;ACC;SG;PSS2PlunaparkN;ACC;SG;PSS2P	lunaparklarının
+N;GEN;PLkaplanN;GEN;PL	kaplanlara
+N;ACC;SG;PSS1SheceN;ACC;SG;PSS1S	heceme
+V;IND;1;SG;PRS;NEG;INTRyoldurmakV;IND;1;SG;PRS;NEG;INTR	yoldurmayacak mı?
+N;NOM;SG;PSS1Skülotlu çorapN;NOM;SG;PSS1S	külotlu çorabı
+N;ACC;PL;PSS2SporsukN;ACC;PL;PSS2S	porsuğumuza
+V;IND;1;SG;PRS;POS;INTRaçmakV;IND;1;SG;PRS;POS;INTR	açmadım
+N;DAT;SG;PSS3PbilyeN;DAT;SG;PSS3P	bilyeydin
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTRsihirliADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	sihirli
+V;IND;3;SG;FUT;NEG;DECLcartayı çekmekV;IND;3;SG;FUT;NEG;DECL	cartayı
+N;NOM;PL;PSS3SblogN;NOM;PL;PSS3S	blogcusundan
+N;NOM;SG;PSS2SgeyşaN;NOM;SG;PSS2S	geyşalarımı
+V;IND;1;SG;PST;POS;DECLkıymakV;IND;1;SG;PST;POS;DECL	kıymayacağız
+N;NOM;PL;PSS2PyetkiN;NOM;PL;PSS2P	yetkiler
+N;NOM;SGikincil sürümN;NOM;SG	sürümleri
+N;ABL;SG;PSS1PkülahN;ABL;SG;PSS1P	külahlarımızdan
+N;GEN;PL;PSS1SizlenceN;GEN;PL;PSS1S	izleklerimde
+N;LOC;SGiğdeN;LOC;SG	siğillerine
+N;ACC;PL;PSS2SsağlayıcıN;ACC;PL;PSS2S	sağlayıcıların
+N;NOM;SG;PSS1PörnekN;NOM;SG;PSS1P	örneklerimiz
+N;DAT;PL;PSS1PkehribarN;DAT;PL;PSS1P	kehribarlarına
+N;LOC;PL;PSS3PdışN;LOC;PL;PSS3P	dışlarına
+N;DAT;SGasteroitN;DAT;SG	asteroitten
+N;LOC;PL;PSS1PişkenceN;LOC;PL;PSS1P	işkenceciliğimizde
+V;IND;3;SG;PRS;POS;INTRöfkelendirmekV;IND;3;SG;PRS;POS;INTR	öfkelendiriyor
+N;DAT;SGnüfuzN;DAT;SG	nüfuzlardan
+V;IND;2;SG;FUT;NEG;DECLbekletmekV;IND;2;SG;FUT;NEG;DECL	beklemedik
+ADJ;LGSPEC1;PST;1;SG;POS;INTRsıradanADJ;LGSPEC1;PST;1;SG;POS;INTR	sıradan
+N;LOC;PL;PSS1Smodel-view-presenterN;LOC;PL;PSS1S	model-view-presenteriniz
+N;LGSPEC1;1P;SG;LGSPEC2kelimeN;LGSPEC1;1P;SG;LGSPEC2	kelimeymişsiniz
+N;DAT;SG;PSS2SçiftN;DAT;SG;PSS2S	çiftliğini
+N;LGSPEC1;3S;PL;PSTmermiN;LGSPEC1;3S;PL;PST	mermisinin
+V;IND;3;SG;PST;PROG;NEG;INTRpusmakV;IND;3;SG;PST;PROG;NEG;INTR	pustu
+V;IND;1;SG;PST;NEG;DECLkırıtmakV;IND;1;SG;PST;NEG;DECL	kırıtmadınız
+N;LOC;PL;PSS2PongunculukN;LOC;PL;PSS2P	ongunlarınıza
+N;LGSPEC1;1P;SG;LGSPEC2hanımN;LGSPEC1;1P;SG;LGSPEC2	hayalî
+ADJ;LGSPEC1;PRS;1;SG;POS;DECLadsızADJ;LGSPEC1;PRS;1;SG;POS;DECL	adsızmışız
+N;GEN;SG;PSS1PkartpostalN;GEN;SG;PSS1P	kartpostallarınız
+N;DAT;SG;PSS2PsultanN;DAT;SG;PSS2P	sultanların
+V;IND;1;PL;FUT;NEG;INTRevlenmekV;IND;1;PL;FUT;NEG;INTR	evlenmedin miyiz?
+N;ACC;PL;PSS2PsevgiliN;ACC;PL;PSS2P	sevgililere
+V;IND;1;PL;PRS;PROG;NEG;DECLkoymakV;IND;1;PL;PRS;PROG;NEG;DECL	koyuyorduk
+N;DAT;SG;PSS2SişlemeN;DAT;SG;PSS2S	işlemcinden
+N;ACC;PL;PSS3SsebepN;ACC;PL;PSS3S	sebepte
+N;ABL;PL;PSS2Sevcil sinekN;ABL;PL;PSS2S	evcikkıranlarına
+N;GEN;SG;PSS3PyelekN;GEN;SG;PSS3P	yeleklerine
+N;NOM;PL;PSS3SjelatinN;NOM;PL;PSS3S	jelatinlerinde
+N;LOC;SGfilN;LOC;SG	fillerinin
+N;LGSPEC1;1P;PL;LGSPEC2lezbiyenN;LGSPEC1;1P;PL;LGSPEC2	lezbiyenlerdi
+N;LOC;PL;PSS3SvadeN;LOC;PL;PSS3S	vapurunda
+N;NOM;PL;PSS2SromanN;NOM;PL;PSS2S	rotorun
+N;LOC;PLpozisyonN;LOC;PL	pozisyonları
+V;IND;1;SG;FUT;NEG;DECLparlatmakV;IND;1;SG;FUT;NEG;DECL	parlatmıyordun
+N;LOC;SG;PSS3PsalahiyetN;LOC;SG;PSS3P	salahiyetimi
+N;ABL;SG;PSS2SçığırtkanlıkN;ABL;SG;PSS2S	çığırtkanlıklarımıza
+V;IND;3;SG;PRS;POS;INTRseks yapmakV;IND;3;SG;PRS;POS;INTR	seks
+N;LOC;PL;PSS3SişlevN;LOC;PL;PSS3S	işlemcisi devlerinizde
+V;IND;2;PL;PRS;NEG;INTRgelinmekV;IND;2;PL;PRS;NEG;INTR	mı?
+N;LOC;SG;PSS2PkravatN;LOC;SG;PSS2P	kravatınızdan
+N;ABL;PL;PSS3PhuzurN;ABL;PL;PSS3P	huzurundan
+N;ACC;PL;PSS2PbozayıN;ACC;PL;PSS2P	bozayımızda
+N;LOC;PLyağlayıcıN;LOC;PL	yağlayıcılarım
+V;IND;3;PL;PRS;PROG;POS;DECLdoğmakV;IND;3;PL;PRS;PROG;POS;DECL	doğuyordunuz
+N;ACC;PLfikolojiN;ACC;PL	firavunlarda psikolojileri
+N;GEN;SG;PSS2SdoktorN;GEN;SG;PSS2S	doktorlarız
+N;DAT;PL;PSS1SsöyleşiN;DAT;PL;PSS1S	söyleşilerimizden
+N;ABL;PLbitkiN;ABL;PL	bitkiydiniz
+N;NOM;SG;PSS3SbastonN;NOM;SG;PSS3S	bastonlarını
+N;LOC;SG;PSS1PcezeriyeN;LOC;SG;PSS1P	cezeriyelerimizin
+N;NOM;PL;PSS3SreaktörN;NOM;PL;PSS3S	reaktörüm
+N;ABL;SG;PSS3SkusmaN;ABL;SG;PSS3S	kusmasında
+N;ACC;PL;PSS2SkuvvetsizlikN;ACC;PL;PSS2S	kuvvetsizliklerine
+N;LOC;PL;PSS2ShayırseverN;LOC;PL;PSS2S	hayırseverimden
+N;GEN;PL;PSS1PortamN;GEN;PL;PSS1P	orta
+N;DAT;SG;PSS1ParzuN;DAT;SG;PSS1P	arzuhalcilerinde
+N;DAT;PLklişeN;DAT;PL	klişemize
+N;ACC;SG;PSS2PteoremN;ACC;SG;PSS2P	teoreminizin
+N;DAT;PL;PSS2PnöronN;DAT;PL;PSS2P	nöronlara
+N;ACC;PL;PSS3PtotemcilikN;ACC;PL;PSS3P	totemcilikleri
+V;IND;1;SG;PST;PROG;POS;INTRöldürtmekV;IND;1;SG;PST;PROG;POS;INTR	öldürtüyor
+N;GEN;SG;PSS2PgünahkârN;GEN;SG;PSS2P	günahkârların
+V;IND;1;SG;PST;PROG;NEG;DECLsunmakV;IND;1;SG;PST;PROG;NEG;DECL	sunmuyorum
+N;DAT;SG;PSS3SvaziyetN;DAT;SG;PSS3S	vaziyetlerinin
+N;DAT;SGTürk kahvesiN;DAT;SG	Türkçeleştiriyordunuz kahvelerdim
+N;LOC;SGgündöndüN;LOC;SG	gündöndüsünde
+V;IND;2;PL;PST;PROG;POS;INTRdilmekV;IND;2;PL;PST;PROG;POS;INTR	diliyorlar muydunuz?
+V;IND;1;PL;FUT;NEG;INTRçökmekV;IND;1;PL;FUT;NEG;INTR	çöker miyiz?
+N;ACC;SG;PSS2SsinematografN;ACC;SG;PSS2S	sinematografları
+N;GEN;PLyardımcıN;GEN;PL	yardımcılardık
+N;GEN;SG;PSS2SeğitimN;GEN;SG;PSS2S	eğitimimin
+N;NOM;SGbabaanneN;NOM;SG	babaannelerde
+N;ACC;PL;PSS2SmotorinN;ACC;PL;PSS2S	motorinimizi
+N;LOC;SG;PSS1SsakinN;LOC;SG;PSS1S	sakinlerimde
+N;LOC;SG;PSS3SekstremumN;LOC;SG;PSS3S	ekstremumunuza
+V;IND;1;PL;PST;PROG;NEG;INTRyapışmakV;IND;1;PL;PST;PROG;NEG;INTR	yapışmıyor muyduk?
+V;IND;3;PL;PRS;NEG;INTRHakk'ın rahmetine kavuşmakV;IND;3;PL;PRS;NEG;INTR	Hakk'ın rahmetine mı?
+N;ACC;PLsınırN;ACC;PL	sınırlı
+N;LOC;PL;PSS3PgötN;LOC;PL;PSS3P	götlerini
+V;IND;3;PL;FUT;NEG;INTRsıyırmakV;IND;3;PL;FUT;NEG;INTR	sıyırmıyor
+N;ABL;PL;PSS2Smodel-view-presenterN;ABL;PL;PSS2S	model-view-presenteriniz
+V;IND;1;PL;PRS;POS;DECLüzülmekV;IND;1;PL;PRS;POS;DECL	üzülmeyeceksiniz
+V;IND;2;PL;PRS;PROG;NEG;DECLgeciktirmekV;IND;2;PL;PRS;PROG;NEG;DECL	geciktirmez misiniz?
+N;ACC;PL;PSS3PkategoriN;ACC;PL;PSS3P	kategorilerinden
+N;GEN;SG;PSS1PkapıN;GEN;SG;PSS1P	kapı
+V;IND;3;SG;PST;PROG;POS;DECLdoğmakV;IND;3;SG;PST;PROG;POS;DECL	doğuyordunuz muydu?
+N;NOM;PL;PSS3SkuvvetN;NOM;PL;PSS3S	kuvvetlerinden
+V;IND;3;PL;PRS;NEG;INTRayarlattırmakV;IND;3;PL;PRS;NEG;INTR	ayarlattırmayacaklar mı?
+N;LOC;PL;PSS3SsonsuzlukN;LOC;PL;PSS3S	sonsuzunu
+N;LOC;SG;PSS2PomletN;LOC;SG;PSS2P	omletinin
+N;NOM;SGsıralama algoritmasıN;NOM;SG	algoritmalarında
+N;LGSPEC1;3P;PL;LGSPEC2votkaN;LGSPEC1;3P;PL;LGSPEC2	votkalarız
+V;IND;1;PL;FUT;NEG;DECLpişirmekV;IND;1;PL;FUT;NEG;DECL	pişirmiyorsunuz miyiz?
+V;IND;2;SG;PST;PROG;NEG;DECLkurutmakV;IND;2;SG;PST;PROG;NEG;DECL	kurutmuyorduk muydun?
+N;ABL;SGentomolojiN;ABL;SG	atomdan psikolojiye
+N;LOC;PL;PSS3ShedonizmN;LOC;PL;PSS3S	hedonizminizde
+N;DAT;SGaçlıkN;DAT;SG	kaçaklara
+N;DAT;SG;PSS1PyarışmaN;DAT;SG;PSS1P	barışmam
+N;LOC;SG;PSS1PkarakolN;LOC;SG;PSS1P	karakollarında
+N;LGSPEC1;1P;PL;PRSdinozorN;LGSPEC1;1P;PL;PRS	dinozor
+N;DAT;SG;PSS2SembriyoN;DAT;SG;PSS2S	embriyoları
+N;LGSPEC1;2P;SG;PSTviskiN;LGSPEC1;2P;SG;PST	viskilerden
+N;NOM;PL;PSS1SdişN;NOM;PL;PSS1S	dişlilerime
+N;DAT;SG;PSS1Pön ekN;DAT;SG;PSS1P	önerimize
+N;ABL;SGtangaN;ABL;SG	tangalarını
+N;NOM;PL;PSS3SyardımN;NOM;PL;PSS3S	yardımcılığının
+N;NOM;SG;PSS1PstriptizN;NOM;SG;PSS1P	striptizin
+N;GEN;SGecelN;GEN;SG	ecellerinin
+V;IND;1;SG;PST;NEG;DECLacımakV;IND;1;SG;PST;NEG;DECL	acımazsınız
+V;IND;1;SG;PRS;NEG;INTRsattırmakV;IND;1;SG;PRS;NEG;INTR	satırttım mı?
+N;DAT;SG;PSS1PmüzisyenN;DAT;SG;PSS1P	müzisyenlerinin
+N;ACC;PL;PSS2PyüksükN;ACC;PL;PSS2P	yüksek
+V;IND;1;PL;PRS;POS;INTRcanlandırtılmakV;IND;1;PL;PRS;POS;INTR	canlanıltınız
+N;ABL;PL;PSS1SsandviçN;ABL;PL;PSS1S	sosisli sandviçlerinden
+N;NOM;PL;PSS1ShastaneN;NOM;PL;PSS1S	hastanelerime
+V;IND;3;PL;PST;NEG;DECLyapılmakV;IND;3;PL;PST;NEG;DECL	yapılmıyorlar
+V;IND;1;SG;PST;NEG;INTRevlenmekV;IND;1;SG;PST;NEG;INTR	evlenmedin mı?
+N;DAT;PL;PSS3SyapışmaN;DAT;PL;PSS3S	yapışmalarıma
+V;IND;2;PL;PRS;POS;INTRsezmekV;IND;2;PL;PRS;POS;INTR	sezmiyor
+N;ACC;SG;PSS1SilköğretimN;ACC;SG;PSS1S	ilköğretimlerini
+V;IND;2;SG;FUT;POS;INTRsürünmekV;IND;2;SG;FUT;POS;INTR	sürünmeyecek misiniz?
+N;ABL;SGdernekN;ABL;SG	dernekte
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECLbarbarADJ;LGSPEC1;PRS;2;PL;NEG;DECL	barbar değildin
+N;ACC;SG;PSS1PkaderN;ACC;SG;PSS1P	kaderinde
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTRpasifADJ;LGSPEC1;PRS;2;PL;NEG;INTR	pasif değil
+N;LOC;PL;PSS3SheteroseksüelN;LOC;PL;PSS3S	heteroseksüelleri
+N;LOC;PL;PSS1PsavaşçıN;LOC;PL;PSS1P	savaşçımızda
+N;LOC;SG;PSS2SmalumatN;LOC;SG;PSS2S	malumatlarından
+V;IND;3;PL;PST;POS;INTRsümürmekV;IND;3;PL;PST;POS;INTR	sümürüyor mı?
+N;LOC;SG;PSS3SkuralN;LOC;SG;PSS3S	kuralları
+V;IND;1;PL;PRS;PROG;POS;DECLsürülmekV;IND;1;PL;PRS;PROG;POS;DECL	sürülüyorsun
+N;LGSPEC1;1P;SG;PRSakrepN;LGSPEC1;1P;SG;PRS	akrebim
+N;ACC;SG;PSS1PdakikaN;ACC;SG;PSS1P	dakikalarıma
+N;LOC;SGyan cümleN;LOC;SG	cümlesinde
+V;IND;1;SG;PST;PROG;NEG;INTRgeçmekV;IND;1;SG;PST;PROG;NEG;INTR	geçtim
+V;IND;2;SG;FUT;POS;INTRboşanmakV;IND;2;SG;FUT;POS;INTR	boşanacak
+N;DAT;SG;PSS1PhırsızN;DAT;SG;PSS1P	hırsızları
+V;IND;3;PL;PST;POS;INTRverdirmekV;IND;3;PL;PST;POS;INTR	verdirirler mı?
+V;IND;2;PL;PRS;PROG;NEG;DECLhaberleşmekV;IND;2;PL;PRS;PROG;NEG;DECL	haberleşmeyeceğim
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECLgizemliADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	gizlemiyorduk
+V;IND;3;SG;PRS;NEG;INTRheyecanlandırtmakV;IND;3;SG;PRS;NEG;INTR	heyecanlandırmıyor mı?
+V;IND;1;PL;PRS;PROG;NEG;INTRsöz vermekV;IND;1;PL;PRS;PROG;NEG;INTR	sönmüyor muyuz?
+V;IND;1;SG;PST;PROG;POS;DECLöğütmekV;IND;1;SG;PST;PROG;POS;DECL	öğüttünüz
+V;IND;3;PL;PST;PROG;POS;INTRyenilmekV;IND;3;PL;PST;PROG;POS;INTR	yenilmedi mıydı?
+N;ACC;PLduymamaN;ACC;PL	duylara
+N;GEN;PL;PSS1PhastaN;GEN;PL;PSS1P	hastanelerimizde
+N;LGSPEC1;2S;SG;LGSPEC2artçı depremN;LGSPEC1;2S;SG;LGSPEC2	artçı
+N;DAT;PL;PSS2ShinterlantN;DAT;PL;PSS2S	hinterlandı
+N;GEN;PL;PSS3PkumaN;GEN;PL;PSS3P	kumalarında
+N;DAT;SGsağduyuN;DAT;SG	sağduyularına
+V;IND;1;SG;FUT;POS;INTRaltını çizmekV;IND;1;SG;FUT;POS;INTR	altını
+N;ABL;PL;PSS1StatbikN;ABL;PL;PSS1S	tatbiklerini
+N;GEN;PL;PSS3SvazoN;GEN;PL;PSS3S	vazosundan
+V;IND;2;PL;PST;NEG;INTRkaynaştırtmakV;IND;2;PL;PST;NEG;INTR	kaynaştırmadım mı?
+N;ABL;PL;PSS3PiftitahN;ABL;PL;PSS3P	iftitahımız
+V;IND;3;SG;FUT;NEG;INTRölçtürmekV;IND;3;SG;FUT;NEG;INTR	ölçtürmüyor
+N;ACC;PL;PSS1SkirpiN;ACC;PL;PSS1S	kirpilerimizin
+V;IND;3;PL;PST;PROG;POS;DECLalındırtmakV;IND;3;PL;PST;PROG;POS;DECL	alındırtmayacak
+N;DAT;SG;PSS2SneşeN;DAT;SG;PSS2S	neşelerine
+N;GEN;PL;PSS1PyanardağN;GEN;PL;PSS1P	yanardağlarının
+N;NOM;SGkümeN;NOM;SG	kümelerine
+V;IND;3;PL;FUT;NEG;DECLacımakV;IND;3;PL;FUT;NEG;DECL	acımazsınız
+N;NOM;PL;PSS3PhülyaN;NOM;PL;PSS3P	hülyalara
+N;NOM;SG;PSS2SmonologN;NOM;SG;PSS2S	monologların
+V;IND;3;PL;PRS;PROG;NEG;DECLiçermekV;IND;3;PL;PRS;PROG;NEG;DECL	içermem
+N;LOC;SG;PSS1PkısalıkN;LOC;SG;PSS1P	kısalığımıza
+N;ABL;SG;PSS3PuzunlukN;ABL;SG;PSS3P	uzunluklarından
+N;ACC;PL;PSS2SbaşkanN;ACC;PL;PSS2S	başkanından
+N;DAT;PL;PSS3PördekN;DAT;PL;PSS3P	ördeklerinden
+N;LGSPEC1;2P;PL;PRSlaçoN;LGSPEC1;2P;PL;PRS	laçolarından
+N;LGSPEC1;2P;PL;PSTtiyatroN;LGSPEC1;2P;PL;PST	tiyatroydun
+N;NOM;PL;PSS2PkaltakN;NOM;PL;PSS2P	kaltaklarınızı
+N;GEN;PL;PSS1PbalıkçıN;GEN;PL;PSS1P	balıkçısını
+N;ACC;PL;PSS1PfırtınaN;ACC;PL;PSS1P	fırtınama
+N;DAT;SG;PSS1PsinematografN;DAT;SG;PSS1P	sinematograflarında
+N;NOM;SG;PSS3PsimitN;NOM;SG;PSS3P	simitlerine
+N;NOM;PLsürümN;NOM;PL	sürümlerin
+V;IND;3;PL;FUT;POS;INTRsevişmekV;IND;3;PL;FUT;POS;INTR	sevişiyorlar
+N;GEN;PL;PSS1SmantiN;GEN;PL;PSS1S	mantisiniz
+V;IND;1;SG;PST;POS;INTRuyarmakV;IND;1;SG;PST;POS;INTR	uydun
+N;GEN;PL;PSS2SanahtarlıkN;GEN;PL;PSS2S	anahtarlığının
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTRcoşkuluADJ;LGSPEC1;PRS;3;PL;NEG;INTR	coşmuyor mi?
+N;LOC;SG;PSS1PasteroitN;LOC;SG;PSS1P	asteroidimizi
+N;ABL;PL;PSS1SmüstahdemN;ABL;PL;PSS1S	müstahdemlerdi
+N;GEN;PLBengal kaplanıN;GEN;PL	Belgratlılar
+N;GEN;PLBelgratlıN;GEN;PL	Belgratlılar
+N;DAT;PL;PSS3SfilozofN;DAT;PL;PSS3S	filozoflarımızdan
+V;IND;3;PL;PST;NEG;DECLgeciktirmekV;IND;3;PL;PST;NEG;DECL	geciktirmez
+N;DAT;PL;PSS1StümceN;DAT;PL;PSS1S	tümcelerimin
+V;IND;2;PL;PST;POS;INTRöldürtülmekV;IND;2;PL;PST;POS;INTR	öldürtülüyor mı?
+V;IND;3;SG;PST;POS;DECLçarpmakV;IND;3;SG;PST;POS;DECL	çarpacaksın
+V;IND;3;PL;PST;NEG;DECLacıtmakV;IND;3;PL;PST;NEG;DECL	acıtmadım
+N;ACC;PL;PSS1PpaylaştırmaN;ACC;PL;PSS1P	paylaştırmanızın
+V;IND;3;SG;PST;NEG;DECLtanışmakV;IND;3;SG;PST;NEG;DECL	tanışıyorduk
+N;DAT;PL;PSS2PgrupN;DAT;PL;PSS2P	cenuplarına
+N;DAT;SG;PSS3PdevinimN;DAT;SG;PSS3P	devinimlerini
+N;LOC;PL;PSS2SdövüşN;LOC;PL;PSS2S	dövüşünün
+V;IND;2;PL;PRS;NEG;INTRdeşmekV;IND;2;PL;PRS;NEG;INTR	mı?
+N;ABL;PL;PSS1SdeliN;ABL;PL;PSS1S	delilerimde
+N;LGSPEC1;3S;SG;PSTkaldıraçN;LGSPEC1;3S;SG;PST	kaldıracımı
+N;GEN;PL;PSS3ShiperbolN;GEN;PL;PSS3S	hiperbolünüzün
+N;ABL;PL;PSS3PaşiretN;ABL;PL;PSS3P	aşiretten
+N;LOC;PLendoplazmik retikulumN;LOC;PL	endoplazmik
+V;IND;1;SG;PRS;NEG;INTRtükenmekV;IND;1;SG;PRS;NEG;INTR	tükenmeyecek mı?
+V;IND;1;PL;FUT;NEG;DECLsezmekV;IND;1;PL;FUT;NEG;DECL	sezmiyordular
+N;LOC;PL;PSS1SmevkiN;LOC;PL;PSS1S	mevkilerinde
+V;IND;1;PL;PST;NEG;DECLkaynamakV;IND;1;PL;PST;NEG;DECL	kaynamadın
+N;ABL;SGçoklu kalıtımN;ABL;SG	çoban
+N;NOM;SG;PSS3PnohutN;NOM;SG;PSS3P	nohutlarımdan
+N;GEN;PL;PSS3PpornoN;GEN;PL;PSS3P	pornolarda
+V;IND;2;PL;PST;PROG;POS;INTRcanlanılmakV;IND;2;PL;PST;PROG;POS;INTR	canlanıyor
+N;LOC;PL;PSS2PaltdilN;LOC;PL;PSS2P	altdilde
+N;DAT;PL;PSS1ShavraN;DAT;PL;PSS1S	havram
+V;IND;2;SG;PST;POS;INTRkovulmakV;IND;2;SG;PST;POS;INTR	kovulacak
+V;IND;1;PL;PST;NEG;DECLiçmekV;IND;1;PL;PST;NEG;DECL	içeceğim
+N;DAT;SGmezuniyetN;DAT;SG	mezuniyetinizin
+N;GEN;SG;PSS1SsmileyN;GEN;SG;PSS1S	smileyimizden
+N;ABL;PL;PSS2PolgunlukN;ABL;PL;PSS2P	olgunluklarımdan
+N;LOC;PL;PSS2PşerbetçilikN;LOC;PL;PSS2P	şerbetçiliklerimizde
+N;NOM;PL;PSS3SkolajN;NOM;PL;PSS3S	kolajım
+N;NOM;SG;PSS2SmüellifN;NOM;SG;PSS2S	müellifde
+N;GEN;SG;PSS1PenginarN;GEN;SG;PSS1P	enginarımız
+N;DAT;SG;PSS1PgöçN;DAT;SG;PSS1P	göçmedik
+N;DAT;SG;PSS1PaltdilN;DAT;SG;PSS1P	altdilimizde
+N;LOC;SG;PSS2SkısrakN;LOC;SG;PSS2S	kısraklarını
+V;IND;2;PL;FUT;POS;DECLsaldırmakV;IND;2;PL;FUT;POS;DECL	saldırıyorum
+V;IND;2;SG;PRS;PROG;POS;DECLkapı yapmakV;IND;2;SG;PRS;PROG;POS;DECL	kapı
+V;IND;3;PL;PRS;NEG;INTRparlatmakV;IND;3;PL;PRS;NEG;INTR	mı?
+N;LOC;SGtürüN;LOC;SG	türünüzde
+N;ACC;PL;PSS2SpaparaziN;ACC;PL;PSS2S	paparazimizde
+V;IND;1;PL;FUT;NEG;DECLgeçmekV;IND;1;PL;FUT;NEG;DECL	geçtin
+N;LOC;SG;PSS3SeksenN;LOC;SG;PSS3S	ekseninden
+N;ABL;PL;PSS1SöğütücüN;ABL;PL;PSS1S	öğütücülerinden
+N;LOC;SG;PSS1SZagrepliN;LOC;SG;PSS1S	Zagreplinizin
+N;ABL;SG;PSS1SsivilceN;ABL;SG;PSS1S	sivilcesinden
+N;LGSPEC1;2P;SG;LGSPEC2örnekN;LGSPEC1;2P;SG;LGSPEC2	örnekmişsin
+N;NOM;PL;PSS2Pçıkmaz sokakN;NOM;PL;PSS2P	çıkmaz sokaklarını
+V;IND;1;SG;PST;NEG;INTRazmakV;IND;1;SG;PST;NEG;INTR	azmıyor mı?
+N;GEN;SG;PSS3PyangınN;GEN;SG;PSS3P	yangınlarına
+N;LGSPEC1;2S;PL;LGSPEC2tarihçiN;LGSPEC1;2S;PL;LGSPEC2	tarihçilerinden
+N;DAT;PL;PSS2PbisküviN;DAT;PL;PSS2P	bisküvilerinin
+N;ACC;PL;PSS3SdeyimN;ACC;PL;PSS3S	deyiminde
+N;ABL;PLkısalıkN;ABL;PL	kısalığından
+N;GEN;PL;PSS1PbaltaN;GEN;PL;PSS1P	baltam
+N;LOC;SGkurbağaN;LOC;SG	kurbağalarmışsın
+N;DAT;SG;PSS3Sanalitik geometriN;DAT;SG;PSS3S	geometrileri
+N;NOM;PLkebapN;NOM;PL	kebaplarını
+V;IND;2;PL;PST;NEG;INTRmakyaj yapmakV;IND;2;PL;PST;NEG;INTR	makyajlarımıza mı?
+N;GEN;SGX ışınıN;GEN;SG	ışığın
+N;GEN;PLtavernaN;GEN;PL	tavernaları
+V;IND;2;SG;PRS;NEG;DECLayırmakV;IND;2;SG;PRS;NEG;DECL	ayırmadım
+N;ABL;SG;PSS3PyaprakN;ABL;SG;PSS3P	yaprağı
+N;ABL;SG;PSS1SdalgıçN;ABL;SG;PSS1S	dalgıcınızdan
+N;ABL;SG;PSS2PşeftaliN;ABL;SG;PSS2P	şeftalilerinize
+N;NOM;SG;PSS1PortakN;NOM;SG;PSS1P	ortağımıza
+N;LOC;SGsinir hücresiN;LOC;SG	sinirlendirmedin hücrede
+V;IND;2;PL;PST;PROG;NEG;DECLcızlamı çekmekV;IND;2;PL;PST;PROG;NEG;DECL	cızlamı
+V;IND;2;PL;PRS;PROG;NEG;INTRtüremekV;IND;2;PL;PRS;PROG;NEG;INTR	türemiyor
+N;GEN;SG;PSS3SelmasN;GEN;SG;PSS3S	elmaslarının
+N;GEN;SG;PSS1SiftitahN;GEN;SG;PSS1S	iftitahımız
+N;LOC;SGnöronN;LOC;SG	nöronlara
+V;IND;1;PL;FUT;POS;INTRşaşırtmakV;IND;1;PL;FUT;POS;INTR	mı?
+V;IND;1;SG;PRS;PROG;NEG;DECLgizlenmekV;IND;1;SG;PRS;PROG;NEG;DECL	gizlemiyorduk
+V;IND;3;PL;PRS;PROG;POS;INTRyapmakV;IND;3;PL;PRS;PROG;POS;INTR	yapıyor
+V;IND;1;SG;PRS;PROG;POS;INTRaşmakV;IND;1;SG;PRS;PROG;POS;INTR	aşıyor
+N;ACC;PL;PSS2SkorunmaN;ACC;PL;PSS2S	korunmalarının
+N;NOM;SG;PSS2Shür yazılımN;NOM;SG;PSS2S	hülyandan
+N;LOC;SGlisteN;LOC;SG	listende
+V;IND;1;SG;PRS;NEG;DECLyağlamakV;IND;1;SG;PRS;NEG;DECL	yağlamıyor
+N;LOC;SG;PSS2SönemlilikN;LOC;SG;PSS2S	önemine
+V;IND;2;SG;PST;PROG;NEG;DECLfındık kırmakV;IND;2;SG;PST;PROG;NEG;DECL	fındık
+V;IND;1;PL;PST;NEG;DECLçalışmakV;IND;1;PL;PST;NEG;DECL	çalışmıyordular
+N;GEN;PLseçenekN;GEN;PL	seçenekleri
+N;DAT;SG;PSS2PsaksafonN;DAT;SG;PSS2P	saksafonunuzda
+V;IND;2;PL;PST;POS;DECLheyecanlanmakV;IND;2;PL;PST;POS;DECL	heyecanlandın
+N;ACC;PL;PSS3PvilayetN;ACC;PL;PSS3P	vidalarını
+N;ABL;SG;PSS2PküpeN;ABL;SG;PSS2P	küpenizi
+N;LOC;PL;PSS3PkuvvetlilikN;LOC;PL;PSS3P	kuvvetliliğini
+V;IND;1;PL;FUT;POS;INTRtanışmakV;IND;1;PL;FUT;POS;INTR	tanışmıyor
+V;IND;3;PL;PST;PROG;NEG;INTRkötüleşmekV;IND;3;PL;PST;PROG;NEG;INTR	kötüleştirmiyor muyduk?
+V;IND;3;PL;PST;POS;DECLçağırmakV;IND;3;PL;PST;POS;DECL	çağırıyorlardı
+N;ABL;SGalbümN;ABL;SG	albümlerinin
+N;LOC;PL;PSS1PbedeviN;LOC;PL;PSS1P	bedevimizin
+V;IND;1;SG;PST;POS;DECLtoprak olmakV;IND;1;SG;PST;POS;DECL	toprak
+V;IND;1;SG;PRS;PROG;POS;DECLserpmekV;IND;1;SG;PRS;PROG;POS;DECL	serpmiyordular
+N;LOC;PL;PSS1PfırınN;LOC;PL;PSS1P	fırınımızda
+N;GEN;PL;PSS1PplatformN;GEN;PL;PSS1P	plaklarımızı
+V;IND;3;PL;PRS;POS;DECLHakk'ın rahmetine kavuşmakV;IND;3;PL;PRS;POS;DECL	Hakk'ın rahmetine
+V;IND;3;SG;PST;PROG;POS;DECLşaşmakV;IND;3;SG;PST;PROG;POS;DECL	şaşıyor muydu?
+N;GEN;PL;PSS2PaşkN;GEN;PL;PSS2P	aşkları
+N;GEN;SG;PSS2PsonsuzN;GEN;SG;PSS2P	sonsuzluğunuz
+N;LGSPEC1;1P;PL;PSTtoplulukN;LGSPEC1;1P;PL;PST	topluluktu
+N;GEN;PL;PSS1PyengeçN;GEN;PL;PSS1P	yengeçlerinizin
+N;LGSPEC1;2P;PL;LGSPEC2fareN;LGSPEC1;2P;PL;LGSPEC2	fareymişiz
+V;IND;1;PL;PST;POS;DECLpaylaşmakV;IND;1;PL;PST;POS;DECL	paylaşmayız
+V;IND;2;PL;PST;POS;INTRaldırtmamakV;IND;2;PL;PST;POS;INTR	aldırtır mı?
+N;ACC;SG;PSS2SmaskeN;ACC;SG;PSS2S	maskeleriniz
+V;IND;2;SG;FUT;POS;INTRgöstermekV;IND;2;SG;FUT;POS;INTR	göstermedi
+N;DAT;SG;PSS1PjaluziN;DAT;SG;PSS1P	jaluzimde
+N;GEN;SG;PSS2PsümükN;GEN;SG;PSS2P	sümüklerinizden
+N;GEN;PL;PSS3PmüezzinN;GEN;PL;PSS3P	müezzinimin
+V;IND;3;SG;FUT;POS;INTRasmakV;IND;3;SG;FUT;POS;INTR	asacak
+N;GEN;PL;PSS1PboğazN;GEN;PL;PSS1P	boğazımızın
+N;GEN;PL;PSS3SzırtgelN;GEN;PL;PSS3S	zırtgellerimizin
+V;IND;2;SG;FUT;NEG;INTRkusmakV;IND;2;SG;FUT;NEG;INTR	kusacak
+N;DAT;SG;PSS3PjelatinN;DAT;SG;PSS3P	jelatinlerinde
+N;LGSPEC1;1S;SG;PSTmüstahdemN;LGSPEC1;1S;SG;PST	müstahdemlerdi
+N;ABL;PLyaban çileğiN;ABL;PL	çileğinde
+N;DAT;PL;PSS1PjartiyerN;DAT;PL;PSS1P	jartiyerlerimizden
+V;IND;3;SG;PRS;PROG;NEG;DECLbütünleşmekV;IND;3;SG;PRS;PROG;NEG;DECL	bütünleşmeyeceksiniz
+N;LOC;SGçubukN;LOC;SG	çubukların
+V;IND;1;SG;PST;PROG;POS;DECLburkmakV;IND;1;SG;PST;PROG;POS;DECL	burkmayız
+N;LGSPEC1;2S;SG;PSThocaN;LGSPEC1;2S;SG;PST	hocalarına
+V;IND;3;SG;PST;PROG;POS;INTRayarlanmakV;IND;3;SG;PST;PROG;POS;INTR	ayarlatıyor
+V;IND;2;PL;PRS;POS;INTRuğratmakV;IND;2;PL;PRS;POS;INTR	uğratıldılar
+N;LOC;SG;PSS2StaşeronN;LOC;SG;PSS2S	taşeronum
+N;NOM;PL;PSS2SbattaniyeN;NOM;PL;PSS2S	battaniyelerim
+N;LOC;PL;PSS3SkavakN;LOC;PL;PSS3S	kavağımızı
+N;LGSPEC1;1S;SG;PRSotuz birciN;LGSPEC1;1S;SG;PRS	otuz
+N;ABL;SG;PSS3SaynasızN;ABL;SG;PSS3S	aynasızından
+N;NOM;SG;PSS1PdoktorN;NOM;SG;PSS1P	doktorumuzdan
+N;ABL;PLkaradulN;ABL;PL	karadulunuzdan
+N;ABL;PL;PSS3PileriN;ABL;PL;PSS3P	ilerileri
+N;ACC;SG;PSS3StaklitçiN;ACC;SG;PSS3S	taklitçisine
+N;LGSPEC1;2P;PL;PRSbaşrahipN;LGSPEC1;2P;PL;PRS	başrahiplerdin
+V;IND;2;SG;PRS;PROG;NEG;DECLilklendirmekV;IND;2;SG;PRS;PROG;NEG;DECL	ilklendiriyorlar
+V;IND;1;PL;PST;PROG;NEG;INTRvurmakV;IND;1;PL;PST;PROG;NEG;INTR	vurmuyor muyduk?
+N;DAT;PL;PSS1ScevizN;DAT;PL;PSS1S	cevizim
+V;IND;3;PL;PRS;PROG;NEG;DECLgiymekV;IND;3;PL;PRS;PROG;NEG;DECL	giymiyorsun
+N;DAT;PL;PSS1SaltN;DAT;PL;PSS1S	altlarımdan
+V;IND;2;PL;PST;POS;INTRçalmakV;IND;2;PL;PST;POS;INTR	mı?
+N;DAT;PLkontak lensN;DAT;PL	kontakt
+N;NOM;SG;PSS3PpuroN;NOM;SG;PSS3P	puron
+N;LOC;SG;PSS1SmigrenN;LOC;SG;PSS1S	migrenimi
+N;LOC;PL;PSS2PsalahiyetN;LOC;PL;PSS2P	salahiyetimi
+N;LOC;SG;PSS1PahizeN;LOC;SG;PSS1P	ahizelerime
+N;NOM;SG;PSS3SkipaN;NOM;SG;PSS3S	kipalarında
+N;DAT;PL;PSS2PteşhisN;DAT;PL;PSS2P	teşhirinizden
+N;NOM;SG;PSS3PgünlükN;NOM;SG;PSS3P	günlüklerinin
+N;GEN;PL;PSS2SkalpakN;GEN;PL;PSS2S	kalbini
+N;ACC;SG;PSS2PürünN;ACC;SG;PSS2P	ürünlerin
+V;IND;3;SG;PRS;NEG;INTRyıpranmakV;IND;3;SG;PRS;NEG;INTR	yıpranmazlar mı?
+N;LOC;SG;PSS3SmüsaadeN;LOC;SG;PSS3S	müsaadesinden
+N;LGSPEC1;3S;SG;PRSmumyaN;LGSPEC1;3S;SG;PRS	mumyalarsın
+V;IND;2;PL;PST;POS;INTRtoprak olmakV;IND;2;PL;PST;POS;INTR	toprak mı?
+V;IND;2;PL;PST;PROG;POS;INTRgöçmekV;IND;2;PL;PST;PROG;POS;INTR	göçmedik muydunuz?
+N;ABL;SG;PSS2SmilyonerN;ABL;SG;PSS2S	milyonerinde
+N;DAT;PL;PSS2SnefretN;DAT;PL;PSS2S	nefretinden
+N;LOC;PL;PSS2PkaldıraçN;LOC;PL;PSS2P	kaldıracınızda
+N;GEN;PL;PSS2PörnekN;GEN;PL;PSS2P	örneğinizin
+V;IND;2;PL;PST;POS;INTRpatlamakV;IND;2;PL;PST;POS;INTR	patladık mı?
+V;IND;1;PL;PRS;PROG;NEG;INTRuyanmakV;IND;1;PL;PRS;PROG;NEG;INTR	uyanıyorlar muyuz?
+N;LOC;SG;PSS3PkruvasanN;LOC;SG;PSS3P	kruvasanında
+N;GEN;PL;PSS1PkelepçeN;GEN;PL;PSS1P	depremlerdik
+V;IND;1;PL;FUT;NEG;DECLseslenmekV;IND;1;PL;FUT;NEG;DECL	seslenmedi miyiz?
+N;NOM;SG;PSS1PfilozofN;NOM;SG;PSS1P	filozoflarımızdan
+N;LGSPEC1;3S;SG;PRSpöhrenkN;LGSPEC1;3S;SG;PRS	pöhrenkler
+N;ABL;SGergenlikN;ABL;SG	ergenliğinizden
+N;DAT;SG;PSS3SayakkabıN;DAT;SG;PSS3S	ayakkabına
+N;NOM;SG;PSS3PanasızlıkN;NOM;SG;PSS3P	anasızlıklarıma
+N;NOM;SGnişanlıN;NOM;SG	nişanlılarında
+N;DAT;PL;PSS1SkasetN;DAT;PL;PSS1S	kasetime
+V;IND;2;SG;FUT;POS;INTRseçmekV;IND;2;SG;FUT;POS;INTR	seçiyor
+V;IND;3;SG;FUT;POS;DECLgüzelleştirmekV;IND;3;SG;FUT;POS;DECL	güzelleştiriyor
+N;NOM;SGambulansN;NOM;SG	ambulansları
+N;LGSPEC1;2P;SG;PSTmatlaN;LGSPEC1;2P;SG;PST	matlaydı
+V;IND;3;PL;PST;NEG;INTRacıkmakV;IND;3;PL;PST;NEG;INTR	yaptırmıyor mı?
+N;ACC;SG;PSS1SalıçN;ACC;SG;PSS1S	alıçlarımda
+N;ACC;PL;PSS3SteşhirN;ACC;PL;PSS3S	teşhirinizden
+N;NOM;SG;PSS3Sdiferansiyel denklemN;NOM;SG;PSS3S	diferansiyel
+N;ABL;PL;PSS1SkullanmaN;ABL;PL;PSS1S	kullanmamda
+N;NOM;PL;PSS3SlaçoN;NOM;PL;PSS3S	laçosu
+N;LOC;SGperonN;LOC;SG	pelinde
+N;ACC;SG;PSS1SfişekN;ACC;SG;PSS1S	fişeklerinizden
+N;LGSPEC1;2S;PL;PSTbozayıN;LGSPEC1;2S;PL;PST	bozayılardan
+N;ACC;PL;PSS3PkolonN;ACC;PL;PSS3P	kolonlarının
+N;ACC;PLşelaleN;ACC;PL	şeriatleri
+N;LGSPEC1;1S;PL;LGSPEC2yetkili sunucuN;LGSPEC1;1S;PL;LGSPEC2	yetkili
+N;LGSPEC1;3S;PL;LGSPEC2yumurtaN;LGSPEC1;3S;PL;LGSPEC2	yumurtalıklarına
+V;IND;1;PL;PRS;NEG;INTRcanlandırtılmakV;IND;1;PL;PRS;NEG;INTR	mı?
+V;IND;1;PL;PST;NEG;INTRkirletmekV;IND;1;PL;PST;NEG;INTR	kirletirler mı?
+V;IND;1;SG;PRS;PROG;NEG;DECLbezmekV;IND;1;SG;PRS;PROG;NEG;DECL	bezmeyiz
+N;ACC;SG;PSS1SdirekN;ACC;SG;PSS1S	direklerine
+N;ABL;SGaraçN;ABL;SG	araçlarda
+N;ACC;PL;PSS3SsüngerN;ACC;PL;PSS3S	süngerimizi
+N;ABL;PL;PSS2PfrizbiN;ABL;PL;PSS2P	frizbilerden
+N;GEN;PL;PSS2SsinagogN;GEN;PL;PSS2S	sinagogundan
+N;LOC;SG;PSS3PtakvimN;LOC;SG;PSS3P	takvimleri
+N;NOM;SG;PSS1SsözlükçüN;NOM;SG;PSS1S	sözlükçülerime
+N;NOM;SG;PSS3PhiperbolN;NOM;SG;PSS3P	hiperbollerinden
+N;NOM;PL;PSS3SmodaN;NOM;PL;PSS3S	modeline
+V;IND;3;SG;PRS;NEG;INTRverimsizleştirmekV;IND;3;SG;PRS;NEG;INTR	misin? mı?
+N;ABL;SG;PSS1ShıçkırıkN;ABL;SG;PSS1S	hıçkırıklarına
+V;IND;1;PL;PST;PROG;NEG;INTRçizmekV;IND;1;PL;PST;PROG;NEG;INTR	miyiz? muyduk?
+N;LOC;SG;PSS1SşehirN;LOC;SG;PSS1S	şehirlerinde
+N;LOC;PL;PSS1PgayzerN;LOC;PL;PSS1P	gayzerimizi
+N;ABL;SG;PSS1PmühimlikN;ABL;SG;PSS1P	mühimliğinden
+V;IND;1;PL;PST;PROG;NEG;DECLgiymekV;IND;1;PL;PST;PROG;NEG;DECL	giymiyorsun
+N;ABL;PL;PSS2SafiyetN;ABL;PL;PSS2S	afiyetinden
+V;IND;2;SG;PST;PROG;NEG;INTRkoymakV;IND;2;SG;PST;PROG;NEG;INTR	koymuyor muydun?
+N;LOC;SG;PSS3PkerpiçN;LOC;SG;PSS3P	kerpiçlerinin
+N;GEN;PL;PSS3PumurN;GEN;PL;PSS3P	ummanlarının
+N;GEN;SG;PSS3SkaynaçN;GEN;SG;PSS3S	kaynaçlarında
+V;IND;3;PL;PRS;NEG;INTRcartayı çekmekV;IND;3;PL;PRS;NEG;INTR	cartayı mı?
+V;IND;2;PL;PST;NEG;INTRnalları dikmekV;IND;2;PL;PST;NEG;INTR	nalları mı?
+N;ABL;SG;PSS2SnosyonN;ABL;SG;PSS2S	nosyonunda
+N;NOM;SG;PSS1SdişlekN;NOM;SG;PSS1S	dişleklerime
+V;IND;2;SG;PST;NEG;DECLkarıştırtmakV;IND;2;SG;PST;NEG;DECL	karıştırtmıyordunuz
+N;LOC;SG;PSS3PuçakN;LOC;SG;PSS3P	uçaklarını
+V;IND;2;PL;PST;PROG;NEG;INTRnefes almakV;IND;2;PL;PST;PROG;NEG;INTR	nefes
+N;GEN;PL;PSS2SbüstN;GEN;PL;PSS2S	bükmelerinden
+N;GEN;SG;PSS2SabajurcuN;GEN;SG;PSS2S	abajurcuların
+V;IND;3;PL;PST;PROG;NEG;INTRdüzeltmekV;IND;3;PL;PST;PROG;NEG;INTR	düzelmedim mıydı?
+V;IND;1;PL;PST;NEG;DECLbuharlaşmakV;IND;1;PL;PST;NEG;DECL	buharlaşmıyordular
+N;NOM;PL;PSS1SşafakN;NOM;PL;PSS1S	şafağıma
+N;NOM;SG;PSS2SdövmeN;NOM;SG;PSS2S	dövüşünün
+N;ABL;SG;PSS1SgeyşaN;ABL;SG;PSS1S	geyşalarımı
+N;LOC;SG;PSS2PsilleN;LOC;SG;PSS2P	sillelerinin
+N;GEN;SGefeN;GEN;SG	haşefemin
+V;IND;3;SG;PST;PROG;NEG;INTRsanmakV;IND;3;SG;PST;PROG;NEG;INTR	sanmıyor muydu?
+N;ACC;SG;PSS1Pözel okulN;ACC;SG;PSS1P	özel
+N;NOM;SG;PSS1PövgüN;NOM;SG;PSS1P	övgülerinizi
+N;LOC;PL;PSS1SyaprakN;LOC;PL;PSS1S	yapraklarınız
+N;GEN;SG;PSS2Pfinal sınıfN;GEN;SG;PSS2P	final sınıflarında
+N;NOM;SG;PSS3StayfaN;NOM;SG;PSS3S	tayfasına
+V;IND;2;PL;PST;PROG;NEG;DECLşamarlamakV;IND;2;PL;PST;PROG;NEG;DECL	şamarlamıyorlar muydunuz?
+N;LOC;PL;PSS1PuygulamaN;LOC;PL;PSS1P	uygulama
+N;GEN;PLbulunma haliN;GEN;PL	bulundum
+V;IND;3;PL;PST;PROG;NEG;INTRsolumakV;IND;3;PL;PST;PROG;NEG;INTR	solumuyor
+N;LOC;PL;PSS1PkuyuN;LOC;PL;PSS1P	kuyumuzu
+V;IND;2;SG;PRS;PROG;NEG;INTRsökmekV;IND;2;SG;PRS;PROG;NEG;INTR	söküyor
+N;DAT;PL;PSS2SaltdilN;DAT;PL;PSS2S	altdillerine
+N;LGSPEC1;3P;PL;LGSPEC2mandalN;LGSPEC1;3P;PL;LGSPEC2	manitalarmışız
+N;NOM;PL;PSS3SambulansN;NOM;PL;PSS3S	ambulansları
+N;NOM;SG;PSS3PbaykuşN;NOM;SG;PSS3P	baykuşumdan
+N;ACC;SG;PSS1PpaskalyaN;ACC;SG;PSS1P	paskalyalarımızın
+V;IND;1;SG;PRS;NEG;INTRcevap vermekV;IND;1;SG;PRS;NEG;INTR	cevap mı?
+N;NOM;PLleşN;NOM;PL	leşleri
+N;ACC;PL;PSS2SdindarlıkN;ACC;PL;PSS2S	dindarlıklarınız
+N;ACC;PLyüzmeN;ACC;PL	yüzmesini
+N;LGSPEC1;1P;PL;LGSPEC2sözlükN;LGSPEC1;1P;PL;LGSPEC2	sözlükmüşüm
+V;IND;1;SG;PRS;PROG;POS;DECLdöndürmekV;IND;1;SG;PRS;PROG;POS;DECL	döndürüyorlardı
+N;ABL;PL;PSS3PkâseN;ABL;PL;PSS3P	kâselerine
+V;IND;3;SG;PRS;NEG;INTRdizmekV;IND;3;SG;PRS;NEG;INTR	mı?
+V;IND;3;PL;PST;PROG;NEG;INTRsugeçirmez yapmakV;IND;3;PL;PST;PROG;NEG;INTR	sempozyumlarında
+N;ABL;SG;PSS1SsolunumN;ABL;SG;PSS1S	solunumlarından
+V;IND;2;SG;PST;PROG;NEG;DECLsinirlendirmekV;IND;2;SG;PST;PROG;NEG;DECL	sinirlendirmezsin
+N;DAT;SGtipografyaN;DAT;SG	tipografyadan
+V;IND;3;SG;PRS;POS;DECLkıymakV;IND;3;SG;PRS;POS;DECL	kıymadı
+N;DAT;SG;PSS2PçadırN;DAT;SG;PSS2P	çadırlarınızda
+N;LOC;PL;PSS3PdürbünN;LOC;PL;PSS3P	dürbünün
+N;ACC;SG;PSS3PmalamozN;ACC;SG;PSS3P	malamoza
+N;LGSPEC1;1S;SG;LGSPEC2yerN;LGSPEC1;1S;SG;LGSPEC2	yardımcılıkmışım
+N;GEN;SG;PSS3PbörülceN;GEN;SG;PSS3P	börülceler
+N;ACC;PL;PSS3PhomonimN;ACC;PL;PSS3P	homurdanmalarına
+N;GEN;PL;PSS3PLefkoşalıN;GEN;PL;PSS3P	Lefkoşalılardan
+N;DAT;PL;PSS2SkaldıraçN;DAT;PL;PSS2S	kaldıracımı
+N;NOM;SG;PSS2Porta parmakN;NOM;SG;PSS2P	orta
+V;IND;2;PL;PRS;PROG;POS;DECLşişmekV;IND;2;PL;PRS;PROG;POS;DECL	şişiyordunuz
+V;IND;1;PL;PST;NEG;INTRdizmekV;IND;1;PL;PST;NEG;INTR	mı?
+N;NOM;SGkümbetN;NOM;SG	kümbetleri
+N;NOM;PL;PSS2SMogadişuluN;NOM;PL;PSS2S	Monakolularında
+N;GEN;SG;PSS1SkoruyucuN;GEN;SG;PSS1S	koruyucum
+N;DAT;SGbellekN;DAT;SG	bellekleri
+N;LOC;PL;PSS1PorangutanN;LOC;PL;PSS1P	orangutanlarımda
+V;IND;2;PL;PST;PROG;NEG;INTRaltını çizmekV;IND;2;PL;PST;PROG;NEG;INTR	altını
+V;IND;3;PL;PRS;POS;INTRkaynamakV;IND;3;PL;PRS;POS;INTR	kaynaşır
+N;NOM;PLmetresN;NOM;PL	metreslere
+V;IND;3;SG;PRS;PROG;POS;DECLyıpranmakV;IND;3;SG;PRS;PROG;POS;DECL	yıpranıyoruz
+V;IND;1;PL;FUT;NEG;DECLbezmekV;IND;1;PL;FUT;NEG;DECL	bezmeyiz
+V;IND;1;PL;PST;PROG;POS;INTRyaratmakV;IND;1;PL;PST;PROG;POS;INTR	muyduk?
+V;IND;1;PL;PST;PROG;POS;INTRilerletmekV;IND;1;PL;PST;PROG;POS;INTR	ilerletmeyecek muyduk?
+N;DAT;PL;PSS1SgarpN;DAT;PL;PSS1S	garbından
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTRalçakADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	mi?
+N;GEN;PL;PSS2PfitilN;GEN;PL;PSS2P	fitilleriniz
+N;LOC;SG;PSS3SdirekN;LOC;SG;PSS3S	direklerine
+V;IND;2;PL;PRS;PROG;NEG;INTRbağlamakV;IND;2;PL;PRS;PROG;NEG;INTR	bağlayacak
+N;DAT;PL;PSS2PözlemN;DAT;PL;PSS2P	özlemimin
+V;IND;2;PL;PRS;NEG;INTRyağlamakV;IND;2;PL;PRS;NEG;INTR	yağmaz mı?
+V;IND;1;PL;PRS;PROG;NEG;INTRdağılmakV;IND;1;PL;PRS;PROG;NEG;INTR	dağılmıyor muyuz?
+N;NOM;PL;PSS1PilklendirmeN;NOM;PL;PSS1P	ilklendirmesi
+N;ABL;SGkülfetN;ABL;SG	külfetlerim
+ADJ;LGSPEC1;PST;1;SG;POS;INTRdoğruADJ;LGSPEC1;PST;1;SG;POS;INTR	doğru
+V;IND;2;SG;PRS;PROG;NEG;DECLçağırmakV;IND;2;SG;PRS;PROG;NEG;DECL	çağırıyorlardı musun?
+N;NOM;PL;PSS3PreaktörN;NOM;PL;PSS3P	reaktörüm
+N;LGSPEC1;1S;SG;PSTomurgaN;LGSPEC1;1S;SG;PST	omurgası
+N;DAT;PLsözlükçüN;DAT;PL	sözlükçülerime
+V;IND;1;PL;PST;NEG;INTRşaşırmakV;IND;1;PL;PST;NEG;INTR	mı?
+N;GEN;SG;PSS2SinsanımsıN;GEN;SG;PSS2S	insanımsılarını
+N;ACC;SG;PSS3StasarımN;ACC;SG;PSS3S	tasarım
+N;GEN;SG;PSS1PmazotN;GEN;SG;PSS1P	mazotunuzu
+N;ACC;PL;PSS1PnumaralamaN;ACC;PL;PSS1P	numara
+N;NOM;SG;PSS2SsalonN;NOM;SG;PSS2S	salonlarında
+N;ACC;PL;PSS3PcamiN;ACC;PL;PSS3P	camimi
+N;LOC;PL;PSS1PhamızN;LOC;PL;PSS1P	hamızından
+N;GEN;PL;PSS1SsosisN;GEN;PL;PSS1S	sosisimi
+N;GEN;PL;PSS2PparçacıkN;GEN;PL;PSS2P	parçacıklarınızda
+N;LOC;SG;PSS1SsesteşN;LOC;SG;PSS1S	sesteşimden
+V;IND;3;PL;PRS;PROG;POS;DECLsaldırmakV;IND;3;PL;PRS;PROG;POS;DECL	saldırıyorum
+N;ACC;PL;PSS2PmumN;ACC;PL;PSS2P	mumunuzun
+N;LOC;SG;PSS1Speynirli pastaN;LOC;SG;PSS1S	peynirli
+V;IND;3;PL;FUT;POS;INTRkarar vermekV;IND;3;PL;FUT;POS;INTR	kararlarınızdan
+N;LGSPEC1;2S;PL;PRSakrobatN;LGSPEC1;2S;PL;PRS	akrobatmışız
+V;IND;2;PL;PST;PROG;POS;INTRyolundurmakV;IND;2;PL;PST;PROG;POS;INTR	yolundurtuyor
+N;NOM;PL;PSS1SmarulN;NOM;PL;PSS1S	marulu
+N;LGSPEC1;2S;PL;PRSbalıkN;LGSPEC1;2S;PL;PRS	balıksınız
+N;GEN;PL;PSS2PhinterlantN;GEN;PL;PSS2P	hinterlandı
+N;LOC;SG;PSS2Pana fikirN;LOC;SG;PSS2P	anafazlarımı
+V;IND;1;PL;FUT;NEG;DECLcanlandırılmakV;IND;1;PL;FUT;NEG;DECL	canlandırıltılar
+N;ACC;PL;PSS1SmaratoncuN;ACC;PL;PSS1S	maratoncuydu
+V;IND;3;SG;FUT;NEG;DECLpaylaşmakV;IND;3;SG;FUT;NEG;DECL	paylaşmayız
+N;ACC;PL;PSS3PörtüN;ACC;PL;PSS3P	örtülerinden
+N;NOM;SGpatatesN;NOM;SG	patatesimde
+N;ABL;PL;PSS3SmaydanozN;ABL;PL;PSS3S	maydanozlarımızdan
+V;IND;1;SG;PRS;NEG;INTRsikişmekV;IND;1;SG;PRS;NEG;INTR	sikişiyor mı?
+N;DAT;SG;PSS1ShamızN;DAT;SG;PSS1S	hamızından
+N;DAT;PL;PSS2SsınıfN;DAT;PL;PSS2S	sınıfın
+N;LGSPEC1;2S;PL;PSTsemerciN;LGSPEC1;2S;PL;PST	semerciydim
+V;IND;3;PL;PST;POS;INTRkopmakV;IND;3;PL;PST;POS;INTR	kopmayacak mı?
+N;ABL;SG;PSS3PkolonyaN;ABL;SG;PSS3P	kolonyalarına
+V;IND;1;PL;PST;PROG;NEG;INTRyaramakV;IND;1;PL;PST;PROG;NEG;INTR	yaramıyor muyduk?
+N;GEN;PLbitkiN;GEN;PL	bitkimde
+V;IND;3;PL;PRS;NEG;INTRkapatmakV;IND;3;PL;PRS;NEG;INTR	mı?
+N;ACC;SG;PSS1SeşekN;ACC;SG;PSS1S	eşiklerimden
+N;ACC;PL;PSS1StelefonN;ACC;PL;PSS1S	telefonlarımıza
+N;LOC;PL;PSS3SkömN;LOC;PL;PSS3S	kömlerini
+N;DAT;PL;PSS3PkıyametN;DAT;PL;PSS3P	kıyamete
+N;NOM;SGnumaralamamaN;NOM;SG	nur
+N;NOM;PL;PSS3StemsilN;NOM;PL;PSS3S	temsilcilerinde
+N;ACC;SG;PSS2PsabahN;ACC;SG;PSS2P	sabahlar
+N;LOC;SG;PSS1PyağmurN;LOC;SG;PSS1P	yağmurlarım
+ADJ;LGSPEC1;PST;3;PL;POS;INTRdoğruADJ;LGSPEC1;PST;3;PL;POS;INTR	doğru
+V;IND;3;PL;PRS;PROG;NEG;DECLfındık kırmakV;IND;3;PL;PRS;PROG;NEG;DECL	fındık
+V;IND;3;PL;PRS;POS;DECLyetiştirmekV;IND;3;PL;PRS;POS;DECL	yetiştirmiyordu
+V;IND;1;PL;PRS;PROG;POS;DECLgizlemekV;IND;1;PL;PRS;PROG;POS;DECL	gizliyorsunuz
+V;IND;2;PL;PST;NEG;INTRgelinmekV;IND;2;PL;PST;NEG;INTR	mı?
+V;IND;3;PL;PST;PROG;NEG;INTRçıkmakV;IND;3;PL;PST;PROG;NEG;INTR	çıkmıyor
+V;IND;2;PL;PST;POS;DECLbulunmakV;IND;2;PL;PST;POS;DECL	bulundum
+N;ABL;SG;PSS2PyemişN;ABL;SG;PSS2P	yemişinde
+N;LOC;PL;PSS3PakvaryumN;LOC;PL;PSS3P	akvaryumlarına
+V;IND;3;PL;PST;PROG;NEG;INTRiletmekV;IND;3;PL;PST;PROG;NEG;INTR	ilettin
+V;IND;3;SG;FUT;POS;DECLşikâyet etmekV;IND;3;SG;FUT;POS;DECL	şikâyet
+N;ACC;PLeşzamanlı dönüşN;ACC;PL	dönüşler
+N;ABL;PL;PSS1PtekfurN;ABL;PL;PSS1P	tekfurlardı
+N;NOM;SG;PSS1SpolinomN;NOM;SG;PSS1S	polinomlarımda
+V;IND;3;PL;PRS;POS;DECLuyanmakV;IND;3;PL;PRS;POS;DECL	uyandın
+N;LGSPEC1;3P;PL;PRSbahçıvanN;LGSPEC1;3P;PL;PRS	bahçıvanlara
+V;IND;3;PL;FUT;POS;INTRekşimekV;IND;3;PL;FUT;POS;INTR	ekşiyor
+N;DAT;SG;PSS3SçavuşN;DAT;SG;PSS3S	çavuşlarından
+V;IND;2;SG;PRS;PROG;POS;DECLyağlamakV;IND;2;SG;PRS;PROG;POS;DECL	yağlamıyor
+N;NOM;PL;PSS3SritimN;NOM;PL;PSS3S	ritimlerinin
+N;LOC;PL;PSS2PromanN;LOC;PL;PSS2P	rotorunuzdan
+N;ACC;SGçalışmaN;ACC;SG	çalışmadan
+V;IND;2;SG;PRS;POS;INTRkanamakV;IND;2;SG;PRS;POS;INTR	kanamayacak
+N;GEN;PL;PSS2PsilleN;GEN;PL;PSS2P	sillelerinin
+N;DAT;PL;PSS3SbinekN;DAT;PL;PSS3S	beneğinin
+V;IND;3;SG;FUT;NEG;DECLkırdırtmakV;IND;3;SG;FUT;NEG;DECL	kırdırtırım
+V;IND;3;PL;PST;POS;INTReğlenmekV;IND;3;PL;PST;POS;INTR	eğlendim mı?
+N;DAT;SG;PSS3SkelimecikN;DAT;SG;PSS3S	kelimeciğini
+N;LOC;SG;PSS2SgünahkârN;LOC;SG;PSS2S	günahkârlarının
+N;LGSPEC1;1P;SG;PSTbakirN;LGSPEC1;1P;SG;PST	bakirlerdi
+N;DAT;PL;PSS3PmesuliyetN;DAT;PL;PSS3P	mesuliyetinden
+V;IND;2;SG;PRS;NEG;INTRsaymakV;IND;2;SG;PRS;NEG;INTR	mı?
+N;LOC;PLterziN;LOC;PL	terzimde
+N;DAT;PL;PSS1SstriptizN;DAT;PL;PSS1S	striptizin
+N;LGSPEC1;3S;PL;PRShuzurN;LGSPEC1;3S;PL;PRS	huzuruz
+N;ACC;SG;PSS1PakvaryumN;ACC;SG;PSS1P	akvaryumlarını
+V;IND;1;SG;PRS;PROG;POS;INTRbinmekV;IND;1;SG;PRS;PROG;POS;INTR	biniyor
+N;LOC;SG;PSS2SmeşrubatN;LOC;SG;PSS2S	meşrubatıma
+V;IND;3;PL;PRS;POS;INTRküremekV;IND;3;PL;PRS;POS;INTR	kürer
+V;IND;3;SG;FUT;NEG;DECLkaynaştırtmakV;IND;3;SG;FUT;NEG;DECL	kaynaştırılmıyorsun
+N;LGSPEC1;1S;PL;PSTKopenhaglıN;LGSPEC1;1S;PL;PST	Kopenhaglısında
+N;LOC;PL;PSS3PtelofazN;LOC;PL;PSS3P	telofazı
+N;NOM;SG;PSS2PpornoN;NOM;SG;PSS2P	pornonuzdan
+V;IND;2;PL;PRS;PROG;POS;INTRalındırtmakV;IND;2;PL;PRS;PROG;POS;INTR	alındırtmayacak
+N;NOM;PL;PSS1PmüşteriN;NOM;PL;PSS1P	müşterilerini
+N;LOC;PL;PSS2SpeynirN;LOC;PL;PSS2S	peynirli
+N;LOC;PL;PSS1SşahN;LOC;PL;PSS1S	şahlarımızda
+V;IND;3;PL;PST;POS;INTReskimekV;IND;3;PL;PST;POS;INTR	eskemiyor mı?
+N;ABL;SG;PSS2SkarşılıkN;ABL;SG;PSS2S	karşılıklarını
+V;IND;3;PL;PST;PROG;POS;DECLummakV;IND;3;PL;PST;PROG;POS;DECL	ummuyorum
+N;NOM;SG;PSS2PhendeseN;NOM;SG;PSS2P	hendese
+V;IND;3;SG;FUT;NEG;DECLçevirmekV;IND;3;SG;FUT;NEG;DECL	çeviriyorum
+V;IND;2;PL;FUT;NEG;INTRkorkutmakV;IND;2;PL;FUT;NEG;INTR	korkutmayacak
+N;GEN;SG;PSS1SrehberN;GEN;SG;PSS1S	rehberlerimde
+N;GEN;SG;PSS3SbluzsuzN;GEN;SG;PSS3S	bluzsuzlarını
+N;NOM;PL;PSS1SyankıN;NOM;PL;PSS1S	yankımız
+V;IND;2;PL;FUT;NEG;INTRayarlanmakV;IND;2;PL;FUT;NEG;INTR	ayarlanmıyor
+N;GEN;PL;PSS3ShırsızN;GEN;PL;PSS3S	hırsızları
+V;IND;2;SG;PRS;PROG;POS;INTRyıpranmakV;IND;2;SG;PRS;PROG;POS;INTR	yıpranıyorlar
+V;IND;2;PL;FUT;NEG;DECLkirletmekV;IND;2;PL;FUT;NEG;DECL	kirletmediler
+N;LOC;SG;PSS1SçakılN;LOC;SG;PSS1S	çakıllarımda
+N;ACC;SG;PSS2PsolunumN;ACC;SG;PSS2P	solunumlarınızda
+N;DAT;SG;PSS2Pgranüllü endoplazmik retikulumN;DAT;SG;PSS2P	endoplazmik
+N;GEN;SG;PSS1SmakinaN;GEN;SG;PSS1S	makinemden
+V;IND;2;PL;PRS;PROG;NEG;INTRsikişmekV;IND;2;PL;PRS;PROG;NEG;INTR	sikişiyor
+V;IND;3;PL;PRS;NEG;INTRsıvılaşmakV;IND;3;PL;PRS;NEG;INTR	sıvılaşıyor mı?
+N;LGSPEC1;2S;PL;PRShücreN;LGSPEC1;2S;PL;PRS	hücreleriz
+V;IND;1;SG;FUT;POS;DECLdökmekV;IND;1;SG;FUT;POS;DECL	dökmediler
+N;ACC;SG;PSS1PtavernaN;ACC;SG;PSS1P	tavernaları
+V;IND;2;PL;PRS;PROG;NEG;INTRyaymakV;IND;2;PL;PRS;PROG;NEG;INTR	yaymıyor musunuz?
+N;LGSPEC1;1P;PL;PSTserverN;LGSPEC1;1P;PL;PST	serverdi
+N;LOC;SG;PSS3PteşhirN;LOC;SG;PSS3P	teşhirlerimde

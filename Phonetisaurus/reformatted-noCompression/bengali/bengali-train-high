@@ -1,0 +1,4243 @@
+V;1;PRSপাঠানোV;1;PRS	পাঠাই
+V;2;PRS;PRF;POLওঠাV;2;PRS;PRF;POL	উঠেছে
+V;2;PRS;PRF;POLআচরণ করাV;2;PRS;PRF;POL	আচরণ করেছে
+V;3;PST;PROG;INFMজাগানোV;3;PST;PROG;INFM	জাগাচ্ছিলে
+V;1;PST;PROGঢোকাV;1;PST;PROG	ঢুকছিলাম
+V;V.PTCP;CONDঘামাV;V.PTCP;COND	ঘামলে
+V;3;FUT;POLচুম্বন করাV;3;FUT;POL	চুম্বন করবেন
+V;3;PST;HAB;POLমনে রাখাV;3;PST;HAB;POL	মনে রাখতেন
+V;2;PRS;PROG;LGSPEC1চালানোV;2;PRS;PROG;LGSPEC1	চালাচ্ছিস
+V;V.MSDRকেনাV;V.MSDR	কেনা
+V;1;PST;PROGকেনাV;1;PST;PROG	কিনছিলাম
+V;1;PST;HABমরাV;1;PST;HAB	মরতাম
+V;3;PRS;INFMআচরণ করাV;3;PRS;INFM	আচরণ করো
+V;2;PST;LGSPEC1জানাV;2;PST;LGSPEC1	জানলি
+V;3;PST;INFMআগানোV;3;PST;INFM	আগালে
+V;2;PST;HAB;LGSPEC1চাওয়াV;2;PST;HAB;LGSPEC1	চেতিস
+V;3;PST;PRF;POLআচরণ করাV;3;PST;PRF;POL	আচরণ করেছিলেন
+V;1;PSTবসাV;1;PST	বসলাম
+V;2;PST;HAB;LGSPEC1ভাবাV;2;PST;HAB;LGSPEC1	ভাবতিস
+V;V.NFINহওয়াV;V.NFIN	হতে
+V;1;FUTউল্কি আঁকাV;1;FUT	উল্কি আঁকবো
+N;GEN;NDEFজানালাN;GEN;NDEF	জানালার
+V;1;PRSঅনুভব করাV;1;PRS	অনুভব করি
+V;1;PST;HABজাগাV;1;PST;HAB	জাগতাম
+N;ACC;NDEFঅভিযোগN;ACC;NDEF	অভিযোগ
+V;3;PST;HAB;POLমারাV;3;PST;HAB;POL	মারতেন
+V;3;PRS;POLচুম্বন করাV;3;PRS;POL	চুম্বন করেন
+V;2;PST;HAB;POLআসাV;2;PST;HAB;POL	আসতো
+N;GEN;PL;DEFগলাN;GEN;PL;DEF	গলাগুলার
+N;ACC;PL;DEFদেশN;ACC;PL;DEF	দেশগুলা
+N;NOM;PL;DEFশিশুN;NOM;PL;DEF	শিশুরা
+V;V.NFINব্যবহার করাV;V.NFIN	ব্যবহার করতে
+N;NOM;PL;DEFঘটনাN;NOM;PL;DEF	ঘটনাগুলা
+N;NOM;NDEFমানুষN;NOM;NDEF	মানুষ
+V;V.NFINশেখাV;V.NFIN	শিখতে
+V;V.PTCP;PRFকেনাV;V.PTCP;PRF	কিনে
+V;3;FUT;POLবসাV;3;FUT;POL	বসবেন
+V;3;PST;PROG;INFMব্যবহার করাV;3;PST;PROG;INFM	ব্যবহার করছিলে
+V;2;PRS;PRF;POLঅনুভব করাV;2;PRS;PRF;POL	অনুভব করেছে
+V;2;PRS;LGSPEC1আগানোV;2;PRS;LGSPEC1	আগাস
+V;3;FUT;INFMমনে রাখাV;3;FUT;INFM	মনে রাখবে
+V;2;FUT;POLভুলে যাওয়াV;2;FUT;POL	ভুলে যাবে
+V;V.PTCP;HABবসাV;V.PTCP;HAB	বসে
+N;GEN;SG;DEFব্যক্তিN;GEN;SG;DEF	ব্যক্তিটার
+V;3;FUT;INFMখাওয়াV;3;FUT;INFM	খাবে
+V;V.PTCP;CONDবলাV;V.PTCP;COND	বল্লে
+V;2;PRS;PRF;POLজাগানোV;2;PRS;PRF;POL	জাগিয়েছে
+V;3;PRS;PROG;INFMচোষাV;3;PRS;PROG;INFM	চুষছো
+N;LOC;NDEFদৃষ্টান্তN;LOC;NDEF	দৃষ্টান্তে
+V;2;PST;PROG;LGSPEC1মারাV;2;PST;PROG;LGSPEC1	মারছিলি
+V;2;FUT;LGSPEC1গাওয়াV;2;FUT;LGSPEC1	গাবি
+V;2;PRS;PRF;POLযাওয়াV;2;PRS;PRF;POL	গিয়েছে
+N;ACC;NDEFরংN;ACC;NDEF	রং
+V;3;PRS;PROG;POLজানাV;3;PRS;PROG;POL	জানছেন
+V;3;PST;PRF;POLঢুকানোV;3;PST;PRF;POL	ঢুকিয়েছিলেন
+V;2;PRS;POLচেনাV;2;PRS;POL	চেনে
+V;3;PST;PROG;INFMচেষ্টা করাV;3;PST;PROG;INFM	চেষ্টা করছিলে
+V;2;PRS;PROG;LGSPEC1বিশেষ করাV;2;PRS;PROG;LGSPEC1	বিশেষ করছিস
+V;3;PRS;PRF;POLমাল ফেলাV;3;PRS;PRF;POL	মাল ফেলেছেন
+V;1;PRS;PRFঅনুরোধ করাV;1;PRS;PRF	অনুরোধ করেছি
+V;3;PST;HAB;INFMঢুকানোV;3;PST;HAB;INFM	ঢুকাতে
+N;NOM;PL;DEFতরঙ্গN;NOM;PL;DEF	তরঙ্গগুলা
+V;1;PST;PRFবসাV;1;PST;PRF	বসেছিলাম
+V;2;FUT;LGSPEC1টানাV;2;FUT;LGSPEC1	টানবি
+V;V.PTCP;PRFজাগানোV;V.PTCP;PRF	জাগায়
+V;3;PRS;PROG;INFMভুলে যাওয়াV;3;PRS;PROG;INFM	ভুলে যাচ্ছো
+V;2;PST;PRF;LGSPEC1বিশেষ করাV;2;PST;PRF;LGSPEC1	বিশেষ করেছিলি
+V;2;PST;PRF;LGSPEC1শিখানোV;2;PST;PRF;LGSPEC1	শিখিয়েছিলি
+V;1;PST;PROGপরাV;1;PST;PROG	পরছিলাম
+V;3;PRS;PRF;POLবন্ধ করাV;3;PRS;PRF;POL	বন্ধ করেছেন
+V;1;PST;PRFআগানোV;1;PST;PRF	আগিয়েছিলাম
+V;1;PST;HABশিখানোV;1;PST;HAB	শিখাতাম
+V;2;PRS;PROG;LGSPEC1ধরাV;2;PRS;PROG;LGSPEC1	ধরছিস
+V;1;FUTঅনুভব করাV;1;FUT	অনুভব করবো
+V;1;PST;PRFযাওয়াV;1;PST;PRF	গিয়েছিলাম
+V;1;PRS;PRFআসাV;1;PRS;PRF	এসেছি
+V;2;FUT;LGSPEC1ধরাV;2;FUT;LGSPEC1	ধরবি
+V;2;FUT;LGSPEC1ভাবাV;2;FUT;LGSPEC1	ভাববি
+V;3;PST;INFMদেখাV;3;PST;INFM	দেখলে
+N;ACC;PL;DEFশিশুN;ACC;PL;DEF	শিশুদেরকে
+V;3;PST;PROG;POLআঁকাV;3;PST;PROG;POL	আঁকছিলেন
+V;3;FUT;INFMঅনুভব করাV;3;FUT;INFM	অনুভব করবে
+N;LOC;PL;DEFচোখN;LOC;PL;DEF	চোখগুলাতে
+V;V.PTCP;HABঘুমানোV;V.PTCP;HAB	ঘুমায়
+V;3;PST;PROG;POLসাহায্য করাV;3;PST;PROG;POL	সাহায্য করছিলেন
+V;2;PRS;POLদেখাV;2;PRS;POL	দেখে
+V;2;FUT;POLজাগাV;2;FUT;POL	জাগবে
+V;1;PST;PROGলেখাV;1;PST;PROG	লিখছিলাম
+V;2;PRS;PRF;LGSPEC1ডিফ্র্যাগমেন্ট করাV;2;PRS;PRF;LGSPEC1	ডিফ্র্যাগমেন্ট করেছিস
+V;2;PRS;POLআঁকাV;2;PRS;POL	আঁকে
+V;1;PRSঅপেক্ষা করাV;1;PRS	অপেক্ষা করি
+V;2;PST;PRF;POLঘামাV;2;PST;PRF;POL	ঘেমেছিলো
+V;2;PST;PROG;LGSPEC1নাচাV;2;PST;PROG;LGSPEC1	নাচছিলি
+V;3;PST;PROG;POLমনে রাখাV;3;PST;PROG;POL	মনে রাখছিলেন
+V;V.MSDRভরাV;V.MSDR	ভরা
+V;2;PST;PRF;LGSPEC1হাত মারাV;2;PST;PRF;LGSPEC1	হাত মেরেছিলি
+N;NOM;NDEFঘরN;NOM;NDEF	ঘর
+V;V.PTCP;PRFনাচাV;V.PTCP;PRF	নেচে
+N;GEN;SG;DEFবন্ধুN;GEN;SG;DEF	বন্ধুটার
+V;1;PRS;PROGঅপেক্ষা করাV;1;PRS;PROG	অপেক্ষা করছি
+V;1;PSTঘামানোV;1;PST	ঘামালাম
+V;1;PST;PRFঅনুরোধ করাV;1;PST;PRF	অনুরোধ করেছিলাম
+V;1;PSTঢোকাV;1;PST	ঢুকলাম
+V;3;PST;PRF;POLবোঝাV;3;PST;PRF;POL	বুঝেছিলেন
+V;2;PST;PROG;POLগেলাV;2;PST;PROG;POL	গিলছিলো
+V;V.PTCP;HABহওয়াV;V.PTCP;HAB	হয়ে
+V;V.MSDRরাখাV;V.MSDR	রাখা
+V;1;FUTটানাV;1;FUT	টানবো
+V;3;PRS;POLচেনাV;3;PRS;POL	চেনেন
+V;1;PST;PRFকরাV;1;PST;PRF	করেছিলাম
+V;2;PST;HAB;POLপাঠানোV;2;PST;HAB;POL	পাঠাতো
+V;1;PRSজাগাV;1;PRS	জাগি
+V;2;PST;PROG;LGSPEC1পরাV;2;PST;PROG;LGSPEC1	পরছিলি
+N;NOM;NDEFগাঁজাখোরN;NOM;NDEF	গাঁজাখোর
+V;V.PTCP;PROGকরাV;V.PTCP;PROG	করতে
+V;V.PTCP;PRFঅনুরোধ করাV;V.PTCP;PRF	অনুরোধ করে
+V;2;PST;PRF;LGSPEC1লুকানোV;2;PST;PRF;LGSPEC1	লুকিয়েছিলি
+V;3;PST;PRF;INFMউল্কি আঁকাV;3;PST;PRF;INFM	উল্কি এঁকেছিলে
+N;ACC;PL;DEFজন্মN;ACC;PL;DEF	জন্মগুলা
+V;1;PSTভরাV;1;PST	ভরলাম
+V;2;PRS;LGSPEC1খোলাV;2;PRS;LGSPEC1	খুলিস
+V;2;PRS;LGSPEC1দেখাV;2;PRS;LGSPEC1	দেখিস
+N;GEN;SG;DEFমিত্রN;GEN;SG;DEF	মিত্রটার
+V;V.MSDRজাগাV;V.MSDR	জাগা
+V;3;PRS;PRF;POLফেলাV;3;PRS;PRF;POL	ফেলেছেন
+V;1;PRSপাওয়াV;1;PRS	পাই
+V;V.MSDRলেখাV;V.MSDR	লেখা
+V;2;PST;POLআচরণ করাV;2;PST;POL	আচরণ করলো
+V;3;PRS;PROG;INFMচাপাV;3;PRS;PROG;INFM	চাপছো
+V;2;PST;PROG;POLমারাV;2;PST;PROG;POL	মারছিলো
+V;V.PTCP;PRFঘামানোV;V.PTCP;PRF	ঘামায়
+N;GEN;PL;DEFমিত্রN;GEN;PL;DEF	মিত্রদের
+V;V.PTCP;HABঢুকানোV;V.PTCP;HAB	ঢুকায়
+N;LOC;SG;DEFশহরN;LOC;SG;DEF	শহরটাতে
+V;1;PST;PROGজাগানোV;1;PST;PROG	জাগাচ্ছিলাম
+V;2;PST;LGSPEC1দেওয়াV;2;PST;LGSPEC1	দিলি
+V;2;PRS;PRF;POLপছন্দ করাV;2;PRS;PRF;POL	পছন্দ করেছে
+V;1;PST;HABহাগাV;1;PST;HAB	হাগতাম
+V;2;PST;PROG;LGSPEC1ধরাV;2;PST;PROG;LGSPEC1	ধরছিলি
+V;1;PSTমাল ফেলাV;1;PST	মাল ফেল্লাম
+V;2;PRS;PROG;POLরাখাV;2;PRS;PROG;POL	রাখছে
+V;3;PRS;PROG;POLচাওয়াV;3;PRS;PROG;POL	চাচ্ছেন
+V;2;PRS;PRF;LGSPEC1ঘামানোV;2;PRS;PRF;LGSPEC1	ঘামিয়েছিস
+N;NOM;PL;DEFযৌনকর্মীN;NOM;PL;DEF	যৌনকর্মীরা
+V;V.PTCP;CONDব্যবহার করাV;V.PTCP;COND	ব্যবহার করলে
+V;1;PSTঅনুভব করাV;1;PST	অনুভব করলাম
+V;2;PST;HAB;LGSPEC1চেনাV;2;PST;HAB;LGSPEC1	চিনতিস
+V;1;PST;PROGমনে রাখাV;1;PST;PROG	মনে রাখছিলাম
+V;3;PST;PROG;POLবসাV;3;PST;PROG;POL	বসছিলেন
+V;1;PRS;PROGআঁকাV;1;PRS;PROG	আঁকছি
+V;3;PRS;PRF;INFMমাল ফেলাV;3;PRS;PRF;INFM	মাল ফেলেছো
+V;1;PRSঘুমানোV;1;PRS	ঘুমাই
+V;3;PRS;PROG;POLজাগানোV;3;PRS;PROG;POL	জাগাচ্ছেন
+V;3;PRS;PROG;INFMটানাV;3;PRS;PROG;INFM	টানছো
+N;ACC;NDEFনেশাখোরN;ACC;NDEF	নেশাখোর
+N;ACC;PL;DEFগাঁজাখোরN;ACC;PL;DEF	গাঁজাখোরদেরকে
+V;3;PST;HAB;INFMদাঁড়ানোV;3;PST;HAB;INFM	দাঁড়াতে
+V;2;PST;PRF;POLআগানোV;2;PST;PRF;POL	আগিয়েছিলো
+V;1;PST;PRFচেনাV;1;PST;PRF	চিনেছিলাম
+V;3;PST;PROG;INFMমাল ফেলাV;3;PST;PROG;INFM	মাল ফেলছিলে
+V;3;PRS;PROG;POLখাওয়াV;3;PRS;PROG;POL	খাচ্ছেন
+V;3;PRS;PRF;POLঘুমানোV;3;PRS;PRF;POL	ঘুমিয়েছেন
+V;2;PST;PRF;POLচেনাV;2;PST;PRF;POL	চিনেছিলো
+V;2;PST;HAB;LGSPEC1চালানোV;2;PST;HAB;LGSPEC1	চালাতিস
+V;2;PRS;PROG;LGSPEC1ভালোবাসাV;2;PRS;PROG;LGSPEC1	ভালোবাসছিস
+V;2;FUT;POLচুম্বন করাV;2;FUT;POL	চুম্বন করবে
+V;2;PST;POLচাখাV;2;PST;POL	চাখলো
+V;2;PRS;LGSPEC1জ্বালাতন করাV;2;PRS;LGSPEC1	জ্বালাতন করিস
+V;2;FUT;LGSPEC1বোঝাV;2;FUT;LGSPEC1	বুঝবি
+V;2;PST;PROG;POLখাওয়াV;2;PST;PROG;POL	খাচ্ছিলো
+N;GEN;NDEFঅনুরোধN;GEN;NDEF	অনুরোধের
+V;1;PRS;PROGদাঁড়ানোV;1;PRS;PROG	দাঁড়াচ্ছি
+N;NOM;SG;DEFপাছাN;NOM;SG;DEF	পাছাটা
+V;3;PST;POLপরাV;3;PST;POL	পরলেন
+V;2;PST;PROG;POLজ্বালাতন করাV;2;PST;PROG;POL	জ্বালাতন করছিলো
+V;3;PRS;PRF;POLবৃষ্টি হওয়াV;3;PRS;PRF;POL	বৃষ্টি হয়েছেন
+V;1;PST;PROGজানাV;1;PST;PROG	জানছিলাম
+V;3;PST;HAB;INFMজানাV;3;PST;HAB;INFM	জানতে
+V;1;FUTপ্রমাণ করাV;1;FUT	প্রমাণ করবো
+V;V.PTCP;PROGভালবাসাV;V.PTCP;PROG	ভালবাসতে
+V;3;PST;PRF;INFMভাঙাV;3;PST;PRF;INFM	ভেঙেছিলে
+N;LOC;SG;DEFএলাকাN;LOC;SG;DEF	এলাকাটাতে
+N;NOM;NDEFশহরN;NOM;NDEF	শহর
+V;3;PST;PROG;INFMইচ্ছা হওয়াV;3;PST;PROG;INFM	ইচ্ছা হচ্ছিলে
+V;2;PRS;POLযাওয়াV;2;PRS;POL	যায়
+V;2;FUT;POLঘৃণা করাV;2;FUT;POL	ঘৃণা করবে
+V;3;PRS;POLগেলাV;3;PRS;POL	গেলেন
+V;3;PST;POLভালবাসাV;3;PST;POL	ভালবাসলেন
+V;V.PTCP;PROGবোঝাV;V.PTCP;PROG	বুঝতে
+V;1;PSTঘৃণা করাV;1;PST	ঘৃণা করলাম
+V;3;PRS;POLচোষাV;3;PRS;POL	চোষেন
+V;3;PST;PRF;INFMনেওয়াV;3;PST;PRF;INFM	নিয়েছিলে
+V;3;PST;PRF;POLপরাV;3;PST;PRF;POL	পরেছিলেন
+N;NOM;SG;DEFদেশN;NOM;SG;DEF	দেশটা
+V;3;PRS;PROG;POLঘৃণা করাV;3;PRS;PROG;POL	ঘৃণা করছেন
+V;1;PST;PRFআঁকাV;1;PST;PRF	এঁকেছিলাম
+N;NOM;NDEFতরঙ্গN;NOM;NDEF	তরঙ্গ
+N;ACC;PL;DEFমিত্রN;ACC;PL;DEF	মিত্রদেরকে
+V;3;PRS;PROG;POLআঁকাV;3;PRS;PROG;POL	আঁকছেন
+V;3;PST;PROG;POLশেখাV;3;PST;PROG;POL	শিখছিলেন
+V;3;FUT;POLআচরণ করাV;3;FUT;POL	আচরণ করবেন
+N;LOC;PL;DEFউদ্দেশ্যN;LOC;PL;DEF	উদ্দেশ্যগুলাতে
+N;ACC;SG;DEFদৃষ্টান্তN;ACC;SG;DEF	দৃষ্টান্তটা
+V;V.MSDRখোলাV;V.MSDR	খোলা
+N;NOM;NDEFনুনুN;NOM;NDEF	নু
+N;NOM;NDEFবিভাগN;NOM;NDEF	বিভাগ
+V;3;FUT;POLচাওয়াV;3;FUT;POL	চাবেন
+V;2;PRS;PROG;LGSPEC1চাপাV;2;PRS;PROG;LGSPEC1	চাপছিস
+V;3;PRS;PROG;INFMভাঙাV;3;PRS;PROG;INFM	ভাঙছো
+V;V.PTCP;PRFচেষ্টা করাV;V.PTCP;PRF	চেষ্টা করে
+V;1;PRS;PRFহওয়াV;1;PRS;PRF	হয়েছি
+V;1;FUTআঁকাV;1;FUT	আঁকবো
+V;1;PRS;PROGচাটাV;1;PRS;PROG	চাটছি
+V;2;PRS;PRF;POLপাঠানোV;2;PRS;PRF;POL	পাঠিয়েছে
+V;V.PTCP;PROGফেলাV;V.PTCP;PROG	ফেলতে
+V;3;PRS;PROG;INFMআঁকাV;3;PRS;PROG;INFM	আঁকছো
+V;3;PST;HAB;INFMআগানোV;3;PST;HAB;INFM	আগাতে
+V;1;PRSবৃষ্টি হওয়াV;1;PRS	বৃষ্টি হই
+V;2;PRS;PROG;POLজাগাV;2;PRS;PROG;POL	জাগছে
+V;1;PRS;PROGটানাV;1;PRS;PROG	টানছি
+V;V.PTCP;CONDখোলাV;V.PTCP;COND	খুল্লে
+V;3;PST;HAB;INFMখোঁজাV;3;PST;HAB;INFM	খুঁজতে
+V;1;PST;HABভাঙাV;1;PST;HAB	ভাঙতাম
+V;2;PST;HAB;LGSPEC1আচরণ করাV;2;PST;HAB;LGSPEC1	আচরণ করতিস
+V;2;PRS;PRF;LGSPEC1ভালোবাসাV;2;PRS;PRF;LGSPEC1	ভালোবেসেছিস
+V;2;FUT;LGSPEC1রাখাV;2;FUT;LGSPEC1	রাখবি
+N;LOC;PL;DEFলিঙ্গN;LOC;PL;DEF	লিঙ্গগুলাতে
+V;2;FUT;POLজানাV;2;FUT;POL	জানবে
+V;1;FUTহাঁটাV;1;FUT	হাঁটবো
+V;3;PST;POLবসাV;3;PST;POL	বসলেন
+V;3;PRS;PROG;INFMহাঁটাV;3;PRS;PROG;INFM	হাঁটছো
+V;3;PRS;POLফেলাV;3;PRS;POL	ফেলেন
+V;1;FUTমাল ফেলাV;1;FUT	মাল ফেলবো
+V;2;PST;PROG;POLপছন্দ করাV;2;PST;PROG;POL	পছন্দ করছিলো
+V;3;FUT;INFMকেনাV;3;FUT;INFM	কিনবে
+V;3;PST;POLমনে রাখাV;3;PST;POL	মনে রাখলেন
+V;3;PST;PROG;INFMমরাV;3;PST;PROG;INFM	মরছিলে
+V;2;PST;POLহওয়াV;2;PST;POL	হলো
+V;3;PRS;PROG;POLবসাV;3;PRS;PROG;POL	বসছেন
+V;3;PRS;PROG;POLপছন্দ করাV;3;PRS;PROG;POL	পছন্দ করছেন
+V;3;FUT;POLযাওয়াV;3;FUT;POL	যাবেন
+V;1;PRS;PRFদাঁড়ানোV;1;PRS;PRF	দাঁড়িয়েছি
+V;3;PRS;PROG;POLভালোবাসাV;3;PRS;PROG;POL	ভালোবাসছেন
+V;3;PRS;PROG;POLবলাV;3;PRS;PROG;POL	বলছেন
+V;2;PRS;LGSPEC1চোষাV;2;PRS;LGSPEC1	চুষিস
+V;2;PRS;LGSPEC1হওয়াV;2;PRS;LGSPEC1	হস
+V;V.PTCP;PROGনেওয়াV;V.PTCP;PROG	নেতে
+V;2;PST;HAB;LGSPEC1ঘৃণা করাV;2;PST;HAB;LGSPEC1	ঘৃণা করতিস
+V;2;PRS;LGSPEC1হাত মারাV;2;PRS;LGSPEC1	হাত মারিস
+N;ACC;NDEFলিঙ্গN;ACC;NDEF	লিঙ্গ
+V;3;PST;POLবৃষ্টি হওয়াV;3;PST;POL	বৃষ্টি হলেন
+V;3;PRS;PRF;POLঘামানোV;3;PRS;PRF;POL	ঘামিয়েছেন
+V;2;PRS;LGSPEC1দাঁড়ানোV;2;PRS;LGSPEC1	দাঁড়াস
+V;1;PRS;PROGরাখাV;1;PRS;PROG	রাখছি
+V;1;PST;PRFমরাV;1;PST;PRF	মরেছিলাম
+N;ACC;NDEFদেহN;ACC;NDEF	দেহ
+V;3;FUT;POLঅনুবাদ করাV;3;FUT;POL	অনুবাদ করবেন
+V;3;PST;PRF;INFMচাটাV;3;PST;PRF;INFM	চেটেছিলে
+V;1;PST;HABশেখাV;1;PST;HAB	শিখতাম
+V;3;PST;PRF;INFMজাগানোV;3;PST;PRF;INFM	জাগিয়েছিলে
+V;V.MSDRঘুমানোV;V.MSDR	ঘুমানো
+V;2;PRS;PRF;POLচুম্বন করাV;2;PRS;PRF;POL	চুম্বন করেছে
+V;2;PRS;LGSPEC1ভালোবাসাV;2;PRS;LGSPEC1	ভালোবাসিস
+V;3;PST;POLভুলে যাওয়াV;3;PST;POL	ভুলে গেলেন
+V;3;PRS;POLপাওয়াV;3;PRS;POL	পান
+V;V.PTCP;PRFভালোবাসাV;V.PTCP;PRF	ভালোবেসে
+V;3;PST;HAB;POLবিশেষ করাV;3;PST;HAB;POL	বিশেষ করতেন
+V;1;PRS;PRFফেলাV;1;PRS;PRF	ফেলেছি
+V;3;PST;INFMদাঁড়ানোV;3;PST;INFM	দাঁড়ালে
+V;2;PRS;PRF;LGSPEC1ঢোকাV;2;PRS;PRF;LGSPEC1	ঢুকেছিস
+V;3;PST;PROG;INFMউল্কি আঁকাV;3;PST;PROG;INFM	উল্কি আঁকছিলে
+N;GEN;PL;DEFবিভাগN;GEN;PL;DEF	বিভাগগুলার
+V;1;PST;HABওঠাV;1;PST;HAB	উঠতাম
+V;3;FUT;POLকাটাV;3;FUT;POL	কাটবেন
+V;2;PST;POLটানাV;2;PST;POL	টানলো
+V;1;PRS;PROGভরাV;1;PRS;PROG	ভরছি
+V;3;PRS;PROG;INFMপাওয়াV;3;PRS;PROG;INFM	পাচ্ছো
+V;2;PST;HAB;POLভাবাV;2;PST;HAB;POL	ভাবতো
+V;V.MSDRদেখানোV;V.MSDR	দেখানো
+V;2;PRS;PROG;LGSPEC1নেওয়াV;2;PRS;PROG;LGSPEC1	নিচ্ছিস
+V;3;PRS;POLশোনাV;3;PRS;POL	শোনেন
+V;2;PST;HAB;LGSPEC1চাখাV;2;PST;HAB;LGSPEC1	চাখতিস
+V;2;PRS;PRF;POLটাইপ করাV;2;PRS;PRF;POL	টাইপ করেছে
+V;1;PST;HABপাওয়াV;1;PST;HAB	পেতাম
+V;2;PRS;LGSPEC1টানাV;2;PRS;LGSPEC1	টানিস
+N;GEN;SG;DEFতিমিN;GEN;SG;DEF	তিমিটার
+V;2;PST;HAB;POLভালবাসাV;2;PST;HAB;POL	ভালবাসতো
+N;GEN;SG;DEFবান্ধবীN;GEN;SG;DEF	বান্ধবীটার
+V;1;PRSচাটাV;1;PRS	চাটি
+V;1;FUTমারাV;1;FUT	মারবো
+N;ACC;PL;DEFমানুষN;ACC;PL;DEF	মানুষদেরকে
+V;3;FUT;INFMভুলে যাওয়াV;3;FUT;INFM	ভুলে যাবে
+V;3;PST;PROG;INFMবলাV;3;PST;PROG;INFM	বলছিলে
+V;2;PRS;POLখোলাV;2;PRS;POL	খোলে
+V;2;PST;PRF;POLব্যবহার করাV;2;PST;PRF;POL	ব্যবহার করেছিলো
+V;1;PRS;PRFমনে রাখাV;1;PRS;PRF	মনে রেখেছি
+V;2;PST;PRF;LGSPEC1ধরাV;2;PST;PRF;LGSPEC1	ধরেছিলি
+V;1;PSTরাখাV;1;PST	রাখলাম
+V;3;FUT;POLভাবাV;3;FUT;POL	ভাববেন
+N;ACC;PL;DEFযৌনকর্মীN;ACC;PL;DEF	যৌনকর্মীদেরকে
+V;V.NFINবসাV;V.NFIN	বসতে
+V;V.NFINআচরণ করাV;V.NFIN	আচরণ করতে
+V;V.PTCP;PRFভুলে যাওয়াV;V.PTCP;PRF	ভুলে গিয়ে
+V;3;PRS;PRF;POLগেলাV;3;PRS;PRF;POL	গিলেছেন
+V;1;FUTচাখাV;1;FUT	চাখবো
+V;3;PST;PROG;POLচোষাV;3;PST;PROG;POL	চুষছিলেন
+V;1;PRSঢুকানোV;1;PRS	ঢুকাই
+V;2;PRS;PROG;LGSPEC1আঁকাV;2;PRS;PROG;LGSPEC1	আঁকছিস
+N;GEN;NDEFতরঙ্গN;GEN;NDEF	তরঙ্গের
+N;GEN;NDEFগাঁজাখোরN;GEN;NDEF	গাঁজাখোরের
+V;2;PST;PRF;POLডিফ্র্যাগমেন্ট করাV;2;PST;PRF;POL	ডিফ্র্যাগমেন্ট করেছিলো
+V;3;PRS;INFMঘামাV;3;PRS;INFM	ঘামো
+V;1;FUTঘামাV;1;FUT	ঘামবো
+V;3;PRS;PRF;INFMবৃষ্টি হওয়াV;3;PRS;PRF;INFM	বৃষ্টি হয়েছো
+V;3;PST;PRF;POLমারাV;3;PST;PRF;POL	মেরেছিলেন
+V;2;FUT;POLযাওয়াV;2;FUT;POL	যাবে
+V;3;PST;HAB;POLআসাV;3;PST;HAB;POL	আসতেন
+V;2;PRS;POLখাওয়াV;2;PRS;POL	খায়
+V;1;PRS;PRFঘামাV;1;PRS;PRF	ঘেমেছি
+N;NOM;NDEFবান্ধবীN;NOM;NDEF	বান্ধবী
+V;2;PST;PROG;LGSPEC1মাল ফেলাV;2;PST;PROG;LGSPEC1	মাল ফেলছিলি
+V;3;FUT;INFMবসাV;3;FUT;INFM	বসবে
+V;3;FUT;POLচাখাV;3;FUT;POL	চাখবেন
+N;ACC;PL;DEFকারণN;ACC;PL;DEF	কারণগুলা
+V;2;PST;HAB;LGSPEC1বৃষ্টি হওয়াV;2;PST;HAB;LGSPEC1	বৃষ্টি হতিস
+V;3;FUT;INFMচাওয়াV;3;FUT;INFM	চাবে
+V;1;PRS;PROGউল্কি আঁকাV;1;PRS;PROG	উল্কি আঁকছি
+V;2;FUT;POLডিফ্র্যাগমেন্ট করাV;2;FUT;POL	ডিফ্র্যাগমেন্ট করবে
+V;3;PRS;PROG;INFMখোলাV;3;PRS;PROG;INFM	খুলছো
+N;ACC;SG;DEFফুলN;ACC;SG;DEF	ফুলটা
+V;3;PRS;PROG;POLমারাV;3;PRS;PROG;POL	মারছেন
+V;2;PST;LGSPEC1বলাV;2;PST;LGSPEC1	বল্লি
+V;2;PST;POLজানাV;2;PST;POL	জানলো
+V;3;PST;PROG;POLচাটাV;3;PST;PROG;POL	চাটছিলেন
+V;2;PST;HAB;LGSPEC1পাঠানোV;2;PST;HAB;LGSPEC1	পাঠাতিস
+V;V.PTCP;HABখোঁজাV;V.PTCP;HAB	খুঁজে
+N;NOM;NDEFচোখN;NOM;NDEF	চোখ
+V;2;PST;PROG;POLহাঁটাV;2;PST;PROG;POL	হাঁটছিলো
+V;V.PTCP;CONDবিশেষ করাV;V.PTCP;COND	বিশেষ করলে
+V;1;PST;PROGঘুমানোV;1;PST;PROG	ঘুমাচ্ছিলাম
+V;3;PST;HAB;POLদেওয়াV;3;PST;HAB;POL	দিতেন
+V;1;PST;HABঘুমানোV;1;PST;HAB	ঘুমাতাম
+V;2;PST;PRF;POLজ্বালাতন করাV;2;PST;PRF;POL	জ্বালাতন করেছিলো
+V;2;PST;POLগেলাV;2;PST;POL	গিল্লো
+V;2;PRS;POLভালোবাসাV;2;PRS;POL	ভালোবাসে
+N;ACC;NDEFধনN;ACC;NDEF	ধন
+V;1;PRS;PROGঅনুবাদ করাV;1;PRS;PROG	অনুবাদ করছি
+V;3;PST;PROG;INFMচাটাV;3;PST;PROG;INFM	চাটছিলে
+V;3;PST;PRF;INFMপ্রশ্ন করাV;3;PST;PRF;INFM	প্রশ্ন করেছিলে
+V;3;PRS;PRF;INFMশোনাV;3;PRS;PRF;INFM	শুনেছো
+V;2;PST;PRF;POLচেষ্টা করাV;2;PST;PRF;POL	চেষ্টা করেছিলো
+V;V.NFINইচ্ছা হওয়াV;V.NFIN	ইচ্ছা হতে
+V;2;PST;HAB;POLঅপেক্ষা করাV;2;PST;HAB;POL	অপেক্ষা করতো
+V;V.MSDRপরাV;V.MSDR	পরা
+V;V.PTCP;CONDলেখাV;V.PTCP;COND	লিখলে
+N;LOC;SG;DEFচোখN;LOC;SG;DEF	চোখটাতে
+V;3;PST;PROG;INFMভালবাসাV;3;PST;PROG;INFM	ভালবাসছিলে
+N;LOC;NDEFগাজরN;LOC;NDEF	গাজরে
+V;1;FUTভাবাV;1;FUT	ভাববো
+V;3;PRS;POLআসাV;3;PRS;POL	আসেন
+V;2;PST;POLঘুমানোV;2;PST;POL	ঘুমালো
+V;1;PRSপছন্দ করাV;1;PRS	পছন্দ করি
+V;3;PRS;PRF;POLদাঁড়ানোV;3;PRS;PRF;POL	দাঁড়িয়েছেন
+V;V.PTCP;HABজাগানোV;V.PTCP;HAB	জাগায়
+V;2;PST;HAB;LGSPEC1লুকানোV;2;PST;HAB;LGSPEC1	লুকাতিস
+V;3;PRS;PRF;INFMঘামাV;3;PRS;PRF;INFM	ঘেমেছো
+V;3;PST;PROG;INFMঘুমানোV;3;PST;PROG;INFM	ঘুমাচ্ছিলে
+V;3;PST;PRF;POLগেলাV;3;PST;PRF;POL	গিলেছিলেন
+V;2;PST;PRF;POLশেখাV;2;PST;PRF;POL	শিখেছিলো
+N;GEN;PL;DEFআলুN;GEN;PL;DEF	আলুগুলার
+V;2;PST;PRF;LGSPEC1ঘামাV;2;PST;PRF;LGSPEC1	ঘেমেছিলি
+V;V.NFINআঁকাV;V.NFIN	আঁকতে
+V;3;PRS;PRF;POLহাঁটাV;3;PRS;PRF;POL	হেঁটেছেন
+V;V.PTCP;CONDমনে রাখাV;V.PTCP;COND	মনে রাখলে
+N;NOM;NDEFবস্তুN;NOM;NDEF	বস্তু
+V;2;PST;PROG;POLচেনাV;2;PST;PROG;POL	চিনছিলো
+V;2;PST;PRF;LGSPEC1ঘামানোV;2;PST;PRF;LGSPEC1	ঘামিয়েছিলি
+V;V.PTCP;PRFবসাV;V.PTCP;PRF	বসে
+V;1;PSTমারাV;1;PST	মারলাম
+N;ACC;PL;DEFগলাN;ACC;PL;DEF	গলাগুলা
+V;V.PTCP;HABনেওয়াV;V.PTCP;HAB	নিয়ে
+V;2;PST;HAB;LGSPEC1ঘামাV;2;PST;HAB;LGSPEC1	ঘামতিস
+N;NOM;SG;DEFবান্ধবীN;NOM;SG;DEF	বান্ধবীটা
+V;3;PRS;PRF;INFMঘৃণা করাV;3;PRS;PRF;INFM	ঘৃণা করেছো
+V;V.PTCP;CONDগাওয়াV;V.PTCP;COND	গেলে
+V;1;PRS;PROGপাওয়াV;1;PRS;PROG	পাচ্ছি
+V;1;PST;HABউল্কি আঁকাV;1;PST;HAB	উল্কি আঁকতাম
+V;3;PST;PRF;POLচাপাV;3;PST;PRF;POL	চেপেছিলেন
+V;1;PRS;PRFচোষাV;1;PRS;PRF	চুষেছি
+V;3;PST;INFMদেখানোV;3;PST;INFM	দেখালে
+V;3;PRS;PRF;INFMশেখাV;3;PRS;PRF;INFM	শিখেছো
+V;3;PST;HAB;POLশিখানোV;3;PST;HAB;POL	শিখাতেন
+N;ACC;NDEFএলাকাN;ACC;NDEF	এলাকা
+V;V.MSDRঅপেক্ষা করাV;V.MSDR	অপেক্ষা করা
+V;3;PST;PRF;POLপ্রশ্ন করাV;3;PST;PRF;POL	প্রশ্ন করেছিলেন
+V;2;PRS;POLজাগাV;2;PRS;POL	জাগে
+V;3;PRS;PRF;POLঘামাV;3;PRS;PRF;POL	ঘেমেছেন
+V;2;PST;PROG;LGSPEC1বসাV;2;PST;PROG;LGSPEC1	বসছিলি
+V;1;PSTআসাV;1;PST	আসলাম
+V;3;PST;HAB;POLউল্কি আঁকাV;3;PST;HAB;POL	উল্কি আঁকতেন
+V;2;PRS;LGSPEC1চাখাV;2;PRS;LGSPEC1	চাখিস
+V;V.PTCP;PRFফেলাV;V.PTCP;PRF	ফেলে
+V;2;PRS;PRF;LGSPEC1দাঁড়ানোV;2;PRS;PRF;LGSPEC1	দাঁড়িয়েছিস
+V;1;PRS;PROGলেখাV;1;PRS;PROG	লিখছি
+V;1;PRS;PROGঘুমানোV;1;PRS;PROG	ঘুমাচ্ছি
+V;3;PST;INFMডিফ্র্যাগমেন্ট করাV;3;PST;INFM	ডিফ্র্যাগমেন্ট করলে
+V;1;PST;PROGঅনুভব করাV;1;PST;PROG	অনুভব করছিলাম
+V;1;PRS;PROGচেনাV;1;PRS;PROG	চিনছি
+V;2;PRS;PROG;LGSPEC1জাগাV;2;PRS;PROG;LGSPEC1	জাগছিস
+V;1;PRS;PRFআগানোV;1;PRS;PRF	আগিয়েছি
+V;2;PRS;PRF;POLআসাV;2;PRS;PRF;POL	এসেছে
+V;2;FUT;POLআসাV;2;FUT;POL	আসবে
+V;V.MSDRশোনাV;V.MSDR	শোনা
+V;V.MSDRচুম্বন করাV;V.MSDR	চুম্বন করা
+V;3;FUT;INFMভালোবাসাV;3;FUT;INFM	ভালোবাসবে
+V;1;PRS;PRFওঠাV;1;PRS;PRF	উঠেছি
+V;V.PTCP;HABজ্বালাতন করাV;V.PTCP;HAB	জ্বালাতন করেকরে
+N;ACC;SG;DEFজন্মN;ACC;SG;DEF	জন্মটা
+V;V.PTCP;PRFমারাV;V.PTCP;PRF	মেরে
+V;3;PST;HAB;POLইচ্ছা হওয়াV;3;PST;HAB;POL	ইচ্ছা হতেন
+V;2;PRS;PRF;POLরাখাV;2;PRS;PRF;POL	রেখেছে
+V;2;PRS;PRF;LGSPEC1শিখানোV;2;PRS;PRF;LGSPEC1	শিখিয়েছিস
+V;3;PRS;PRF;POLমনে রাখাV;3;PRS;PRF;POL	মনে রেখেছেন
+V;3;PST;PRF;INFMশোনাV;3;PST;PRF;INFM	শুনেছিলে
+V;3;FUT;INFMগেলাV;3;FUT;INFM	গিলবে
+V;3;PST;HAB;INFMজ্বালাতন করাV;3;PST;HAB;INFM	জ্বালাতন করতে
+V;2;PST;HAB;LGSPEC1পছন্দ করাV;2;PST;HAB;LGSPEC1	পছন্দ করতিস
+V;2;PRS;LGSPEC1ব্যবহার করাV;2;PRS;LGSPEC1	ব্যবহার করিস
+N;LOC;NDEFঘটনাN;LOC;NDEF	ঘটনাতে
+V;3;PST;PRF;POLফেলাV;3;PST;PRF;POL	ফেলেছিলেন
+V;V.MSDRবলাV;V.MSDR	বলা
+V;3;PST;PRF;POLখোঁজাV;3;PST;PRF;POL	খুঁজেছিলেন
+V;1;PST;PROGডিফ্র্যাগমেন্ট করাV;1;PST;PROG	ডিফ্র্যাগমেন্ট করছিলাম
+V;1;PST;PROGগাওয়াV;1;PST;PROG	গাচ্ছিলাম
+V;3;PST;POLমাল ফেলাV;3;PST;POL	মাল ফেল্লেন
+V;1;PRS;PROGজাগাV;1;PRS;PROG	জাগছি
+V;2;PST;PRF;LGSPEC1গাওয়াV;2;PST;PRF;LGSPEC1	গেয়েছিলি
+N;GEN;PL;DEFমানুষN;GEN;PL;DEF	মানুষদের
+V;2;PST;HAB;LGSPEC1মরাV;2;PST;HAB;LGSPEC1	মরতিস
+V;2;PST;LGSPEC1পরাV;2;PST;LGSPEC1	পরলি
+V;1;PRS;PRFদেওয়াV;1;PRS;PRF	দিয়েছি
+V;3;PST;PRF;POLজানাV;3;PST;PRF;POL	জেনেছিলেন
+V;2;FUT;POLচাখাV;2;FUT;POL	চাখবে
+V;3;PRS;PROG;INFMবোঝাV;3;PRS;PROG;INFM	বুঝছো
+V;2;PST;HAB;POLচাওয়াV;2;PST;HAB;POL	চেতো
+V;2;FUT;POLজাগানোV;2;FUT;POL	জাগাবে
+V;3;PST;PROG;POLপছন্দ করাV;3;PST;PROG;POL	পছন্দ করছিলেন
+V;1;PST;PROGচালানোV;1;PST;PROG	চালাচ্ছিলাম
+N;ACC;SG;DEFশব্দN;ACC;SG;DEF	শব্দটা
+V;V.PTCP;CONDগেলাV;V.PTCP;COND	গিল্লে
+V;2;PST;LGSPEC1অপেক্ষা করাV;2;PST;LGSPEC1	অপেক্ষা করলি
+N;NOM;PL;DEFগাজরN;NOM;PL;DEF	গাজরগুলা
+V;2;PRS;PROG;LGSPEC1জানাV;2;PRS;PROG;LGSPEC1	জানছিস
+V;V.PTCP;PRFপছন্দ করাV;V.PTCP;PRF	পছন্দ করে
+V;2;PRS;PROG;LGSPEC1ব্যবহার করাV;2;PRS;PROG;LGSPEC1	ব্যবহার করছিস
+N;ACC;PL;DEFধনN;ACC;PL;DEF	ধনগুলা
+V;2;PST;PRF;LGSPEC1পাওয়াV;2;PST;PRF;LGSPEC1	পেয়েছিলি
+V;V.PTCP;HABচাওয়াV;V.PTCP;HAB	চেয়ে
+V;V.MSDRঅনুভব করাV;V.MSDR	অনুভব করা
+N;ACC;SG;DEFআলুN;ACC;SG;DEF	আলুটা
+V;3;PRS;PROG;INFMলুকানোV;3;PRS;PROG;INFM	লুকাচ্ছো
+N;ACC;SG;DEFবিভাগN;ACC;SG;DEF	বিভাগটা
+V;1;PST;HABঅনুবাদ করাV;1;PST;HAB	অনুবাদ করতাম
+N;NOM;SG;DEFধনN;NOM;SG;DEF	ধনটা
+N;NOM;PL;DEFদেশN;NOM;PL;DEF	দেশগুলা
+V;3;FUT;POLখাওয়াV;3;FUT;POL	খাবেন
+N;GEN;PL;DEFযৌনকর্মীN;GEN;PL;DEF	যৌনকর্মীদের
+V;3;PRS;PRF;POLআগানোV;3;PRS;PRF;POL	আগিয়েছেন
+V;1;PST;PRFব্যবহার করাV;1;PST;PRF	ব্যবহার করেছিলাম
+V;3;PRS;PROG;INFMচেনাV;3;PRS;PROG;INFM	চিনছো
+N;NOM;PL;DEFবোনN;NOM;PL;DEF	বোনেরা
+V;3;PST;PRF;POLখোলাV;3;PST;PRF;POL	খুলেছিলেন
+V;2;PST;HAB;LGSPEC1জাগাV;2;PST;HAB;LGSPEC1	জাগতিস
+V;2;PST;LGSPEC1দেখাV;2;PST;LGSPEC1	দেখলি
+N;ACC;PL;DEFপ্রতিষ্ঠাতাN;ACC;PL;DEF	প্রতিষ্ঠাতাদেরকে
+N;GEN;PL;DEFঅঙ্গN;GEN;PL;DEF	অঙ্গগুলার
+V;3;PST;HAB;POLডিফ্র্যাগমেন্ট করাV;3;PST;HAB;POL	ডিফ্র্যাগমেন্ট করতেন
+V;V.NFINচেষ্টা করাV;V.NFIN	চেষ্টা করতে
+V;1;PRSকরাV;1;PRS	করি
+V;3;PST;HAB;INFMভালবাসাV;3;PST;HAB;INFM	ভালবাসতে
+V;2;PST;PRF;LGSPEC1ভালবাসাV;2;PST;PRF;LGSPEC1	ভালবেসেছিলি
+V;2;PST;HAB;POLঅনুভব করাV;2;PST;HAB;POL	অনুভব করতো
+V;V.PTCP;PROGকাটাV;V.PTCP;PROG	কাটতে
+V;3;FUT;POLজ্বালাতন করাV;3;FUT;POL	জ্বালাতন করবেন
+N;NOM;PL;DEFভাষাN;NOM;PL;DEF	ভাষাগুলা
+V;2;PST;PROG;LGSPEC1চেষ্টা করাV;2;PST;PROG;LGSPEC1	চেষ্টা করছিলি
+V;3;PRS;PROG;POLদাঁড়ানোV;3;PRS;PROG;POL	দাঁড়াচ্ছেন
+V;2;PST;PRF;LGSPEC1চেনাV;2;PST;PRF;LGSPEC1	চিনেছিলি
+N;NOM;NDEFরংN;NOM;NDEF	রং
+V;1;PRS;PRFউল্কি আঁকাV;1;PRS;PRF	উল্কি এঁকেছি
+V;2;PRS;PROG;POLখোলাV;2;PRS;PROG;POL	খুলছে
+V;2;FUT;POLখাওয়াV;2;FUT;POL	খাবে
+V;1;PST;HABভালবাসাV;1;PST;HAB	ভালবাসতাম
+V;3;FUT;INFMহাগাV;3;FUT;INFM	হাগবে
+V;3;PRS;PROG;POLচাপাV;3;PRS;PROG;POL	চাপছেন
+N;NOM;PL;DEFনামN;NOM;PL;DEF	নামগুলা
+V;V.PTCP;PRFঘৃণা করাV;V.PTCP;PRF	ঘৃণা করে
+V;V.PTCP;CONDহওয়াV;V.PTCP;COND	হলে
+V;2;FUT;LGSPEC1জানাV;2;FUT;LGSPEC1	জানবি
+V;2;PST;LGSPEC1নেওয়াV;2;PST;LGSPEC1	নিলি
+V;2;PRS;PROG;LGSPEC1প্রশ্ন করাV;2;PRS;PROG;LGSPEC1	প্রশ্ন করছিস
+V;V.NFINটানাV;V.NFIN	টানতে
+V;2;PST;PROG;POLঅপেক্ষা করাV;2;PST;PROG;POL	অপেক্ষা করছিলো
+V;V.PTCP;CONDআসাV;V.PTCP;COND	আসলে
+V;V.PTCP;PRFহওয়াV;V.PTCP;PRF	হয়ে
+V;2;PST;PROG;LGSPEC1করাV;2;PST;PROG;LGSPEC1	করছিলি
+V;1;PSTআগানোV;1;PST	আগালাম
+N;GEN;NDEFশিশুN;GEN;NDEF	শিশুর
+N;ACC;PL;DEFকুকুরN;ACC;PL;DEF	কুকুরদেরকে
+V;V.PTCP;HABচাটাV;V.PTCP;HAB	চেটে
+N;NOM;PL;DEFমুখN;NOM;PL;DEF	মুখগুলা
+V;V.NFINরাখাV;V.NFIN	রাখতে
+V;1;PST;PROGবিশেষ করাV;1;PST;PROG	বিশেষ করছিলাম
+V;3;PRS;PRF;POLডিফ্র্যাগমেন্ট করাV;3;PRS;PRF;POL	ডিফ্র্যাগমেন্ট করেছেন
+V;2;PRS;PROG;POLখাওয়াV;2;PRS;PROG;POL	খাচ্ছে
+V;3;PST;HAB;INFMমারাV;3;PST;HAB;INFM	মারতে
+V;3;PST;INFMযাওয়াV;3;PST;INFM	গেলে
+V;2;PRS;LGSPEC1ধরাV;2;PRS;LGSPEC1	ধরিস
+N;GEN;NDEFনেশাখোরN;GEN;NDEF	নেশাখোরের
+V;3;PST;PRF;INFMদেখানোV;3;PST;PRF;INFM	দেখিয়েছিলে
+V;3;PST;PRF;INFMমনে রাখাV;3;PST;PRF;INFM	মনে রেখেছিলে
+N;ACC;SG;DEFউদ্দেশ্যN;ACC;SG;DEF	উদ্দেশ্যটা
+V;3;PRS;PRF;POLউল্কি আঁকাV;3;PRS;PRF;POL	উল্কি এঁকেছেন
+V;1;PRSটাইপ করাV;1;PRS	টাইপ করি
+N;ACC;SG;DEFজানালাN;ACC;SG;DEF	জানালাটা
+N;ACC;SG;DEFগলাN;ACC;SG;DEF	গলাটা
+N;GEN;SG;DEFজানালাN;GEN;SG;DEF	জানালাটার
+V;2;FUT;LGSPEC1যাওয়াV;2;FUT;LGSPEC1	যাবি
+N;NOM;NDEFনেশাখোরN;NOM;NDEF	নেশাখোর
+V;3;PST;HAB;INFMফেলাV;3;PST;HAB;INFM	ফেলতে
+V;3;PRS;POLদেখাV;3;PRS;POL	দেখেন
+V;2;PST;POLজ্বালাতন করাV;2;PST;POL	জ্বালাতন করলো
+V;3;PRS;INFMঘামানোV;3;PRS;INFM	ঘামাও
+V;2;PRS;LGSPEC1অনুরোধ করাV;2;PRS;LGSPEC1	অনুরোধ করিস
+V;V.NFINভালোবাসাV;V.NFIN	ভালোবাসতে
+V;2;PST;LGSPEC1লেখাV;2;PST;LGSPEC1	লিখলি
+N;ACC;NDEFগাঁজাখোরN;ACC;NDEF	গাঁজাখোর
+N;GEN;NDEFএলাকাN;GEN;NDEF	এলাকার
+V;V.PTCP;PRFঘামাV;V.PTCP;PRF	ঘেমে
+V;3;PST;INFMবন্ধ করাV;3;PST;INFM	বন্ধ করলে
+V;V.PTCP;CONDকেনাV;V.PTCP;COND	কিনলে
+N;GEN;NDEFকারণN;GEN;NDEF	কারণের
+N;LOC;NDEFউদ্দেশ্যN;LOC;NDEF	উদ্দেশ্যে
+V;3;PRS;POLবৃষ্টি হওয়াV;3;PRS;POL	বৃষ্টি হন
+V;1;PRS;PRFভরাV;1;PRS;PRF	ভরেছি
+N;NOM;SG;DEFব্যক্তিN;NOM;SG;DEF	ব্যক্তিটা
+N;LOC;SG;DEFউপজেলাN;LOC;SG;DEF	উপজেলাটাতে
+V;2;PRS;PRF;POLকরাV;2;PRS;PRF;POL	করেছে
+N;GEN;NDEFবন্ধুN;GEN;NDEF	বন্ধুর
+V;1;PST;PROGঘৃণা করাV;1;PST;PROG	ঘৃণা করছিলাম
+V;2;PST;PROG;POLঢুকানোV;2;PST;PROG;POL	ঢুকাচ্ছিলো
+V;1;PST;HABনাচাV;1;PST;HAB	নাচতাম
+V;3;PRS;PRF;INFMকরাV;3;PRS;PRF;INFM	করেছো
+N;GEN;PL;DEFবোনN;GEN;PL;DEF	বোনদের
+V;V.NFINনেওয়াV;V.NFIN	নেতে
+V;3;PST;PROG;INFMধরাV;3;PST;PROG;INFM	ধরছিলে
+V;1;PRS;PRFঘুমানোV;1;PRS;PRF	ঘুমিয়েছি
+V;3;PST;HAB;INFMআসাV;3;PST;HAB;INFM	আসতে
+V;2;FUT;POLঅপেক্ষা করাV;2;FUT;POL	অপেক্ষা করবে
+V;3;FUT;POLআগানোV;3;FUT;POL	আগাবেন
+V;3;PRS;PROG;INFMপরাV;3;PRS;PROG;INFM	পরছো
+N;LOC;SG;DEFনুনুN;LOC;SG;DEF	নুনুটাতে
+V;3;PRS;PROG;INFMহাত মারাV;3;PRS;PROG;INFM	হাত মারছো
+V;2;PRS;PROG;LGSPEC1চুম্বন করাV;2;PRS;PROG;LGSPEC1	চুম্বন করছিস
+V;1;FUTসাহায্য করাV;1;FUT	সাহায্য করবো
+V;1;PST;PRFগেলাV;1;PST;PRF	গিলেছিলাম
+V;V.MSDRইচ্ছা হওয়াV;V.MSDR	ইচ্ছা হওয়া
+N;LOC;SG;DEFমুখN;LOC;SG;DEF	মুখটাতে
+V;2;PRS;PROG;LGSPEC1বলাV;2;PRS;PROG;LGSPEC1	বলছিস
+V;V.PTCP;PRFচুম্বন করাV;V.PTCP;PRF	চুম্বন করে
+N;NOM;NDEFএলাকাN;NOM;NDEF	এলাকা
+V;2;PST;PRF;POLলুকানোV;2;PST;PRF;POL	লুকিয়েছিলো
+V;3;PST;HAB;INFMজাগানোV;3;PST;HAB;INFM	জাগাতে
+V;3;PST;PROG;INFMরাখাV;3;PST;PROG;INFM	রাখছিলে
+V;3;PST;INFMব্যবহার করাV;3;PST;INFM	ব্যবহার করলে
+V;3;PST;HAB;INFMনাচাV;3;PST;HAB;INFM	নাচতে
+V;2;PRS;PROG;POLভালবাসাV;2;PRS;PROG;POL	ভালবাসছে
+V;3;PRS;PROG;INFMচাখাV;3;PRS;PROG;INFM	চাখছো
+V;2;PRS;PRF;POLঘুমানোV;2;PRS;PRF;POL	ঘুমিয়েছে
+V;3;PST;HAB;INFMডিফ্র্যাগমেন্ট করাV;3;PST;HAB;INFM	ডিফ্র্যাগমেন্ট করতে
+V;3;PRS;POLচেষ্টা করাV;3;PRS;POL	চেষ্টা করেন
+N;GEN;PL;DEFশিশ্নN;GEN;PL;DEF	শিশ্নগুলার
+V;2;PST;PRF;LGSPEC1ডিফ্র্যাগমেন্ট করাV;2;PST;PRF;LGSPEC1	ডিফ্র্যাগমেন্ট করেছিলি
+V;2;PRS;PROG;POLঢুকানোV;2;PRS;PROG;POL	ঢুকাচ্ছে
+V;3;PST;HAB;INFMমরাV;3;PST;HAB;INFM	মরতে
+V;V.PTCP;HABভাঙাV;V.PTCP;HAB	ভেঙে
+V;3;PST;PRF;POLঘামাV;3;PST;PRF;POL	ঘেমেছিলেন
+V;1;PST;PRFলুকানোV;1;PST;PRF	লুকিয়েছিলাম
+V;2;PST;PROG;LGSPEC1ভালবাসাV;2;PST;PROG;LGSPEC1	ভালবাসছিলি
+V;2;PST;PROG;POLহাগাV;2;PST;PROG;POL	হাগছিলো
+V;1;FUTকাটাV;1;FUT	কাটবো
+V;1;PSTধরাV;1;PST	ধরলাম
+N;ACC;NDEFমানুষN;ACC;NDEF	মানুষ
+V;1;PRS;PRFভাঙাV;1;PRS;PRF	ভেঙেছি
+V;3;PRS;PRF;INFMলেখাV;3;PRS;PRF;INFM	লিখেছো
+V;1;PSTচাপাV;1;PST	চাপলাম
+V;2;FUT;LGSPEC1দাঁড়ানোV;2;FUT;LGSPEC1	দাঁড়াবি
+V;V.PTCP;HABভুলে যাওয়াV;V.PTCP;HAB	ভুলে গিয়েগিয়ে
+V;V.PTCP;PRFপাওয়াV;V.PTCP;PRF	পেয়ে
+V;3;PST;PROG;POLপরাV;3;PST;PROG;POL	পরছিলেন
+N;NOM;PL;DEFজন্মN;NOM;PL;DEF	জন্মগুলা
+V;3;PST;PROG;POLপ্রশ্ন করাV;3;PST;PROG;POL	প্রশ্ন করছিলেন
+V;3;PST;INFMওঠাV;3;PST;INFM	উঠলে
+V;2;PST;PRF;POLদেখানোV;2;PST;PRF;POL	দেখিয়েছিলো
+V;2;FUT;LGSPEC1জাগানোV;2;FUT;LGSPEC1	জাগাবি
+V;2;PRS;POLদেখানোV;2;PRS;POL	দেখায়
+V;3;PRS;PROG;INFMঢোকাV;3;PRS;PROG;INFM	ঢুকছো
+V;V.PTCP;HABচেষ্টা করাV;V.PTCP;HAB	চেষ্টা করেকরে
+V;3;PST;PROG;POLমারাV;3;PST;PROG;POL	মারছিলেন
+V;V.PTCP;PROGবন্ধ করাV;V.PTCP;PROG	বন্ধ করতেকরতে
+V;3;FUT;POLদেওয়াV;3;FUT;POL	দিবেন
+V;2;PST;HAB;POLঘামাV;2;PST;HAB;POL	ঘামতো
+V;1;PRSদাঁড়ানোV;1;PRS	দাঁড়াই
+N;GEN;NDEFশিশ্নN;GEN;NDEF	শিশ্নের
+V;3;PRS;PRF;INFMদেখানোV;3;PRS;PRF;INFM	দেখিয়েছো
+V;3;PRS;PROG;INFMভাবাV;3;PRS;PROG;INFM	ভাবছো
+V;3;FUT;INFMজানাV;3;FUT;INFM	জানবে
+V;3;PST;INFMচাটাV;3;PST;INFM	চাটলে
+V;3;PRS;PROG;INFMদাঁড়ানোV;3;PRS;PROG;INFM	দাঁড়াচ্ছো
+V;3;PRS;PRF;POLবোঝাV;3;PRS;PRF;POL	বুঝেছেন
+V;3;PRS;POLভুলে যাওয়াV;3;PRS;POL	ভুলে যান
+N;NOM;PL;DEFপাছাN;NOM;PL;DEF	পাছাগুলা
+V;3;PST;INFMটাইপ করাV;3;PST;INFM	টাইপ করলে
+V;2;PRS;PROG;LGSPEC1জাগানোV;2;PRS;PROG;LGSPEC1	জাগাচ্ছিস
+V;V.PTCP;CONDনেওয়াV;V.PTCP;COND	নিলে
+N;ACC;SG;DEFমুখN;ACC;SG;DEF	মুখটা
+V;2;PST;HAB;POLগাওয়াV;2;PST;HAB;POL	গেতো
+V;2;PRS;LGSPEC1ভরাV;2;PRS;LGSPEC1	ভরিস
+V;2;PRS;PROG;POLকাটাV;2;PRS;PROG;POL	কাটছে
+N;ACC;NDEFবান্ধবীN;ACC;NDEF	বান্ধবী
+N;NOM;PL;DEFছাতাN;NOM;PL;DEF	ছাতাগুলা
+V;3;PRS;POLঘামানোV;3;PRS;POL	ঘামান
+V;2;PST;LGSPEC1চাটাV;2;PST;LGSPEC1	চাটলি
+V;3;FUT;INFMচেনাV;3;FUT;INFM	চিনবে
+V;2;PRS;PRF;LGSPEC1সাহায্য করাV;2;PRS;PRF;LGSPEC1	সাহায্য করেছিস
+V;2;PST;POLঢুকানোV;2;PST;POL	ঢুকালো
+V;V.PTCP;HABসাহায্য করাV;V.PTCP;HAB	সাহায্য করেকরে
+V;1;FUTবন্ধ করাV;1;FUT	বন্ধ করবো
+V;3;PRS;INFMখাওয়াV;3;PRS;INFM	খাও
+V;3;PRS;PROG;INFMকাটাV;3;PRS;PROG;INFM	কাটছো
+V;3;PRS;POLমারাV;3;PRS;POL	মারেন
+V;1;PRS;PRFঘৃণা করাV;1;PRS;PRF	ঘৃণা করেছি
+V;1;PRSবসাV;1;PRS	বসি
+V;V.PTCP;PRFখাওয়াV;V.PTCP;PRF	খেয়ে
+V;2;PRS;LGSPEC1জাগানোV;2;PRS;LGSPEC1	জাগাস
+V;3;PST;POLঅপেক্ষা করাV;3;PST;POL	অপেক্ষা করলেন
+V;2;PST;HAB;LGSPEC1খোঁজাV;2;PST;HAB;LGSPEC1	খুঁজতিস
+N;ACC;NDEFজেলাN;ACC;NDEF	জেলা
+V;3;PST;PROG;POLপ্রমাণ করাV;3;PST;PROG;POL	প্রমাণ করছিলেন
+V;3;PST;POLচেনাV;3;PST;POL	চিনলেন
+V;1;FUTজাগাV;1;FUT	জাগবো
+V;2;FUT;LGSPEC1শিখানোV;2;FUT;LGSPEC1	শিখাবি
+N;NOM;PL;DEFধনN;NOM;PL;DEF	ধনগুলা
+V;1;PRS;PRFবৃষ্টি হওয়াV;1;PRS;PRF	বৃষ্টি হয়েছি
+V;2;PRS;PROG;LGSPEC1শিখানোV;2;PRS;PROG;LGSPEC1	শিখাচ্ছিস
+V;3;PST;HAB;POLআঁকাV;3;PST;HAB;POL	আঁকতেন
+V;2;PST;PROG;POLশোনাV;2;PST;PROG;POL	শুনছিলো
+N;ACC;SG;DEFঅনুরোধN;ACC;SG;DEF	অনুরোধটা
+N;ACC;SG;DEFদেহN;ACC;SG;DEF	দেহটা
+V;3;PST;INFMআঁকাV;3;PST;INFM	আঁকলে
+V;1;PST;HABধরাV;1;PST;HAB	ধরতাম
+V;2;PST;POLকরাV;2;PST;POL	করলো
+V;V.PTCP;HABজাগাV;V.PTCP;HAB	জেগে
+V;3;FUT;POLমারাV;3;FUT;POL	মারবেন
+V;2;PRS;PRF;POLপ্রশ্ন করাV;2;PRS;PRF;POL	প্রশ্ন করেছে
+V;2;FUT;POLবন্ধ করাV;2;FUT;POL	বন্ধ করবে
+N;ACC;NDEFছাতাN;ACC;NDEF	ছাতা
+V;V.NFINসাহায্য করাV;V.NFIN	সাহায্য করতে
+N;GEN;SG;DEFছাত্রN;GEN;SG;DEF	ছাত্রটার
+V;V.PTCP;PROGভাবাV;V.PTCP;PROG	ভাবতে
+V;3;PRS;PROG;POLআগানোV;3;PRS;PROG;POL	আগাচ্ছেন
+V;2;PRS;PRF;LGSPEC1ব্যবহার করাV;2;PRS;PRF;LGSPEC1	ব্যবহার করেছিস
+V;1;PSTবিশেষ করাV;1;PST	বিশেষ করলাম
+V;1;PST;PROGঘামানোV;1;PST;PROG	ঘামাচ্ছিলাম
+V;V.MSDRনেওয়াV;V.MSDR	নেওয়া
+V;1;PRSকাটাV;1;PRS	কাটি
+V;2;PST;LGSPEC1মারাV;2;PST;LGSPEC1	মারলি
+V;1;PRSডিফ্র্যাগমেন্ট করাV;1;PRS	ডিফ্র্যাগমেন্ট করি
+V;3;PST;PRF;INFMটাইপ করাV;3;PST;PRF;INFM	টাইপ করেছিলে
+V;3;PST;PRF;POLঘৃণা করাV;3;PST;PRF;POL	ঘৃণা করেছিলেন
+V;2;PST;PROG;POLশিখানোV;2;PST;PROG;POL	শিখাচ্ছিলো
+V;3;FUT;POLগাওয়াV;3;FUT;POL	গাবেন
+V;3;PRS;INFMখোলাV;3;PRS;INFM	খোলো
+V;2;PRS;PROG;LGSPEC1লুকানোV;2;PRS;PROG;LGSPEC1	লুকাচ্ছিস
+V;2;PRS;PRF;LGSPEC1দেখাV;2;PRS;PRF;LGSPEC1	দেখেছিস
+N;GEN;SG;DEFঅভিযোগN;GEN;SG;DEF	অভিযোগটার
+V;3;PST;HAB;POLভাবাV;3;PST;HAB;POL	ভাবতেন
+V;3;PST;INFMহাগাV;3;PST;INFM	হাগলে
+N;GEN;PL;DEFনামN;GEN;PL;DEF	নামগুলার
+V;1;PRSভুলে যাওয়াV;1;PRS	ভুলে যাই
+V;2;PST;PRF;LGSPEC1নাচাV;2;PST;PRF;LGSPEC1	নেচেছিলি
+V;3;PST;INFMঅপেক্ষা করাV;3;PST;INFM	অপেক্ষা করলে
+V;3;PST;HAB;POLঘুমানোV;3;PST;HAB;POL	ঘুমাতেন
+V;3;PRS;INFMটাইপ করাV;3;PRS;INFM	টাইপ করো
+V;3;PST;HAB;POLদেখাV;3;PST;HAB;POL	দেখতেন
+N;LOC;PL;DEFদৃষ্টান্তN;LOC;PL;DEF	দৃষ্টান্তগুলাতে
+V;2;PST;PROG;LGSPEC1বোঝাV;2;PST;PROG;LGSPEC1	বুঝছিলি
+V;1;PRSগেলাV;1;PRS	গিলি
+V;2;PST;PRF;POLনাচাV;2;PST;PRF;POL	নেচেছিলো
+V;3;PRS;PROG;POLরাখাV;3;PRS;PROG;POL	রাখছেন
+V;1;PST;PRFখাওয়াV;1;PST;PRF	খেয়েছিলাম
+V;1;PRS;PRFচাওয়াV;1;PRS;PRF	চেয়েছি
+V;2;PST;HAB;LGSPEC1জাগানোV;2;PST;HAB;LGSPEC1	জাগাতিস
+V;2;PRS;PROG;POLগেলাV;2;PRS;PROG;POL	গিলছে
+V;3;PST;HAB;INFMঘামানোV;3;PST;HAB;INFM	ঘামাতে
+V;1;PRSইচ্ছা হওয়াV;1;PRS	ইচ্ছা হই
+N;NOM;PL;DEFফুলN;NOM;PL;DEF	ফুলগুলা
+N;ACC;PL;DEFলিঙ্গN;ACC;PL;DEF	লিঙ্গগুলা
+V;3;FUT;POLসাহায্য করাV;3;FUT;POL	সাহায্য করবেন
+N;NOM;NDEFশব্দN;NOM;NDEF	শব্দ
+V;V.PTCP;HABউল্কি আঁকাV;V.PTCP;HAB	উল্কি এঁকেএঁকে
+V;2;FUT;POLচালানোV;2;FUT;POL	চালাবে
+V;1;PST;HABজাগানোV;1;PST;HAB	জাগাতাম
+V;2;PST;PRF;POLচাটাV;2;PST;PRF;POL	চেটেছিলো
+V;2;PRS;LGSPEC1মারাV;2;PRS;LGSPEC1	মারিস
+V;2;PST;POLখোঁজাV;2;PST;POL	খুঁজলো
+V;2;PRS;PROG;POLপছন্দ করাV;2;PRS;PROG;POL	পছন্দ করছে
+V;2;PRS;PRF;LGSPEC1হওয়াV;2;PRS;PRF;LGSPEC1	হয়েছিস
+V;3;PST;PRF;POLটানাV;3;PST;PRF;POL	টেনেছিলেন
+V;3;PST;PRF;POLঢোকাV;3;PST;PRF;POL	ঢুকেছিলেন
+N;LOC;SG;DEFআলুN;LOC;SG;DEF	আলুটাতে
+V;3;FUT;POLভুলে যাওয়াV;3;FUT;POL	ভুলে যাবেন
+V;1;PRS;PROGকরাV;1;PRS;PROG	করছি
+V;2;PST;POLমনে রাখাV;2;PST;POL	মনে রাখলো
+V;3;PST;PRF;POLশিখানোV;3;PST;PRF;POL	শিখিয়েছিলেন
+V;2;PRS;PROG;POLসাহায্য করাV;2;PRS;PROG;POL	সাহায্য করছে
+N;NOM;NDEFধনN;NOM;NDEF	ধন
+V;2;PRS;PRF;POLভাবাV;2;PRS;PRF;POL	ভেবেছে
+V;V.PTCP;HABচেনাV;V.PTCP;HAB	চিনে
+V;2;PRS;PRF;POLদাঁড়ানোV;2;PRS;PRF;POL	দাঁড়িয়েছে
+V;1;PRS;PROGবসাV;1;PRS;PROG	বসছি
+V;3;PST;POLপাঠানোV;3;PST;POL	পাঠালেন
+V;2;FUT;POLপরাV;2;FUT;POL	পরবে
+V;1;PST;HABলুকানোV;1;PST;HAB	লুকাতাম
+N;NOM;PL;DEFশিশ্নN;NOM;PL;DEF	শিশ্নগুলা
+N;LOC;PL;DEFশিশ্নN;LOC;PL;DEF	শিশ্নগুলাতে
+V;2;PRS;PRF;POLফেলাV;2;PRS;PRF;POL	ফেলেছে
+V;3;PRS;INFMবোঝাV;3;PRS;INFM	বোঝো
+V;2;PST;HAB;LGSPEC1ব্যবহার করাV;2;PST;HAB;LGSPEC1	ব্যবহার করতিস
+V;V.PTCP;CONDঢুকানোV;V.PTCP;COND	ঢুকালে
+V;3;PRS;PRF;POLভাঙাV;3;PRS;PRF;POL	ভেঙেছেন
+V;3;FUT;INFMশিখানোV;3;FUT;INFM	শিখাবে
+V;2;FUT;LGSPEC1ওঠাV;2;FUT;LGSPEC1	উঠবি
+V;1;PRS;PRFজাগানোV;1;PRS;PRF	জাগিয়েছি
+V;3;PST;INFMশেখাV;3;PST;INFM	শিখলে
+V;V.NFINআগানোV;V.NFIN	আগাতে
+V;1;PST;PROGলুকানোV;1;PST;PROG	লুকাচ্ছিলাম
+V;2;PRS;PRF;LGSPEC1চোষাV;2;PRS;PRF;LGSPEC1	চুষেছিস
+V;3;PST;PROG;INFMচেনাV;3;PST;PROG;INFM	চিনছিলে
+V;3;PRS;POLআগানোV;3;PRS;POL	আগান
+N;ACC;NDEFকুকুরN;ACC;NDEF	কুকুর
+V;3;PRS;PROG;INFMঅনুরোধ করাV;3;PRS;PROG;INFM	অনুরোধ করছো
+V;1;PST;HABনেওয়াV;1;PST;HAB	নিতাম
+V;2;PST;LGSPEC1বন্ধ করাV;2;PST;LGSPEC1	বন্ধ করলি
+V;3;FUT;INFMঅনুরোধ করাV;3;FUT;INFM	অনুরোধ করবে
+V;1;PST;PROGচাপাV;1;PST;PROG	চাপছিলাম
+V;V.PTCP;HABদেখাV;V.PTCP;HAB	দেখে
+V;3;PST;HAB;INFMব্যবহার করাV;3;PST;HAB;INFM	ব্যবহার করতে
+V;3;PST;POLটাইপ করাV;3;PST;POL	টাইপ করলেন
+V;V.PTCP;HABভালোবাসাV;V.PTCP;HAB	ভালোবেসে
+V;1;FUTপাওয়াV;1;FUT	পাবো
+V;2;PRS;LGSPEC1টাইপ করাV;2;PRS;LGSPEC1	টাইপ করিস
+V;1;PST;PRFদেওয়াV;1;PST;PRF	দিয়েছিলাম
+V;2;PRS;PRF;POLবসাV;2;PRS;PRF;POL	বসেছে
+V;2;PST;HAB;LGSPEC1আঁকাV;2;PST;HAB;LGSPEC1	আঁকতিস
+N;GEN;SG;DEFজেলাN;GEN;SG;DEF	জেলাটার
+V;2;PST;PROG;LGSPEC1ঢুকানোV;2;PST;PROG;LGSPEC1	ঢুকাচ্ছিলি
+N;LOC;SG;DEFছাতাN;LOC;SG;DEF	ছাতাটাতে
+V;2;FUT;LGSPEC1ভালোবাসাV;2;FUT;LGSPEC1	ভালোবাসবি
+V;3;PST;HAB;POLঢুকানোV;3;PST;HAB;POL	ঢুকাতেন
+V;2;FUT;POLমনে রাখাV;2;FUT;POL	মনে রাখবে
+N;LOC;PL;DEFনুনুN;LOC;PL;DEF	নুনুগুলাতে
+V;3;PRS;PROG;INFMজাগাV;3;PRS;PROG;INFM	জাগছো
+V;3;PST;PROG;POLহাগাV;3;PST;PROG;POL	হাগছিলেন
+N;ACC;SG;DEFপ্রতিষ্ঠাতাN;ACC;SG;DEF	প্রতিষ্ঠাতাটাকে
+V;1;PRS;PROGলুকানোV;1;PRS;PROG	লুকাচ্ছি
+V;3;FUT;INFMউল্কি আঁকাV;3;FUT;INFM	উল্কি আঁকবে
+V;3;PST;HAB;POLঢোকাV;3;PST;HAB;POL	ঢুকতেন
+V;1;PST;PRFশিখানোV;1;PST;PRF	শিখিয়েছিলাম
+V;1;PSTদাঁড়ানোV;1;PST	দাঁড়ালাম
+V;2;PST;PRF;POLপ্রমাণ করাV;2;PST;PRF;POL	প্রমাণ করেছিলো
+V;V.MSDRব্যবহার করাV;V.MSDR	ব্যবহার করা
+V;3;FUT;POLভালবাসাV;3;FUT;POL	ভালবাসবেন
+V;3;PST;PRF;INFMপাওয়াV;3;PST;PRF;INFM	পেয়েছিলে
+V;3;PRS;INFMচুম্বন করাV;3;PRS;INFM	চুম্বন করো
+V;1;PST;PROGভাঙাV;1;PST;PROG	ভাঙছিলাম
+V;1;PST;PROGইচ্ছা হওয়াV;1;PST;PROG	ইচ্ছা হচ্ছিলাম
+V;1;PSTহওয়াV;1;PST	হলাম
+N;GEN;NDEFগলাN;GEN;NDEF	গলার
+N;LOC;PL;DEFআলুN;LOC;PL;DEF	আলুগুলাতে
+V;3;PRS;PRF;INFMটাইপ করাV;3;PRS;PRF;INFM	টাইপ করেছো
+V;2;PST;LGSPEC1দাঁড়ানোV;2;PST;LGSPEC1	দাঁড়ালি
+V;2;FUT;POLআঁকাV;2;FUT;POL	আঁকবে
+V;2;PST;HAB;LGSPEC1উল্কি আঁকাV;2;PST;HAB;LGSPEC1	উল্কি আঁকতিস
+V;3;PST;PRF;POLনাচাV;3;PST;PRF;POL	নেচেছিলেন
+V;2;PST;HAB;POLজাগানোV;2;PST;HAB;POL	জাগাতো
+N;NOM;SG;DEFদৃষ্টান্তN;NOM;SG;DEF	দৃষ্টান্তটা
+V;3;PST;PROG;POLশিখানোV;3;PST;PROG;POL	শিখাচ্ছিলেন
+V;3;PRS;POLপছন্দ করাV;3;PRS;POL	পছন্দ করেন
+N;LOC;SG;DEFধনN;LOC;SG;DEF	ধনটাতে
+V;1;PRS;PRFপাঠানোV;1;PRS;PRF	পাঠিয়েছি
+V;1;PST;PROGদেওয়াV;1;PST;PROG	দিচ্ছিলাম
+V;2;PST;PRF;LGSPEC1জানাV;2;PST;PRF;LGSPEC1	জেনেছিলি
+V;2;PRS;PROG;POLবসাV;2;PRS;PROG;POL	বসছে
+V;1;FUTঅনুবাদ করাV;1;FUT	অনুবাদ করবো
+V;2;PRS;LGSPEC1পাঠানোV;2;PRS;LGSPEC1	পাঠাস
+N;ACC;SG;DEFচোখN;ACC;SG;DEF	চোখটা
+V;1;PST;PRFভাঙাV;1;PST;PRF	ভেঙেছিলাম
+V;2;FUT;LGSPEC1নাচাV;2;FUT;LGSPEC1	নাচবি
+V;V.PTCP;CONDভরাV;V.PTCP;COND	ভরলে
+V;2;PST;PROG;POLদাঁড়ানোV;2;PST;PROG;POL	দাঁড়াচ্ছিলো
+V;3;PST;HAB;INFMহওয়াV;3;PST;HAB;INFM	হতে
+V;1;PST;PRFপাঠানোV;1;PST;PRF	পাঠিয়েছিলাম
+V;2;PST;PRF;LGSPEC1প্রমাণ করাV;2;PST;PRF;LGSPEC1	প্রমাণ করেছিলি
+V;1;PST;HABচাখাV;1;PST;HAB	চাখতাম
+V;2;PRS;PROG;POLউল্কি আঁকাV;2;PRS;PROG;POL	উল্কি আঁকছে
+V;2;PST;PROG;LGSPEC1পাওয়াV;2;PST;PROG;LGSPEC1	পাচ্ছিলি
+V;1;PSTশোনাV;1;PST	শুনলাম
+V;1;FUTঢোকাV;1;FUT	ঢুকবো
+V;2;PRS;PROG;POLফেলাV;2;PRS;PROG;POL	ফেলছে
+V;1;PST;PRFচেষ্টা করাV;1;PST;PRF	চেষ্টা করেছিলাম
+V;3;PST;PROG;INFMজানাV;3;PST;PROG;INFM	জানছিলে
+V;2;PST;HAB;LGSPEC1ডিফ্র্যাগমেন্ট করাV;2;PST;HAB;LGSPEC1	ডিফ্র্যাগমেন্ট করতিস
+V;2;PST;PROG;LGSPEC1ঘুমানোV;2;PST;PROG;LGSPEC1	ঘুমাচ্ছিলি
+N;ACC;NDEFদৃষ্টান্তN;ACC;NDEF	দৃষ্টান্ত
+V;V.PTCP;PRFজানাV;V.PTCP;PRF	জেনে
+V;1;PRS;PROGঘামাV;1;PRS;PROG	ঘামছি
+V;2;PST;PRF;POLভালোবাসাV;2;PST;PRF;POL	ভালোবেসেছিলো
+V;3;PRS;INFMসাহায্য করাV;3;PRS;INFM	সাহায্য করো
+V;2;FUT;POLপছন্দ করাV;2;FUT;POL	পছন্দ করবে
+V;3;PST;HAB;POLবৃষ্টি হওয়াV;3;PST;HAB;POL	বৃষ্টি হতেন
+V;V.PTCP;PROGনাচাV;V.PTCP;PROG	নাচতে
+N;ACC;PL;DEFনীহারিকাN;ACC;PL;DEF	নীহারিকাগুলা
+V;2;PRS;POLহাগাV;2;PRS;POL	হাগে
+V;2;PST;PROG;POLনেওয়াV;2;PST;PROG;POL	নিচ্ছিলো
+V;3;PRS;PRF;INFMশিখানোV;3;PRS;PRF;INFM	শিখিয়েছো
+V;2;PST;PROG;LGSPEC1উল্কি আঁকাV;2;PST;PROG;LGSPEC1	উল্কি আঁকছিলি
+V;3;PST;PRF;INFMফেলাV;3;PST;PRF;INFM	ফেলেছিলে
+V;1;PRS;PROGগাওয়াV;1;PRS;PROG	গাচ্ছি
+V;2;PST;PROG;POLবলাV;2;PST;PROG;POL	বলছিলো
+V;3;PST;PRF;INFMবিশেষ করাV;3;PST;PRF;INFM	বিশেষ করেছিলে
+V;2;PRS;LGSPEC1পরাV;2;PRS;LGSPEC1	পরিস
+N;LOC;PL;DEFজেলাN;LOC;PL;DEF	জেলাগুলাতে
+V;1;PSTলুকানোV;1;PST	লুকালাম
+V;2;PRS;PROG;LGSPEC1অনুভব করাV;2;PRS;PROG;LGSPEC1	অনুভব করছিস
+V;3;PRS;PRF;INFMভাবাV;3;PRS;PRF;INFM	ভেবেছো
+V;V.PTCP;HABলুকানোV;V.PTCP;HAB	লুকায়
+V;V.NFINঅনুবাদ করাV;V.NFIN	অনুবাদ করতে
+V;2;PRS;LGSPEC1অপেক্ষা করাV;2;PRS;LGSPEC1	অপেক্ষা করিস
+V;V.PTCP;PRFপাঠানোV;V.PTCP;PRF	পাঠায়
+V;V.PTCP;HABভরাV;V.PTCP;HAB	ভরে
+V;2;PST;PROG;POLউল্কি আঁকাV;2;PST;PROG;POL	উল্কি আঁকছিলো
+V;3;PST;PRF;INFMবসাV;3;PST;PRF;INFM	বসেছিলে
+V;3;PST;PROG;INFMনাচাV;3;PST;PROG;INFM	নাচছিলে
+V;3;PST;POLনেওয়াV;3;PST;POL	নিলেন
+V;3;PST;PRF;POLশোনাV;3;PST;PRF;POL	শুনেছিলেন
+V;2;PRS;PROG;LGSPEC1বোঝাV;2;PRS;PROG;LGSPEC1	বুঝছিস
+N;GEN;NDEFপ্রতিষ্ঠাতাN;GEN;NDEF	প্রতিষ্ঠাতার
+V;3;PRS;INFMমরাV;3;PRS;INFM	মরো
+V;3;PRS;PROG;POLজাগাV;3;PRS;PROG;POL	জাগছেন
+V;2;PRS;PROG;POLজ্বালাতন করাV;2;PRS;PROG;POL	জ্বালাতন করছে
+V;3;PST;PRF;INFMঅনুভব করাV;3;PST;PRF;INFM	অনুভব করেছিলে
+V;3;PRS;POLচাপাV;3;PRS;POL	চাপেন
+N;ACC;SG;DEFছাত্রN;ACC;SG;DEF	ছাত্রটাকে
+V;V.PTCP;PRFঢুকানোV;V.PTCP;PRF	ঢুকায়
+N;NOM;SG;DEFগলাN;NOM;SG;DEF	গলাটা
+N;NOM;SG;DEFরংN;NOM;SG;DEF	রংটা
+V;V.PTCP;CONDনাচাV;V.PTCP;COND	নাচলে
+V;3;PRS;INFMজাগাV;3;PRS;INFM	জাগো
+V;2;FUT;LGSPEC1প্রশ্ন করাV;2;FUT;LGSPEC1	প্রশ্ন করবি
+N;NOM;SG;DEFজন্মN;NOM;SG;DEF	জন্মটা
+V;2;PST;PROG;LGSPEC1লেখাV;2;PST;PROG;LGSPEC1	লিখছিলি
+V;2;PST;PROG;LGSPEC1গাওয়াV;2;PST;PROG;LGSPEC1	গাচ্ছিলি
+V;1;PRS;PRFযাওয়াV;1;PRS;PRF	গিয়েছি
+N;NOM;PL;DEFবস্তুN;NOM;PL;DEF	বস্তুগুলা
+V;3;PST;PRF;INFMভালোবাসাV;3;PST;PRF;INFM	ভালোবেসেছিলে
+V;V.PTCP;PROGজাগানোV;V.PTCP;PROG	জাগাতে
+V;3;PRS;INFMবিশেষ করাV;3;PRS;INFM	বিশেষ করো
+V;2;PRS;POLভরাV;2;PRS;POL	ভরে
+V;3;PST;PROG;INFMকরাV;3;PST;PROG;INFM	করছিলে
+V;2;PST;POLঅনুবাদ করাV;2;PST;POL	অনুবাদ করলো
+V;2;FUT;LGSPEC1কাটাV;2;FUT;LGSPEC1	কাটবি
+V;1;PRS;PROGহাঁটাV;1;PRS;PROG	হাঁটছি
+V;V.PTCP;PRFইচ্ছা হওয়াV;V.PTCP;PRF	ইচ্ছা হয়ে
+V;3;PST;HAB;POLপ্রমাণ করাV;3;PST;HAB;POL	প্রমাণ করতেন
+N;ACC;PL;DEFতরঙ্গN;ACC;PL;DEF	তরঙ্গগুলা
+V;3;PRS;POLহাঁটাV;3;PRS;POL	হাঁটেন
+V;1;PST;PROGঅনুবাদ করাV;1;PST;PROG	অনুবাদ করছিলাম
+V;2;PST;POLমাল ফেলাV;2;PST;POL	মাল ফেল্লো
+V;3;PST;POLবিশেষ করাV;3;PST;POL	বিশেষ করলেন
+V;2;PRS;PRF;LGSPEC1ভাবাV;2;PRS;PRF;LGSPEC1	ভেবেছিস
+V;3;PST;POLপ্রশ্ন করাV;3;PST;POL	প্রশ্ন করলেন
+V;3;PRS;PRF;POLআচরণ করাV;3;PRS;PRF;POL	আচরণ করেছেন
+V;V.MSDRজানাV;V.MSDR	জানা
+V;1;PRS;PRFলেখাV;1;PRS;PRF	লিখেছি
+V;1;PSTবৃষ্টি হওয়াV;1;PST	বৃষ্টি হলাম
+V;2;PRS;POLঢুকানোV;2;PRS;POL	ঢুকায়
+V;2;PST;PRF;POLঅপেক্ষা করাV;2;PST;PRF;POL	অপেক্ষা করেছিলো
+V;3;PRS;PRF;INFMহওয়াV;3;PRS;PRF;INFM	হয়েছো
+V;1;PRS;PROGদেওয়াV;1;PRS;PROG	দিচ্ছি
+V;3;PST;HAB;INFMটানাV;3;PST;HAB;INFM	টানতে
+V;2;PST;PRF;LGSPEC1বন্ধ করাV;2;PST;PRF;LGSPEC1	বন্ধ করেছিলি
+V;1;PST;HABসাহায্য করাV;1;PST;HAB	সাহায্য করতাম
+V;3;PST;PROG;INFMখোঁজাV;3;PST;PROG;INFM	খুঁজছিলে
+V;3;PRS;PROG;POLমাল ফেলাV;3;PRS;PROG;POL	মাল ফেলছেন
+V;2;PRS;PROG;LGSPEC1গাওয়াV;2;PRS;PROG;LGSPEC1	গাচ্ছিস
+V;1;PRSঘামানোV;1;PRS	ঘামাই
+V;2;PRS;PROG;POLওঠাV;2;PRS;PROG;POL	উঠছে
+V;2;PST;HAB;POLদাঁড়ানোV;2;PST;HAB;POL	দাঁড়াতো
+V;2;PST;PRF;POLবৃষ্টি হওয়াV;2;PST;PRF;POL	বৃষ্টি হয়েছিলো
+N;LOC;PL;DEFগলাN;LOC;PL;DEF	গলাগুলাতে
+V;2;PST;PROG;LGSPEC1ভরাV;2;PST;PROG;LGSPEC1	ভরছিলি
+N;NOM;SG;DEFবন্ধুN;NOM;SG;DEF	বন্ধুটা
+V;2;PST;PROG;POLটাইপ করাV;2;PST;PROG;POL	টাইপ করছিলো
+V;3;PRS;POLপাঠানোV;3;PRS;POL	পাঠান
+V;3;PST;PRF;INFMঘৃণা করাV;3;PST;PRF;INFM	ঘৃণা করেছিলে
+V;2;PST;PROG;LGSPEC1শিখানোV;2;PST;PROG;LGSPEC1	শিখাচ্ছিলি
+V;3;FUT;INFMফেলাV;3;FUT;INFM	ফেলবে
+V;1;PST;PRFআসাV;1;PST;PRF	এসেছিলাম
+V;1;PRS;PRFহাঁটাV;1;PRS;PRF	হেঁটেছি
+N;NOM;PL;DEFঘরN;NOM;PL;DEF	ঘরগুলা
+V;2;PST;POLহাগাV;2;PST;POL	হাগলো
+V;3;PRS;POLগাওয়াV;3;PRS;POL	গান
+V;3;PRS;POLচাখাV;3;PRS;POL	চাখেন
+V;1;PRS;PROGমারাV;1;PRS;PROG	মারছি
+V;2;PST;PRF;LGSPEC1রাখাV;2;PST;PRF;LGSPEC1	রেখেছিলি
+V;3;PRS;INFMআঁকাV;3;PRS;INFM	আঁকো
+V;2;FUT;POLকেনাV;2;FUT;POL	কিনবে
+V;3;PRS;INFMউল্কি আঁকাV;3;PRS;INFM	উল্কি আঁকো
+V;2;PRS;PROG;LGSPEC1টাইপ করাV;2;PRS;PROG;LGSPEC1	টাইপ করছিস
+V;3;PRS;PRF;POLসাহায্য করাV;3;PRS;PRF;POL	সাহায্য করেছেন
+V;2;PRS;PRF;LGSPEC1চাওয়াV;2;PRS;PRF;LGSPEC1	চেয়েছিস
+N;GEN;SG;DEFবিভাগN;GEN;SG;DEF	বিভাগটার
+V;3;FUT;INFMমারাV;3;FUT;INFM	মারবে
+V;1;FUTদাঁড়ানোV;1;FUT	দাঁড়াবো
+V;3;FUT;POLঢোকাV;3;FUT;POL	ঢুকবেন
+V;1;PST;PRFটাইপ করাV;1;PST;PRF	টাইপ করেছিলাম
+V;1;PST;HABহওয়াV;1;PST;HAB	হতাম
+V;2;PRS;LGSPEC1লুকানোV;2;PRS;LGSPEC1	লুকাস
+V;V.PTCP;PRFবোঝাV;V.PTCP;PRF	বুঝে
+V;3;PRS;PROG;POLটাইপ করাV;3;PRS;PROG;POL	টাইপ করছেন
+V;1;PSTইচ্ছা হওয়াV;1;PST	ইচ্ছা হলাম
+V;2;PRS;LGSPEC1পছন্দ করাV;2;PRS;LGSPEC1	পছন্দ করিস
+V;3;PST;PRF;POLনেওয়াV;3;PST;PRF;POL	নিয়েছিলেন
+V;3;PRS;PRF;INFMকাটাV;3;PRS;PRF;INFM	কেটেছো
+N;GEN;NDEFনুনুN;GEN;NDEF	নুনুর
+V;V.PTCP;CONDফেলাV;V.PTCP;COND	ফেল্লে
+V;V.PTCP;PROGভরাV;V.PTCP;PROG	ভরতে
+V;V.PTCP;HABবৃষ্টি হওয়াV;V.PTCP;HAB	বৃষ্টি হয়েহয়ে
+N;NOM;PL;DEFউপজেলাN;NOM;PL;DEF	উপজেলাগুলা
+V;1;PRS;PRFপ্রশ্ন করাV;1;PRS;PRF	প্রশ্ন করেছি
+V;1;PSTঅনুরোধ করাV;1;PST	অনুরোধ করলাম
+V;V.PTCP;PROGঘৃণা করাV;V.PTCP;PROG	ঘৃণা করতেকরতে
+V;2;PRS;PRF;LGSPEC1খাওয়াV;2;PRS;PRF;LGSPEC1	খেয়েছিস
+V;3;PST;POLধরাV;3;PST;POL	ধরলেন
+V;2;PST;POLভাঙাV;2;PST;POL	ভাঙলো
+V;3;PST;POLওঠাV;3;PST;POL	উঠলেন
+V;2;PST;HAB;POLচাপাV;2;PST;HAB;POL	চাপতো
+V;2;FUT;LGSPEC1হাগাV;2;FUT;LGSPEC1	হাগবি
+V;3;PST;POLইচ্ছা হওয়াV;3;PST;POL	ইচ্ছা হলেন
+V;2;PST;PROG;POLবন্ধ করাV;2;PST;PROG;POL	বন্ধ করছিলো
+V;V.MSDRশিখানোV;V.MSDR	শিখানো
+V;2;PRS;PRF;LGSPEC1প্রশ্ন করাV;2;PRS;PRF;LGSPEC1	প্রশ্ন করেছিস
+V;V.NFINঅনুভব করাV;V.NFIN	অনুভব করতে
+V;1;FUTযাওয়াV;1;FUT	যাবো
+V;3;PST;HAB;INFMআচরণ করাV;3;PST;HAB;INFM	আচরণ করতে
+V;2;FUT;POLকাটাV;2;FUT;POL	কাটবে
+N;NOM;PL;DEFজেলাN;NOM;PL;DEF	জেলাগুলা
+V;3;FUT;POLচেষ্টা করাV;3;FUT;POL	চেষ্টা করবেন
+V;2;PST;PROG;POLজাগাV;2;PST;PROG;POL	জাগছিলো
+V;3;PST;HAB;POLকেনাV;3;PST;HAB;POL	কিনতেন
+V;3;PRS;PROG;INFMধরাV;3;PRS;PROG;INFM	ধরছো
+N;ACC;SG;DEFকুকুরN;ACC;SG;DEF	কুকুরটাকে
+N;ACC;PL;DEFছাত্রN;ACC;PL;DEF	ছাত্রদেরকে
+V;3;FUT;POLপাওয়াV;3;FUT;POL	পাবেন
+V;V.PTCP;PROGচাখাV;V.PTCP;PROG	চাখতে
+V;3;PRS;INFMখোঁজাV;3;PRS;INFM	খোঁজো
+V;2;PST;PROG;LGSPEC1বিশেষ করাV;2;PST;PROG;LGSPEC1	বিশেষ করছিলি
+V;2;PST;PRF;LGSPEC1পছন্দ করাV;2;PST;PRF;LGSPEC1	পছন্দ করেছিলি
+N;GEN;PL;DEFপ্রতিষ্ঠাতাN;GEN;PL;DEF	প্রতিষ্ঠাতাদের
+V;3;PST;POLফেলাV;3;PST;POL	ফেল্লেন
+V;2;PST;PROG;LGSPEC1দেওয়াV;2;PST;PROG;LGSPEC1	দিচ্ছিলি
+N;NOM;PL;DEFমিত্রN;NOM;PL;DEF	মিত্ররা
+V;3;PST;INFMকেনাV;3;PST;INFM	কিনলে
+V;2;PRS;PROG;POLঘামাV;2;PRS;PROG;POL	ঘামছে
+V;2;PST;HAB;POLদেখাV;2;PST;HAB;POL	দেখতো
+V;3;PRS;POLরাখাV;3;PRS;POL	রাখেন
+V;2;PST;HAB;POLসাহায্য করাV;2;PST;HAB;POL	সাহায্য করতো
+N;LOC;NDEFলিঙ্গN;LOC;NDEF	লিঙ্গে
+V;2;PST;PROG;LGSPEC1জাগাV;2;PST;PROG;LGSPEC1	জাগছিলি
+V;3;PRS;POLশিখানোV;3;PRS;POL	শিখান
+V;3;PRS;POLঅনুভব করাV;3;PRS;POL	অনুভব করেন
+V;1;PST;PROGগেলাV;1;PST;PROG	গিলছিলাম
+V;1;PST;PROGমারাV;1;PST;PROG	মারছিলাম
+V;3;PST;PRF;POLচেনাV;3;PST;PRF;POL	চিনেছিলেন
+V;2;PST;PRF;POLবোঝাV;2;PST;PRF;POL	বুঝেছিলো
+V;3;PRS;PROG;INFMআচরণ করাV;3;PRS;PROG;INFM	আচরণ করছো
+N;ACC;NDEFশিশুN;ACC;NDEF	শিশু
+V;1;PRS;PROGভালবাসাV;1;PRS;PROG	ভালবাসছি
+V;V.PTCP;CONDভালোবাসাV;V.PTCP;COND	ভালোবাসলে
+V;1;FUTঘামানোV;1;FUT	ঘামাবো
+V;2;FUT;LGSPEC1জাগাV;2;FUT;LGSPEC1	জাগবি
+V;1;PRS;PROGহওয়াV;1;PRS;PROG	হচ্ছি
+V;3;FUT;POLজানাV;3;FUT;POL	জানবেন
+V;1;PRS;PROGভাবাV;1;PRS;PROG	ভাবছি
+V;3;PST;PRF;POLবিশেষ করাV;3;PST;PRF;POL	বিশেষ করেছিলেন
+N;ACC;PL;DEFঅঙ্গN;ACC;PL;DEF	অঙ্গগুলা
+N;ACC;PL;DEFরংN;ACC;PL;DEF	রংগুলা
+V;3;PST;POLপছন্দ করাV;3;PST;POL	পছন্দ করলেন
+V;3;PRS;PROG;POLশিখানোV;3;PRS;PROG;POL	শিখাচ্ছেন
+V;3;PRS;PROG;INFMফেলাV;3;PRS;PROG;INFM	ফেলছো
+V;2;PRS;PROG;POLনেওয়াV;2;PRS;PROG;POL	নিচ্ছে
+V;3;PST;PROG;INFMদেওয়াV;3;PST;PROG;INFM	দিচ্ছিলে
+V;3;PST;INFMউল্কি আঁকাV;3;PST;INFM	উল্কি আঁকলে
+V;2;PRS;PROG;LGSPEC1শেখাV;2;PRS;PROG;LGSPEC1	শিখছিস
+V;1;PRS;PRFবন্ধ করাV;1;PRS;PRF	বন্ধ করেছি
+V;2;PST;PROG;LGSPEC1হাগাV;2;PST;PROG;LGSPEC1	হাগছিলি
+V;3;PST;POLচুম্বন করাV;3;PST;POL	চুম্বন করলেন
+V;V.MSDRআঁকাV;V.MSDR	আঁকা
+N;NOM;NDEFমিত্রN;NOM;NDEF	মিত্র
+V;3;PRS;PRF;INFMঅনুভব করাV;3;PRS;PRF;INFM	অনুভব করেছো
+V;2;PST;POLকেনাV;2;PST;POL	কিনলো
+V;2;PST;HAB;LGSPEC1গেলাV;2;PST;HAB;LGSPEC1	গিলতিস
+V;3;PST;HAB;INFMঢোকাV;3;PST;HAB;INFM	ঢুকতে
+V;2;PST;PRF;POLফেলাV;2;PST;PRF;POL	ফেলেছিলো
+V;2;PST;HAB;POLইচ্ছা হওয়াV;2;PST;HAB;POL	ইচ্ছা হতো
+V;3;PST;PRF;INFMবোঝাV;3;PST;PRF;INFM	বুঝেছিলে
+V;2;PST;PROG;POLলুকানোV;2;PST;PROG;POL	লুকাচ্ছিলো
+V;3;PST;PRF;POLচালানোV;3;PST;PRF;POL	চালিয়েছিলেন
+V;V.PTCP;HABদাঁড়ানোV;V.PTCP;HAB	দাঁড়ায়
+V;2;PRS;PRF;POLআগানোV;2;PRS;PRF;POL	আগিয়েছে
+V;3;PST;PROG;POLআচরণ করাV;3;PST;PROG;POL	আচরণ করছিলেন
+N;GEN;PL;DEFঅনুরোধN;GEN;PL;DEF	অনুরোধগুলার
+V;3;PRS;POLউল্কি আঁকাV;3;PRS;POL	উল্কি আঁকেন
+V;3;PST;HAB;POLঅপেক্ষা করাV;3;PST;HAB;POL	অপেক্ষা করতেন
+V;2;FUT;LGSPEC1ভাঙাV;2;FUT;LGSPEC1	ভাঙবি
+V;V.PTCP;CONDটানাV;V.PTCP;COND	টানলে
+V;1;PSTনেওয়াV;1;PST	নিলাম
+V;3;PST;PROG;POLঘামানোV;3;PST;PROG;POL	ঘামাচ্ছিলেন
+V;2;PRS;PRF;LGSPEC1ভালবাসাV;2;PRS;PRF;LGSPEC1	ভালবেসেছিস
+N;GEN;PL;DEFনীহারিকাN;GEN;PL;DEF	নীহারিকাগুলার
+V;2;PST;HAB;POLহওয়াV;2;PST;HAB;POL	হতো
+V;V.PTCP;CONDজ্বালাতন করাV;V.PTCP;COND	জ্বালাতন করলে
+V;2;PRS;LGSPEC1আসাV;2;PRS;LGSPEC1	আসিস
+V;3;PST;INFMশোনাV;3;PST;INFM	শুনলে
+V;1;PST;PROGজ্বালাতন করাV;1;PST;PROG	জ্বালাতন করছিলাম
+V;V.NFINবোঝাV;V.NFIN	বুঝতে
+V;2;PST;LGSPEC1লুকানোV;2;PST;LGSPEC1	লুকালি
+V;1;PSTখোলাV;1;PST	খুল্লাম
+V;3;PRS;PRF;INFMভাঙাV;3;PRS;PRF;INFM	ভেঙেছো
+V;1;PRSঅনুবাদ করাV;1;PRS	অনুবাদ করি
+V;V.PTCP;CONDপছন্দ করাV;V.PTCP;COND	পছন্দ করলে
+V;3;PST;PROG;INFMগাওয়াV;3;PST;PROG;INFM	গাচ্ছিলে
+N;LOC;PL;DEFমুখN;LOC;PL;DEF	মুখগুলাতে
+V;2;FUT;LGSPEC1ঘামাV;2;FUT;LGSPEC1	ঘামবি
+V;1;PST;PRFজাগাV;1;PST;PRF	জেগেছিলাম
+V;2;PRS;POLবৃষ্টি হওয়াV;2;PRS;POL	বৃষ্টি হয়
+V;2;PST;PROG;LGSPEC1রাখাV;2;PST;PROG;LGSPEC1	রাখছিলি
+V;2;PST;HAB;LGSPEC1বিশেষ করাV;2;PST;HAB;LGSPEC1	বিশেষ করতিস
+V;3;PST;PRF;POLকাটাV;3;PST;PRF;POL	কেটেছিলেন
+V;2;PST;PRF;POLপ্রশ্ন করাV;2;PST;PRF;POL	প্রশ্ন করেছিলো
+V;3;FUT;POLটাইপ করাV;3;FUT;POL	টাইপ করবেন
+V;2;PRS;LGSPEC1প্রমাণ করাV;2;PRS;LGSPEC1	প্রমাণ করিস
+V;2;PST;PRF;POLকেনাV;2;PST;PRF;POL	কিনেছিলো
+V;3;PST;PRF;POLঘুমানোV;3;PST;PRF;POL	ঘুমিয়েছিলেন
+N;ACC;SG;DEFযৌনকর্মীN;ACC;SG;DEF	যৌনকর্মীটাকে
+V;V.PTCP;PROGদাঁড়ানোV;V.PTCP;PROG	দাঁড়াতে
+V;2;PRS;LGSPEC1জাগাV;2;PRS;LGSPEC1	জাগিস
+V;3;PST;PRF;POLধরাV;3;PST;PRF;POL	ধরেছিলেন
+V;2;PRS;PROG;LGSPEC1বসাV;2;PRS;PROG;LGSPEC1	বসছিস
+V;3;PST;INFMরাখাV;3;PST;INFM	রাখলে
+V;1;PSTজাগানোV;1;PST	জাগালাম
+V;1;PRSনাচাV;1;PRS	নাচি
+V;V.PTCP;HABলেখাV;V.PTCP;HAB	লিখে
+V;V.NFINজাগাV;V.NFIN	জাগতে
+V;V.PTCP;CONDরাখাV;V.PTCP;COND	রাখলে
+N;LOC;PL;DEFগাজরN;LOC;PL;DEF	গাজরগুলাতে
+V;3;PST;INFMমাল ফেলাV;3;PST;INFM	মাল ফেল্লে
+V;3;PRS;PROG;POLলেখাV;3;PRS;PROG;POL	লিখছেন
+V;3;PRS;PROG;POLচেনাV;3;PRS;PROG;POL	চিনছেন
+V;2;PST;PRF;POLচাখাV;2;PST;PRF;POL	চেখেছিলো
+V;3;PST;PROG;INFMলুকানোV;3;PST;PROG;INFM	লুকাচ্ছিলে
+V;2;PST;PRF;POLভাঙাV;2;PST;PRF;POL	ভেঙেছিলো
+V;V.PTCP;CONDলুকানোV;V.PTCP;COND	লুকালে
+V;V.PTCP;HABকেনাV;V.PTCP;HAB	কিনে
+N;LOC;SG;DEFশব্দN;LOC;SG;DEF	শব্দটাতে
+V;2;PRS;LGSPEC1ভাবাV;2;PRS;LGSPEC1	ভাবিস
+V;V.PTCP;PRFঢোকাV;V.PTCP;PRF	ঢুকে
+V;V.PTCP;PRFআগানোV;V.PTCP;PRF	আগায়
+V;2;PRS;PRF;LGSPEC1রাখাV;2;PRS;PRF;LGSPEC1	রেখেছিস
+V;3;PRS;INFMটানাV;3;PRS;INFM	টানো
+V;2;PST;HAB;LGSPEC1জ্বালাতন করাV;2;PST;HAB;LGSPEC1	জ্বালাতন করতিস
+V;1;FUTব্যবহার করাV;1;FUT	ব্যবহার করবো
+V;3;PST;PROG;POLভরাV;3;PST;PROG;POL	ভরছিলেন
+V;3;PST;POLকেনাV;3;PST;POL	কিনলেন
+V;2;FUT;LGSPEC1চেষ্টা করাV;2;FUT;LGSPEC1	চেষ্টা করবি
+V;2;PRS;PROG;POLঅনুবাদ করাV;2;PRS;PROG;POL	অনুবাদ করছে
+V;1;PST;PRFপাওয়াV;1;PST;PRF	পেয়েছিলাম
+V;2;PST;LGSPEC1জাগানোV;2;PST;LGSPEC1	জাগালি
+V;2;PST;PRF;LGSPEC1মাল ফেলাV;2;PST;PRF;LGSPEC1	মাল ফেলেছিলি
+V;3;PST;PRF;INFMচুম্বন করাV;3;PST;PRF;INFM	চুম্বন করেছিলে
+V;3;PRS;PRF;INFMপ্রমাণ করাV;3;PRS;PRF;INFM	প্রমাণ করেছো
+V;V.PTCP;PRFশোনাV;V.PTCP;PRF	শুনে
+V;2;PST;LGSPEC1কেনাV;2;PST;LGSPEC1	কিনলি
+V;3;FUT;INFMবিশেষ করাV;3;FUT;INFM	বিশেষ করবে
+V;3;PST;HAB;INFMমনে রাখাV;3;PST;HAB;INFM	মনে রাখতে
+V;2;PST;HAB;POLবিশেষ করাV;2;PST;HAB;POL	বিশেষ করতো
+V;3;PRS;PRF;POLবিশেষ করাV;3;PRS;PRF;POL	বিশেষ করেছেন
+V;2;PRS;LGSPEC1হাগাV;2;PRS;LGSPEC1	হাগিস
+N;ACC;PL;DEFনুনুN;ACC;PL;DEF	নুনুগুলা
+V;2;PST;HAB;POLরাখাV;2;PST;HAB;POL	রাখতো
+V;3;PST;PROG;POLবলাV;3;PST;PROG;POL	বলছিলেন
+V;V.NFINভাবাV;V.NFIN	ভাবতে
+V;2;FUT;POLঅনুবাদ করাV;2;FUT;POL	অনুবাদ করবে
+V;1;PST;PRFভাবাV;1;PST;PRF	ভেবেছিলাম
+V;2;PST;LGSPEC1নাচাV;2;PST;LGSPEC1	নাচলি
+V;3;PRS;PRF;INFMঅনুরোধ করাV;3;PRS;PRF;INFM	অনুরোধ করেছো
+V;2;PST;POLব্যবহার করাV;2;PST;POL	ব্যবহার করলো
+V;2;PST;PROG;LGSPEC1বৃষ্টি হওয়াV;2;PST;PROG;LGSPEC1	বৃষ্টি হচ্ছিলি
+V;1;FUTবোঝাV;1;FUT	বুঝবো
+V;1;PST;PRFজ্বালাতন করাV;1;PST;PRF	জ্বালাতন করেছিলাম
+V;1;PST;HABচাওয়াV;1;PST;HAB	চেতাম
+V;3;PST;POLঘামাV;3;PST;POL	ঘামলেন
+V;2;PRS;POLভালবাসাV;2;PRS;POL	ভালবাসে
+V;3;PST;HAB;INFMচোষাV;3;PST;HAB;INFM	চুষতে
+V;1;PRS;PRFইচ্ছা হওয়াV;1;PRS;PRF	ইচ্ছা হয়েছি
+V;3;PRS;PRF;INFMআসাV;3;PRS;PRF;INFM	এসেছো
+V;1;PST;HABআঁকাV;1;PST;HAB	আঁকতাম
+V;3;PST;HAB;POLভালবাসাV;3;PST;HAB;POL	ভালবাসতেন
+V;3;PRS;PROG;POLইচ্ছা হওয়াV;3;PRS;PROG;POL	ইচ্ছা হচ্ছেন
+N;NOM;NDEFপ্রতিষ্ঠাতাN;NOM;NDEF	প্রতিষ্ঠাতা
+N;LOC;PL;DEFবস্তুN;LOC;PL;DEF	বস্তুগুলাতে
+V;3;PST;PRF;INFMলেখাV;3;PST;PRF;INFM	লিখেছিলে
+V;2;PST;PROG;LGSPEC1শেখাV;2;PST;PROG;LGSPEC1	শিখছিলি
+V;2;PRS;PROG;LGSPEC1অপেক্ষা করাV;2;PRS;PROG;LGSPEC1	অপেক্ষা করছিস
+V;2;PST;HAB;LGSPEC1মারাV;2;PST;HAB;LGSPEC1	মারতিস
+V;1;PRS;PROGকেনাV;1;PRS;PROG	কিনছি
+V;2;PST;PROG;LGSPEC1বলাV;2;PST;PROG;LGSPEC1	বলছিলি
+V;1;PSTআচরণ করাV;1;PST	আচরণ করলাম
+V;2;PRS;PRF;LGSPEC1টানাV;2;PRS;PRF;LGSPEC1	টেনেছিস
+N;LOC;NDEFনুনুN;LOC;NDEF	নুনুতে
+V;3;FUT;INFMখোঁজাV;3;FUT;INFM	খুঁজবে
+V;2;PST;HAB;LGSPEC1বন্ধ করাV;2;PST;HAB;LGSPEC1	বন্ধ করতিস
+V;2;PST;HAB;LGSPEC1কাটাV;2;PST;HAB;LGSPEC1	কাটতিস
+N;LOC;SG;DEFপাছাN;LOC;SG;DEF	পাছাটাতে
+V;V.PTCP;PROGজানাV;V.PTCP;PROG	জানতে
+V;2;PST;LGSPEC1ঘামানোV;2;PST;LGSPEC1	ঘামালি
+V;V.PTCP;HABআগানোV;V.PTCP;HAB	আগায়
+V;3;PST;PRF;INFMভরাV;3;PST;PRF;INFM	ভরেছিলে
+V;3;PRS;POLজাগাV;3;PRS;POL	জাগেন
+V;V.PTCP;PROGভাঙাV;V.PTCP;PROG	ভাঙতে
+V;3;PST;INFMচেষ্টা করাV;3;PST;INFM	চেষ্টা করলে
+V;1;PST;PROGহওয়াV;1;PST;PROG	হচ্ছিলাম
+N;LOC;NDEFজেলাN;LOC;NDEF	জেলাতে
+V;3;PST;PRF;INFMখোঁজাV;3;PST;PRF;INFM	খুঁজেছিলে
+V;3;PRS;INFMভাঙাV;3;PRS;INFM	ভাঙো
+N;GEN;NDEFদেশN;GEN;NDEF	দেশের
+V;2;PST;HAB;POLওঠাV;2;PST;HAB;POL	উঠতো
+V;3;PRS;PRF;INFMটানাV;3;PRS;PRF;INFM	টেনেছো
+V;3;PRS;PROG;INFMউল্কি আঁকাV;3;PRS;PROG;INFM	উল্কি আঁকছো
+N;GEN;SG;DEFকুকুরN;GEN;SG;DEF	কুকুরটার
+V;3;FUT;INFMআচরণ করাV;3;FUT;INFM	আচরণ করবে
+V;1;PRSচাখাV;1;PRS	চাখি
+V;3;PRS;PROG;POLমনে রাখাV;3;PRS;PROG;POL	মনে রাখছেন
+V;2;PST;PRF;POLহাগাV;2;PST;PRF;POL	হেগেছিলো
+N;LOC;SG;DEFগলাN;LOC;SG;DEF	গলাটাতে
+N;GEN;PL;DEFঅভিযোগN;GEN;PL;DEF	অভিযোগগুলার
+V;V.MSDRচেষ্টা করাV;V.MSDR	চেষ্টা করা
+V;V.PTCP;CONDআগানোV;V.PTCP;COND	আগালে
+V;1;PST;HABদেখাV;1;PST;HAB	দেখতাম
+N;GEN;PL;DEFবান্ধবীN;GEN;PL;DEF	বান্ধবীদের
+N;NOM;NDEFকুকুরN;NOM;NDEF	কুকুর
+V;3;PST;INFMঘামানোV;3;PST;INFM	ঘামালে
+V;3;PRS;PROG;POLঘামাV;3;PRS;PROG;POL	ঘামছেন
+V;3;FUT;POLবোঝাV;3;FUT;POL	বুঝবেন
+V;3;PST;PROG;POLহাঁটাV;3;PST;PROG;POL	হাঁটছিলেন
+V;3;PRS;PROG;POLচাখাV;3;PRS;PROG;POL	চাখছেন
+N;ACC;SG;DEFঘটনাN;ACC;SG;DEF	ঘটনাটা
+V;3;PST;PRF;POLপ্রমাণ করাV;3;PST;PRF;POL	প্রমাণ করেছিলেন
+V;3;PST;INFMগাওয়াV;3;PST;INFM	গেলে
+V;3;PST;POLরাখাV;3;PST;POL	রাখলেন
+V;3;PRS;PRF;INFMগাওয়াV;3;PRS;PRF;INFM	গেয়েছো
+V;1;PST;HABখাওয়াV;1;PST;HAB	খেতাম
+V;2;FUT;POLবলাV;2;FUT;POL	বলবে
+N;NOM;NDEFআলুN;NOM;NDEF	আলু
+V;3;FUT;INFMযাওয়াV;3;FUT;INFM	যাবে
+V;V.MSDRমনে রাখাV;V.MSDR	মনে রাখা
+V;2;FUT;POLহওয়াV;2;FUT;POL	হবে
+V;3;PST;INFMলেখাV;3;PST;INFM	লিখলে
+N;GEN;PL;DEFছাতাN;GEN;PL;DEF	ছাতাগুলার
+V;1;PRS;PROGভালোবাসাV;1;PRS;PROG	ভালোবাসছি
+V;2;PST;POLযাওয়াV;2;PST;POL	গেলো
+V;3;PST;POLসাহায্য করাV;3;PST;POL	সাহায্য করলেন
+V;3;PRS;PROG;INFMখোঁজাV;3;PRS;PROG;INFM	খুঁজছো
+V;1;PRS;PROGইচ্ছা হওয়াV;1;PRS;PROG	ইচ্ছা হচ্ছি
+V;1;PSTপাওয়াV;1;PST	পেলাম
+V;3;PRS;PRF;POLজাগাV;3;PRS;PRF;POL	জেগেছেন
+V;V.PTCP;CONDউল্কি আঁকাV;V.PTCP;COND	উল্কি আঁকলে
+V;2;PST;PRF;POLচাওয়াV;2;PST;PRF;POL	চেয়েছিলো
+V;3;PST;PROG;POLআগানোV;3;PST;PROG;POL	আগাচ্ছিলেন
+V;V.MSDRহওয়াV;V.MSDR	হওয়া
+V;3;PRS;POLখোঁজাV;3;PRS;POL	খোঁজেন
+V;2;PRS;PROG;POLধরাV;2;PRS;PROG;POL	ধরছে
+V;1;PST;PRFঅনুভব করাV;1;PST;PRF	অনুভব করেছিলাম
+V;1;PSTহাগাV;1;PST	হাগলাম
+N;GEN;SG;DEFযৌনকর্মীN;GEN;SG;DEF	যৌনকর্মীটার
+V;3;PRS;PRF;POLশিখানোV;3;PRS;PRF;POL	শিখিয়েছেন
+V;3;PRS;POLওঠাV;3;PRS;POL	ওঠেন
+V;V.PTCP;PROGঢুকানোV;V.PTCP;PROG	ঢুকাতে
+V;2;PST;PROG;POLধরাV;2;PST;PROG;POL	ধরছিলো
+V;2;PST;LGSPEC1উল্কি আঁকাV;2;PST;LGSPEC1	উল্কি আঁকলি
+V;1;PRSমরাV;1;PRS	মরি
+V;2;PRS;PROG;POLগাওয়াV;2;PRS;PROG;POL	গাচ্ছে
+V;3;FUT;INFMঘামানোV;3;FUT;INFM	ঘামাবে
+N;LOC;PL;DEFএলাকাN;LOC;PL;DEF	এলাকাগুলাতে
+V;1;PST;PRFইচ্ছা হওয়াV;1;PST;PRF	ইচ্ছা হয়েছিলাম
+V;3;FUT;INFMদেখানোV;3;FUT;INFM	দেখাবে
+V;3;PRS;PROG;POLযাওয়াV;3;PRS;PROG;POL	যাচ্ছেন
+V;3;PST;PRF;INFMপ্রমাণ করাV;3;PST;PRF;INFM	প্রমাণ করেছিলে
+V;2;PRS;POLইচ্ছা হওয়াV;2;PRS;POL	ইচ্ছা হয়
+V;2;PST;HAB;POLআঁকাV;2;PST;HAB;POL	আঁকতো
+V;2;FUT;LGSPEC1ইচ্ছা হওয়াV;2;FUT;LGSPEC1	ইচ্ছা হবি
+N;NOM;NDEFবোনN;NOM;NDEF	বোন
+V;2;PST;HAB;LGSPEC1ওঠাV;2;PST;HAB;LGSPEC1	উঠতিস
+V;2;PRS;PROG;LGSPEC1বৃষ্টি হওয়াV;2;PRS;PROG;LGSPEC1	বৃষ্টি হচ্ছিস
+V;2;PRS;PROG;POLমারাV;2;PRS;PROG;POL	মারছে
+V;3;PST;INFMভালোবাসাV;3;PST;INFM	ভালোবাসলে
+V;2;PRS;POLচেষ্টা করাV;2;PRS;POL	চেষ্টা করে
+V;1;PST;PROGবলাV;1;PST;PROG	বলছিলাম
+V;V.NFINভরাV;V.NFIN	ভরতে
+N;LOC;SG;DEFদেহN;LOC;SG;DEF	দেহটাতে
+V;3;PST;PROG;INFMমনে রাখাV;3;PST;PROG;INFM	মনে রাখছিলে
+V;2;PST;PRF;LGSPEC1ভাবাV;2;PST;PRF;LGSPEC1	ভেবেছিলি
+V;2;PRS;POLডিফ্র্যাগমেন্ট করাV;2;PRS;POL	ডিফ্র্যাগমেন্ট করে
+N;NOM;SG;DEFচোখN;NOM;SG;DEF	চোখটা
+V;2;PRS;LGSPEC1করাV;2;PRS;LGSPEC1	করিস
+V;3;PST;HAB;INFMনেওয়াV;3;PST;HAB;INFM	নিতে
+V;3;PST;HAB;INFMপরাV;3;PST;HAB;INFM	পরতে
+V;2;PST;PRF;LGSPEC1হাগাV;2;PST;PRF;LGSPEC1	হেগেছিলি
+V;3;FUT;POLঅনুভব করাV;3;FUT;POL	অনুভব করবেন
+V;V.PTCP;HABচালানোV;V.PTCP;HAB	চালায়
+N;NOM;SG;DEFজুতাN;NOM;SG;DEF	জুতাটা
+V;3;PRS;PRF;INFMগেলাV;3;PRS;PRF;INFM	গিলেছো
+V;2;PRS;PRF;POLব্যবহার করাV;2;PRS;PRF;POL	ব্যবহার করেছে
+V;3;PST;PROG;POLডিফ্র্যাগমেন্ট করাV;3;PST;PROG;POL	ডিফ্র্যাগমেন্ট করছিলেন
+V;V.PTCP;PROGখোলাV;V.PTCP;PROG	খুলতে
+V;3;PRS;PROG;INFMদেখাV;3;PRS;PROG;INFM	দেখছো
+V;2;FUT;LGSPEC1ভালবাসাV;2;FUT;LGSPEC1	ভালবাসবি
+V;3;PRS;POLবিশেষ করাV;3;PRS;POL	বিশেষ করেন
+V;V.PTCP;PRFভালবাসাV;V.PTCP;PRF	ভালবেসে
+V;2;FUT;POLচাওয়াV;2;FUT;POL	চাবে
+V;3;PRS;PROG;POLদেখানোV;3;PRS;PROG;POL	দেখাচ্ছেন
+V;3;PST;PRF;INFMআচরণ করাV;3;PST;PRF;INFM	আচরণ করেছিলে
+V;2;FUT;LGSPEC1দেওয়াV;2;FUT;LGSPEC1	দিবি
+V;3;PRS;PRF;INFMচেষ্টা করাV;3;PRS;PRF;INFM	চেষ্টা করেছো
+V;2;FUT;LGSPEC1লুকানোV;2;FUT;LGSPEC1	লুকাবি
+V;1;PST;PRFঘৃণা করাV;1;PST;PRF	ঘৃণা করেছিলাম
+V;3;PST;PRF;INFMঅনুরোধ করাV;3;PST;PRF;INFM	অনুরোধ করেছিলে
+V;1;PST;PRFজানাV;1;PST;PRF	জেনেছিলাম
+V;3;PST;HAB;INFMপাঠানোV;3;PST;HAB;INFM	পাঠাতে
+V;1;PST;PROGচাওয়াV;1;PST;PROG	চাচ্ছিলাম
+V;2;FUT;POLবসাV;2;FUT;POL	বসবে
+V;V.PTCP;HABবন্ধ করাV;V.PTCP;HAB	বন্ধ করেকরে
+V;1;PRS;PRFগাওয়াV;1;PRS;PRF	গেয়েছি
+V;1;PRS;PRFঘামানোV;1;PRS;PRF	ঘামিয়েছি
+N;NOM;NDEFমুখN;NOM;NDEF	মুখ
+V;2;PST;PRF;POLদাঁড়ানোV;2;PST;PRF;POL	দাঁড়িয়েছিলো
+V;2;PRS;POLঘামানোV;2;PRS;POL	ঘামায়
+V;2;PST;HAB;LGSPEC1দেখানোV;2;PST;HAB;LGSPEC1	দেখাতিস
+V;2;PST;HAB;POLনাচাV;2;PST;HAB;POL	নাচতো
+V;V.PTCP;PROGঘুমানোV;V.PTCP;PROG	ঘুমাতে
+V;2;PRS;PRF;POLবোঝাV;2;PRS;PRF;POL	বুঝেছে
+V;1;PST;PRFবন্ধ করাV;1;PST;PRF	বন্ধ করেছিলাম
+V;3;PST;HAB;POLগেলাV;3;PST;HAB;POL	গিলতেন
+V;1;FUTমনে রাখাV;1;FUT	মনে রাখবো
+V;V.PTCP;CONDঅপেক্ষা করাV;V.PTCP;COND	অপেক্ষা করলে
+V;2;PST;HAB;POLঘামানোV;2;PST;HAB;POL	ঘামাতো
+V;3;FUT;POLআসাV;3;FUT;POL	আসবেন
+V;3;PST;HAB;POLকরাV;3;PST;HAB;POL	করতেন
+V;2;PRS;PRF;LGSPEC1কাটাV;2;PRS;PRF;LGSPEC1	কেটেছিস
+N;ACC;SG;DEFঅভিযোগN;ACC;SG;DEF	অভিযোগটা
+V;3;PST;PROG;POLখোঁজাV;3;PST;PROG;POL	খুঁজছিলেন
+V;3;PRS;POLঘামাV;3;PRS;POL	ঘামেন
+V;3;PST;PROG;INFMপ্রশ্ন করাV;3;PST;PROG;INFM	প্রশ্ন করছিলে
+V;1;PST;HABগেলাV;1;PST;HAB	গিলতাম
+V;V.PTCP;CONDবসাV;V.PTCP;COND	বসলে
+V;3;PST;PRF;INFMকরাV;3;PST;PRF;INFM	করেছিলে
+V;3;PRS;INFMপরাV;3;PRS;INFM	পরো
+V;3;PRS;PRF;POLবসাV;3;PRS;PRF;POL	বসেছেন
+V;2;PST;LGSPEC1ঘামাV;2;PST;LGSPEC1	ঘামলি
+N;LOC;PL;DEFজানালাN;LOC;PL;DEF	জানালাগুলাতে
+V;3;PST;HAB;INFMদেখানোV;3;PST;HAB;INFM	দেখাতে
+V;3;PST;PRF;POLজাগানোV;3;PST;PRF;POL	জাগিয়েছিলেন
+V;1;PST;PRFদাঁড়ানোV;1;PST;PRF	দাঁড়িয়েছিলাম
+V;2;PRS;PRF;POLগাওয়াV;2;PRS;PRF;POL	গেয়েছে
+V;2;PST;HAB;LGSPEC1হাঁটাV;2;PST;HAB;LGSPEC1	হাঁটতিস
+V;3;PST;PROG;POLভালবাসাV;3;PST;PROG;POL	ভালবাসছিলেন
+V;1;PRS;PRFমাল ফেলাV;1;PRS;PRF	মাল ফেলেছি
+V;V.MSDRখাওয়াV;V.MSDR	খাওয়া
+N;ACC;NDEFঅনুরোধN;ACC;NDEF	অনুরোধ
+V;3;PST;PRF;POLমনে রাখাV;3;PST;PRF;POL	মনে রেখেছিলেন
+V;3;PST;PRF;POLঅনুভব করাV;3;PST;PRF;POL	অনুভব করেছিলেন
+V;2;FUT;POLলেখাV;2;FUT;POL	লিখবে
+V;3;PRS;PROG;INFMব্যবহার করাV;3;PRS;PROG;INFM	ব্যবহার করছো
+V;1;PRS;PRFনেওয়াV;1;PRS;PRF	নিয়েছি
+V;1;PST;PROGপছন্দ করাV;1;PST;PROG	পছন্দ করছিলাম
+V;V.NFINঘৃণা করাV;V.NFIN	ঘৃণা করতে
+V;1;PRSশোনাV;1;PRS	শুনি
+V;3;PRS;POLপ্রমাণ করাV;3;PRS;POL	প্রমাণ করেন
+V;2;PST;PROG;POLআঁকাV;2;PST;PROG;POL	আঁকছিলো
+V;2;PST;PRF;LGSPEC1চালানোV;2;PST;PRF;LGSPEC1	চালিয়েছিলি
+V;3;PRS;PROG;POLচাটাV;3;PRS;PROG;POL	চাটছেন
+V;1;PRS;PRFভালবাসাV;1;PRS;PRF	ভালবেসেছি
+N;GEN;NDEFবস্তুN;GEN;NDEF	বস্তুর
+V;3;FUT;POLচাটাV;3;FUT;POL	চাটবেন
+V;2;PST;LGSPEC1করাV;2;PST;LGSPEC1	করলি
+N;GEN;PL;DEFগাজরN;GEN;PL;DEF	গাজরগুলার
+V;3;FUT;INFMভালবাসাV;3;FUT;INFM	ভালবাসবে
+V;3;PST;HAB;POLখাওয়াV;3;PST;HAB;POL	খেতেন
+V;1;PST;PROGঢুকানোV;1;PST;PROG	ঢুকাচ্ছিলাম
+N;ACC;SG;DEFমানুষN;ACC;SG;DEF	মানুষটাকে
+N;ACC;PL;DEFনেশাখোরN;ACC;PL;DEF	নেশাখোরদেরকে
+V;1;FUTহওয়াV;1;FUT	হবো
+V;3;PST;PRF;INFMচালানোV;3;PST;PRF;INFM	চালিয়েছিলে
+V;1;PRS;PRFখোঁজাV;1;PRS;PRF	খুঁজেছি
+V;2;PST;PRF;POLগাওয়াV;2;PST;PRF;POL	গেয়েছিলো
+N;ACC;NDEFচোখN;ACC;NDEF	চোখ
+V;2;FUT;POLআগানোV;2;FUT;POL	আগাবে
+N;LOC;PL;DEFঅঙ্গN;LOC;PL;DEF	অঙ্গগুলাতে
+V;1;PST;HABটানাV;1;PST;HAB	টানতাম
+V;2;PRS;POLজানাV;2;PRS;POL	জানে
+N;GEN;SG;DEFমুখN;GEN;SG;DEF	মুখটার
+V;3;PST;POLদেখাV;3;PST;POL	দেখলেন
+N;GEN;PL;DEFকুকুরN;GEN;PL;DEF	কুকুরদের
+V;3;PST;HAB;POLখোঁজাV;3;PST;HAB;POL	খুঁজতেন
+V;2;PST;PROG;POLরাখাV;2;PST;PROG;POL	রাখছিলো
+V;3;PST;POLযাওয়াV;3;PST;POL	গেলেন
+N;GEN;SG;DEFউপজেলাN;GEN;SG;DEF	উপজেলাটার
+V;3;PRS;PRF;INFMহাঁটাV;3;PRS;PRF;INFM	হেঁটেছো
+V;2;PST;PRF;LGSPEC1খাওয়াV;2;PST;PRF;LGSPEC1	খেয়েছিলি
+V;2;PST;PROG;POLভালবাসাV;2;PST;PROG;POL	ভালবাসছিলো
+V;2;PST;PRF;POLজাগাV;2;PST;PRF;POL	জেগেছিলো
+V;3;PRS;PRF;INFMচাপাV;3;PRS;PRF;INFM	চেপেছো
+V;1;PST;HABপরাV;1;PST;HAB	পরতাম
+V;V.PTCP;HABআঁকাV;V.PTCP;HAB	এঁকে
+N;LOC;PL;DEFপাছাN;LOC;PL;DEF	পাছাগুলাতে
+V;V.PTCP;PRFজাগাV;V.PTCP;PRF	জেগে
+V;3;PST;INFMচাওয়াV;3;PST;INFM	চেলে
+V;1;PSTপ্রশ্ন করাV;1;PST	প্রশ্ন করলাম
+V;2;PRS;PRF;LGSPEC1বৃষ্টি হওয়াV;2;PRS;PRF;LGSPEC1	বৃষ্টি হয়েছিস
+V;1;PSTঅনুবাদ করাV;1;PST	অনুবাদ করলাম
+V;2;PRS;PROG;POLটাইপ করাV;2;PRS;PROG;POL	টাইপ করছে
+V;3;PST;POLঅনুবাদ করাV;3;PST;POL	অনুবাদ করলেন
+V;V.NFINচালানোV;V.NFIN	চালাতে
+V;2;FUT;LGSPEC1মনে রাখাV;2;FUT;LGSPEC1	মনে রাখবি
+V;1;PRS;PRFঢুকানোV;1;PRS;PRF	ঢুকিয়েছি
+V;3;PRS;INFMচাটাV;3;PRS;INFM	চাটো
+V;2;FUT;POLঢোকাV;2;FUT;POL	ঢুকবে
+V;V.PTCP;PROGঘামানোV;V.PTCP;PROG	ঘামাতে
+V;2;PST;LGSPEC1শোনাV;2;PST;LGSPEC1	শুনলি
+V;2;PRS;PRF;LGSPEC1পাঠানোV;2;PRS;PRF;LGSPEC1	পাঠিয়েছিস
+V;1;PSTহাঁটাV;1;PST	হাঁটলাম
+V;3;PRS;INFMহওয়াV;3;PRS;INFM	হও
+V;3;FUT;INFMপছন্দ করাV;3;FUT;INFM	পছন্দ করবে
+V;1;PRSলুকানোV;1;PRS	লুকাই
+N;ACC;SG;DEFকারণN;ACC;SG;DEF	কারণটা
+V;2;PST;PROG;POLপরাV;2;PST;PROG;POL	পরছিলো
+V;2;PRS;PROG;LGSPEC1ঘামানোV;2;PRS;PROG;LGSPEC1	ঘামাচ্ছিস
+V;3;PST;PROG;INFMঢোকাV;3;PST;PROG;INFM	ঢুকছিলে
+N;ACC;SG;DEFমিত্রN;ACC;SG;DEF	মিত্রটাকে
+V;2;PST;HAB;POLহাঁটাV;2;PST;HAB;POL	হাঁটতো
+V;3;PST;PROG;INFMবন্ধ করাV;3;PST;PROG;INFM	বন্ধ করছিলে
+V;V.PTCP;CONDশেখাV;V.PTCP;COND	শিখলে
+V;1;PST;PROGদেখাV;1;PST;PROG	দেখছিলাম
+V;V.MSDRগেলাV;V.MSDR	গেলা
+N;GEN;SG;DEFকারণN;GEN;SG;DEF	কারণটার
+V;3;PST;PROG;POLব্যবহার করাV;3;PST;PROG;POL	ব্যবহার করছিলেন
+V;3;PST;PRF;INFMঅনুবাদ করাV;3;PST;PRF;INFM	অনুবাদ করেছিলে
+V;2;PST;POLঘৃণা করাV;2;PST;POL	ঘৃণা করলো
+V;2;PST;LGSPEC1গেলাV;2;PST;LGSPEC1	গিল্লি
+V;V.NFINবিশেষ করাV;V.NFIN	বিশেষ করতে
+V;3;PST;PRF;INFMজ্বালাতন করাV;3;PST;PRF;INFM	জ্বালাতন করেছিলে
+V;3;FUT;INFMডিফ্র্যাগমেন্ট করাV;3;FUT;INFM	ডিফ্র্যাগমেন্ট করবে
+V;V.PTCP;PROGঅনুভব করাV;V.PTCP;PROG	অনুভব করতেকরতে
+V;3;PRS;PROG;POLপাঠানোV;3;PRS;PROG;POL	পাঠাচ্ছেন
+V;V.PTCP;PRFকাটাV;V.PTCP;PRF	কেটে
+V;V.PTCP;PROGসাহায্য করাV;V.PTCP;PROG	সাহায্য করতেকরতে
+V;2;PST;PRF;LGSPEC1করাV;2;PST;PRF;LGSPEC1	করেছিলি
+V;1;PRSখাওয়াV;1;PRS	খাই
+V;3;FUT;INFMহাত মারাV;3;FUT;INFM	হাত মারবে
+V;3;PST;PROG;POLকেনাV;3;PST;PROG;POL	কিনছিলেন
+V;3;PRS;PRF;INFMপরাV;3;PRS;PRF;INFM	পরেছো
+V;2;FUT;POLলুকানোV;2;FUT;POL	লুকাবে
+V;V.PTCP;HABশিখানোV;V.PTCP;HAB	শিখায়
+N;LOC;NDEFএলাকাN;LOC;NDEF	এলাকাতে
+V;2;PST;PRF;POLহওয়াV;2;PST;PRF;POL	হয়েছিলো
+V;2;PST;PROG;POLআচরণ করাV;2;PST;PROG;POL	আচরণ করছিলো
+V;2;PST;HAB;POLআগানোV;2;PST;HAB;POL	আগাতো
+V;3;FUT;POLপ্রমাণ করাV;3;FUT;POL	প্রমাণ করবেন
+V;3;PST;INFMঘৃণা করাV;3;PST;INFM	ঘৃণা করলে
+V;V.PTCP;PROGহাঁটাV;V.PTCP;PROG	হাঁটতে
+V;3;PST;PRF;INFMভাবাV;3;PST;PRF;INFM	ভেবেছিলে
+N;LOC;NDEFতরঙ্গN;LOC;NDEF	তরঙ্গে
+N;GEN;NDEFদেহN;GEN;NDEF	দেহের
+V;2;PRS;PRF;POLউল্কি আঁকাV;2;PRS;PRF;POL	উল্কি এঁকেছে
+V;3;PST;PRF;INFMসাহায্য করাV;3;PST;PRF;INFM	সাহায্য করেছিলে
+V;1;PRSচুম্বন করাV;1;PRS	চুম্বন করি
+V;V.PTCP;PRFহাগাV;V.PTCP;PRF	হেগে
+V;2;PRS;LGSPEC1উল্কি আঁকাV;2;PRS;LGSPEC1	উল্কি আঁকিস
+V;3;PST;PRF;INFMটানাV;3;PST;PRF;INFM	টেনেছিলে
+V;3;PST;PROG;POLঘামাV;3;PST;PROG;POL	ঘামছিলেন
+V;3;FUT;POLআঁকাV;3;FUT;POL	আঁকবেন
+V;3;PRS;PRF;POLভুলে যাওয়াV;3;PRS;PRF;POL	ভুলে গিয়েছেন
+N;GEN;NDEFদৃষ্টান্তN;GEN;NDEF	দৃষ্টান্তের
+V;1;PRS;PROGবন্ধ করাV;1;PRS;PROG	বন্ধ করছি
+V;2;PRS;PRF;LGSPEC1হাত মারাV;2;PRS;PRF;LGSPEC1	হাত মেরেছিস
+V;2;PST;HAB;LGSPEC1টানাV;2;PST;HAB;LGSPEC1	টানতিস
+V;1;FUTভরাV;1;FUT	ভরবো
+V;3;PST;HAB;POLপছন্দ করাV;3;PST;HAB;POL	পছন্দ করতেন
+V;3;PST;HAB;INFMটাইপ করাV;3;PST;HAB;INFM	টাইপ করতে
+V;3;PST;PROG;POLজ্বালাতন করাV;3;PST;PROG;POL	জ্বালাতন করছিলেন
+V;2;PRS;POLহাঁটাV;2;PRS;POL	হাঁটে
+N;ACC;PL;DEFঅভিযোগN;ACC;PL;DEF	অভিযোগগুলা
+V;2;PST;PRF;POLভুলে যাওয়াV;2;PST;PRF;POL	ভুলে গিয়েছিলো
+V;1;PST;PROGআঁকাV;1;PST;PROG	আঁকছিলাম
+V;3;PRS;PROG;INFMজাগানোV;3;PRS;PROG;INFM	জাগাচ্ছো
+V;3;PRS;PROG;POLদেওয়াV;3;PRS;PROG;POL	দিচ্ছেন
+V;1;FUTখোলাV;1;FUT	খুলবো
+N;LOC;NDEFভাষাN;LOC;NDEF	ভাষাতে
+V;1;PST;PROGশোনাV;1;PST;PROG	শুনছিলাম
+V;2;PST;HAB;LGSPEC1জানাV;2;PST;HAB;LGSPEC1	জানতিস
+V;1;PST;PROGফেলাV;1;PST;PROG	ফেলছিলাম
+V;3;PST;PRF;INFMমরাV;3;PST;PRF;INFM	মরেছিলে
+V;V.NFINখোলাV;V.NFIN	খুলতে
+V;2;PST;POLবিশেষ করাV;2;PST;POL	বিশেষ করলো
+V;V.PTCP;PROGহাত মারাV;V.PTCP;PROG	হাত মারতেমারতে
+V;3;PRS;PRF;POLলেখাV;3;PRS;PRF;POL	লিখেছেন
+V;3;PRS;PROG;POLকেনাV;3;PRS;PROG;POL	কিনছেন
+V;2;PST;POLওঠাV;2;PST;POL	উঠলো
+V;3;PRS;PRF;INFMরাখাV;3;PRS;PRF;INFM	রেখেছো
+V;2;PRS;LGSPEC1বন্ধ করাV;2;PRS;LGSPEC1	বন্ধ করিস
+V;2;PST;HAB;POLচোষাV;2;PST;HAB;POL	চুষতো
+V;2;PST;POLহাঁটাV;2;PST;POL	হাঁটলো
+V;3;PRS;PROG;POLআসাV;3;PRS;PROG;POL	আসছেন
+V;3;PRS;INFMমনে রাখাV;3;PRS;INFM	মনে রাখো
+V;V.NFINদাঁড়ানোV;V.NFIN	দাঁড়াতে
+V;2;PRS;POLজ্বালাতন করাV;2;PRS;POL	জ্বালাতন করে
+V;1;FUTচালানোV;1;FUT	চালাবো
+V;3;PST;HAB;POLপরাV;3;PST;HAB;POL	পরতেন
+N;NOM;NDEFগলাN;NOM;NDEF	গলা
+V;1;PST;PRFহওয়াV;1;PST;PRF	হয়েছিলাম
+V;3;PRS;PRF;INFMযাওয়াV;3;PRS;PRF;INFM	গিয়েছো
+V;1;PST;PROGবন্ধ করাV;1;PST;PROG	বন্ধ করছিলাম
+V;3;PRS;PRF;INFMনাচাV;3;PRS;PRF;INFM	নেচেছো
+V;3;FUT;POLডিফ্র্যাগমেন্ট করাV;3;FUT;POL	ডিফ্র্যাগমেন্ট করবেন
+N;NOM;NDEFঅঙ্গN;NOM;NDEF	অঙ্গ
+V;V.PTCP;HABঘৃণা করাV;V.PTCP;HAB	ঘৃণা করেকরে
+V;3;PRS;PROG;POLওঠাV;3;PRS;PROG;POL	উঠছেন
+V;V.PTCP;PRFমাল ফেলাV;V.PTCP;PRF	মাল ফেলে
+V;2;PST;LGSPEC1বোঝাV;2;PST;LGSPEC1	বুঝলি
+V;3;PRS;PRF;INFMচাটাV;3;PRS;PRF;INFM	চেটেছো
+V;2;PST;PRF;POLরাখাV;2;PST;PRF;POL	রেখেছিলো
+V;2;PRS;LGSPEC1চাপাV;2;PRS;LGSPEC1	চাপিস
+N;GEN;NDEFশহরN;GEN;NDEF	শহরের
+V;3;PST;HAB;POLশোনাV;3;PST;HAB;POL	শুনতেন
+V;2;PST;HAB;LGSPEC1খোলাV;2;PST;HAB;LGSPEC1	খুলতিস
+V;2;PRS;POLজাগানোV;2;PRS;POL	জাগায়
+V;V.MSDRচাপাV;V.MSDR	চাপা
+V;2;PRS;PRF;LGSPEC1টাইপ করাV;2;PRS;PRF;LGSPEC1	টাইপ করেছিস
+V;3;FUT;POLচোষাV;3;FUT;POL	চুষবেন
+V;2;PRS;POLকাটাV;2;PRS;POL	কাটে
+V;1;PRS;PROGঅনুভব করাV;1;PRS;PROG	অনুভব করছি
+N;NOM;SG;DEFছাত্রN;NOM;SG;DEF	ছাত্রটা
+V;1;PSTচোষাV;1;PST	চুষলাম
+V;2;PRS;PROG;LGSPEC1দেখানোV;2;PRS;PROG;LGSPEC1	দেখাচ্ছিস
+V;3;PST;PRF;POLসাহায্য করাV;3;PST;PRF;POL	সাহায্য করেছিলেন
+V;2;PST;POLধরাV;2;PST;POL	ধরলো
+V;1;PST;HABবিশেষ করাV;1;PST;HAB	বিশেষ করতাম
+V;2;PST;HAB;LGSPEC1চাপাV;2;PST;HAB;LGSPEC1	চাপতিস
+V;3;PST;INFMঘামাV;3;PST;INFM	ঘামলে
+V;1;PST;PRFখোঁজাV;1;PST;PRF	খুঁজেছিলাম
+V;1;PRS;PROGপাঠানোV;1;PRS;PROG	পাঠাচ্ছি
+V;2;PST;PRF;LGSPEC1মারাV;2;PST;PRF;LGSPEC1	মেরেছিলি
+V;2;PRS;PROG;LGSPEC1কেনাV;2;PRS;PROG;LGSPEC1	কিনছিস
+N;ACC;PL;DEFবস্তুN;ACC;PL;DEF	বস্তুগুলা
+V;2;FUT;POLহাঁটাV;2;FUT;POL	হাঁটবে
+V;3;PST;PROG;POLঅপেক্ষা করাV;3;PST;PROG;POL	অপেক্ষা করছিলেন
+V;3;FUT;INFMদেখাV;3;FUT;INFM	দেখবে
+V;2;PST;PRF;POLকরাV;2;PST;PRF;POL	করেছিলো
+V;1;PRS;PROGনাচাV;1;PRS;PROG	নাচছি
+V;3;FUT;POLগেলাV;3;FUT;POL	গিলবেন
+N;NOM;SG;DEFশব্দN;NOM;SG;DEF	শব্দটা
+V;3;PST;INFMবলাV;3;PST;INFM	বল্লে
+V;1;FUTভালবাসাV;1;FUT	ভালবাসবো
+V;2;PST;PROG;POLযাওয়াV;2;PST;PROG;POL	যাচ্ছিলো
+V;V.MSDRপাঠানোV;V.MSDR	পাঠানো
+V;3;PRS;INFMঅনুবাদ করাV;3;PRS;INFM	অনুবাদ করো
+V;2;PST;PROG;LGSPEC1হওয়াV;2;PST;PROG;LGSPEC1	হচ্ছিলি
+V;3;PST;PRF;INFMঢুকানোV;3;PST;PRF;INFM	ঢুকিয়েছিলে
+V;3;PST;INFMশিখানোV;3;PST;INFM	শিখালে
+V;2;PRS;PRF;LGSPEC1অপেক্ষা করাV;2;PRS;PRF;LGSPEC1	অপেক্ষা করেছিস
+V;1;PRSআঁকাV;1;PRS	আঁকি
+N;GEN;NDEFগাজরN;GEN;NDEF	গাজরের
+V;1;PST;HABমনে রাখাV;1;PST;HAB	মনে রাখতাম
+V;3;PST;HAB;INFMকেনাV;3;PST;HAB;INFM	কিনতে
+V;V.PTCP;CONDদেখাV;V.PTCP;COND	দেখলে
+V;2;PRS;PRF;POLপ্রমাণ করাV;2;PRS;PRF;POL	প্রমাণ করেছে
+V;1;PST;HABলেখাV;1;PST;HAB	লিখতাম
+V;2;FUT;LGSPEC1খোলাV;2;FUT;LGSPEC1	খুলবি
+V;1;PRSপ্রমাণ করাV;1;PRS	প্রমাণ করি
+V;V.MSDRভালবাসাV;V.MSDR	ভালবাসা
+V;2;PRS;PROG;POLমনে রাখাV;2;PRS;PROG;POL	মনে রাখছে
+N;LOC;PL;DEFকারণN;LOC;PL;DEF	কারণগুলাতে
+V;1;FUTভাঙাV;1;FUT	ভাঙবো
+V;3;PRS;PROG;POLডিফ্র্যাগমেন্ট করাV;3;PRS;PROG;POL	ডিফ্র্যাগমেন্ট করছেন
+V;V.NFINপাঠানোV;V.NFIN	পাঠাতে
+V;1;FUTচাওয়াV;1;FUT	চাবো
+V;3;PST;HAB;POLঘৃণা করাV;3;PST;HAB;POL	ঘৃণা করতেন
+V;2;PRS;PROG;LGSPEC1কাটাV;2;PRS;PROG;LGSPEC1	কাটছিস
+V;V.PTCP;CONDদেওয়াV;V.PTCP;COND	দিলে
+V;2;FUT;POLঅনুভব করাV;2;FUT;POL	অনুভব করবে
+V;1;PST;PROGভালবাসাV;1;PST;PROG	ভালবাসছিলাম
+V;2;PRS;PROG;POLবন্ধ করাV;2;PRS;PROG;POL	বন্ধ করছে
+V;V.PTCP;CONDচালানোV;V.PTCP;COND	চালালে
+N;ACC;NDEFগলাN;ACC;NDEF	গলা
+V;2;PST;PROG;POLপ্রশ্ন করাV;2;PST;PROG;POL	প্রশ্ন করছিলো
+N;ACC;NDEFছাত্রN;ACC;NDEF	ছাত্র
+V;2;PRS;PROG;LGSPEC1ভালবাসাV;2;PRS;PROG;LGSPEC1	ভালবাসছিস
+V;3;PRS;PROG;POLঅনুভব করাV;3;PRS;PROG;POL	অনুভব করছেন
+V;1;FUTকরাV;1;FUT	করবো
+V;2;PRS;POLচালানোV;2;PRS;POL	চালায়
+V;3;PRS;PRF;POLমারাV;3;PRS;PRF;POL	মেরেছেন
+V;3;PRS;INFMঘুমানোV;3;PRS;INFM	ঘুমাও
+V;3;PST;HAB;INFMহাত মারাV;3;PST;HAB;INFM	হাত মারতে
+N;NOM;PL;DEFগাঁজাখোরN;NOM;PL;DEF	গাঁজাখোরেরা
+V;3;PRS;PROG;POLনেওয়াV;3;PRS;PROG;POL	নিচ্ছেন
+V;1;FUTদেওয়াV;1;FUT	দিবো
+V;3;PRS;PRF;POLশোনাV;3;PRS;PRF;POL	শুনেছেন
+V;3;PRS;POLকেনাV;3;PRS;POL	কেনেন
+V;2;PRS;PROG;LGSPEC1রাখাV;2;PRS;PROG;LGSPEC1	রাখছিস
+V;2;PST;POLচোষাV;2;PST;POL	চুষলো
+V;V.PTCP;HABগাওয়াV;V.PTCP;HAB	গেয়ে
+V;2;FUT;LGSPEC1বৃষ্টি হওয়াV;2;FUT;LGSPEC1	বৃষ্টি হবি
+N;NOM;SG;DEFএলাকাN;NOM;SG;DEF	এলাকাটা
+V;3;PRS;POLভালবাসাV;3;PRS;POL	ভালবাসেন
+N;NOM;NDEFদেহN;NOM;NDEF	দেহ
+V;2;PST;POLচেনাV;2;PST;POL	চিনলো
+V;2;PST;PRF;LGSPEC1আসাV;2;PST;PRF;LGSPEC1	এসেছিলি
+V;1;PRSখোলাV;1;PRS	খুলি
+V;V.NFINনাচাV;V.NFIN	নাচতে
+V;3;PST;HAB;INFMচাওয়াV;3;PST;HAB;INFM	চেতে
+V;1;PRS;PROGভাঙাV;1;PRS;PROG	ভাঙছি
+V;2;PRS;PROG;LGSPEC1নাচাV;2;PRS;PROG;LGSPEC1	নাচছিস
+V;3;PST;HAB;INFMবিশেষ করাV;3;PST;HAB;INFM	বিশেষ করতে
+V;1;PRS;PRFডিফ্র্যাগমেন্ট করাV;1;PRS;PRF	ডিফ্র্যাগমেন্ট করেছি
+V;1;PRS;PRFভুলে যাওয়াV;1;PRS;PRF	ভুলে গিয়েছি
+V;3;PST;PROG;INFMভাঙাV;3;PST;PROG;INFM	ভাঙছিলে
+V;3;PST;PROG;INFMখোলাV;3;PST;PROG;INFM	খুলছিলে
+V;V.PTCP;PRFভাঙাV;V.PTCP;PRF	ভেঙে
+V;3;PST;PROG;POLকরাV;3;PST;PROG;POL	করছিলেন
+V;3;PRS;PRF;POLপাওয়াV;3;PRS;PRF;POL	পেয়েছেন
+V;2;PRS;PRF;POLমরাV;2;PRS;PRF;POL	মরেছে
+V;2;PRS;POLদাঁড়ানোV;2;PRS;POL	দাঁড়ায়
+N;LOC;PL;DEFছাতাN;LOC;PL;DEF	ছাতাগুলাতে
+V;2;PST;LGSPEC1ভাঙাV;2;PST;LGSPEC1	ভাঙলি
+V;2;FUT;POLচাপাV;2;FUT;POL	চাপবে
+V;V.NFINহাগাV;V.NFIN	হাগতে
+V;1;PST;PROGনেওয়াV;1;PST;PROG	নিচ্ছিলাম
+V;3;PRS;PROG;POLভাবাV;3;PRS;PROG;POL	ভাবছেন
+V;2;PST;HAB;LGSPEC1বোঝাV;2;PST;HAB;LGSPEC1	বুঝতিস
+V;2;PRS;PROG;POLমাল ফেলাV;2;PRS;PROG;POL	মাল ফেলছে
+V;2;PST;LGSPEC1বিশেষ করাV;2;PST;LGSPEC1	বিশেষ করলি
+V;3;PST;PRF;INFMকেনাV;3;PST;PRF;INFM	কিনেছিলে
+N;ACC;PL;DEFবান্ধবীN;ACC;PL;DEF	বান্ধবীদেরকে
+V;2;PST;PRF;POLপাওয়াV;2;PST;PRF;POL	পেয়েছিলো
+V;2;PST;POLপরাV;2;PST;POL	পরলো
+V;2;PRS;POLচুম্বন করাV;2;PRS;POL	চুম্বন করে
+V;V.MSDRবিশেষ করাV;V.MSDR	বিশেষ করা
+V;V.PTCP;CONDঘামানোV;V.PTCP;COND	ঘামালে
+V;2;PRS;PRF;LGSPEC1কেনাV;2;PRS;PRF;LGSPEC1	কিনেছিস
+V;3;PRS;PRF;POLগাওয়াV;3;PRS;PRF;POL	গেয়েছেন
+V;2;PRS;POLকরাV;2;PRS;POL	করে
+V;3;PST;HAB;INFMদেওয়াV;3;PST;HAB;INFM	দিতে
+V;1;PST;PROGচেষ্টা করাV;1;PST;PROG	চেষ্টা করছিলাম
+V;3;PRS;PRF;INFMজাগানোV;3;PRS;PRF;INFM	জাগিয়েছো
+V;2;PRS;PRF;LGSPEC1দেখানোV;2;PRS;PRF;LGSPEC1	দেখিয়েছিস
+V;V.PTCP;PROGপ্রশ্ন করাV;V.PTCP;PROG	প্রশ্ন করতেকরতে
+V;V.NFINপ্রমাণ করাV;V.NFIN	প্রমাণ করতে
+V;2;PRS;PROG;POLইচ্ছা হওয়াV;2;PRS;PROG;POL	ইচ্ছা হচ্ছে
+V;3;PRS;PRF;INFMঢোকাV;3;PRS;PRF;INFM	ঢুকেছো
+V;3;PRS;INFMচাওয়াV;3;PRS;INFM	চাও
+V;2;PRS;PRF;POLজাগাV;2;PRS;PRF;POL	জেগেছে
+V;3;PST;PRF;INFMআঁকাV;3;PST;PRF;INFM	এঁকেছিলে
+V;3;PRS;PRF;POLচুম্বন করাV;3;PRS;PRF;POL	চুম্বন করেছেন
+N;GEN;SG;DEFআলুN;GEN;SG;DEF	আলুটার
+V;V.PTCP;PROGপরাV;V.PTCP;PROG	পরতে
+V;2;PST;POLশেখাV;2;PST;POL	শিখলো
+V;2;PST;POLফেলাV;2;PST;POL	ফেল্লো
+V;1;FUTআচরণ করাV;1;FUT	আচরণ করবো
+V;1;PRSঅনুরোধ করাV;1;PRS	অনুরোধ করি
+V;2;PRS;PRF;LGSPEC1শেখাV;2;PRS;PRF;LGSPEC1	শিখেছিস
+V;2;PST;POLশিখানোV;2;PST;POL	শিখালো
+V;2;PST;PROG;LGSPEC1ব্যবহার করাV;2;PST;PROG;LGSPEC1	ব্যবহার করছিলি
+V;2;PST;PRF;POLশিখানোV;2;PST;PRF;POL	শিখিয়েছিলো
+V;V.NFINমরাV;V.NFIN	মরতে
+V;2;PST;LGSPEC1চাওয়াV;2;PST;LGSPEC1	চেলি
+V;3;FUT;INFMঢুকানোV;3;FUT;INFM	ঢুকাবে
+V;V.PTCP;PRFডিফ্র্যাগমেন্ট করাV;V.PTCP;PRF	ডিফ্র্যাগমেন্ট করে
+V;3;PST;PROG;INFMলেখাV;3;PST;PROG;INFM	লিখছিলে
+N;GEN;PL;DEFশিশুN;GEN;PL;DEF	শিশুদের
+V;3;PST;PRF;POLভাবাV;3;PST;PRF;POL	ভেবেছিলেন
+V;2;PST;HAB;LGSPEC1দেখাV;2;PST;HAB;LGSPEC1	দেখতিস
+V;2;PRS;PRF;LGSPEC1মাল ফেলাV;2;PRS;PRF;LGSPEC1	মাল ফেলেছিস
+V;2;PRS;PRF;LGSPEC1চালানোV;2;PRS;PRF;LGSPEC1	চালিয়েছিস
+V;1;PRS;PROGহাত মারাV;1;PRS;PROG	হাত মারছি
+V;1;FUTজাগানোV;1;FUT	জাগাবো
+V;3;PRS;PROG;INFMমনে রাখাV;3;PRS;PROG;INFM	মনে রাখছো
+V;V.NFINপাওয়াV;V.NFIN	পেতে
+N;GEN;NDEFভাষাN;GEN;NDEF	ভাষার
+V;2;PRS;LGSPEC1নেওয়াV;2;PRS;LGSPEC1	নিস
+V;3;PST;HAB;INFMসাহায্য করাV;3;PST;HAB;INFM	সাহায্য করতে
+V;3;PRS;INFMঢোকাV;3;PRS;INFM	ঢোকো
+V;2;PST;LGSPEC1চালানোV;2;PST;LGSPEC1	চালালি
+V;2;PST;HAB;LGSPEC1প্রমাণ করাV;2;PST;HAB;LGSPEC1	প্রমাণ করতিস
+V;V.PTCP;CONDখাওয়াV;V.PTCP;COND	খেলে
+V;3;PST;INFMপাওয়াV;3;PST;INFM	পেলে
+V;1;PST;HABচোষাV;1;PST;HAB	চুষতাম
+V;2;PST;HAB;POLজ্বালাতন করাV;2;PST;HAB;POL	জ্বালাতন করতো
+N;ACC;PL;DEFনামN;ACC;PL;DEF	নামগুলা
+V;3;PST;PROG;INFMযাওয়াV;3;PST;PROG;INFM	যাচ্ছিলে
+V;3;FUT;POLপ্রশ্ন করাV;3;FUT;POL	প্রশ্ন করবেন
+V;2;PST;PRF;POLখোঁজাV;2;PST;PRF;POL	খুঁজেছিলো
+V;V.PTCP;HABপাঠানোV;V.PTCP;HAB	পাঠায়
+V;3;FUT;INFMভাঙাV;3;FUT;INFM	ভাঙবে
+V;2;PRS;PRF;POLভরাV;2;PRS;PRF;POL	ভরেছে
+V;3;PRS;PROG;INFMচুম্বন করাV;3;PRS;PROG;INFM	চুম্বন করছো
+V;3;PST;PRF;POLলুকানোV;3;PST;PRF;POL	লুকিয়েছিলেন
+V;3;PRS;PRF;POLআঁকাV;3;PRS;PRF;POL	এঁকেছেন
+V;3;PRS;PROG;POLহাঁটাV;3;PRS;PROG;POL	হাঁটছেন
+V;2;PST;LGSPEC1ভরাV;2;PST;LGSPEC1	ভরলি
+N;ACC;SG;DEFবন্ধুN;ACC;SG;DEF	বন্ধুটাকে
+V;3;FUT;POLভাঙাV;3;FUT;POL	ভাঙবেন
+V;1;PSTহাত মারাV;1;PST	হাত মারলাম
+V;2;FUT;LGSPEC1হাঁটাV;2;FUT;LGSPEC1	হাঁটবি
+V;2;PST;POLপছন্দ করাV;2;PST;POL	পছন্দ করলো
+V;3;PST;HAB;INFMখাওয়াV;3;PST;HAB;INFM	খেতে
+V;2;PRS;PROG;POLডিফ্র্যাগমেন্ট করাV;2;PRS;PROG;POL	ডিফ্র্যাগমেন্ট করছে
+V;2;PRS;PRF;LGSPEC1নেওয়াV;2;PRS;PRF;LGSPEC1	নিয়েছিস
+V;2;FUT;LGSPEC1নেওয়াV;2;FUT;LGSPEC1	নিবি
+V;2;PST;PRF;POLওঠাV;2;PST;PRF;POL	উঠেছিলো
+V;2;PST;HAB;LGSPEC1ভালোবাসাV;2;PST;HAB;LGSPEC1	ভালোবাসতিস
+V;3;PRS;PRF;POLচাপাV;3;PRS;PRF;POL	চেপেছেন
+V;3;PST;PROG;POLমাল ফেলাV;3;PST;PROG;POL	মাল ফেলছিলেন
+V;2;PST;HAB;LGSPEC1শেখাV;2;PST;HAB;LGSPEC1	শিখতিস
+V;3;PRS;POLহাত মারাV;3;PRS;POL	হাত মারেন
+N;LOC;PL;DEFবিভাগN;LOC;PL;DEF	বিভাগগুলাতে
+V;2;PRS;PROG;POLবৃষ্টি হওয়াV;2;PRS;PROG;POL	বৃষ্টি হচ্ছে
+V;3;PST;POLডিফ্র্যাগমেন্ট করাV;3;PST;POL	ডিফ্র্যাগমেন্ট করলেন
+V;3;PST;INFMহওয়াV;3;PST;INFM	হলে
+V;2;PST;HAB;POLশেখাV;2;PST;HAB;POL	শিখতো
+V;2;PST;LGSPEC1পাওয়াV;2;PST;LGSPEC1	পেলি
+V;V.PTCP;PROGপ্রমাণ করাV;V.PTCP;PROG	প্রমাণ করতেকরতে
+N;GEN;SG;DEFবোনN;GEN;SG;DEF	বোনটার
+V;3;PST;PROG;INFMআঁকাV;3;PST;PROG;INFM	আঁকছিলে
+V;2;PRS;LGSPEC1ঘামাV;2;PRS;LGSPEC1	ঘামিস
+V;2;PST;LGSPEC1শিখানোV;2;PST;LGSPEC1	শিখালি
+V;3;PRS;PRF;POLধরাV;3;PRS;PRF;POL	ধরেছেন
+V;2;PRS;PRF;LGSPEC1বসাV;2;PRS;PRF;LGSPEC1	বসেছিস
+V;3;PST;POLহাগাV;3;PST;POL	হাগলেন
+V;3;PST;PROG;INFMচাখাV;3;PST;PROG;INFM	চাখছিলে
+V;2;PST;PROG;POLটানাV;2;PST;PROG;POL	টানছিলো
+V;V.PTCP;HABপ্রমাণ করাV;V.PTCP;HAB	প্রমাণ করেকরে
+V;3;PST;PROG;POLবিশেষ করাV;3;PST;PROG;POL	বিশেষ করছিলেন
+V;2;PST;LGSPEC1জ্বালাতন করাV;2;PST;LGSPEC1	জ্বালাতন করলি
+V;3;PST;PROG;POLঅনুবাদ করাV;3;PST;PROG;POL	অনুবাদ করছিলেন
+V;3;PST;PROG;INFMজ্বালাতন করাV;3;PST;PROG;INFM	জ্বালাতন করছিলে
+V;2;PST;HAB;POLযাওয়াV;2;PST;HAB;POL	যেতো
+V;V.PTCP;CONDঘৃণা করাV;V.PTCP;COND	ঘৃণা করলে
+V;1;PRS;PRFটাইপ করাV;1;PRS;PRF	টাইপ করেছি
+V;3;PST;HAB;INFMহাগাV;3;PST;HAB;INFM	হাগতে
+V;3;PST;HAB;POLসাহায্য করাV;3;PST;HAB;POL	সাহায্য করতেন
+V;1;PST;PRFদেখাV;1;PST;PRF	দেখেছিলাম
+V;2;PST;POLআঁকাV;2;PST;POL	আঁকলো
+V;3;PST;HAB;POLগাওয়াV;3;PST;HAB;POL	গেতেন
+V;3;PST;HAB;POLওঠাV;3;PST;HAB;POL	উঠতেন
+V;1;PRS;PRFবোঝাV;1;PRS;PRF	বুঝেছি
+V;1;PSTবলাV;1;PST	বল্লাম
+V;3;PRS;PRF;POLশেখাV;3;PRS;PRF;POL	শিখেছেন
+V;V.NFINদেওয়াV;V.NFIN	দেতে
+V;1;PRS;PROGচোষাV;1;PRS;PROG	চুষছি
+N;GEN;PL;DEFউদ্দেশ্যN;GEN;PL;DEF	উদ্দেশ্যগুলার
+V;3;PRS;PRF;POLচালানোV;3;PRS;PRF;POL	চালিয়েছেন
+N;ACC;SG;DEFছেলেN;ACC;SG;DEF	ছেলেটাকে
+V;2;PST;PROG;LGSPEC1পাঠানোV;2;PST;PROG;LGSPEC1	পাঠাচ্ছিলি
+V;V.PTCP;PROGশোনাV;V.PTCP;PROG	শুনতে
+V;3;FUT;POLহওয়াV;3;FUT;POL	হবেন
+V;1;PRSশিখানোV;1;PRS	শিখাই
+V;3;PST;PROG;INFMমারাV;3;PST;PROG;INFM	মারছিলে
+V;2;PRS;PRF;POLদেখানোV;2;PRS;PRF;POL	দেখিয়েছে
+V;V.NFINটাইপ করাV;V.NFIN	টাইপ করতে
+V;1;PST;PROGধরাV;1;PST;PROG	ধরছিলাম
+V;2;PST;PROG;LGSPEC1নেওয়াV;2;PST;PROG;LGSPEC1	নিচ্ছিলি
+N;NOM;SG;DEFমুখN;NOM;SG;DEF	মুখটা
+V;V.PTCP;PROGপাওয়াV;V.PTCP;PROG	পেতে
+N;GEN;SG;DEFছেলেN;GEN;SG;DEF	ছেলেটার
+V;3;PRS;PROG;POLবোঝাV;3;PRS;PROG;POL	বুঝছেন
+V;2;PST;PRF;LGSPEC1চাপাV;2;PST;PRF;LGSPEC1	চেপেছিলি
+V;2;FUT;LGSPEC1খাওয়াV;2;FUT;LGSPEC1	খাবি
+V;3;FUT;POLশেখাV;3;FUT;POL	শিখবেন
+V;3;PRS;PROG;INFMজানাV;3;PRS;PROG;INFM	জানছো
+V;3;PST;HAB;POLঅনুভব করাV;3;PST;HAB;POL	অনুভব করতেন
+V;3;PRS;POLকাটাV;3;PRS;POL	কাটেন
+V;3;FUT;INFMওঠাV;3;FUT;INFM	উঠবে
+V;3;PST;PROG;INFMপাওয়াV;3;PST;PROG;INFM	পাচ্ছিলে
+V;3;PRS;PRF;POLভালোবাসাV;3;PRS;PRF;POL	ভালোবেসেছেন
+V;3;PST;HAB;POLটাইপ করাV;3;PST;HAB;POL	টাইপ করতেন
+V;3;FUT;INFMচোষাV;3;FUT;INFM	চুষবে
+V;1;PST;PRFআচরণ করাV;1;PST;PRF	আচরণ করেছিলাম
+V;2;PST;PROG;LGSPEC1চাটাV;2;PST;PROG;LGSPEC1	চাটছিলি
+V;2;PST;HAB;POLখোলাV;2;PST;HAB;POL	খুলতো
+V;3;PST;PROG;POLগেলাV;3;PST;PROG;POL	গিলছিলেন
+V;3;PST;INFMআসাV;3;PST;INFM	আসলে
+V;3;PRS;PRF;INFMভালোবাসাV;3;PRS;PRF;INFM	ভালোবেসেছো
+N;GEN;NDEFজুতাN;GEN;NDEF	জুতার
+V;3;PRS;INFMদেখাV;3;PRS;INFM	দেখো
+V;2;PRS;PRF;POLজ্বালাতন করাV;2;PRS;PRF;POL	জ্বালাতন করেছে
+N;ACC;NDEFতিমিN;ACC;NDEF	তিমি
+V;3;FUT;INFMবন্ধ করাV;3;FUT;INFM	বন্ধ করবে
+V;1;PRS;PRFখোলাV;1;PRS;PRF	খুলেছি
+N;LOC;SG;DEFফুলN;LOC;SG;DEF	ফুলটাতে
+V;2;FUT;POLনেওয়াV;2;FUT;POL	নিবে
+V;2;PRS;PROG;LGSPEC1লেখাV;2;PRS;PROG;LGSPEC1	লিখছিস
+V;3;PST;PRF;INFMপাঠানোV;3;PST;PRF;INFM	পাঠিয়েছিলে
+N;NOM;PL;DEFবান্ধবীN;NOM;PL;DEF	বান্ধবীরা
+V;V.PTCP;HABটাইপ করাV;V.PTCP;HAB	টাইপ করেকরে
+V;2;PST;PRF;POLভরাV;2;PST;PRF;POL	ভরেছিলো
+V;3;PRS;POLঅনুবাদ করাV;3;PRS;POL	অনুবাদ করেন
+V;2;PST;HAB;LGSPEC1আসাV;2;PST;HAB;LGSPEC1	আসতিস
+V;V.NFINচাখাV;V.NFIN	চাখতে
+V;2;PST;PROG;LGSPEC1মনে রাখাV;2;PST;PROG;LGSPEC1	মনে রাখছিলি
+V;1;PRSদেখানোV;1;PRS	দেখাই
+N;GEN;PL;DEFজন্মN;GEN;PL;DEF	জন্মগুলার
+N;ACC;NDEFপাছাN;ACC;NDEF	পাছা
+V;1;PRSচাওয়াV;1;PRS	চাই
+N;LOC;NDEFবিভাগN;LOC;NDEF	বিভাগে
+V;3;PST;POLলুকানোV;3;PST;POL	লুকালেন
+V;2;FUT;LGSPEC1দেখাV;2;FUT;LGSPEC1	দেখবি
+V;3;PST;PROG;POLআসাV;3;PST;PROG;POL	আসছিলেন
+V;2;FUT;LGSPEC1আঁকাV;2;FUT;LGSPEC1	আঁকবি
+V;3;FUT;INFMঢোকাV;3;FUT;INFM	ঢুকবে
+V;3;PST;HAB;POLপ্রশ্ন করাV;3;PST;HAB;POL	প্রশ্ন করতেন
+V;1;FUTদেখানোV;1;FUT	দেখাবো
+V;1;FUTশেখাV;1;FUT	শিখবো
+V;2;PRS;LGSPEC1জানাV;2;PRS;LGSPEC1	জানিস
+V;3;PST;POLঅনুরোধ করাV;3;PST;POL	অনুরোধ করলেন
+V;2;PRS;PROG;POLআচরণ করাV;2;PRS;PROG;POL	আচরণ করছে
+V;2;PST;PROG;LGSPEC1প্রশ্ন করাV;2;PST;PROG;LGSPEC1	প্রশ্ন করছিলি
+V;1;PST;HABখোঁজাV;1;PST;HAB	খুঁজতাম
+V;3;FUT;INFMটাইপ করাV;3;FUT;INFM	টাইপ করবে
+V;2;PRS;POLনেওয়াV;2;PRS;POL	নেয়
+V;1;PSTভালবাসাV;1;PST	ভালবাসলাম
+V;2;PST;PRF;POLপাঠানোV;2;PST;PRF;POL	পাঠিয়েছিলো
+V;3;PST;PRF;INFMদেখাV;3;PST;PRF;INFM	দেখেছিলে
+V;1;FUTচেনাV;1;FUT	চিনবো
+V;1;PSTভুলে যাওয়াV;1;PST	ভুলে গেলাম
+V;1;PRS;PRFচেনাV;1;PRS;PRF	চিনেছি
+V;3;PRS;INFMইচ্ছা হওয়াV;3;PRS;INFM	ইচ্ছা হও
+V;3;PRS;PRF;INFMপাওয়াV;3;PRS;PRF;INFM	পেয়েছো
+N;NOM;PL;DEFছেলেN;NOM;PL;DEF	ছেলেরা
+N;LOC;PL;DEFঅনুরোধN;LOC;PL;DEF	অনুরোধগুলাতে
+N;LOC;PL;DEFনামN;LOC;PL;DEF	নামগুলাতে
+N;GEN;PL;DEFধনN;GEN;PL;DEF	ধনগুলার
+V;2;FUT;LGSPEC1হওয়াV;2;FUT;LGSPEC1	হবি
+N;LOC;SG;DEFঘটনাN;LOC;SG;DEF	ঘটনাটাতে
+V;1;PSTদেখাV;1;PST	দেখলাম
+V;2;PRS;PROG;POLদেওয়াV;2;PRS;PROG;POL	দিচ্ছে
+V;2;PST;PRF;LGSPEC1বলাV;2;PST;PRF;LGSPEC1	বলেছিলি
+N;ACC;SG;DEFউপজেলাN;ACC;SG;DEF	উপজেলাটা
+V;1;PRS;PROGজ্বালাতন করাV;1;PRS;PROG	জ্বালাতন করছি
+V;3;PRS;PROG;INFMঅনুভব করাV;3;PRS;PROG;INFM	অনুভব করছো
+N;LOC;SG;DEFদেশN;LOC;SG;DEF	দেশটাতে
+V;3;PRS;PRF;POLদেওয়াV;3;PRS;PRF;POL	দিয়েছেন
+V;1;PRSভরাV;1;PRS	ভরি
+V;V.PTCP;HABঅপেক্ষা করাV;V.PTCP;HAB	অপেক্ষা করেকরে
+V;2;FUT;POLওঠাV;2;FUT;POL	উঠবে
+V;1;PST;PRFশেখাV;1;PST;PRF	শিখেছিলাম
+V;V.MSDRহাগাV;V.MSDR	হাগা
+N;NOM;SG;DEFবোনN;NOM;SG;DEF	বোনটা
+V;2;PRS;PROG;POLযাওয়াV;2;PRS;PROG;POL	যাচ্ছে
+V;1;PRS;PROGশোনাV;1;PRS;PROG	শুনছি
+V;2;PRS;PRF;LGSPEC1চেনাV;2;PRS;PRF;LGSPEC1	চিনেছিস
+V;3;FUT;POLকেনাV;3;FUT;POL	কিনবেন
+V;2;PST;PROG;LGSPEC1বন্ধ করাV;2;PST;PROG;LGSPEC1	বন্ধ করছিলি
+V;3;PST;POLজানাV;3;PST;POL	জানলেন
+N;ACC;PL;DEFজানালাN;ACC;PL;DEF	জানালাগুলা
+V;1;PST;HABবলাV;1;PST;HAB	বলতাম
+V;1;FUTফেলাV;1;FUT	ফেলবো
+V;1;PRS;PROGব্যবহার করাV;1;PRS;PROG	ব্যবহার করছি
+V;2;PRS;PROG;LGSPEC1বন্ধ করাV;2;PRS;PROG;LGSPEC1	বন্ধ করছিস
+N;ACC;NDEFব্যক্তিN;ACC;NDEF	ব্যক্তি
+V;2;PST;HAB;POLশিখানোV;2;PST;HAB;POL	শিখাতো
+V;3;FUT;POLহাত মারাV;3;FUT;POL	হাত মারবেন
+V;2;PRS;PRF;LGSPEC1পছন্দ করাV;2;PRS;PRF;LGSPEC1	পছন্দ করেছিস
+V;2;PRS;PROG;POLকরাV;2;PRS;PROG;POL	করছে
+V;3;PRS;PROG;POLশোনাV;3;PRS;PROG;POL	শুনছেন
+V;1;PST;PRFঅপেক্ষা করাV;1;PST;PRF	অপেক্ষা করেছিলাম
+V;V.PTCP;PRFদেখাV;V.PTCP;PRF	দেখে
+V;2;PST;PRF;LGSPEC1অনুবাদ করাV;2;PST;PRF;LGSPEC1	অনুবাদ করেছিলি
+V;V.PTCP;PROGব্যবহার করাV;V.PTCP;PROG	ব্যবহার করতেকরতে
+V;3;PST;HAB;POLনাচাV;3;PST;HAB;POL	নাচতেন
+V;1;FUTখাওয়াV;1;FUT	খাবো
+V;V.PTCP;PROGমরাV;V.PTCP;PROG	মরতে
+V;3;PST;PRF;POLভাঙাV;3;PST;PRF;POL	ভেঙেছিলেন
+V;2;FUT;LGSPEC1ব্যবহার করাV;2;FUT;LGSPEC1	ব্যবহার করবি
+V;1;PST;PROGউল্কি আঁকাV;1;PST;PROG	উল্কি আঁকছিলাম
+V;3;PST;INFMঘুমানোV;3;PST;INFM	ঘুমালে
+V;V.PTCP;HABচুম্বন করাV;V.PTCP;HAB	চুম্বন করেকরে
+V;1;PSTবোঝাV;1;PST	বুঝলাম
+N;LOC;PL;DEFশহরN;LOC;PL;DEF	শহরগুলাতে
+V;3;PST;INFMচুম্বন করাV;3;PST;INFM	চুম্বন করলে
+V;V.PTCP;PRFশিখানোV;V.PTCP;PRF	শিখায়
+V;2;PRS;PROG;POLকেনাV;2;PRS;PROG;POL	কিনছে
+V;2;PST;PROG;POLহওয়াV;2;PST;PROG;POL	হচ্ছিলো
+V;2;PST;PRF;LGSPEC1ঢোকাV;2;PST;PRF;LGSPEC1	ঢুকেছিলি
+V;3;PRS;PROG;INFMটাইপ করাV;3;PRS;PROG;INFM	টাইপ করছো
+V;3;PRS;PROG;INFMখাওয়াV;3;PRS;PROG;INFM	খাচ্ছো
+V;1;PSTচাওয়াV;1;PST	চেলাম
+N;ACC;SG;DEFজুতাN;ACC;SG;DEF	জুতাটা
+V;2;PST;PROG;POLচোষাV;2;PST;PROG;POL	চুষছিলো
+V;3;PST;HAB;INFMআঁকাV;3;PST;HAB;INFM	আঁকতে
+V;2;PST;PRF;LGSPEC1টানাV;2;PST;PRF;LGSPEC1	টেনেছিলি
+V;1;PSTকাটাV;1;PST	কাটলাম
+V;1;PRSধরাV;1;PRS	ধরি
+V;2;PST;HAB;LGSPEC1ধরাV;2;PST;HAB;LGSPEC1	ধরতিস
+V;3;PST;PROG;POLঢুকানোV;3;PST;PROG;POL	ঢুকাচ্ছিলেন
+V;3;PRS;PROG;INFMডিফ্র্যাগমেন্ট করাV;3;PRS;PROG;INFM	ডিফ্র্যাগমেন্ট করছো
+V;2;PST;PRF;LGSPEC1মরাV;2;PST;PRF;LGSPEC1	মরেছিলি
+V;1;PST;PRFচাখাV;1;PST;PRF	চেখেছিলাম
+V;3;PRS;PROG;INFMআগানোV;3;PRS;PROG;INFM	আগাচ্ছো
+V;1;PST;PROGশিখানোV;1;PST;PROG	শিখাচ্ছিলাম
+V;1;PST;PROGআগানোV;1;PST;PROG	আগাচ্ছিলাম
+V;2;PRS;LGSPEC1অনুভব করাV;2;PRS;LGSPEC1	অনুভব করিস
+N;NOM;SG;DEFকুকুরN;NOM;SG;DEF	কুকুরটা
+V;2;PST;PRF;POLখাওয়াV;2;PST;PRF;POL	খেয়েছিলো
+V;2;PST;PRF;LGSPEC1চাটাV;2;PST;PRF;LGSPEC1	চেটেছিলি
+V;3;PST;POLলেখাV;3;PST;POL	লিখলেন
+V;2;PRS;PROG;POLআসাV;2;PRS;PROG;POL	আসছে
+V;2;PRS;PRF;POLইচ্ছা হওয়াV;2;PRS;PRF;POL	ইচ্ছা হয়েছে
+V;2;PRS;POLআচরণ করাV;2;PRS;POL	আচরণ করে
+V;3;FUT;INFMজাগানোV;3;FUT;INFM	জাগাবে
+N;ACC;SG;DEFনীহারিকাN;ACC;SG;DEF	নীহারিকাটা
+V;2;PRS;LGSPEC1চালানোV;2;PRS;LGSPEC1	চালাস
+V;3;PST;HAB;INFMশোনাV;3;PST;HAB;INFM	শুনতে
+V;3;PRS;INFMলেখাV;3;PRS;INFM	লেখো
+N;GEN;NDEFবোনN;GEN;NDEF	বোনের
+V;3;PST;HAB;INFMঘামাV;3;PST;HAB;INFM	ঘামতে
+V;3;PST;POLদেওয়াV;3;PST;POL	দিলেন
+V;2;PST;POLবন্ধ করাV;2;PST;POL	বন্ধ করলো
+V;2;FUT;LGSPEC1খোঁজাV;2;FUT;LGSPEC1	খুঁজবি
+N;ACC;PL;DEFশিশ্নN;ACC;PL;DEF	শিশ্নগুলা
+V;3;PST;HAB;INFMযাওয়াV;3;PST;HAB;INFM	যেতে
+V;3;PST;PROG;INFMশেখাV;3;PST;PROG;INFM	শিখছিলে
+V;3;FUT;INFMজ্বালাতন করাV;3;FUT;INFM	জ্বালাতন করবে
+N;LOC;SG;DEFঅনুরোধN;LOC;SG;DEF	অনুরোধটাতে
+V;2;FUT;LGSPEC1ঢুকানোV;2;FUT;LGSPEC1	ঢুকাবি
+V;V.PTCP;PRFআচরণ করাV;V.PTCP;PRF	আচরণ করে
+V;3;PST;POLচাপাV;3;PST;POL	চাপলেন
+V;3;PST;PROG;POLলুকানোV;3;PST;PROG;POL	লুকাচ্ছিলেন
+V;3;PRS;INFMভুলে যাওয়াV;3;PRS;INFM	ভুলে যাও
+V;1;PSTচেষ্টা করাV;1;PST	চেষ্টা করলাম
+V;3;PST;POLগেলাV;3;PST;POL	গিল্লেন
+V;3;PRS;INFMগেলাV;3;PRS;INFM	গেলো
+V;2;PST;PRF;LGSPEC1ওঠাV;2;PST;PRF;LGSPEC1	উঠেছিলি
+V;2;PRS;PRF;LGSPEC1ভরাV;2;PRS;PRF;LGSPEC1	ভরেছিস
+V;3;FUT;INFMনাচাV;3;FUT;INFM	নাচবে
+V;3;PRS;PRF;INFMউল্কি আঁকাV;3;PRS;PRF;INFM	উল্কি এঁকেছো
+V;1;PRSবলাV;1;PRS	বলি
+V;3;FUT;POLজাগানোV;3;FUT;POL	জাগাবেন
+V;3;FUT;INFMপরাV;3;FUT;INFM	পরবে
+N;GEN;SG;DEFপ্রতিষ্ঠাতাN;GEN;SG;DEF	প্রতিষ্ঠাতাটার
+V;2;PST;HAB;POLঢোকাV;2;PST;HAB;POL	ঢুকতো
+V;V.NFINগাওয়াV;V.NFIN	গেতে
+V;1;FUTভুলে যাওয়াV;1;FUT	ভুলে যাবো
+V;2;PRS;POLআসাV;2;PRS;POL	আসে
+V;1;PST;HABঢোকাV;1;PST;HAB	ঢুকতাম
+V;3;PST;POLচেষ্টা করাV;3;PST;POL	চেষ্টা করলেন
+V;2;PRS;PRF;LGSPEC1গাওয়াV;2;PRS;PRF;LGSPEC1	গেয়েছিস
+V;3;PST;HAB;INFMবৃষ্টি হওয়াV;3;PST;HAB;INFM	বৃষ্টি হতে
+V;2;PRS;PRF;POLভালবাসাV;2;PRS;PRF;POL	ভালবেসেছে
+V;V.PTCP;CONDদেখানোV;V.PTCP;COND	দেখালে
+V;2;FUT;POLনাচাV;2;FUT;POL	নাচবে
+V;2;FUT;LGSPEC1পছন্দ করাV;2;FUT;LGSPEC1	পছন্দ করবি
+V;V.PTCP;HABচাখাV;V.PTCP;HAB	চেখে
+V;2;FUT;LGSPEC1ঘুমানোV;2;FUT;LGSPEC1	ঘুমাবি
+V;2;PST;HAB;POLঅনুবাদ করাV;2;PST;HAB;POL	অনুবাদ করতো
+V;V.MSDRদেখাV;V.MSDR	দেখা
+V;V.PTCP;HABওঠাV;V.PTCP;HAB	উঠে
+V;2;FUT;POLটাইপ করাV;2;FUT;POL	টাইপ করবে
+V;3;PRS;PRF;INFMচালানোV;3;PRS;PRF;INFM	চালিয়েছো
+V;3;PRS;PRF;INFMডিফ্র্যাগমেন্ট করাV;3;PRS;PRF;INFM	ডিফ্র্যাগমেন্ট করেছো
+V;V.PTCP;PRFপরাV;V.PTCP;PRF	পরে
+V;1;PRS;PROGযাওয়াV;1;PRS;PROG	যাচ্ছি
+V;V.PTCP;HABঅনুভব করাV;V.PTCP;HAB	অনুভব করেকরে
+V;V.PTCP;HABব্যবহার করাV;V.PTCP;HAB	ব্যবহার করেকরে
+V;3;PRS;PROG;POLমরাV;3;PRS;PROG;POL	মরছেন
+V;3;PST;PRF;POLদেখানোV;3;PST;PRF;POL	দেখিয়েছিলেন
+N;NOM;SG;DEFদেহN;NOM;SG;DEF	দেহটা
+V;3;PST;PRF;POLআঁকাV;3;PST;PRF;POL	এঁকেছিলেন
+V;1;PST;PRFসাহায্য করাV;1;PST;PRF	সাহায্য করেছিলাম
+N;NOM;NDEFঅভিযোগN;NOM;NDEF	অভিযোগ
+V;V.PTCP;PRFপ্রমাণ করাV;V.PTCP;PRF	প্রমাণ করে
+V;2;PRS;POLপ্রমাণ করাV;2;PRS;POL	প্রমাণ করে
+V;2;PST;PROG;LGSPEC1সাহায্য করাV;2;PST;PROG;LGSPEC1	সাহায্য করছিলি
+V;3;PST;PROG;POLঅনুভব করাV;3;PST;PROG;POL	অনুভব করছিলেন
+V;V.PTCP;HABআসাV;V.PTCP;HAB	এসে
+V;2;PST;LGSPEC1অনুবাদ করাV;2;PST;LGSPEC1	অনুবাদ করলি
+V;3;PST;HAB;POLভালোবাসাV;3;PST;HAB;POL	ভালোবাসতেন
+V;2;PST;PROG;LGSPEC1চাপাV;2;PST;PROG;LGSPEC1	চাপছিলি
+V;2;PST;PROG;POLবসাV;2;PST;PROG;POL	বসছিলো
+V;1;FUTপরাV;1;FUT	পরবো
+V;3;PRS;PRF;POLরাখাV;3;PRS;PRF;POL	রেখেছেন
+V;2;PRS;PRF;POLপরাV;2;PRS;PRF;POL	পরেছে
+V;3;PST;HAB;POLঅনুবাদ করাV;3;PST;HAB;POL	অনুবাদ করতেন
+N;NOM;SG;DEFলিঙ্গN;NOM;SG;DEF	লিঙ্গটা
+V;2;PST;LGSPEC1জাগাV;2;PST;LGSPEC1	জাগলি
+V;2;PRS;PROG;POLঅনুরোধ করাV;2;PRS;PROG;POL	অনুরোধ করছে
+V;3;PRS;INFMনাচাV;3;PRS;INFM	নাচো
+V;1;PRS;PRFচাখাV;1;PRS;PRF	চেখেছি
+V;2;PST;POLপাঠানোV;2;PST;POL	পাঠালো
+N;NOM;NDEFউদ্দেশ্যN;NOM;NDEF	উদ্দেশ্য
+V;3;PRS;PROG;POLভুলে যাওয়াV;3;PRS;PROG;POL	ভুলে যাচ্ছেন
+N;NOM;PL;DEFদেহN;NOM;PL;DEF	দেহগুলা
+N;LOC;PL;DEFভাষাN;LOC;PL;DEF	ভাষাগুলাতে
+V;3;FUT;INFMপ্রশ্ন করাV;3;FUT;INFM	প্রশ্ন করবে
+V;V.PTCP;HABডিফ্র্যাগমেন্ট করাV;V.PTCP;HAB	ডিফ্র্যাগমেন্ট করেকরে
+V;3;PRS;INFMফেলাV;3;PRS;INFM	ফেলো
+V;3;PRS;INFMভাবাV;3;PRS;INFM	ভাবো
+V;2;PST;LGSPEC1খাওয়াV;2;PST;LGSPEC1	খেলি
+N;GEN;PL;DEFনুনুN;GEN;PL;DEF	নুনুগুলার
+V;2;PST;PROG;POLঅনুভব করাV;2;PST;PROG;POL	অনুভব করছিলো
+V;2;PST;PRF;LGSPEC1ঘুমানোV;2;PST;PRF;LGSPEC1	ঘুমিয়েছিলি
+V;3;PST;INFMদেওয়াV;3;PST;INFM	দিলে
+N;LOC;NDEFঘরN;LOC;NDEF	ঘরে
+V;3;PST;PRF;INFMবৃষ্টি হওয়াV;3;PST;PRF;INFM	বৃষ্টি হয়েছিলে
+V;3;PST;HAB;POLমরাV;3;PST;HAB;POL	মরতেন
+N;ACC;PL;DEFগাজরN;ACC;PL;DEF	গাজরগুলা
+V;1;PST;PRFডিফ্র্যাগমেন্ট করাV;1;PST;PRF	ডিফ্র্যাগমেন্ট করেছিলাম
+V;2;PRS;PRF;POLআঁকাV;2;PRS;PRF;POL	এঁকেছে
+V;V.MSDRজ্বালাতন করাV;V.MSDR	জ্বালাতন করা
+V;2;PRS;PRF;LGSPEC1অনুরোধ করাV;2;PRS;PRF;LGSPEC1	অনুরোধ করেছিস
+V;2;PRS;PROG;LGSPEC1দাঁড়ানোV;2;PRS;PROG;LGSPEC1	দাঁড়াচ্ছিস
+V;2;PRS;PRF;LGSPEC1জ্বালাতন করাV;2;PRS;PRF;LGSPEC1	জ্বালাতন করেছিস
+V;2;FUT;LGSPEC1সাহায্য করাV;2;FUT;LGSPEC1	সাহায্য করবি
+V;2;PST;HAB;LGSPEC1ফেলাV;2;PST;HAB;LGSPEC1	ফেলতিস
+V;V.MSDRশেখাV;V.MSDR	শেখা
+V;2;PST;PRF;LGSPEC1চোষাV;2;PST;PRF;LGSPEC1	চুষেছিলি
+V;3;PRS;PRF;INFMভরাV;3;PRS;PRF;INFM	ভরেছো
+V;2;PST;PRF;LGSPEC1আচরণ করাV;2;PST;PRF;LGSPEC1	আচরণ করেছিলি
+V;V.PTCP;PRFবৃষ্টি হওয়াV;V.PTCP;PRF	বৃষ্টি হয়ে
+V;2;PRS;POLচাওয়াV;2;PRS;POL	চায়
+V;2;PRS;PROG;POLপাওয়াV;2;PRS;PROG;POL	পাচ্ছে
+V;2;FUT;POLমাল ফেলাV;2;FUT;POL	মাল ফেলবে
+V;3;PST;PRF;INFMআসাV;3;PST;PRF;INFM	এসেছিলে
+V;3;PST;PROG;INFMভাবাV;3;PST;PROG;INFM	ভাবছিলে
+V;3;PRS;PROG;INFMচাটাV;3;PRS;PROG;INFM	চাটছো
+V;3;PST;PROG;POLউল্কি আঁকাV;3;PST;PROG;POL	উল্কি আঁকছিলেন
+V;3;PST;HAB;POLদেখানোV;3;PST;HAB;POL	দেখাতেন
+V;3;PRS;PROG;POLঢোকাV;3;PRS;PROG;POL	ঢুকছেন
+V;3;PRS;PROG;POLহাগাV;3;PRS;PROG;POL	হাগছেন
+V;1;PST;PROGওঠাV;1;PST;PROG	উঠছিলাম
+V;1;PRS;PRFখাওয়াV;1;PRS;PRF	খেয়েছি
+V;V.PTCP;PROGবসাV;V.PTCP;PROG	বসতে
+N;GEN;SG;DEFশিশুN;GEN;SG;DEF	শিশুটার
+V;1;PRS;PROGচাওয়াV;1;PRS;PROG	চাচ্ছি
+V;3;PST;PROG;INFMশিখানোV;3;PST;PROG;INFM	শিখাচ্ছিলে
+V;2;PST;PROG;POLভালোবাসাV;2;PST;PROG;POL	ভালোবাসছিলো
+V;2;PRS;PROG;POLপাঠানোV;2;PRS;PROG;POL	পাঠাচ্ছে
+V;1;PST;PRFশোনাV;1;PST;PRF	শুনেছিলাম
+V;V.NFINবলাV;V.NFIN	বলতে
+N;NOM;NDEFগাজরN;NOM;NDEF	গাজর
+V;2;PST;PROG;POLসাহায্য করাV;2;PST;PROG;POL	সাহায্য করছিলো
+V;2;PST;PROG;LGSPEC1গেলাV;2;PST;PROG;LGSPEC1	গিলছিলি
+V;2;PRS;PROG;POLহাগাV;2;PRS;PROG;POL	হাগছে
+V;3;PST;HAB;POLধরাV;3;PST;HAB;POL	ধরতেন
+V;V.PTCP;PROGচাওয়াV;V.PTCP;PROG	চেতে
+V;2;PST;PROG;POLবৃষ্টি হওয়াV;2;PST;PROG;POL	বৃষ্টি হচ্ছিলো
+V;2;PST;PRF;POLভালবাসাV;2;PST;PRF;POL	ভালবেসেছিলো
+V;2;PST;LGSPEC1ভালোবাসাV;2;PST;LGSPEC1	ভালোবাসলি
+V;2;PST;PROG;LGSPEC1শোনাV;2;PST;PROG;LGSPEC1	শুনছিলি
+V;3;PRS;PRF;POLভরাV;3;PRS;PRF;POL	ভরেছেন
+V;3;PST;INFMখোঁজাV;3;PST;INFM	খুঁজলে
+V;1;PST;PROGভাবাV;1;PST;PROG	ভাবছিলাম
+V;3;PRS;POLশেখাV;3;PRS;POL	শেখেন
+V;1;PST;HABটাইপ করাV;1;PST;HAB	টাইপ করতাম
+V;2;PST;HAB;LGSPEC1রাখাV;2;PST;HAB;LGSPEC1	রাখতিস
+V;2;PST;PRF;LGSPEC1খোঁজাV;2;PST;PRF;LGSPEC1	খুঁজেছিলি
+V;2;PRS;POLশোনাV;2;PRS;POL	শোনে
+V;3;PRS;PROG;POLহাত মারাV;3;PRS;PROG;POL	হাত মারছেন
+V;3;PST;INFMমারাV;3;PST;INFM	মারলে
+V;3;PST;POLঘৃণা করাV;3;PST;POL	ঘৃণা করলেন
+V;2;PST;HAB;POLটাইপ করাV;2;PST;HAB;POL	টাইপ করতো
+V;2;PST;PROG;POLআসাV;2;PST;PROG;POL	আসছিলো
+V;3;FUT;POLচাপাV;3;FUT;POL	চাপবেন
+V;1;PSTজানাV;1;PST	জানলাম
+N;ACC;NDEFমুখN;ACC;NDEF	মুখ
+V;3;PRS;PROG;INFMঅনুবাদ করাV;3;PRS;PROG;INFM	অনুবাদ করছো
+V;2;PST;POLইচ্ছা হওয়াV;2;PST;POL	ইচ্ছা হলো
+V;1;PRS;PROGচাখাV;1;PRS;PROG	চাখছি
+V;3;PRS;PROG;INFMশিখানোV;3;PRS;PROG;INFM	শিখাচ্ছো
+V;2;PST;HAB;LGSPEC1মাল ফেলাV;2;PST;HAB;LGSPEC1	মাল ফেলতিস
+V;3;FUT;POLব্যবহার করাV;3;FUT;POL	ব্যবহার করবেন
+N;LOC;PL;DEFজন্মN;LOC;PL;DEF	জন্মগুলাতে
+V;2;PRS;PROG;LGSPEC1ঢুকানোV;2;PRS;PROG;LGSPEC1	ঢুকাচ্ছিস
+V;3;PRS;PRF;INFMব্যবহার করাV;3;PRS;PRF;INFM	ব্যবহার করেছো
+V;2;PST;POLভরাV;2;PST;POL	ভরলো
+V;2;PRS;PRF;LGSPEC1মরাV;2;PRS;PRF;LGSPEC1	মরেছিস
+V;2;PST;PROG;LGSPEC1জানাV;2;PST;PROG;LGSPEC1	জানছিলি
+N;NOM;NDEFদেশN;NOM;NDEF	দেশ
+V;2;FUT;LGSPEC1চুম্বন করাV;2;FUT;LGSPEC1	চুম্বন করবি
+V;3;PRS;INFMজাগানোV;3;PRS;INFM	জাগাও
+V;3;PRS;PRF;INFMচেনাV;3;PRS;PRF;INFM	চিনেছো
+V;3;PST;PRF;INFMশেখাV;3;PST;PRF;INFM	শিখেছিলে
+V;2;PRS;PRF;POLচেনাV;2;PRS;PRF;POL	চিনেছে
+V;2;PRS;PRF;POLলুকানোV;2;PRS;PRF;POL	লুকিয়েছে
+V;V.NFINশিখানোV;V.NFIN	শিখাতে
+V;3;FUT;POLভালোবাসাV;3;FUT;POL	ভালোবাসবেন
+N;LOC;SG;DEFলিঙ্গN;LOC;SG;DEF	লিঙ্গটাতে
+V;2;PST;HAB;POLআচরণ করাV;2;PST;HAB;POL	আচরণ করতো
+V;2;PST;PROG;POLওঠাV;2;PST;PROG;POL	উঠছিলো
+V;1;PST;PROGখাওয়াV;1;PST;PROG	খাচ্ছিলাম
+V;2;PST;POLবোঝাV;2;PST;POL	বুঝলো
+V;1;FUTশোনাV;1;FUT	শুনবো
+V;2;FUT;POLভাবাV;2;FUT;POL	ভাববে
+V;2;PST;PRF;POLচোষাV;2;PST;PRF;POL	চুষেছিলো
+V;2;PST;PROG;POLভরাV;2;PST;PROG;POL	ভরছিলো
+V;3;PRS;PRF;POLকরাV;3;PRS;PRF;POL	করেছেন
+V;2;PRS;PRF;POLখাওয়াV;2;PRS;PRF;POL	খেয়েছে
+N;GEN;PL;DEFচোখN;GEN;PL;DEF	চোখগুলার
+V;V.PTCP;PROGমাল ফেলাV;V.PTCP;PROG	মাল ফেলতেফেলতে
+V;V.PTCP;PRFমরাV;V.PTCP;PRF	মরে
+V;1;PST;PROGভরাV;1;PST;PROG	ভরছিলাম
+V;3;PRS;INFMঘৃণা করাV;3;PRS;INFM	ঘৃণা করো
+V;3;FUT;POLদেখাV;3;FUT;POL	দেখবেন
+V;2;FUT;LGSPEC1ভরাV;2;FUT;LGSPEC1	ভরবি
+N;GEN;PL;DEFদৃষ্টান্তN;GEN;PL;DEF	দৃষ্টান্তগুলার
+V;2;PST;PRF;POLবসাV;2;PST;PRF;POL	বসেছিলো
+V;3;PST;PRF;POLভরাV;3;PST;PRF;POL	ভরেছিলেন
+V;3;PRS;PRF;INFMজাগাV;3;PRS;PRF;INFM	জেগেছো
+V;2;PST;PRF;LGSPEC1আঁকাV;2;PST;PRF;LGSPEC1	এঁকেছিলি
+V;3;PRS;PROG;INFMঘুমানোV;3;PRS;PROG;INFM	ঘুমাচ্ছো
+V;1;PSTচুম্বন করাV;1;PST	চুম্বন করলাম
+V;2;FUT;POLউল্কি আঁকাV;2;FUT;POL	উল্কি আঁকবে
+V;1;PSTখাওয়াV;1;PST	খেলাম
+V;2;PRS;POLব্যবহার করাV;2;PRS;POL	ব্যবহার করে
+V;2;PRS;PROG;LGSPEC1পাঠানোV;2;PRS;PROG;LGSPEC1	পাঠাচ্ছিস
+V;3;PST;HAB;INFMধরাV;3;PST;HAB;INFM	ধরতে
+V;2;PRS;PRF;POLবিশেষ করাV;2;PRS;PRF;POL	বিশেষ করেছে
+V;2;FUT;LGSPEC1চালানোV;2;FUT;LGSPEC1	চালাবি
+V;1;FUTমরাV;1;FUT	মরবো
+V;1;PRSহাগাV;1;PRS	হাগি
+V;1;PRS;PROGঘামানোV;1;PRS;PROG	ঘামাচ্ছি
+V;3;PST;PRF;INFMমারাV;3;PST;PRF;INFM	মেরেছিলে
+V;3;PRS;PROG;POLঅপেক্ষা করাV;3;PRS;PROG;POL	অপেক্ষা করছেন
+V;3;FUT;INFMগাওয়াV;3;FUT;INFM	গাবে
+V;3;PST;HAB;INFMলুকানোV;3;PST;HAB;INFM	লুকাতে
+V;3;PST;POLখোলাV;3;PST;POL	খুল্লেন
+V;V.PTCP;HABবোঝাV;V.PTCP;HAB	বুঝে
+N;ACC;PL;DEFদৃষ্টান্তN;ACC;PL;DEF	দৃষ্টান্তগুলা
+V;2;PST;HAB;LGSPEC1ভালবাসাV;2;PST;HAB;LGSPEC1	ভালবাসতিস
+V;3;PRS;INFMচালানোV;3;PRS;INFM	চালাও
+V;1;PST;PRFদেখানোV;1;PST;PRF	দেখিয়েছিলাম
+V;2;PRS;PRF;POLশোনাV;2;PRS;PRF;POL	শুনেছে
+V;1;FUTইচ্ছা হওয়াV;1;FUT	ইচ্ছা হবো
+V;1;PRS;PROGশেখাV;1;PRS;PROG	শিখছি
+V;3;FUT;INFMবৃষ্টি হওয়াV;3;FUT;INFM	বৃষ্টি হবে
+V;3;PST;INFMখোলাV;3;PST;INFM	খুল্লে
+V;2;PRS;LGSPEC1অনুবাদ করাV;2;PRS;LGSPEC1	অনুবাদ করিস
+V;3;PST;PROG;POLদাঁড়ানোV;3;PST;PROG;POL	দাঁড়াচ্ছিলেন
+V;1;FUTডিফ্র্যাগমেন্ট করাV;1;FUT	ডিফ্র্যাগমেন্ট করবো
+V;3;FUT;INFMজাগাV;3;FUT;INFM	জাগবে
+V;2;PST;PROG;POLবিশেষ করাV;2;PST;PROG;POL	বিশেষ করছিলো
+V;3;PRS;PROG;POLটানাV;3;PRS;PROG;POL	টানছেন
+V;3;PST;PROG;POLশোনাV;3;PST;PROG;POL	শুনছিলেন
+V;2;PRS;PRF;POLবন্ধ করাV;2;PRS;PRF;POL	বন্ধ করেছে
+V;3;FUT;POLপাঠানোV;3;FUT;POL	পাঠাবেন
+V;2;PST;PROG;LGSPEC1হাঁটাV;2;PST;PROG;LGSPEC1	হাঁটছিলি
+V;2;PRS;PROG;LGSPEC1হওয়াV;2;PRS;PROG;LGSPEC1	হচ্ছিস
+V;1;PSTদেওয়াV;1;PST	দিলাম
+V;2;PST;PRF;LGSPEC1খোলাV;2;PST;PRF;LGSPEC1	খুলেছিলি
+V;2;PST;POLগাওয়াV;2;PST;POL	গেলো
+V;2;PST;PROG;POLভাবাV;2;PST;PROG;POL	ভাবছিলো
+V;1;PRSবোঝাV;1;PRS	বুঝি
+V;V.PTCP;PRFপ্রশ্ন করাV;V.PTCP;PRF	প্রশ্ন করে
+V;V.MSDRপছন্দ করাV;V.MSDR	পছন্দ করা
+V;2;PST;PROG;LGSPEC1খোঁজাV;2;PST;PROG;LGSPEC1	খুঁজছিলি
+V;V.PTCP;PROGহওয়াV;V.PTCP;PROG	হতে
+V;3;PST;HAB;INFMপ্রশ্ন করাV;3;PST;HAB;INFM	প্রশ্ন করতে
+N;GEN;NDEFউপজেলাN;GEN;NDEF	উপজেলার
+V;1;PST;PRFঘামাV;1;PST;PRF	ঘেমেছিলাম
+V;3;PRS;PRF;INFMঅপেক্ষা করাV;3;PRS;PRF;INFM	অপেক্ষা করেছো
+V;3;PST;POLচাটাV;3;PST;POL	চাটলেন
+V;3;PST;POLব্যবহার করাV;3;PST;POL	ব্যবহার করলেন
+V;V.PTCP;PRFগেলাV;V.PTCP;PRF	গিলে
+V;1;PRS;PROGমাল ফেলাV;1;PRS;PROG	মাল ফেলছি
+V;3;PST;HAB;POLমাল ফেলাV;3;PST;HAB;POL	মাল ফেলতেন
+V;2;PRS;POLঢোকাV;2;PRS;POL	ঢোকে
+V;2;FUT;LGSPEC1হাত মারাV;2;FUT;LGSPEC1	হাত মারবি
+V;V.PTCP;CONDচেনাV;V.PTCP;COND	চিনলে
+V;3;PST;INFMভাঙাV;3;PST;INFM	ভাঙলে
+V;2;FUT;POLপ্রমাণ করাV;2;FUT;POL	প্রমাণ করবে
+V;3;PST;HAB;POLরাখাV;3;PST;HAB;POL	রাখতেন
+V;V.PTCP;PROGজ্বালাতন করাV;V.PTCP;PROG	জ্বালাতন করতেকরতে
+V;2;PRS;POLহওয়াV;2;PRS;POL	হয়
+V;V.MSDRমারাV;V.MSDR	মারা
+V;3;PST;HAB;POLব্যবহার করাV;3;PST;HAB;POL	ব্যবহার করতেন
+V;3;PRS;PRF;POLওঠাV;3;PRS;PRF;POL	উঠেছেন
+V;1;PRS;PROGখাওয়াV;1;PRS;PROG	খাচ্ছি
+V;2;PRS;PRF;LGSPEC1চাখাV;2;PRS;PRF;LGSPEC1	চেখেছিস
+V;V.PTCP;HABধরাV;V.PTCP;HAB	ধরে
+V;1;PST;HABআগানোV;1;PST;HAB	আগাতাম
+V;3;PST;HAB;INFMশেখাV;3;PST;HAB;INFM	শিখতে
+V;2;PST;LGSPEC1ব্যবহার করাV;2;PST;LGSPEC1	ব্যবহার করলি
+V;V.PTCP;CONDবৃষ্টি হওয়াV;V.PTCP;COND	বৃষ্টি হলে
+V;2;FUT;LGSPEC1অনুরোধ করাV;2;FUT;LGSPEC1	অনুরোধ করবি
+V;2;PST;PROG;POLদেওয়াV;2;PST;PROG;POL	দিচ্ছিলো
+V;V.PTCP;PROGপাঠানোV;V.PTCP;PROG	পাঠাতে
+V;2;PST;POLউল্কি আঁকাV;2;PST;POL	উল্কি আঁকলো
+V;1;PRS;PRFবিশেষ করাV;1;PRS;PRF	বিশেষ করেছি
+V;3;PST;HAB;POLবসাV;3;PST;HAB;POL	বসতেন
+V;2;PRS;POLপ্রশ্ন করাV;2;PRS;POL	প্রশ্ন করে
+V;3;PST;POLআচরণ করাV;3;PST;POL	আচরণ করলেন
+V;2;PST;HAB;POLহাত মারাV;2;PST;HAB;POL	হাত মারতো
+N;NOM;SG;DEFতিমিN;NOM;SG;DEF	তিমিটা
+V;2;PRS;PRF;POLজানাV;2;PRS;PRF;POL	জেনেছে
+V;2;FUT;LGSPEC1চাটাV;2;FUT;LGSPEC1	চাটবি
+N;LOC;NDEFজুতাN;LOC;NDEF	জুতাতে
+V;2;PRS;POLওঠাV;2;PRS;POL	ওঠে
+V;3;PST;POLটানাV;3;PST;POL	টানলেন
+N;GEN;NDEFপাছাN;GEN;NDEF	পাছার
+V;2;PST;LGSPEC1চেনাV;2;PST;LGSPEC1	চিনলি
+V;1;PST;PRFঢোকাV;1;PST;PRF	ঢুকেছিলাম
+V;1;PST;HABহাঁটাV;1;PST;HAB	হাঁটতাম
+V;2;PST;HAB;LGSPEC1শিখানোV;2;PST;HAB;LGSPEC1	শিখাতিস
+V;3;PRS;PROG;INFMদেওয়াV;3;PRS;PROG;INFM	দিচ্ছো
+V;2;FUT;LGSPEC1বন্ধ করাV;2;FUT;LGSPEC1	বন্ধ করবি
+V;1;PST;HABগাওয়াV;1;PST;HAB	গেতাম
+V;2;PST;HAB;POLহাগাV;2;PST;HAB;POL	হাগতো
+N;ACC;NDEFগাজরN;ACC;NDEF	গাজর
+V;2;PST;HAB;POLকাটাV;2;PST;HAB;POL	কাটতো
+V;V.PTCP;HABদেখানোV;V.PTCP;HAB	দেখায়
+V;3;PST;PRF;POLচোষাV;3;PST;PRF;POL	চুষেছিলেন
+V;2;PRS;PRF;POLচাপাV;2;PRS;PRF;POL	চেপেছে
+N;NOM;NDEFজুতাN;NOM;NDEF	জুতা
+V;V.PTCP;CONDসাহায্য করাV;V.PTCP;COND	সাহায্য করলে
+V;3;FUT;INFMহওয়াV;3;FUT;INFM	হবে
+V;3;PST;PROG;INFMচোষাV;3;PST;PROG;INFM	চুষছিলে
+V;2;PST;HAB;LGSPEC1কেনাV;2;PST;HAB;LGSPEC1	কিনতিস
+V;2;PST;POLখাওয়াV;2;PST;POL	খেলো
+V;2;PST;PROG;LGSPEC1আসাV;2;PST;PROG;LGSPEC1	আসছিলি
+V;V.MSDRবসাV;V.MSDR	বসা
+V;V.PTCP;HABইচ্ছা হওয়াV;V.PTCP;HAB	ইচ্ছা হয়েহয়ে
+V;3;PRS;PRF;INFMচুম্বন করাV;3;PRS;PRF;INFM	চুম্বন করেছো
+V;V.MSDRদেওয়াV;V.MSDR	দেওয়া
+V;2;PRS;PROG;POLজাগানোV;2;PRS;PROG;POL	জাগাচ্ছে
+V;3;PRS;PRF;POLযাওয়াV;3;PRS;PRF;POL	গিয়েছেন
+V;2;PRS;PROG;POLবোঝাV;2;PRS;PROG;POL	বুঝছে
+V;2;PRS;LGSPEC1চাওয়াV;2;PRS;LGSPEC1	চাস
+V;3;PST;PROG;POLচুম্বন করাV;3;PST;PROG;POL	চুম্বন করছিলেন
+V;2;FUT;LGSPEC1উল্কি আঁকাV;2;FUT;LGSPEC1	উল্কি আঁকবি
+V;2;PST;PRF;POLদেওয়াV;2;PST;PRF;POL	দিয়েছিলো
+N;GEN;PL;DEFফুলN;GEN;PL;DEF	ফুলগুলার
+V;2;PST;PROG;POLইচ্ছা হওয়াV;2;PST;PROG;POL	ইচ্ছা হচ্ছিলো
+V;2;PRS;PRF;POLবলাV;2;PRS;PRF;POL	বলেছে
+V;3;PST;HAB;POLজ্বালাতন করাV;3;PST;HAB;POL	জ্বালাতন করতেন
+V;1;PST;PRFহাত মারাV;1;PST;PRF	হাত মেরেছিলাম
+V;2;FUT;POLবোঝাV;2;FUT;POL	বুঝবে
+V;V.NFINধরাV;V.NFIN	ধরতে
+V;2;PRS;PRF;LGSPEC1দেওয়াV;2;PRS;PRF;LGSPEC1	দিয়েছিস
+V;2;PST;PROG;POLঅনুবাদ করাV;2;PST;PROG;POL	অনুবাদ করছিলো
+V;V.PTCP;PRFঅনুভব করাV;V.PTCP;PRF	অনুভব করে
+V;3;PST;POLশোনাV;3;PST;POL	শুনলেন
+V;1;PST;PROGসাহায্য করাV;1;PST;PROG	সাহায্য করছিলাম
+V;1;PRS;PROGঢোকাV;1;PRS;PROG	ঢুকছি
+V;V.PTCP;CONDপাঠানোV;V.PTCP;COND	পাঠালে
+V;2;PRS;LGSPEC1মরাV;2;PRS;LGSPEC1	মরিস
+V;2;PRS;PROG;POLচেষ্টা করাV;2;PRS;PROG;POL	চেষ্টা করছে
+V;1;PSTটানাV;1;PST	টানলাম
+V;1;PRS;PRFজ্বালাতন করাV;1;PRS;PRF	জ্বালাতন করেছি
+V;3;PST;HAB;INFMহাঁটাV;3;PST;HAB;INFM	হাঁটতে
+V;V.MSDRহাত মারাV;V.MSDR	হাত মারা
+V;2;PST;PRF;LGSPEC1সাহায্য করাV;2;PST;PRF;LGSPEC1	সাহায্য করেছিলি
+V;3;FUT;INFMচালানোV;3;FUT;INFM	চালাবে
+V;1;PRS;PRFজাগাV;1;PRS;PRF	জেগেছি
+V;2;PST;PRF;POLগেলাV;2;PST;PRF;POL	গিলেছিলো
+N;GEN;NDEFঘটনাN;GEN;NDEF	ঘটনার
+N;GEN;SG;DEFগলাN;GEN;SG;DEF	গলাটার
+N;NOM;PL;DEFবন্ধুN;NOM;PL;DEF	বন্ধুরা
+V;3;PST;HAB;INFMভাঙাV;3;PST;HAB;INFM	ভাঙতে
+V;1;PST;HABআচরণ করাV;1;PST;HAB	আচরণ করতাম
+V;2;PST;HAB;POLখোঁজাV;2;PST;HAB;POL	খুঁজতো
+V;2;PST;HAB;LGSPEC1অনুভব করাV;2;PST;HAB;LGSPEC1	অনুভব করতিস
+V;3;PRS;PRF;INFMবোঝাV;3;PRS;PRF;INFM	বুঝেছো
+V;3;FUT;POLওঠাV;3;FUT;POL	উঠবেন
+V;2;PST;HAB;POLকেনাV;2;PST;HAB;POL	কিনতো
+V;3;PST;HAB;INFMরাখাV;3;PST;HAB;INFM	রাখতে
+V;2;PRS;LGSPEC1ঘৃণা করাV;2;PRS;LGSPEC1	ঘৃণা করিস
+V;V.MSDRভাবাV;V.MSDR	ভাবা
+V;V.MSDRঘামাV;V.MSDR	ঘামা
+V;3;FUT;POLখোলাV;3;FUT;POL	খুলবেন
+V;1;PSTচালানোV;1;PST	চালালাম
+V;3;PRS;PRF;INFMআগানোV;3;PRS;PRF;INFM	আগিয়েছো
+N;GEN;SG;DEFনামN;GEN;SG;DEF	নামটার
+V;2;PRS;PRF;LGSPEC1চুম্বন করাV;2;PRS;PRF;LGSPEC1	চুম্বন করেছিস
+V;2;PST;POLদেওয়াV;2;PST;POL	দিলো
+N;GEN;SG;DEFনীহারিকাN;GEN;SG;DEF	নীহারিকাটার
+V;3;PST;HAB;POLভরাV;3;PST;HAB;POL	ভরতেন
+V;V.MSDRভাঙাV;V.MSDR	ভাঙা
+V;3;FUT;POLপছন্দ করাV;3;FUT;POL	পছন্দ করবেন
+V;1;PRS;PRFগেলাV;1;PRS;PRF	গিলেছি
+N;GEN;NDEFনামN;GEN;NDEF	নামের
+V;1;FUTঅপেক্ষা করাV;1;FUT	অপেক্ষা করবো
+N;NOM;PL;DEFঅনুরোধN;NOM;PL;DEF	অনুরোধগুলা
+V;3;PRS;PRF;POLমরাV;3;PRS;PRF;POL	মরেছেন
+V;3;PRS;PRF;POLকাটাV;3;PRS;PRF;POL	কেটেছেন
+V;3;PST;PROG;POLভুলে যাওয়াV;3;PST;PROG;POL	ভুলে যাচ্ছিলেন
+V;1;PST;PROGটাইপ করাV;1;PST;PROG	টাইপ করছিলাম
+N;ACC;NDEFশহরN;ACC;NDEF	শহর
+V;3;PST;PROG;INFMটাইপ করাV;3;PST;PROG;INFM	টাইপ করছিলে
+V;2;PRS;PROG;POLহাত মারাV;2;PRS;PROG;POL	হাত মারছে
+V;2;PST;HAB;POLমাল ফেলাV;2;PST;HAB;POL	মাল ফেলতো
+V;1;PSTপরাV;1;PST	পরলাম
+N;LOC;SG;DEFনীহারিকাN;LOC;SG;DEF	নীহারিকাটাতে
+V;V.NFINঘুমানোV;V.NFIN	ঘুমাতে
+N;ACC;NDEFনীহারিকাN;ACC;NDEF	নীহারিকা
+V;3;PRS;POLনাচাV;3;PRS;POL	নাচেন
+V;3;PRS;PROG;INFMবন্ধ করাV;3;PRS;PROG;INFM	বন্ধ করছো
+N;LOC;SG;DEFশিশ্নN;LOC;SG;DEF	শিশ্নটাতে
+V;2;PST;HAB;LGSPEC1খাওয়াV;2;PST;HAB;LGSPEC1	খেতিস
+V;2;PST;HAB;LGSPEC1গাওয়াV;2;PST;HAB;LGSPEC1	গেতিস
+N;GEN;SG;DEFশহরN;GEN;SG;DEF	শহরটার
+V;V.NFINপ্রশ্ন করাV;V.NFIN	প্রশ্ন করতে
+V;2;PST;PROG;LGSPEC1ইচ্ছা হওয়াV;2;PST;PROG;LGSPEC1	ইচ্ছা হচ্ছিলি
+V;1;PRS;PROGওঠাV;1;PRS;PROG	উঠছি
+V;V.MSDRফেলাV;V.MSDR	ফেলা
+V;2;PST;HAB;POLজানাV;2;PST;HAB;POL	জানতো
+V;V.PTCP;PRFলেখাV;V.PTCP;PRF	লিখে
+V;V.MSDRওঠাV;V.MSDR	ওঠা
+V;3;PRS;PROG;POLপ্রমাণ করাV;3;PRS;PROG;POL	প্রমাণ করছেন
+V;2;FUT;POLটানাV;2;FUT;POL	টানবে
+V;3;PST;HAB;POLশেখাV;3;PST;HAB;POL	শিখতেন
+V;2;PST;LGSPEC1আঁকাV;2;PST;LGSPEC1	আঁকলি
+N;NOM;SG;DEFবস্তুN;NOM;SG;DEF	বস্তুটা
+V;2;PST;HAB;LGSPEC1চোষাV;2;PST;HAB;LGSPEC1	চুষতিস
+V;3;PRS;PRF;INFMখাওয়াV;3;PRS;PRF;INFM	খেয়েছো
+N;ACC;PL;DEFছেলেN;ACC;PL;DEF	ছেলেদেরকে
+N;NOM;SG;DEFনীহারিকাN;NOM;SG;DEF	নীহারিকাটা
+V;1;PRS;PRFটানাV;1;PRS;PRF	টেনেছি
+V;2;PRS;LGSPEC1আচরণ করাV;2;PRS;LGSPEC1	আচরণ করিস
+V;V.PTCP;CONDদাঁড়ানোV;V.PTCP;COND	দাঁড়ালে
+V;2;PST;PROG;LGSPEC1ডিফ্র্যাগমেন্ট করাV;2;PST;PROG;LGSPEC1	ডিফ্র্যাগমেন্ট করছিলি
+V;2;PST;PROG;POLঘুমানোV;2;PST;PROG;POL	ঘুমাচ্ছিলো
+V;3;PST;INFMআচরণ করাV;3;PST;INFM	আচরণ করলে
+V;2;PST;HAB;LGSPEC1মনে রাখাV;2;PST;HAB;LGSPEC1	মনে রাখতিস
+V;2;PRS;PROG;LGSPEC1ফেলাV;2;PRS;PROG;LGSPEC1	ফেলছিস
+N;GEN;PL;DEFদেহN;GEN;PL;DEF	দেহগুলার
+V;2;PST;LGSPEC1আসাV;2;PST;LGSPEC1	আসলি
+V;V.PTCP;PRFঅনুবাদ করাV;V.PTCP;PRF	অনুবাদ করে
+N;GEN;SG;DEFনেশাখোরN;GEN;SG;DEF	নেশাখোরটার
+V;3;PST;PRF;POLঅনুবাদ করাV;3;PST;PRF;POL	অনুবাদ করেছিলেন
+N;NOM;PL;DEFছাত্রN;NOM;PL;DEF	ছাত্ররা
+V;3;PRS;PRF;INFMজ্বালাতন করাV;3;PRS;PRF;INFM	জ্বালাতন করেছো
+N;GEN;SG;DEFপাছাN;GEN;SG;DEF	পাছাটার
+V;2;PST;PRF;LGSPEC1লেখাV;2;PST;PRF;LGSPEC1	লিখেছিলি
+V;3;FUT;INFMচাপাV;3;FUT;INFM	চাপবে
+V;3;PRS;PROG;INFMঘামানোV;3;PRS;PROG;INFM	ঘামাচ্ছো
+V;3;PST;POLপাওয়াV;3;PST;POL	পেলেন
+V;3;PRS;INFMআগানোV;3;PRS;INFM	আগাও
+V;3;PRS;PROG;INFMনাচাV;3;PRS;PROG;INFM	নাচছো
+V;2;PRS;PRF;LGSPEC1ঢুকানোV;2;PRS;PRF;LGSPEC1	ঢুকিয়েছিস
+V;2;PST;HAB;POLদেখানোV;2;PST;HAB;POL	দেখাতো
+V;1;PRSঢোকাV;1;PRS	ঢুকি
+N;NOM;PL;DEFশহরN;NOM;PL;DEF	শহরগুলা
+V;2;PST;PROG;POLজানাV;2;PST;PROG;POL	জানছিলো
+V;1;PRS;PROGঢুকানোV;1;PRS;PROG	ঢুকাচ্ছি
+V;1;PST;PROGনাচাV;1;PST;PROG	নাচছিলাম
+V;3;PST;POLশিখানোV;3;PST;POL	শিখালেন
+V;3;PST;PROG;INFMবোঝাV;3;PST;PROG;INFM	বুঝছিলে
+V;1;PRS;PRFআচরণ করাV;1;PRS;PRF	আচরণ করেছি
+V;3;PST;PRF;INFMচাখাV;3;PST;PRF;INFM	চেখেছিলে
+V;V.PTCP;CONDভাবাV;V.PTCP;COND	ভাবলে
+V;3;PST;PROG;INFMনেওয়াV;3;PST;PROG;INFM	নিচ্ছিলে
+V;V.NFINপরাV;V.NFIN	পরতে
+V;3;PRS;POLঅপেক্ষা করাV;3;PRS;POL	অপেক্ষা করেন
+V;3;PST;PROG;INFMশোনাV;3;PST;PROG;INFM	শুনছিলে
+N;NOM;NDEFপাছাN;NOM;NDEF	পাছা
+V;2;PST;PROG;POLচাখাV;2;PST;PROG;POL	চাখছিলো
+V;2;PST;POLসাহায্য করাV;2;PST;POL	সাহায্য করলো
+V;2;PST;PRF;LGSPEC1কাটাV;2;PST;PRF;LGSPEC1	কেটেছিলি
+V;V.MSDRভালোবাসাV;V.MSDR	ভালোবাসা
+V;3;PST;POLজাগাV;3;PST;POL	জাগলেন
+N;NOM;PL;DEFদৃষ্টান্তN;NOM;PL;DEF	দৃষ্টান্তগুলা
+V;2;PRS;PROG;POLভুলে যাওয়াV;2;PRS;PROG;POL	ভুলে যাচ্ছে
+V;3;PRS;PRF;INFMধরাV;3;PRS;PRF;INFM	ধরেছো
+V;2;PST;PROG;POLভুলে যাওয়াV;2;PST;PROG;POL	ভুলে যাচ্ছিলো
+V;3;PRS;PROG;POLভরাV;3;PRS;PROG;POL	ভরছেন
+V;2;PRS;POLভাবাV;2;PRS;POL	ভাবে
+V;V.PTCP;HABমারাV;V.PTCP;HAB	মেরে
+V;V.NFINহাঁটাV;V.NFIN	হাঁটতে
+V;3;PST;PROG;INFMপাঠানোV;3;PST;PROG;INFM	পাঠাচ্ছিলে
+V;3;PRS;POLচাটাV;3;PRS;POL	চাটেন
+V;V.MSDRউল্কি আঁকাV;V.MSDR	উল্কি আঁকা
+V;2;PRS;PRF;LGSPEC1অনুবাদ করাV;2;PRS;PRF;LGSPEC1	অনুবাদ করেছিস
+V;V.PTCP;HABঢোকাV;V.PTCP;HAB	ঢুকে
+V;2;PRS;PROG;LGSPEC1ভুলে যাওয়াV;2;PRS;PROG;LGSPEC1	ভুলে যাচ্ছিস
+V;V.MSDRআগানোV;V.MSDR	আগানো
+V;3;PRS;PRF;INFMখোলাV;3;PRS;PRF;INFM	খুলেছো
+N;GEN;PL;DEFগাঁজাখোরN;GEN;PL;DEF	গাঁজাখোরদের
+V;2;PST;POLভাবাV;2;PST;POL	ভাবলো
+V;V.PTCP;PRFটাইপ করাV;V.PTCP;PRF	টাইপ করে
+V;3;PRS;INFMচাখাV;3;PRS;INFM	চাখো
+V;1;PSTমরাV;1;PST	মরলাম
+V;2;PST;PRF;LGSPEC1অপেক্ষা করাV;2;PST;PRF;LGSPEC1	অপেক্ষা করেছিলি
+N;LOC;PL;DEFঅভিযোগN;LOC;PL;DEF	অভিযোগগুলাতে
+V;2;PRS;PRF;POLশিখানোV;2;PRS;PRF;POL	শিখিয়েছে
+V;2;PRS;PRF;POLচালানোV;2;PRS;PRF;POL	চালিয়েছে
+V;3;PST;POLহাঁটাV;3;PST;POL	হাঁটলেন
+N;ACC;NDEFকারণN;ACC;NDEF	কারণ
+V;2;PRS;PRF;POLবৃষ্টি হওয়াV;2;PRS;PRF;POL	বৃষ্টি হয়েছে
+V;V.PTCP;CONDঢোকাV;V.PTCP;COND	ঢুকলে
+V;2;PST;HAB;LGSPEC1যাওয়াV;2;PST;HAB;LGSPEC1	যেতিস
+V;3;FUT;INFMঘামাV;3;FUT;INFM	ঘামবে
+V;3;PST;INFMঢুকানোV;3;PST;INFM	ঢুকালে
+V;V.PTCP;PRFওঠাV;V.PTCP;PRF	উঠে
+V;3;PST;PRF;POLকেনাV;3;PST;PRF;POL	কিনেছিলেন
+N;ACC;NDEFতরঙ্গN;ACC;NDEF	তরঙ্গ
+V;V.PTCP;PRFবিশেষ করাV;V.PTCP;PRF	বিশেষ করে
+V;V.PTCP;CONDআচরণ করাV;V.PTCP;COND	আচরণ করলে
+V;V.MSDRঅনুরোধ করাV;V.MSDR	অনুরোধ করা
+V;3;PST;POLঘুমানোV;3;PST;POL	ঘুমালেন
+V;1;PRS;PROGবিশেষ করাV;1;PRS;PROG	বিশেষ করছি
+N;GEN;NDEFউদ্দেশ্যN;GEN;NDEF	উদ্দেশ্যের
+V;2;PRS;PROG;POLচাখাV;2;PRS;PROG;POL	চাখছে
+V;1;PST;PROGদাঁড়ানোV;1;PST;PROG	দাঁড়াচ্ছিলাম
+V;2;PRS;PRF;POLশেখাV;2;PRS;PRF;POL	শিখেছে
+V;V.PTCP;HABরাখাV;V.PTCP;HAB	রেখে
+V;1;PSTবন্ধ করাV;1;PST	বন্ধ করলাম
+V;V.PTCP;CONDপ্রমাণ করাV;V.PTCP;COND	প্রমাণ করলে
+V;2;PST;LGSPEC1চোষাV;2;PST;LGSPEC1	চুষলি
+N;ACC;NDEFফুলN;ACC;NDEF	ফুল
+V;1;PST;PROGহাগাV;1;PST;PROG	হাগছিলাম
+N;LOC;NDEFমুখN;LOC;NDEF	মুখে
+V;3;PST;INFMচাখাV;3;PST;INFM	চাখলে
+V;1;FUTনাচাV;1;FUT	নাচবো
+N;GEN;PL;DEFদেশN;GEN;PL;DEF	দেশগুলার
+V;1;FUTচোষাV;1;FUT	চুষবো
+V;3;FUT;INFMপাওয়াV;3;FUT;INFM	পাবে
+V;2;PST;PROG;LGSPEC1ভুলে যাওয়াV;2;PST;PROG;LGSPEC1	ভুলে যাচ্ছিলি
+V;3;PST;PRF;INFMদাঁড়ানোV;3;PST;PRF;INFM	দাঁড়িয়েছিলে
+V;2;PRS;PRF;POLঅপেক্ষা করাV;2;PRS;PRF;POL	অপেক্ষা করেছে
+N;ACC;PL;DEFছাতাN;ACC;PL;DEF	ছাতাগুলা
+V;1;PRSভালোবাসাV;1;PRS	ভালোবাসি
+V;2;FUT;POLভরাV;2;FUT;POL	ভরবে
+V;V.PTCP;CONDভালবাসাV;V.PTCP;COND	ভালবাসলে
+V;3;PRS;PRF;POLচাওয়াV;3;PRS;PRF;POL	চেয়েছেন
+V;2;PRS;PRF;POLভুলে যাওয়াV;2;PRS;PRF;POL	ভুলে গিয়েছে
+N;GEN;NDEFঘরN;GEN;NDEF	ঘরের
+V;3;PST;INFMভালবাসাV;3;PST;INFM	ভালবাসলে
+V;1;FUTআসাV;1;FUT	আসবো
+V;2;PST;HAB;POLলুকানোV;2;PST;HAB;POL	লুকাতো
+V;3;PRS;INFMদাঁড়ানোV;3;PRS;INFM	দাঁড়াও
+V;2;PRS;PRF;LGSPEC1বোঝাV;2;PRS;PRF;LGSPEC1	বুঝেছিস
+V;1;PST;PRFচুম্বন করাV;1;PST;PRF	চুম্বন করেছিলাম
+V;V.PTCP;PROGধরাV;V.PTCP;PROG	ধরতে
+V;2;PST;HAB;LGSPEC1টাইপ করাV;2;PST;HAB;LGSPEC1	টাইপ করতিস
+V;3;PST;PROG;INFMপছন্দ করাV;3;PST;PROG;INFM	পছন্দ করছিলে
+V;3;PST;PROG;INFMজাগাV;3;PST;PROG;INFM	জাগছিলে
+V;3;PRS;PRF;POLহাত মারাV;3;PRS;PRF;POL	হাত মেরেছেন
+N;ACC;PL;DEFমুখN;ACC;PL;DEF	মুখগুলা
+V;3;PRS;PROG;INFMপছন্দ করাV;3;PRS;PROG;INFM	পছন্দ করছো
+N;ACC;NDEFবস্তুN;ACC;NDEF	বস্তু
+V;2;PST;PRF;LGSPEC1অনুরোধ করাV;2;PST;PRF;LGSPEC1	অনুরোধ করেছিলি
+N;ACC;PL;DEFশব্দN;ACC;PL;DEF	শব্দগুলা
+V;2;PST;HAB;POLচুম্বন করাV;2;PST;HAB;POL	চুম্বন করতো
+V;3;PST;HAB;INFMবসাV;3;PST;HAB;INFM	বসতে
+V;1;PST;PROGমরাV;1;PST;PROG	মরছিলাম
+V;V.PTCP;CONDভাঙাV;V.PTCP;COND	ভাঙলে
+V;3;PRS;PROG;INFMসাহায্য করাV;3;PRS;PROG;INFM	সাহায্য করছো
+V;1;PST;PRFপছন্দ করাV;1;PST;PRF	পছন্দ করেছিলাম
+V;2;PST;LGSPEC1হওয়াV;2;PST;LGSPEC1	হলি
+V;2;PRS;LGSPEC1ঢুকানোV;2;PRS;LGSPEC1	ঢুকাস
+V;2;PRS;PRF;POLঘৃণা করাV;2;PRS;PRF;POL	ঘৃণা করেছে
+V;2;PRS;PRF;LGSPEC1ঘুমানোV;2;PRS;PRF;LGSPEC1	ঘুমিয়েছিস
+V;2;PST;HAB;LGSPEC1লেখাV;2;PST;HAB;LGSPEC1	লিখতিস
+N;GEN;SG;DEFদেহN;GEN;SG;DEF	দেহটার
+V;3;PST;HAB;POLলেখাV;3;PST;HAB;POL	লিখতেন
+V;3;PST;PROG;INFMঢুকানোV;3;PST;PROG;INFM	ঢুকাচ্ছিলে
+V;V.MSDRকাটাV;V.MSDR	কাটা
+V;3;PST;PRF;INFMচোষাV;3;PST;PRF;INFM	চুষেছিলে
+V;2;PRS;PROG;LGSPEC1ঘৃণা করাV;2;PRS;PROG;LGSPEC1	ঘৃণা করছিস
+V;1;PST;PROGকরাV;1;PST;PROG	করছিলাম
+N;NOM;SG;DEFযৌনকর্মীN;NOM;SG;DEF	যৌনকর্মীটা
+V;2;PST;PROG;LGSPEC1ফেলাV;2;PST;PROG;LGSPEC1	ফেলছিলি
+N;LOC;SG;DEFতরঙ্গN;LOC;SG;DEF	তরঙ্গটাতে
+V;V.MSDRভুলে যাওয়াV;V.MSDR	ভুলে যাওয়া
+V;2;PRS;PRF;LGSPEC1যাওয়াV;2;PRS;PRF;LGSPEC1	গিয়েছিস
+V;1;PRS;PRFচাপাV;1;PRS;PRF	চেপেছি
+V;1;PST;PRFঢুকানোV;1;PST;PRF	ঢুকিয়েছিলাম
+V;2;PRS;PRF;POLমারাV;2;PRS;PRF;POL	মেরেছে
+V;2;PST;PRF;LGSPEC1প্রশ্ন করাV;2;PST;PRF;LGSPEC1	প্রশ্ন করেছিলি
+V;3;FUT;INFMচুম্বন করাV;3;FUT;INFM	চুম্বন করবে
+V;1;PRS;PROGপরাV;1;PRS;PROG	পরছি
+V;2;PRS;PRF;POLঘামাV;2;PRS;PRF;POL	ঘেমেছে
+V;V.PTCP;CONDঅনুবাদ করাV;V.PTCP;COND	অনুবাদ করলে
+V;3;PRS;PRF;POLপছন্দ করাV;3;PRS;PRF;POL	পছন্দ করেছেন
+V;2;PST;HAB;LGSPEC1বলাV;2;PST;HAB;LGSPEC1	বলতিস
+V;2;PRS;LGSPEC1পাওয়াV;2;PRS;LGSPEC1	পাস
+V;V.NFINলুকানোV;V.NFIN	লুকাতে
+V;2;PST;PRF;LGSPEC1বৃষ্টি হওয়াV;2;PST;PRF;LGSPEC1	বৃষ্টি হয়েছিলি
+N;ACC;NDEFশিশ্নN;ACC;NDEF	শিশ্ন
+V;V.PTCP;HABকরাV;V.PTCP;HAB	করে
+V;2;PST;PRF;POLঅনুবাদ করাV;2;PST;PRF;POL	অনুবাদ করেছিলো
+V;3;PRS;INFMপাওয়াV;3;PRS;INFM	পাও
+N;ACC;NDEFযৌনকর্মীN;ACC;NDEF	যৌনকর্মী
+V;V.PTCP;HABখাওয়াV;V.PTCP;HAB	খেয়ে
+V;1;PST;PRFগাওয়াV;1;PST;PRF	গেয়েছিলাম
+N;LOC;SG;DEFঅভিযোগN;LOC;SG;DEF	অভিযোগটাতে
+V;2;PST;PRF;POLটানাV;2;PST;PRF;POL	টেনেছিলো
+V;2;FUT;POLচেষ্টা করাV;2;FUT;POL	চেষ্টা করবে
+V;1;PST;PROGমাল ফেলাV;1;PST;PROG	মাল ফেলছিলাম
+V;2;PRS;LGSPEC1ওঠাV;2;PRS;LGSPEC1	উঠিস
+V;3;PST;PRF;POLহাঁটাV;3;PST;PRF;POL	হেঁটেছিলেন
+V;1;PSTওঠাV;1;PST	উঠলাম
+N;GEN;NDEFবিভাগN;GEN;NDEF	বিভাগের
+V;3;PST;PRF;POLজাগাV;3;PST;PRF;POL	জেগেছিলেন
+V;2;PRS;LGSPEC1চেনাV;2;PRS;LGSPEC1	চিনিস
+V;2;FUT;POLমরাV;2;FUT;POL	মরবে
+V;2;PRS;POLধরাV;2;PRS;POL	ধরে
+V;2;PST;LGSPEC1ঘৃণা করাV;2;PST;LGSPEC1	ঘৃণা করলি
+V;3;PST;PROG;INFMডিফ্র্যাগমেন্ট করাV;3;PST;PROG;INFM	ডিফ্র্যাগমেন্ট করছিলে
+V;3;PRS;PRF;POLব্যবহার করাV;3;PRS;PRF;POL	ব্যবহার করেছেন
+V;1;PST;HABব্যবহার করাV;1;PST;HAB	ব্যবহার করতাম
+V;2;PRS;LGSPEC1চেষ্টা করাV;2;PRS;LGSPEC1	চেষ্টা করিস
+V;1;PRSমনে রাখাV;1;PRS	মনে রাখি
+V;2;PST;PRF;POLচালানোV;2;PST;PRF;POL	চালিয়েছিলো
+N;GEN;NDEFছেলেN;GEN;NDEF	ছেলের
+V;2;PST;HAB;LGSPEC1অপেক্ষা করাV;2;PST;HAB;LGSPEC1	অপেক্ষা করতিস
+N;GEN;SG;DEFজুতাN;GEN;SG;DEF	জুতাটার
+V;3;PRS;PROG;INFMযাওয়াV;3;PRS;PROG;INFM	যাচ্ছো
+V;3;PRS;PRF;POLপ্রশ্ন করাV;3;PRS;PRF;POL	প্রশ্ন করেছেন
+V;2;FUT;LGSPEC1চেনাV;2;FUT;LGSPEC1	চিনবি
+V;3;PRS;POLচালানোV;3;PRS;POL	চালান
+V;3;FUT;INFMভাবাV;3;FUT;INFM	ভাববে
+V;3;FUT;INFMমরাV;3;FUT;INFM	মরবে
+V;3;PRS;PRF;INFMভালবাসাV;3;PRS;PRF;INFM	ভালবেসেছো
+V;3;PRS;PROG;POLগেলাV;3;PRS;PROG;POL	গিলছেন
+N;GEN;NDEFমানুষN;GEN;NDEF	মানুষের
+V;1;PRS;PROGগেলাV;1;PRS;PROG	গিলছি
+N;LOC;NDEFনামN;LOC;NDEF	নামে
+V;1;PST;PRFঅনুবাদ করাV;1;PST;PRF	অনুবাদ করেছিলাম
+V;3;PST;PROG;INFMঅনুরোধ করাV;3;PST;PROG;INFM	অনুরোধ করছিলে
+V;2;PST;PROG;LGSPEC1অনুভব করাV;2;PST;PROG;LGSPEC1	অনুভব করছিলি
+V;1;FUTঅনুরোধ করাV;1;FUT	অনুরোধ করবো
+N;ACC;PL;DEFউপজেলাN;ACC;PL;DEF	উপজেলাগুলা
+V;3;PST;PRF;POLরাখাV;3;PST;PRF;POL	রেখেছিলেন
+V;2;PST;PRF;POLআচরণ করাV;2;PST;PRF;POL	আচরণ করেছিলো
+V;1;PSTউল্কি আঁকাV;1;PST	উল্কি আঁকলাম
+V;V.PTCP;PRFব্যবহার করাV;V.PTCP;PRF	ব্যবহার করে
+V;2;PST;PRF;LGSPEC1জাগাV;2;PST;PRF;LGSPEC1	জেগেছিলি
+V;2;PST;PRF;POLলেখাV;2;PST;PRF;POL	লিখেছিলো
+V;2;PST;LGSPEC1অনুরোধ করাV;2;PST;LGSPEC1	অনুরোধ করলি
+V;3;PRS;PRF;POLচোষাV;3;PRS;PRF;POL	চুষেছেন
+V;V.PTCP;CONDহাত মারাV;V.PTCP;COND	হাত মারলে
+V;3;PRS;PRF;INFMঢুকানোV;3;PRS;PRF;INFM	ঢুকিয়েছো
+V;V.PTCP;HABহাগাV;V.PTCP;HAB	হেগে
+V;2;FUT;LGSPEC1লেখাV;2;FUT;LGSPEC1	লিখবি
+V;3;PST;HAB;POLপাওয়াV;3;PST;HAB;POL	পেতেন
+V;3;PRS;PROG;INFMঅপেক্ষা করাV;3;PRS;PROG;INFM	অপেক্ষা করছো
+V;2;PST;PRF;POLপরাV;2;PST;PRF;POL	পরেছিলো
+V;1;PSTনাচাV;1;PST	নাচলাম
+V;2;PRS;POLঘৃণা করাV;2;PRS;POL	ঘৃণা করে
+N;ACC;SG;DEFব্যক্তিN;ACC;SG;DEF	ব্যক্তিটাকে
+N;NOM;PL;DEFএলাকাN;NOM;PL;DEF	এলাকাগুলা
+V;2;FUT;LGSPEC1পাওয়াV;2;FUT;LGSPEC1	পাবি
+V;V.PTCP;HABশেখাV;V.PTCP;HAB	শিখে
+V;3;PST;HAB;POLআচরণ করাV;3;PST;HAB;POL	আচরণ করতেন
+V;V.PTCP;PROGউল্কি আঁকাV;V.PTCP;PROG	উল্কি আঁকতেআঁকতে
+V;3;PRS;PROG;POLহওয়াV;3;PRS;PROG;POL	হচ্ছেন
+V;V.PTCP;HABটানাV;V.PTCP;HAB	টেনে
+N;ACC;NDEFজানালাN;ACC;NDEF	জানালা
+N;ACC;PL;DEFদেহN;ACC;PL;DEF	দেহগুলা
+V;1;FUTঘুমানোV;1;FUT	ঘুমাবো
+V;2;PRS;PRF;LGSPEC1ইচ্ছা হওয়াV;2;PRS;PRF;LGSPEC1	ইচ্ছা হয়েছিস
+V;3;PRS;PRF;POLঅপেক্ষা করাV;3;PRS;PRF;POL	অপেক্ষা করেছেন
+V;1;PSTব্যবহার করাV;1;PST	ব্যবহার করলাম
+N;NOM;PL;DEFজুতাN;NOM;PL;DEF	জুতাগুলা
+V;1;PRS;PROGআচরণ করাV;1;PRS;PROG	আচরণ করছি
+V;2;PRS;PROG;POLঘুমানোV;2;PRS;PROG;POL	ঘুমাচ্ছে
+V;2;PRS;PROG;POLমরাV;2;PRS;PROG;POL	মরছে
+V;2;PRS;PROG;LGSPEC1যাওয়াV;2;PRS;PROG;LGSPEC1	যাচ্ছিস
+V;2;PST;LGSPEC1ঢোকাV;2;PST;LGSPEC1	ঢুকলি
+V;2;FUT;LGSPEC1আগানোV;2;FUT;LGSPEC1	আগাবি
+V;2;PRS;PRF;POLদেওয়াV;2;PRS;PRF;POL	দিয়েছে
+V;3;FUT;POLচালানোV;3;FUT;POL	চালাবেন
+V;3;FUT;POLবলাV;3;FUT;POL	বলবেন
+V;2;PST;HAB;POLগেলাV;2;PST;HAB;POL	গিলতো
+V;V.PTCP;PROGটাইপ করাV;V.PTCP;PROG	টাইপ করতেকরতে
+N;ACC;PL;DEFঅনুরোধN;ACC;PL;DEF	অনুরোধগুলা
+V;2;PRS;POLপাঠানোV;2;PRS;POL	পাঠায়
+N;NOM;SG;DEFঅনুরোধN;NOM;SG;DEF	অনুরোধটা
+V;1;PRSজানাV;1;PRS	জানি
+V;1;PST;PRFনাচাV;1;PST;PRF	নেচেছিলাম
+V;V.PTCP;PRFআঁকাV;V.PTCP;PRF	এঁকে
+V;3;PST;POLহওয়াV;3;PST;POL	হলেন
+N;GEN;NDEFরংN;GEN;NDEF	রঙ্গের
+V;V.NFINবৃষ্টি হওয়াV;V.NFIN	বৃষ্টি হতে
+V;V.NFINযাওয়াV;V.NFIN	যেতে
+V;3;PST;PRF;POLইচ্ছা হওয়াV;3;PST;PRF;POL	ইচ্ছা হয়েছিলেন
+N;GEN;PL;DEFজেলাN;GEN;PL;DEF	জেলাগুলার
+V;2;PST;POLভুলে যাওয়াV;2;PST;POL	ভুলে গেলো
+V;3;PST;POLখাওয়াV;3;PST;POL	খেলেন
+V;1;PRS;PRFমারাV;1;PRS;PRF	মেরেছি
+V;2;PST;PRF;POLঅনুরোধ করাV;2;PST;PRF;POL	অনুরোধ করেছিলো
+V;V.PTCP;PROGইচ্ছা হওয়াV;V.PTCP;PROG	ইচ্ছা হতেহতে
+V;2;PST;PRF;POLআসাV;2;PST;PRF;POL	এসেছিলো
+V;1;PRS;PRFপছন্দ করাV;1;PRS;PRF	পছন্দ করেছি
+V;2;FUT;POLপ্রশ্ন করাV;2;FUT;POL	প্রশ্ন করবে
+V;1;PST;HABপাঠানোV;1;PST;HAB	পাঠাতাম
+N;NOM;NDEFব্যক্তিN;NOM;NDEF	ব্যক্তি
+V;V.PTCP;PROGলেখাV;V.PTCP;PROG	লিখতে
+V;2;FUT;LGSPEC1ডিফ্র্যাগমেন্ট করাV;2;FUT;LGSPEC1	ডিফ্র্যাগমেন্ট করবি
+V;3;PST;INFMইচ্ছা হওয়াV;3;PST;INFM	ইচ্ছা হলে
+V;3;PRS;PROG;POLপাওয়াV;3;PRS;PROG;POL	পাচ্ছেন
+N;GEN;SG;DEFউদ্দেশ্যN;GEN;SG;DEF	উদ্দেশ্যটার
+N;NOM;PL;DEFনেশাখোরN;NOM;PL;DEF	নেশাখোরেরা
+V;V.PTCP;PRFচাপাV;V.PTCP;PRF	চেপে
+V;2;FUT;LGSPEC1ঘামানোV;2;FUT;LGSPEC1	ঘামাবি
+V;2;PRS;PRF;POLটানাV;2;PRS;PRF;POL	টেনেছে
+N;LOC;NDEFঅঙ্গN;LOC;NDEF	অঙ্গে
+V;1;FUTজানাV;1;FUT	জানবো
+V;3;PST;HAB;INFMভাবাV;3;PST;HAB;INFM	ভাবতে
+V;2;PRS;LGSPEC1গাওয়াV;2;PRS;LGSPEC1	গাস
+N;GEN;SG;DEFচোখN;GEN;SG;DEF	চোখটার
+V;V.PTCP;CONDচাটাV;V.PTCP;COND	চাটলে
+V;3;PRS;POLসাহায্য করাV;3;PRS;POL	সাহায্য করেন
+V;1;PRS;PRFদেখানোV;1;PRS;PRF	দেখিয়েছি
+V;V.PTCP;CONDবোঝাV;V.PTCP;COND	বুঝলে
+V;V.NFINচুম্বন করাV;V.NFIN	চুম্বন করতে
+V;3;PRS;PRF;INFMপছন্দ করাV;3;PRS;PRF;INFM	পছন্দ করেছো
+V;3;PST;PROG;INFMআগানোV;3;PST;PROG;INFM	আগাচ্ছিলে
+N;NOM;SG;DEFআলুN;NOM;SG;DEF	আলুটা
+V;1;PRS;PROGবৃষ্টি হওয়াV;1;PRS;PROG	বৃষ্টি হচ্ছি
+V;2;PST;LGSPEC1ইচ্ছা হওয়াV;2;PST;LGSPEC1	ইচ্ছা হলি
+V;3;PRS;PRF;POLপ্রমাণ করাV;3;PRS;PRF;POL	প্রমাণ করেছেন
+N;ACC;NDEFনুনুN;ACC;NDEF	নুনু
+V;2;PST;PRF;LGSPEC1ইচ্ছা হওয়াV;2;PST;PRF;LGSPEC1	ইচ্ছা হয়েছিলি
+V;V.NFINঘামানোV;V.NFIN	ঘামাতে
+V;2;PST;PRF;POLহাঁটাV;2;PST;PRF;POL	হেঁটেছিলো
+V;2;PRS;LGSPEC1ফেলাV;2;PRS;LGSPEC1	ফেলিস
+V;3;PST;HAB;INFMগেলাV;3;PST;HAB;INFM	গিলতে
+N;GEN;PL;DEFজানালাN;GEN;PL;DEF	জানালাগুলার
+V;2;PRS;PROG;LGSPEC1সাহায্য করাV;2;PRS;PROG;LGSPEC1	সাহায্য করছিস
+V;3;PRS;PROG;INFMগেলাV;3;PRS;PROG;INFM	গিলছো
+V;1;PRSহওয়াV;1;PRS	হই
+V;2;PST;PROG;POLঘামাV;2;PST;PROG;POL	ঘামছিলো
+V;2;PRS;POLউল্কি আঁকাV;2;PRS;POL	উল্কি আঁকে
+V;3;PST;PROG;INFMচাপাV;3;PST;PROG;INFM	চাপছিলে
+V;3;PST;POLদাঁড়ানোV;3;PST;POL	দাঁড়ালেন
+V;3;PRS;INFMমাল ফেলাV;3;PRS;INFM	মাল ফেলো
+V;3;PST;INFMটানাV;3;PST;INFM	টানলে
+V;2;FUT;POLচেনাV;2;FUT;POL	চিনবে
+V;3;PST;PRF;POLআগানোV;3;PST;PRF;POL	আগিয়েছিলেন
+V;V.PTCP;CONDঅনুভব করাV;V.PTCP;COND	অনুভব করলে
+N;NOM;SG;DEFনামN;NOM;SG;DEF	নামটা
+N;NOM;PL;DEFপ্রতিষ্ঠাতাN;NOM;PL;DEF	প্রতিষ্ঠাতারা
+V;1;PST;PROGকাটাV;1;PST;PROG	কাটছিলাম
+V;3;PST;HAB;INFMচাপাV;3;PST;HAB;INFM	চাপতে
+V;1;PRS;PROGনেওয়াV;1;PRS;PROG	নিচ্ছি
+V;V.MSDRকরাV;V.MSDR	করা
+V;2;FUT;POLফেলাV;2;FUT;POL	ফেলবে
+V;3;PRS;PRF;POLকেনাV;3;PRS;PRF;POL	কিনেছেন
+V;3;PRS;INFMবসাV;3;PRS;INFM	বসো
+V;2;FUT;POLশিখানোV;2;FUT;POL	শিখাবে
+V;3;PST;PRF;INFMবন্ধ করাV;3;PST;PRF;INFM	বন্ধ করেছিলে
+V;2;PST;PRF;LGSPEC1পাঠানোV;2;PST;PRF;LGSPEC1	পাঠিয়েছিলি
+V;V.NFINওঠাV;V.NFIN	উঠতে
+N;GEN;SG;DEFঅঙ্গN;GEN;SG;DEF	অঙ্গটার
+V;3;PRS;INFMকরাV;3;PRS;INFM	করো
+V;2;PRS;PRF;LGSPEC1চেষ্টা করাV;2;PRS;PRF;LGSPEC1	চেষ্টা করেছিস
+V;2;FUT;LGSPEC1মরাV;2;FUT;LGSPEC1	মরবি
+N;GEN;NDEFফুলN;GEN;NDEF	ফুলের
+V;2;PST;PROG;LGSPEC1টাইপ করাV;2;PST;PROG;LGSPEC1	টাইপ করছিলি
+V;1;PST;HABচাপাV;1;PST;HAB	চাপতাম
+V;V.PTCP;PROGআগানোV;V.PTCP;PROG	আগাতে
+V;2;PST;POLপ্রমাণ করাV;2;PST;POL	প্রমাণ করলো
+V;2;FUT;LGSPEC1চোষাV;2;FUT;LGSPEC1	চুষবি
+V;3;PST;POLআসাV;3;PST;POL	আসলেন
+V;V.NFINফেলাV;V.NFIN	ফেলতে
+V;3;PST;INFMমনে রাখাV;3;PST;INFM	মনে রাখলে
+V;1;PRS;PRFধরাV;1;PRS;PRF	ধরেছি
+V;1;PST;HABঘামাV;1;PST;HAB	ঘামতাম
+V;3;PRS;INFMগাওয়াV;3;PRS;INFM	গাও
+V;V.PTCP;HABজানাV;V.PTCP;HAB	জেনে
+V;2;PRS;POLরাখাV;2;PRS;POL	রাখে
+V;2;PST;PRF;LGSPEC1আগানোV;2;PST;PRF;LGSPEC1	আগিয়েছিলি
+V;2;FUT;LGSPEC1প্রমাণ করাV;2;FUT;LGSPEC1	প্রমাণ করবি
+V;3;PRS;POLবোঝাV;3;PRS;POL	বোঝেন
+V;2;FUT;POLবৃষ্টি হওয়াV;2;FUT;POL	বৃষ্টি হবে
+V;1;PST;PRFচাটাV;1;PST;PRF	চেটেছিলাম
+V;2;FUT;POLইচ্ছা হওয়াV;2;FUT;POL	ইচ্ছা হবে
+N;ACC;SG;DEFভাষাN;ACC;SG;DEF	ভাষাটা
+V;3;PRS;INFMকাটাV;3;PRS;INFM	কাটো
+V;1;PRS;PRFরাখাV;1;PRS;PRF	রেখেছি
+V;2;PRS;POLভাঙাV;2;PRS;POL	ভাঙে
+V;3;PRS;PRF;POLদেখাV;3;PRS;PRF;POL	দেখেছেন
+V;2;PST;LGSPEC1বসাV;2;PST;LGSPEC1	বসলি
+V;3;PST;PRF;POLদেওয়াV;3;PST;PRF;POL	দিয়েছিলেন
+V;2;FUT;POLমারাV;2;FUT;POL	মারবে
+V;3;PST;PRF;INFMঢোকাV;3;PST;PRF;INFM	ঢুকেছিলে
+N;NOM;NDEFযৌনকর্মীN;NOM;NDEF	যৌনকর্মী
+V;3;PRS;PRF;POLহওয়াV;3;PRS;PRF;POL	হয়েছেন
+V;3;PRS;PRF;POLপরাV;3;PRS;PRF;POL	পরেছেন
+V;V.PTCP;HABকাটাV;V.PTCP;HAB	কেটে
+V;V.PTCP;PRFচেনাV;V.PTCP;PRF	চিনে
+V;3;PST;HAB;INFMচালানোV;3;PST;HAB;INFM	চালাতে
+V;3;PRS;POLযাওয়াV;3;PRS;POL	যান
+V;3;PST;HAB;INFMজাগাV;3;PST;HAB;INFM	জাগতে
+N;LOC;SG;DEFঘরN;LOC;SG;DEF	ঘরটাতে
+V;V.PTCP;PROGভালোবাসাV;V.PTCP;PROG	ভালোবাসতে
+V;3;PRS;PRF;INFMওঠাV;3;PRS;PRF;INFM	উঠেছো
+V;3;PST;PROG;POLনেওয়াV;3;PST;PROG;POL	নিচ্ছিলেন
+V;3;PST;HAB;POLচেষ্টা করাV;3;PST;HAB;POL	চেষ্টা করতেন
+N;GEN;NDEFমিত্রN;GEN;NDEF	মিত্রের
+V;2;PST;PROG;POLকাটাV;2;PST;PROG;POL	কাটছিলো
+V;2;FUT;POLব্যবহার করাV;2;FUT;POL	ব্যবহার করবে
+V;2;PST;PRF;POLধরাV;2;PST;PRF;POL	ধরেছিলো
+V;3;PST;PRF;INFMবলাV;3;PST;PRF;INFM	বলেছিলে
+V;2;PST;PRF;LGSPEC1মনে রাখাV;2;PST;PRF;LGSPEC1	মনে রেখেছিলি
+V;3;PST;HAB;POLপাঠানোV;3;PST;HAB;POL	পাঠাতেন
+N;LOC;PL;DEFধনN;LOC;PL;DEF	ধনগুলাতে
+V;2;PST;PROG;POLখোলাV;2;PST;PROG;POL	খুলছিলো
+N;NOM;NDEFঅনুরোধN;NOM;NDEF	অনুরোধ
+V;3;PRS;POLভাবাV;3;PRS;POL	ভাবেন
+V;2;PST;HAB;POLপ্রমাণ করাV;2;PST;HAB;POL	প্রমাণ করতো
+V;2;PRS;PROG;POLচাওয়াV;2;PRS;PROG;POL	চাচ্ছে
+V;3;PRS;PRF;INFMসাহায্য করাV;3;PRS;PRF;INFM	সাহায্য করেছো
+V;2;PST;POLকাটাV;2;PST;POL	কাটলো
+V;2;PST;POLঘামাV;2;PST;POL	ঘামলো
+V;V.PTCP;CONDঘুমানোV;V.PTCP;COND	ঘুমালে
+V;1;PRS;PROGডিফ্র্যাগমেন্ট করাV;1;PRS;PROG	ডিফ্র্যাগমেন্ট করছি
+V;3;PRS;POLদেখানোV;3;PRS;POL	দেখান
+V;3;FUT;INFMসাহায্য করাV;3;FUT;INFM	সাহায্য করবে
+N;GEN;SG;DEFশিশ্নN;GEN;SG;DEF	শিশ্নটার
+V;3;PST;HAB;INFMওঠাV;3;PST;HAB;INFM	উঠতে
+N;ACC;NDEFআলুN;ACC;NDEF	আলু
+V;2;PRS;PRF;LGSPEC1গেলাV;2;PRS;PRF;LGSPEC1	গিলেছিস
+V;1;PRS;PROGজাগানোV;1;PRS;PROG	জাগাচ্ছি
+N;GEN;PL;DEFতিমিN;GEN;PL;DEF	তিমিদের
+V;2;PRS;PROG;POLআঁকাV;2;PRS;PROG;POL	আঁকছে
+V;3;PRS;INFMওঠাV;3;PRS;INFM	ওঠো
+V;1;PSTআঁকাV;1;PST	আঁকলাম
+V;2;PRS;PROG;POLটানাV;2;PRS;PROG;POL	টানছে
+V;2;PST;LGSPEC1আচরণ করাV;2;PST;LGSPEC1	আচরণ করলি
+V;2;PRS;PRF;POLদেখাV;2;PRS;PRF;POL	দেখেছে
+V;2;PRS;POLবলাV;2;PRS;POL	বলে
+V;V.PTCP;CONDটাইপ করাV;V.PTCP;COND	টাইপ করলে
+V;2;PRS;LGSPEC1ঢোকাV;2;PRS;LGSPEC1	ঢুকিস
+V;1;PST;PRFকাটাV;1;PST;PRF	কেটেছিলাম
+V;1;FUTঘৃণা করাV;1;FUT	ঘৃণা করবো
+V;2;PST;PRF;LGSPEC1শোনাV;2;PST;PRF;LGSPEC1	শুনেছিলি
+N;NOM;NDEFজেলাN;NOM;NDEF	জেলা
+V;3;PST;PRF;INFMচাওয়াV;3;PST;PRF;INFM	চেয়েছিলে
+V;2;PST;PRF;POLদেখাV;2;PST;PRF;POL	দেখেছিলো
+V;2;PST;PRF;POLপছন্দ করাV;2;PST;PRF;POL	পছন্দ করেছিলো
+V;1;PRS;PRFঅনুবাদ করাV;1;PRS;PRF	অনুবাদ করেছি
+V;V.PTCP;PRFঅপেক্ষা করাV;V.PTCP;PRF	অপেক্ষা করে
+N;ACC;NDEFবিভাগN;ACC;NDEF	বিভাগ
+V;2;PRS;PROG;LGSPEC1প্রমাণ করাV;2;PRS;PROG;LGSPEC1	প্রমাণ করছিস
+V;2;PST;PROG;POLনাচাV;2;PST;PROG;POL	নাচছিলো
+V;1;PST;HABপছন্দ করাV;1;PST;HAB	পছন্দ করতাম
+V;2;PRS;PRF;LGSPEC1জাগাV;2;PRS;PRF;LGSPEC1	জেগেছিস
+N;GEN;SG;DEFধনN;GEN;SG;DEF	ধনটার
+V;3;PST;POLভাঙাV;3;PST;POL	ভাঙলেন
+V;2;PRS;LGSPEC1চুম্বন করাV;2;PRS;LGSPEC1	চুম্বন করিস
+N;ACC;SG;DEFলিঙ্গN;ACC;SG;DEF	লিঙ্গটা
+V;3;PST;PROG;POLখোলাV;3;PST;PROG;POL	খুলছিলেন
+V;3;FUT;POLঘৃণা করাV;3;FUT;POL	ঘৃণা করবেন
+N;NOM;SG;DEFঘটনাN;NOM;SG;DEF	ঘটনাটা
+V;2;PRS;LGSPEC1আঁকাV;2;PRS;LGSPEC1	আঁকিস
+V;2;PST;PROG;LGSPEC1ভাবাV;2;PST;PROG;LGSPEC1	ভাবছিলি
+V;2;PST;LGSPEC1গাওয়াV;2;PST;LGSPEC1	গেলি
+V;3;PRS;PRF;POLনেওয়াV;3;PRS;PRF;POL	নিয়েছেন
+V;2;PST;HAB;LGSPEC1ভরাV;2;PST;HAB;LGSPEC1	ভরতিস
+V;2;PRS;POLঘুমানোV;2;PRS;POL	ঘুমায়
+V;V.MSDRঅনুবাদ করাV;V.MSDR	অনুবাদ করা
+V;3;PST;INFMভাবাV;3;PST;INFM	ভাবলে
+V;1;PST;HABচেনাV;1;PST;HAB	চিনতাম
+N;GEN;NDEFযৌনকর্মীN;GEN;NDEF	যৌনকর্মীর
+V;3;PRS;PROG;POLপরাV;3;PRS;PROG;POL	পরছেন
+V;2;PRS;PRF;POLমনে রাখাV;2;PRS;PRF;POL	মনে রেখেছে
+V;2;PRS;PRF;LGSPEC1জানাV;2;PRS;PRF;LGSPEC1	জেনেছিস
+N;NOM;NDEFবন্ধুN;NOM;NDEF	বন্ধু
+V;2;FUT;LGSPEC1শোনাV;2;FUT;LGSPEC1	শুনবি
+V;2;PST;POLচেষ্টা করাV;2;PST;POL	চেষ্টা করলো
+V;2;PRS;PRF;POLনেওয়াV;2;PRS;PRF;POL	নিয়েছে
+V;1;FUTচাটাV;1;FUT	চাটবো
+V;1;FUTবৃষ্টি হওয়াV;1;FUT	বৃষ্টি হবো
+V;3;PST;PROG;POLচাখাV;3;PST;PROG;POL	চাখছিলেন
+V;2;PRS;PROG;LGSPEC1গেলাV;2;PRS;PROG;LGSPEC1	গিলছিস
+V;3;PRS;PRF;INFMবলাV;3;PRS;PRF;INFM	বলেছো
+V;V.PTCP;HABবিশেষ করাV;V.PTCP;HAB	বিশেষ করেকরে
+V;V.NFINচাটাV;V.NFIN	চাটতে
+V;V.PTCP;PRFনেওয়াV;V.PTCP;PRF	নিয়ে
+V;2;PRS;PROG;LGSPEC1ঢোকাV;2;PRS;PROG;LGSPEC1	ঢুকছিস
+V;3;PST;INFMচালানোV;3;PST;INFM	চালালে
+V;3;PRS;PRF;INFMহাত মারাV;3;PRS;PRF;INFM	হাত মেরেছো
+V;3;PST;PROG;POLহওয়াV;3;PST;PROG;POL	হচ্ছিলেন
+V;3;PRS;POLচাওয়াV;3;PRS;POL	চান
+V;3;PRS;PRF;INFMচাখাV;3;PRS;PRF;INFM	চেখেছো
+V;2;PRS;LGSPEC1যাওয়াV;2;PRS;LGSPEC1	যাস
+V;2;PRS;PRF;LGSPEC1নাচাV;2;PRS;PRF;LGSPEC1	নেচেছিস
+V;3;PRS;PRF;POLঢুকানোV;3;PRS;PRF;POL	ঢুকিয়েছেন
+N;ACC;NDEFমিত্রN;ACC;NDEF	মিত্র
+V;2;PRS;PRF;LGSPEC1ফেলাV;2;PRS;PRF;LGSPEC1	ফেলেছিস
+V;1;PRS;PRFপরাV;1;PRS;PRF	পরেছি
+V;1;PSTপ্রমাণ করাV;1;PST	প্রমাণ করলাম
+V;3;FUT;INFMশোনাV;3;FUT;INFM	শুনবে
+N;ACC;SG;DEFতিমিN;ACC;SG;DEF	তিমিটাকে
+V;1;PST;PROGজাগাV;1;PST;PROG	জাগছিলাম
+V;3;PST;PRF;INFMঘামাV;3;PST;PRF;INFM	ঘেমেছিলে
+V;2;PST;PROG;POLপাওয়াV;2;PST;PROG;POL	পাচ্ছিলো
+N;ACC;PL;DEFচোখN;ACC;PL;DEF	চোখগুলা
+V;3;PST;HAB;POLঘামানোV;3;PST;HAB;POL	ঘামাতেন
+V;2;PST;PRF;LGSPEC1বসাV;2;PST;PRF;LGSPEC1	বসেছিলি
+V;1;PST;PROGশেখাV;1;PST;PROG	শিখছিলাম
+V;1;PST;PRFনেওয়াV;1;PST;PRF	নিয়েছিলাম
+V;1;FUTদেখাV;1;FUT	দেখবো
+V;1;PRSবন্ধ করাV;1;PRS	বন্ধ করি
+N;GEN;SG;DEFভাষাN;GEN;SG;DEF	ভাষাটার
+V;2;FUT;POLগাওয়াV;2;FUT;POL	গাবে
+V;2;PRS;POLহাত মারাV;2;PRS;POL	হাত মারে
+N;LOC;NDEFদেশN;LOC;NDEF	দেশে
+V;2;PRS;PRF;LGSPEC1মনে রাখাV;2;PRS;PRF;LGSPEC1	মনে রেখেছিস
+V;3;PRS;POLঅনুরোধ করাV;3;PRS;POL	অনুরোধ করেন
+V;1;PRSলেখাV;1;PRS	লিখি
+V;V.PTCP;CONDকাটাV;V.PTCP;COND	কাটলে
+V;1;PST;HABচুম্বন করাV;1;PST;HAB	চুম্বন করতাম
+V;V.PTCP;HABফেলাV;V.PTCP;HAB	ফেলে
+V;V.PTCP;HABশোনাV;V.PTCP;HAB	শুনে
+V;3;PST;PROG;INFMহাত মারাV;3;PST;PROG;INFM	হাত মারছিলে
+V;2;PST;PROG;LGSPEC1চাওয়াV;2;PST;PROG;LGSPEC1	চাচ্ছিলি
+V;1;PST;PRFমারাV;1;PST;PRF	মেরেছিলাম
+V;3;PST;POLগাওয়াV;3;PST;POL	গেলেন
+V;3;PRS;POLডিফ্র্যাগমেন্ট করাV;3;PRS;POL	ডিফ্র্যাগমেন্ট করেন
+V;V.PTCP;PROGশিখানোV;V.PTCP;PROG	শিখাতে
+N;NOM;PL;DEFব্যক্তিN;NOM;PL;DEF	ব্যক্তিরা
+V;2;PST;POLরাখাV;2;PST;POL	রাখলো
+V;1;PRSঘৃণা করাV;1;PRS	ঘৃণা করি
+V;3;PRS;PRF;INFMলুকানোV;3;PRS;PRF;INFM	লুকিয়েছো
+V;3;FUT;INFMআগানোV;3;FUT;INFM	আগাবে
+V;1;PRSনেওয়াV;1;PRS	নেই
+V;2;PRS;PROG;POLপ্রশ্ন করাV;2;PRS;PROG;POL	প্রশ্ন করছে
+V;1;PST;HABঅনুভব করাV;1;PST;HAB	অনুভব করতাম
+V;V.PTCP;PROGঅনুবাদ করাV;V.PTCP;PROG	অনুবাদ করতেকরতে
+V;3;PRS;PRF;INFMইচ্ছা হওয়াV;3;PRS;PRF;INFM	ইচ্ছা হয়েছো
+V;1;PST;PROGখোলাV;1;PST;PROG	খুলছিলাম
+V;1;PST;PROGপাঠানোV;1;PST;PROG	পাঠাচ্ছিলাম
+N;GEN;PL;DEFপাছাN;GEN;PL;DEF	পাছাগুলার
+N;LOC;NDEFপাছাN;LOC;NDEF	পাছাতে
+V;V.PTCP;HABঘামানোV;V.PTCP;HAB	ঘামায়
+V;3;PRS;POLইচ্ছা হওয়াV;3;PRS;POL	ইচ্ছা হন
+V;2;PST;POLলুকানোV;2;PST;POL	লুকালো
+N;NOM;PL;DEFঅঙ্গN;NOM;PL;DEF	অঙ্গগুলা
+V;2;PST;HAB;POLমরাV;2;PST;HAB;POL	মরতো
+V;V.PTCP;CONDমরাV;V.PTCP;COND	মরলে
+V;2;PST;HAB;POLখাওয়াV;2;PST;HAB;POL	খেতো
+V;V.NFINভাঙাV;V.NFIN	ভাঙতে
+V;3;FUT;INFMব্যবহার করাV;3;FUT;INFM	ব্যবহার করবে
+V;3;PST;POLনাচাV;3;PST;POL	নাচলেন
+V;3;PST;PRF;INFMভালবাসাV;3;PST;PRF;INFM	ভালবেসেছিলে
+N;NOM;NDEFছাতাN;NOM;NDEF	ছাতা
+V;3;PRS;PROG;INFMমাল ফেলাV;3;PRS;PROG;INFM	মাল ফেলছো
+V;2;PRS;PRF;POLহাত মারাV;2;PRS;PRF;POL	হাত মেরেছে
+V;2;PRS;PROG;LGSPEC1চাটাV;2;PRS;PROG;LGSPEC1	চাটছিস
+N;LOC;SG;DEFভাষাN;LOC;SG;DEF	ভাষাটাতে
+V;V.PTCP;PRFমনে রাখাV;V.PTCP;PRF	মনে রেখে
+V;V.PTCP;CONDপ্রশ্ন করাV;V.PTCP;COND	প্রশ্ন করলে
+V;3;PST;HAB;POLচাপাV;3;PST;HAB;POL	চাপতেন
+V;V.MSDRসাহায্য করাV;V.MSDR	সাহায্য করা
+V;3;PRS;PRF;INFMমরাV;3;PRS;PRF;INFM	মরেছো
+V;V.PTCP;PROGমারাV;V.PTCP;PROG	মারতে
+V;3;PRS;INFMধরাV;3;PRS;INFM	ধরো
+V;2;PRS;PROG;LGSPEC1পরাV;2;PRS;PROG;LGSPEC1	পরছিস
+V;3;PST;PROG;POLঢোকাV;3;PST;PROG;POL	ঢুকছিলেন
+V;1;PRS;PRFলুকানোV;1;PRS;PRF	লুকিয়েছি
+V;V.PTCP;PRFহাত মারাV;V.PTCP;PRF	হাত মেরে
+V;V.NFINবন্ধ করাV;V.NFIN	বন্ধ করতে
+V;1;PRS;PROGমরাV;1;PRS;PROG	মরছি
+V;V.PTCP;PRFকরাV;V.PTCP;PRF	করে
+V;3;PRS;POLদেওয়াV;3;PRS;POL	দেন
+V;1;PRS;PRFশেখাV;1;PRS;PRF	শিখেছি
+V;3;PST;PROG;POLযাওয়াV;3;PST;PROG;POL	যাচ্ছিলেন
+V;2;PST;HAB;POLচাখাV;2;PST;HAB;POL	চাখতো
+V;3;PST;PRF;POLমরাV;3;PST;PRF;POL	মরেছিলেন
+V;1;PST;HABফেলাV;1;PST;HAB	ফেলতাম
+N;ACC;NDEFউপজেলাN;ACC;NDEF	উপজেলা
+V;2;PRS;LGSPEC1বলাV;2;PRS;LGSPEC1	বলিস
+V;2;PST;HAB;LGSPEC1হাগাV;2;PST;HAB;LGSPEC1	হাগতিস
+V;3;PRS;PRF;POLখাওয়াV;3;PRS;PRF;POL	খেয়েছেন
+V;2;PST;HAB;LGSPEC1হাত মারাV;2;PST;HAB;LGSPEC1	হাত মারতিস
+V;V.PTCP;HABপ্রশ্ন করাV;V.PTCP;HAB	প্রশ্ন করেকরে
+V;V.PTCP;PRFদেখানোV;V.PTCP;PRF	দেখায়
+V;V.NFINকরাV;V.NFIN	করতে
+V;3;PRS;POLবসাV;3;PRS;POL	বসেন
+V;2;FUT;LGSPEC1পাঠানোV;2;FUT;LGSPEC1	পাঠাবি
+V;2;PST;POLখোলাV;2;PST;POL	খুল্লো
+V;3;FUT;INFMকরাV;3;FUT;INFM	করবে
+V;V.PTCP;PRFচাটাV;V.PTCP;PRF	চেটে
+V;2;PST;HAB;POLপ্রশ্ন করাV;2;PST;HAB;POL	প্রশ্ন করতো
+V;2;PST;LGSPEC1মনে রাখাV;2;PST;LGSPEC1	মনে রাখলি
+V;2;PST;PRF;LGSPEC1জ্বালাতন করাV;2;PST;PRF;LGSPEC1	জ্বালাতন করেছিলি
+V;3;PST;PROG;POLপাওয়াV;3;PST;PROG;POL	পাচ্ছিলেন
+V;2;PST;PRF;POLঅনুভব করাV;2;PST;PRF;POL	অনুভব করেছিলো
+N;LOC;NDEFশব্দN;LOC;NDEF	শব্দে
+V;3;PST;PRF;INFMব্যবহার করাV;3;PST;PRF;INFM	ব্যবহার করেছিলে
+V;1;PSTশেখাV;1;PST	শিখলাম
+V;3;PRS;PROG;POLপ্রশ্ন করাV;3;PRS;PROG;POL	প্রশ্ন করছেন
+V;2;PRS;PROG;POLপরাV;2;PRS;PROG;POL	পরছে
+V;3;PST;POLচালানোV;3;PST;POL	চালালেন
+V;3;PRS;PROG;INFMঢুকানোV;3;PRS;PROG;INFM	ঢুকাচ্ছো
+V;2;PRS;POLবসাV;2;PRS;POL	বসে
+V;3;PST;PRF;INFMনাচাV;3;PST;PRF;INFM	নেচেছিলে
+V;3;PST;PRF;POLদেখাV;3;PST;PRF;POL	দেখেছিলেন
+V;1;PST;PROGযাওয়াV;1;PST;PROG	যাচ্ছিলাম
+N;GEN;NDEFজন্মN;GEN;NDEF	জন্মের
+V;3;FUT;POLঘামাV;3;FUT;POL	ঘামবেন
+V;V.PTCP;CONDবন্ধ করাV;V.PTCP;COND	বন্ধ করলে
+V;2;PST;HAB;LGSPEC1হওয়াV;2;PST;HAB;LGSPEC1	হতিস
+V;3;PST;PRF;POLটাইপ করাV;3;PST;PRF;POL	টাইপ করেছিলেন
+V;2;PST;PROG;POLমরাV;2;PST;PROG;POL	মরছিলো
+V;2;PRS;LGSPEC1ইচ্ছা হওয়াV;2;PRS;LGSPEC1	ইচ্ছা হস
+V;3;PST;PRF;INFMওঠাV;3;PST;PRF;INFM	উঠেছিলে
+V;2;PRS;LGSPEC1চাটাV;2;PRS;LGSPEC1	চাটিস
+V;2;PRS;PRF;POLধরাV;2;PRS;PRF;POL	ধরেছে
+V;2;PRS;PRF;POLগেলাV;2;PRS;PRF;POL	গিলেছে
+V;3;PST;PRF;INFMধরাV;3;PST;PRF;INFM	ধরেছিলে
+V;2;PST;PRF;LGSPEC1দেখাV;2;PST;PRF;LGSPEC1	দেখেছিলি
+V;3;PST;POLপ্রমাণ করাV;3;PST;POL	প্রমাণ করলেন
+N;GEN;NDEFচোখN;GEN;NDEF	চোখের
+V;V.MSDRবন্ধ করাV;V.MSDR	বন্ধ করা
+V;3;PRS;PRF;POLলুকানোV;3;PRS;PRF;POL	লুকিয়েছেন
+V;2;PRS;PROG;LGSPEC1ডিফ্র্যাগমেন্ট করাV;2;PRS;PROG;LGSPEC1	ডিফ্র্যাগমেন্ট করছিস
+V;2;PST;PROG;POLঘৃণা করাV;2;PST;PROG;POL	ঘৃণা করছিলো
+V;3;PRS;PROG;INFMআসাV;3;PRS;PROG;INFM	আসছো
+N;ACC;SG;DEFবস্তুN;ACC;SG;DEF	বস্তুটা
+V;3;PRS;INFMভালবাসাV;3;PRS;INFM	ভালবাসো
+V;1;PST;HABইচ্ছা হওয়াV;1;PST;HAB	ইচ্ছা হতাম
+V;3;PST;PROG;INFMভরাV;3;PST;PROG;INFM	ভরছিলে
+V;2;PST;PRF;LGSPEC1হওয়াV;2;PST;PRF;LGSPEC1	হয়েছিলি
+V;1;PST;PRFধরাV;1;PST;PRF	ধরেছিলাম
+V;2;PRS;PRF;LGSPEC1বলাV;2;PRS;PRF;LGSPEC1	বলেছিস
+V;2;PST;LGSPEC1বৃষ্টি হওয়াV;2;PST;LGSPEC1	বৃষ্টি হলি
+V;3;PST;HAB;INFMগাওয়াV;3;PST;HAB;INFM	গেতে
+V;3;PST;PROG;POLচেনাV;3;PST;PROG;POL	চিনছিলেন
+V;2;PST;HAB;POLমনে রাখাV;2;PST;HAB;POL	মনে রাখতো
+V;2;PST;PRF;POLসাহায্য করাV;2;PST;PRF;POL	সাহায্য করেছিলো
+V;3;PST;PROG;INFMঘৃণা করাV;3;PST;PROG;INFM	ঘৃণা করছিলে
+V;2;PST;PROG;LGSPEC1আগানোV;2;PST;PROG;LGSPEC1	আগাচ্ছিলি
+V;2;PST;PRF;POLঢোকাV;2;PST;PRF;POL	ঢুকেছিলো
+V;3;PRS;POLজাগানোV;3;PRS;POL	জাগান
+V;V.PTCP;PRFচাওয়াV;V.PTCP;PRF	চেয়ে
+V;2;PRS;PRF;LGSPEC1ঘামাV;2;PRS;PRF;LGSPEC1	ঘেমেছিস
+V;2;PST;PRF;LGSPEC1গেলাV;2;PST;PRF;LGSPEC1	গিলেছিলি
+V;2;PST;PROG;POLঢোকাV;2;PST;PROG;POL	ঢুকছিলো
+V;3;PRS;PROG;INFMবসাV;3;PRS;PROG;INFM	বসছো
+V;V.PTCP;PRFযাওয়াV;V.PTCP;PRF	গিয়ে
+V;V.PTCP;PROGচেষ্টা করাV;V.PTCP;PROG	চেষ্টা করতেকরতে
+V;3;PST;INFMকাটাV;3;PST;INFM	কাটলে
+V;V.PTCP;CONDখোঁজাV;V.PTCP;COND	খুঁজলে
+V;3;PST;POLশেখাV;3;PST;POL	শিখলেন
+V;1;PST;PRFভালোবাসাV;1;PST;PRF	ভালোবেসেছিলাম
+V;3;FUT;INFMকাটাV;3;FUT;INFM	কাটবে
+V;2;PST;PRF;LGSPEC1দাঁড়ানোV;2;PST;PRF;LGSPEC1	দাঁড়িয়েছিলি
+V;1;PRS;PROGচেষ্টা করাV;1;PRS;PROG	চেষ্টা করছি
+V;3;PST;HAB;INFMচাখাV;3;PST;HAB;INFM	চাখতে
+V;3;PST;PRF;INFMইচ্ছা হওয়াV;3;PST;PRF;INFM	ইচ্ছা হয়েছিলে
+V;3;PST;PRF;INFMলুকানোV;3;PST;PRF;INFM	লুকিয়েছিলে
+V;2;PST;PROG;LGSPEC1খোলাV;2;PST;PROG;LGSPEC1	খুলছিলি
+V;2;FUT;LGSPEC1ভুলে যাওয়াV;2;FUT;LGSPEC1	ভুলে যাবি
+V;2;PST;PRF;POLবন্ধ করাV;2;PST;PRF;POL	বন্ধ করেছিলো
+V;3;PST;HAB;POLহাগাV;3;PST;HAB;POL	হাগতেন
+V;1;FUTচুম্বন করাV;1;FUT	চুম্বন করবো
+V;2;PRS;PRF;LGSPEC1অনুভব করাV;2;PRS;PRF;LGSPEC1	অনুভব করেছিস
+V;3;PRS;PRF;POLবলাV;3;PRS;PRF;POL	বলেছেন
+V;1;PST;PROGঅনুরোধ করাV;1;PST;PROG	অনুরোধ করছিলাম
+V;1;FUTশিখানোV;1;FUT	শিখাবো
+V;1;FUTজ্বালাতন করাV;1;FUT	জ্বালাতন করবো
+V;1;PRS;PRFশিখানোV;1;PRS;PRF	শিখিয়েছি
+V;V.NFINভুলে যাওয়াV;V.NFIN	ভুলে যেতে
+V;1;PRSজাগানোV;1;PRS	জাগাই
+V;3;PST;INFMবৃষ্টি হওয়াV;3;PST;INFM	বৃষ্টি হলে
+V;3;PRS;PRF;POLঅনুরোধ করাV;3;PRS;PRF;POL	অনুরোধ করেছেন
+V;2;PRS;PRF;LGSPEC1খোলাV;2;PRS;PRF;LGSPEC1	খুলেছিস
+V;3;PST;PROG;INFMবসাV;3;PST;PROG;INFM	বসছিলে
+V;3;PST;PROG;POLবন্ধ করাV;3;PST;PROG;POL	বন্ধ করছিলেন
+N;LOC;PL;DEFনীহারিকাN;LOC;PL;DEF	নীহারিকাগুলাতে
+V;1;PSTজাগাV;1;PST	জাগলাম
+V;2;PST;POLপাওয়াV;2;PST;POL	পেলো
+V;1;PRSভালবাসাV;1;PRS	ভালবাসি
+V;3;PRS;INFMশিখানোV;3;PRS;INFM	শিখাও
+V;2;FUT;LGSPEC1চাওয়াV;2;FUT;LGSPEC1	চাবি
+N;ACC;NDEFউদ্দেশ্যN;ACC;NDEF	উদ্দেশ্য
+V;3;PST;HAB;POLচাওয়াV;3;PST;HAB;POL	চেতেন
+V;V.MSDRআচরণ করাV;V.MSDR	আচরণ করা
+V;1;PST;HABকেনাV;1;PST;HAB	কিনতাম
+V;3;PST;POLবন্ধ করাV;3;PST;POL	বন্ধ করলেন
+V;3;PRS;PROG;INFMবলাV;3;PRS;PROG;INFM	বলছো
+V;3;PST;PROG;POLফেলাV;3;PST;PROG;POL	ফেলছিলেন
+V;2;PRS;PRF;POLঢুকানোV;2;PRS;PRF;POL	ঢুকিয়েছে
+N;NOM;SG;DEFউপজেলাN;NOM;SG;DEF	উপজেলাটা
+V;2;PRS;PROG;LGSPEC1ভাবাV;2;PRS;PROG;LGSPEC1	ভাবছিস
+V;3;PRS;PRF;INFMদাঁড়ানোV;3;PRS;PRF;INFM	দাঁড়িয়েছো
+V;V.NFINঅপেক্ষা করাV;V.NFIN	অপেক্ষা করতে
+V;3;PRS;PRF;INFMচোষাV;3;PRS;PRF;INFM	চুষেছো
+V;2;FUT;POLবিশেষ করাV;2;FUT;POL	বিশেষ করবে
+V;2;PST;HAB;POLভালোবাসাV;2;PST;HAB;POL	ভালোবাসতো
+V;3;FUT;INFMদাঁড়ানোV;3;FUT;INFM	দাঁড়াবে
+V;2;PRS;PRF;LGSPEC1আচরণ করাV;2;PRS;PRF;LGSPEC1	আচরণ করেছিস
+N;GEN;SG;DEFএলাকাN;GEN;SG;DEF	এলাকাটার
+V;2;PST;LGSPEC1ডিফ্র্যাগমেন্ট করাV;2;PST;LGSPEC1	ডিফ্র্যাগমেন্ট করলি
+V;2;PRS;PRF;POLখোলাV;2;PRS;PRF;POL	খুলেছে
+V;V.MSDRবৃষ্টি হওয়াV;V.MSDR	বৃষ্টি হওয়া
+V;3;FUT;POLচেনাV;3;FUT;POL	চিনবেন
+N;ACC;SG;DEFএলাকাN;ACC;SG;DEF	এলাকাটা
+N;ACC;SG;DEFনুনুN;ACC;SG;DEF	নুনুটা
+V;2;PST;LGSPEC1টাইপ করাV;2;PST;LGSPEC1	টাইপ করলি
+V;3;PRS;PRF;INFMজানাV;3;PRS;PRF;INFM	জেনেছো
+N;ACC;PL;DEFজুতাN;ACC;PL;DEF	জুতাগুলা
+V;3;PST;HAB;POLচালানোV;3;PST;HAB;POL	চালাতেন
+N;GEN;PL;DEFশহরN;GEN;PL;DEF	শহরগুলার
+V;2;PRS;PRF;LGSPEC1উল্কি আঁকাV;2;PRS;PRF;LGSPEC1	উল্কি এঁকেছিস
+V;2;PST;HAB;LGSPEC1পরাV;2;PST;HAB;LGSPEC1	পরতিস
+V;V.PTCP;PROGটানাV;V.PTCP;PROG	টানতে
+V;2;PRS;PROG;LGSPEC1চাওয়াV;2;PRS;PROG;LGSPEC1	চাচ্ছিস
+V;3;PST;PRF;POLবসাV;3;PST;PRF;POL	বসেছিলেন
+V;1;PRSরাখাV;1;PRS	রাখি
+V;3;PRS;PRF;INFMভুলে যাওয়াV;3;PRS;PRF;INFM	ভুলে গিয়েছো
+N;GEN;NDEFবান্ধবীN;GEN;NDEF	বান্ধবীর
+V;3;PRS;INFMপ্রশ্ন করাV;3;PRS;INFM	প্রশ্ন করো
+V;1;PRS;PRFঢোকাV;1;PRS;PRF	ঢুকেছি
+V;3;PST;HAB;POLদাঁড়ানোV;3;PST;HAB;POL	দাঁড়াতেন
+V;1;PST;HABচাটাV;1;PST;HAB	চাটতাম
+V;2;PST;POLজাগাV;2;PST;POL	জাগলো
+V;V.NFINমারাV;V.NFIN	মারতে
+N;ACC;PL;DEFব্যক্তিN;ACC;PL;DEF	ব্যক্তিদেরকে
+V;2;PST;HAB;LGSPEC1শোনাV;2;PST;HAB;LGSPEC1	শুনতিস
+V;1;FUTবলাV;1;FUT	বলবো
+V;3;FUT;INFMচাখাV;3;FUT;INFM	চাখবে
+V;2;PRS;PRF;LGSPEC1ওঠাV;2;PRS;PRF;LGSPEC1	উঠেছিস
+V;2;PRS;PRF;POLঢোকাV;2;PRS;PRF;POL	ঢুকেছে
+V;1;PST;HABবন্ধ করাV;1;PST;HAB	বন্ধ করতাম
+V;V.PTCP;PRFটানাV;V.PTCP;PRF	টেনে
+V;2;PRS;PROG;LGSPEC1খোলাV;2;PRS;PROG;LGSPEC1	খুলছিস
+V;2;PST;PROG;LGSPEC1অপেক্ষা করাV;2;PST;PROG;LGSPEC1	অপেক্ষা করছিলি
+V;3;PST;HAB;POLবন্ধ করাV;3;PST;HAB;POL	বন্ধ করতেন
+V;3;PST;PRF;POLযাওয়াV;3;PST;PRF;POL	গিয়েছিলেন
+V;3;PRS;PROG;POLঢুকানোV;3;PRS;PROG;POL	ঢুকাচ্ছেন
+V;1;PRS;PRFজানাV;1;PRS;PRF	জেনেছি
+V;V.NFINলেখাV;V.NFIN	লিখতে
+V;3;PST;PRF;POLচাখাV;3;PST;PRF;POL	চেখেছিলেন
+V;2;PRS;PROG;LGSPEC1ঘুমানোV;2;PRS;PROG;LGSPEC1	ঘুমাচ্ছিস
+V;2;PRS;PRF;LGSPEC1বন্ধ করাV;2;PRS;PRF;LGSPEC1	বন্ধ করেছিস
+N;GEN;PL;DEFবন্ধুN;GEN;PL;DEF	বন্ধুদের
+V;3;PRS;PROG;INFMগাওয়াV;3;PRS;PROG;INFM	গাচ্ছো
+V;3;PRS;INFMবন্ধ করাV;3;PRS;INFM	বন্ধ করো
+V;V.NFINপছন্দ করাV;V.NFIN	পছন্দ করতে
+N;GEN;PL;DEFমুখN;GEN;PL;DEF	মুখগুলার
+V;V.NFINজানাV;V.NFIN	জানতে
+V;1;PRS;PROGবলাV;1;PRS;PROG	বলছি
+V;2;PST;POLদাঁড়ানোV;2;PST;POL	দাঁড়ালো
+V;3;FUT;INFMরাখাV;3;FUT;INFM	রাখবে
+V;3;PST;PROG;INFMগেলাV;3;PST;PROG;INFM	গিলছিলে
+N;NOM;PL;DEFনীহারিকাN;NOM;PL;DEF	নীহারিকাগুলা
+V;3;PST;HAB;POLটানাV;3;PST;HAB;POL	টানতেন
+V;1;PST;HABআসাV;1;PST;HAB	আসতাম
+V;1;PST;PROGরাখাV;1;PST;PROG	রাখছিলাম
+V;2;FUT;POLঅনুরোধ করাV;2;FUT;POL	অনুরোধ করবে
+V;V.MSDRনাচাV;V.MSDR	নাচা
+V;2;PST;PROG;LGSPEC1ঘামানোV;2;PST;PROG;LGSPEC1	ঘামাচ্ছিলি
+V;3;PST;INFMঅনুভব করাV;3;PST;INFM	অনুভব করলে
+V;V.PTCP;CONDচেষ্টা করাV;V.PTCP;COND	চেষ্টা করলে
+V;V.MSDRঘামানোV;V.MSDR	ঘামানো
+V;2;FUT;LGSPEC1অনুভব করাV;2;FUT;LGSPEC1	অনুভব করবি
+V;V.PTCP;PROGঢোকাV;V.PTCP;PROG	ঢুকতে
+V;3;PRS;INFMবৃষ্টি হওয়াV;3;PRS;INFM	বৃষ্টি হও
+V;3;FUT;POLবন্ধ করাV;3;FUT;POL	বন্ধ করবেন
+V;3;FUT;POLনাচাV;3;FUT;POL	নাচবেন
+V;3;PRS;PROG;INFMভালোবাসাV;3;PRS;PROG;INFM	ভালোবাসছো
+V;V.PTCP;HABআচরণ করাV;V.PTCP;HAB	আচরণ করেকরে
+V;1;PRS;PRFনাচাV;1;PRS;PRF	নেচেছি
+V;2;PST;PRF;POLচুম্বন করাV;2;PST;PRF;POL	চুম্বন করেছিলো
+V;2;PST;PRF;LGSPEC1চুম্বন করাV;2;PST;PRF;LGSPEC1	চুম্বন করেছিলি
+V;3;PST;PROG;INFMঘামানোV;3;PST;PROG;INFM	ঘামাচ্ছিলে
+V;2;FUT;POLদেখানোV;2;FUT;POL	দেখাবে
+V;1;PST;HABবসাV;1;PST;HAB	বসতাম
+V;2;PRS;PROG;POLব্যবহার করাV;2;PRS;PROG;POL	ব্যবহার করছে
+V;1;PRS;PRFকাটাV;1;PRS;PRF	কেটেছি
+V;1;FUTচেষ্টা করাV;1;FUT	চেষ্টা করবো
+V;3;PST;HAB;INFMচেনাV;3;PST;HAB;INFM	চিনতে
+V;1;PST;PRFঘুমানোV;1;PST;PRF	ঘুমিয়েছিলাম
+V;2;PRS;POLঅনুবাদ করাV;2;PRS;POL	অনুবাদ করে
+V;3;PRS;INFMদেখানোV;3;PRS;INFM	দেখাও
+V;2;PST;HAB;POLবৃষ্টি হওয়াV;2;PST;HAB;POL	বৃষ্টি হতো
+V;3;PST;HAB;POLচেনাV;3;PST;HAB;POL	চিনতেন
+V;1;PRS;PROGপ্রমাণ করাV;1;PRS;PROG	প্রমাণ করছি
+V;2;PRS;PRF;POLচাখাV;2;PRS;PRF;POL	চেখেছে
+V;3;PRS;PROG;INFMশেখাV;3;PRS;PROG;INFM	শিখছো
+V;2;PST;PRF;POLজাগানোV;2;PST;PRF;POL	জাগিয়েছিলো
+V;3;PRS;INFMঢুকানোV;3;PRS;INFM	ঢুকাও
+V;3;PST;POLহাত মারাV;3;PST;POL	হাত মারলেন
+V;V.NFINমাল ফেলাV;V.NFIN	মাল ফেলতে
+V;2;PRS;POLপছন্দ করাV;2;PRS;POL	পছন্দ করে
+V;3;PST;HAB;INFMভুলে যাওয়াV;3;PST;HAB;INFM	ভুলে যেতে
+V;2;PST;LGSPEC1ধরাV;2;PST;LGSPEC1	ধরলি
+V;2;PST;POLঘামানোV;2;PST;POL	ঘামালো
+V;3;PRS;PROG;INFMনেওয়াV;3;PRS;PROG;INFM	নিচ্ছো
+V;2;PST;POLমরাV;2;PST;POL	মরলো
+V;1;PRSশেখাV;1;PRS	শিখি
+N;NOM;SG;DEFছেলেN;NOM;SG;DEF	ছেলেটা
+N;ACC;SG;DEFঅঙ্গN;ACC;SG;DEF	অঙ্গটা
+V;2;PRS;LGSPEC1দেওয়াV;2;PRS;LGSPEC1	দিস
+V;2;PST;LGSPEC1পাঠানোV;2;PST;LGSPEC1	পাঠালি
+N;GEN;NDEFজেলাN;GEN;NDEF	জেলার
+V;1;PSTদেখানোV;1;PST	দেখালাম
+V;3;PRS;PRF;INFMহাগাV;3;PRS;PRF;INFM	হেগেছো
+V;3;PRS;PROG;INFMকেনাV;3;PRS;PROG;INFM	কিনছো
+V;V.PTCP;PRFবলাV;V.PTCP;PRF	বলে
+V;1;FUTপাঠানোV;1;FUT	পাঠাবো
+V;V.NFINদেখানোV;V.NFIN	দেখাতে
+V;3;PST;POLকাটাV;3;PST;POL	কাটলেন
+V;V.PTCP;PROGকেনাV;V.PTCP;PROG	কিনতে
+V;2;PST;PROG;LGSPEC1খাওয়াV;2;PST;PROG;LGSPEC1	খাচ্ছিলি
+V;3;FUT;POLধরাV;3;FUT;POL	ধরবেন
+V;V.PTCP;HABঘামাV;V.PTCP;HAB	ঘেমে
+V;3;PST;INFMজাগানোV;3;PST;INFM	জাগালে
+V;1;PST;PRFপ্রমাণ করাV;1;PST;PRF	প্রমাণ করেছিলাম
+V;1;PST;PRFবৃষ্টি হওয়াV;1;PST;PRF	বৃষ্টি হয়েছিলাম
+V;3;PRS;PROG;POLঅনুবাদ করাV;3;PRS;PROG;POL	অনুবাদ করছেন
+V;2;PST;POLদেখানোV;2;PST;POL	দেখালো
+N;NOM;SG;DEFফুলN;NOM;SG;DEF	ফুলটা
+V;2;PRS;PROG;LGSPEC1করাV;2;PRS;PROG;LGSPEC1	করছিস
+N;GEN;NDEFতিমিN;GEN;NDEF	তিমির
+V;2;PST;HAB;POLচাটাV;2;PST;HAB;POL	চাটতো
+V;V.PTCP;PRFসাহায্য করাV;V.PTCP;PRF	সাহায্য করে
+N;NOM;SG;DEFভাষাN;NOM;SG;DEF	ভাষাটা
+V;3;PST;PROG;INFMবৃষ্টি হওয়াV;3;PST;PROG;INFM	বৃষ্টি হচ্ছিলে
+V;V.PTCP;PRFদাঁড়ানোV;V.PTCP;PRF	দাঁড়ায়
+V;2;FUT;POLচোষাV;2;FUT;POL	চুষবে
+V;1;PST;PRFচাপাV;1;PST;PRF	চেপেছিলাম
+V;3;PST;PROG;POLচেষ্টা করাV;3;PST;PROG;POL	চেষ্টা করছিলেন
+V;2;PRS;PRF;LGSPEC1আগানোV;2;PRS;PRF;LGSPEC1	আগিয়েছিস
+V;3;PRS;PRF;INFMদেওয়াV;3;PRS;PRF;INFM	দিয়েছো
+V;3;PST;INFMনাচাV;3;PST;INFM	নাচলে
+V;1;PSTজ্বালাতন করাV;1;PST	জ্বালাতন করলাম
+V;3;PST;INFMবিশেষ করাV;3;PST;INFM	বিশেষ করলে
+V;2;PRS;PROG;LGSPEC1মনে রাখাV;2;PRS;PROG;LGSPEC1	মনে রাখছিস
+V;V.PTCP;CONDআঁকাV;V.PTCP;COND	আঁকলে
+V;3;PRS;PROG;INFMহওয়াV;3;PRS;PROG;INFM	হচ্ছো
+V;2;PRS;LGSPEC1মনে রাখাV;2;PRS;LGSPEC1	মনে রাখিস
+V;V.PTCP;PROGপছন্দ করাV;V.PTCP;PROG	পছন্দ করতেকরতে
+V;3;PRS;PRF;INFMফেলাV;3;PRS;PRF;INFM	ফেলেছো
+V;V.PTCP;HABদেওয়াV;V.PTCP;HAB	দিয়ে
+V;2;PRS;PRF;LGSPEC1পরাV;2;PRS;PRF;LGSPEC1	পরেছিস
+V;2;PST;PRF;POLশোনাV;2;PST;PRF;POL	শুনেছিলো
+V;1;PRS;PROGপছন্দ করাV;1;PRS;PROG	পছন্দ করছি
+V;3;PRS;POLঢোকাV;3;PRS;POL	ঢোকেন
+V;3;PRS;PROG;POLভালবাসাV;3;PRS;PROG;POL	ভালবাসছেন
+V;V.PTCP;CONDজাগাV;V.PTCP;COND	জাগলে
+V;3;PST;HAB;INFMপছন্দ করাV;3;PST;HAB;INFM	পছন্দ করতে
+V;3;PRS;INFMকেনাV;3;PRS;INFM	কেনো
+V;2;PST;PROG;LGSPEC1জ্বালাতন করাV;2;PST;PROG;LGSPEC1	জ্বালাতন করছিলি
+V;3;PST;INFMজানাV;3;PST;INFM	জানলে
+V;2;PST;PRF;LGSPEC1ভাঙাV;2;PST;PRF;LGSPEC1	ভেঙেছিলি
+V;3;PST;PRF;INFMকাটাV;3;PST;PRF;INFM	কেটেছিলে
+V;1;PST;HABমাল ফেলাV;1;PST;HAB	মাল ফেলতাম
+V;V.NFINদেখাV;V.NFIN	দেখতে
+V;V.PTCP;CONDইচ্ছা হওয়াV;V.PTCP;COND	ইচ্ছা হলে
+V;V.PTCP;CONDধরাV;V.PTCP;COND	ধরলে
+V;3;PST;INFMফেলাV;3;PST;INFM	ফেল্লে
+V;3;PST;POLমারাV;3;PST;POL	মারলেন
+V;V.PTCP;CONDশোনাV;V.PTCP;COND	শুনলে
+V;2;PRS;PROG;LGSPEC1ওঠাV;2;PRS;PROG;LGSPEC1	উঠছিস
+N;ACC;NDEFনামN;ACC;NDEF	নাম
+V;2;PST;PROG;LGSPEC1ঢোকাV;2;PST;PROG;LGSPEC1	ঢুকছিলি
+V;V.PTCP;PRFখোলাV;V.PTCP;PRF	খুলে
+V;1;PRSউল্কি আঁকাV;1;PRS	উল্কি আঁকি
+V;1;PRS;PROGঘৃণা করাV;1;PRS;PROG	ঘৃণা করছি
+N;NOM;PL;DEFচোখN;NOM;PL;DEF	চোখগুলা
+V;3;PRS;PROG;POLবন্ধ করাV;3;PRS;PROG;POL	বন্ধ করছেন
+V;3;PRS;POLকরাV;3;PRS;POL	করেন
+V;V.MSDRযাওয়াV;V.MSDR	যাওয়া
+V;3;PRS;POLভালোবাসাV;3;PRS;POL	ভালোবাসেন
+V;V.NFINখোঁজাV;V.NFIN	খুঁজতে
+N;NOM;NDEFলিঙ্গN;NOM;NDEF	লিঙ্গ
+V;3;PST;PROG;POLওঠাV;3;PST;PROG;POL	উঠছিলেন
+N;NOM;NDEFছেলেN;NOM;NDEF	ছেলে
+V;1;PRS;PRFমরাV;1;PRS;PRF	মরেছি
+V;2;PST;PRF;LGSPEC1ভরাV;2;PST;PRF;LGSPEC1	ভরেছিলি
+V;2;PRS;PRF;LGSPEC1পাওয়াV;2;PRS;PRF;LGSPEC1	পেয়েছিস
+V;1;PST;PROGপ্রশ্ন করাV;1;PST;PROG	প্রশ্ন করছিলাম
+V;3;PST;POLঘামানোV;3;PST;POL	ঘামালেন
+N;ACC;NDEFবোনN;ACC;NDEF	বোন
+V;3;PST;PROG;INFMটানাV;3;PST;PROG;INFM	টানছিলে
+V;2;PST;PROG;POLচালানোV;2;PST;PROG;POL	চালাচ্ছিলো
+V;3;PRS;PROG;POLজ্বালাতন করাV;3;PRS;PROG;POL	জ্বালাতন করছেন
+V;3;PRS;POLভরাV;3;PRS;POL	ভরেন
+V;1;PRS;PROGবোঝাV;1;PRS;PROG	বুঝছি
+V;V.PTCP;PROGচোষাV;V.PTCP;PROG	চুষতে
+N;ACC;NDEFবন্ধুN;ACC;NDEF	বন্ধু
+V;2;PST;PRF;POLবিশেষ করাV;2;PST;PRF;POL	বিশেষ করেছিলো
+N;NOM;SG;DEFছাতাN;NOM;SG;DEF	ছাতাটা
+V;3;PST;PRF;POLদাঁড়ানোV;3;PST;PRF;POL	দাঁড়িয়েছিলেন
+V;V.PTCP;HABচাপাV;V.PTCP;HAB	চেপে
+V;V.MSDRলুকানোV;V.MSDR	লুকানো
+V;V.MSDRচাওয়াV;V.MSDR	চাওয়া
+V;3;PRS;PRF;INFMমনে রাখাV;3;PRS;PRF;INFM	মনে রেখেছো
+V;2;PRS;LGSPEC1শেখাV;2;PRS;LGSPEC1	শিখিস
+N;ACC;PL;DEFবোনN;ACC;PL;DEF	বোনদেরকে
+V;1;PST;PRFপরাV;1;PST;PRF	পরেছিলাম
+V;V.PTCP;PRFদেওয়াV;V.PTCP;PRF	দিয়ে
+V;V.PTCP;HABভাবাV;V.PTCP;HAB	ভেবে
+V;3;PST;PROG;POLপাঠানোV;3;PST;PROG;POL	পাঠাচ্ছিলেন
+N;ACC;NDEFজন্মN;ACC;NDEF	জন্ম
+V;2;PST;HAB;LGSPEC1ইচ্ছা হওয়াV;2;PST;HAB;LGSPEC1	ইচ্ছা হতিস
+V;V.NFINশোনাV;V.NFIN	শুনতে
+V;1;FUTহাগাV;1;FUT	হাগবো
+V;3;FUT;POLঅপেক্ষা করাV;3;FUT;POL	অপেক্ষা করবেন
+V;1;PRSটানাV;1;PRS	টানি
+V;V.MSDRধরাV;V.MSDR	ধরা
+V;2;PST;HAB;LGSPEC1পাওয়াV;2;PST;HAB;LGSPEC1	পেতিস
+V;2;PST;POLনাচাV;2;PST;POL	নাচলো
+V;3;PST;POLভরাV;3;PST;POL	ভরলেন
+V;2;PRS;PRF;LGSPEC1ধরাV;2;PRS;PRF;LGSPEC1	ধরেছিস
+V;1;PSTগাওয়াV;1;PST	গেলাম
+V;3;PST;HAB;POLহাঁটাV;3;PST;HAB;POL	হাঁটতেন
+V;1;PST;PRFমাল ফেলাV;1;PST;PRF	মাল ফেলেছিলাম
+V;3;PST;PROG;POLবৃষ্টি হওয়াV;3;PST;PROG;POL	বৃষ্টি হচ্ছিলেন
+N;ACC;SG;DEFঘরN;ACC;SG;DEF	ঘরটা
+V;3;PST;PROG;POLদেখানোV;3;PST;PROG;POL	দেখাচ্ছিলেন
+V;3;PST;HAB;POLজানাV;3;PST;HAB;POL	জানতেন
+V;3;PST;PRF;INFMহাঁটাV;3;PST;PRF;INFM	হেঁটেছিলে
+V;2;PST;PRF;POLটাইপ করাV;2;PST;PRF;POL	টাইপ করেছিলো
+V;2;PST;HAB;LGSPEC1অনুবাদ করাV;2;PST;HAB;LGSPEC1	অনুবাদ করতিস
+V;3;PRS;PRF;INFMপ্রশ্ন করাV;3;PRS;PRF;INFM	প্রশ্ন করেছো
+V;1;FUTনেওয়াV;1;FUT	নিবো
+V;1;PSTচাটাV;1;PST	চাটলাম
+V;2;PST;PROG;LGSPEC1কেনাV;2;PST;PROG;LGSPEC1	কিনছিলি
+N;ACC;SG;DEFতরঙ্গN;ACC;SG;DEF	তরঙ্গটা
+V;3;PST;PROG;POLহাত মারাV;3;PST;PROG;POL	হাত মারছিলেন
+N;ACC;NDEFঅঙ্গN;ACC;NDEF	অঙ্গ
+V;2;PRS;PROG;LGSPEC1মরাV;2;PRS;PROG;LGSPEC1	মরছিস
+V;3;PST;INFMবোঝাV;3;PST;INFM	বুঝলে
+V;3;FUT;POLমনে রাখাV;3;FUT;POL	মনে রাখবেন
+N;LOC;NDEFচোখN;LOC;NDEF	চোখে
+V;3;PRS;PRF;INFMঅনুবাদ করাV;3;PRS;PRF;INFM	অনুবাদ করেছো
+V;1;PST;PRFরাখাV;1;PST;PRF	রেখেছিলাম
+V;3;PRS;PROG;INFMপ্রমাণ করাV;3;PRS;PROG;INFM	প্রমাণ করছো
+V;3;PRS;INFMপছন্দ করাV;3;PRS;INFM	পছন্দ করো
+V;1;PSTমনে রাখাV;1;PST	মনে রাখলাম
+V;3;PST;PROG;POLইচ্ছা হওয়াV;3;PST;PROG;POL	ইচ্ছা হচ্ছিলেন
+V;2;PST;LGSPEC1ঢুকানোV;2;PST;LGSPEC1	ঢুকালি
+V;1;PST;HABভালোবাসাV;1;PST;HAB	ভালোবাসতাম
+V;3;FUT;INFMঘৃণা করাV;3;FUT;INFM	ঘৃণা করবে
+V;2;PST;POLডিফ্র্যাগমেন্ট করাV;2;PST;POL	ডিফ্র্যাগমেন্ট করলো
+V;V.PTCP;PROGঘামাV;V.PTCP;PROG	ঘামতে
+V;1;PRS;PRFশোনাV;1;PRS;PRF	শুনেছি
+V;3;PRS;PROG;INFMচাওয়াV;3;PRS;PROG;INFM	চাচ্ছো
+V;3;PST;INFMপ্রমাণ করাV;3;PST;INFM	প্রমাণ করলে
+V;3;PST;INFMনেওয়াV;3;PST;INFM	নিলে
+N;LOC;PL;DEFরংN;LOC;PL;DEF	রংগুলাতে
+V;3;PRS;PROG;INFMজ্বালাতন করাV;3;PRS;PROG;INFM	জ্বালাতন করছো
+V;2;PST;PRF;POLহাত মারাV;2;PST;PRF;POL	হাত মেরেছিলো
+V;1;PST;HABপ্রশ্ন করাV;1;PST;HAB	প্রশ্ন করতাম
+V;2;PRS;POLমারাV;2;PRS;POL	মারে
+N;GEN;NDEFছাত্রN;GEN;NDEF	ছাত্রের
+V;3;PRS;INFMআসাV;3;PRS;INFM	আসো
+V;V.MSDRঘৃণা করাV;V.MSDR	ঘৃণা করা
+V;3;PRS;PROG;POLদেখাV;3;PRS;PROG;POL	দেখছেন
+V;2;PST;POLলেখাV;2;PST;POL	লিখলো
+V;3;PST;PROG;POLধরাV;3;PST;PROG;POL	ধরছিলেন
+V;2;PRS;POLবোঝাV;2;PRS;POL	বোঝে
+V;3;PST;PRF;POLহাত মারাV;3;PST;PRF;POL	হাত মেরেছিলেন
+V;2;PST;PROG;LGSPEC1অনুরোধ করাV;2;PST;PROG;LGSPEC1	অনুরোধ করছিলি
+N;GEN;NDEFছাতাN;GEN;NDEF	ছাতার
+V;1;PST;HABঅনুরোধ করাV;1;PST;HAB	অনুরোধ করতাম
+V;3;PRS;PROG;INFMবিশেষ করাV;3;PRS;PROG;INFM	বিশেষ করছো
+V;1;PST;PROGআসাV;1;PST;PROG	আসছিলাম
+V;3;PRS;PRF;INFMকেনাV;3;PRS;PRF;INFM	কিনেছো
+V;3;FUT;INFMঅনুবাদ করাV;3;FUT;INFM	অনুবাদ করবে
+V;1;PSTকেনাV;1;PST	কিনলাম
+V;2;PRS;POLটাইপ করাV;2;PRS;POL	টাইপ করে
+V;1;PST;PROGঘামাV;1;PST;PROG	ঘামছিলাম
+N;NOM;PL;DEFনুনুN;NOM;PL;DEF	নুনুগুলা
+V;3;PST;PROG;POLনাচাV;3;PST;PROG;POL	নাচছিলেন
+V;3;PST;PRF;INFMঅপেক্ষা করাV;3;PST;PRF;INFM	অপেক্ষা করেছিলে
+V;3;FUT;INFMহাঁটাV;3;FUT;INFM	হাঁটবে
+V;1;PST;PRFচাওয়াV;1;PST;PRF	চেয়েছিলাম
+V;1;PST;PROGআচরণ করাV;1;PST;PROG	আচরণ করছিলাম
+V;2;PRS;PRF;POLভাঙাV;2;PRS;PRF;POL	ভেঙেছে
+V;2;PST;HAB;POLপছন্দ করাV;2;PST;HAB;POL	পছন্দ করতো
+N;LOC;NDEFউপজেলাN;LOC;NDEF	উপজেলাতে
+V;V.PTCP;CONDকরাV;V.PTCP;COND	করলে
+V;2;FUT;POLঘামাV;2;FUT;POL	ঘামবে
+N;LOC;NDEFঅভিযোগN;LOC;NDEF	অভিযোগে
+N;ACC;NDEFজুতাN;ACC;NDEF	জুতা
+V;2;PRS;POLশিখানোV;2;PRS;POL	শিখায়
+V;2;PST;PRF;LGSPEC1ব্যবহার করাV;2;PST;PRF;LGSPEC1	ব্যবহার করেছিলি
+V;V.MSDRজাগানোV;V.MSDR	জাগানো
+V;2;FUT;POLহাগাV;2;FUT;POL	হাগবে
+V;2;PST;LGSPEC1মরাV;2;PST;LGSPEC1	মরলি
+N;ACC;PL;DEFউদ্দেশ্যN;ACC;PL;DEF	উদ্দেশ্যগুলা
+N;ACC;PL;DEFবন্ধুN;ACC;PL;DEF	বন্ধুদেরকে
+N;LOC;PL;DEFদেহN;LOC;PL;DEF	দেহগুলাতে
+V;3;PST;PROG;INFMপরাV;3;PST;PROG;INFM	পরছিলে
+V;V.NFINআসাV;V.NFIN	আসতে
+V;3;PST;POLআগানোV;3;PST;POL	আগালেন
+N;ACC;SG;DEFছাতাN;ACC;SG;DEF	ছাতাটা
+V;3;PST;HAB;POLআগানোV;3;PST;HAB;POL	আগাতেন
+V;2;PRS;PROG;POLদেখাV;2;PRS;PROG;POL	দেখছে
+V;2;PRS;PRF;LGSPEC1আসাV;2;PRS;PRF;LGSPEC1	এসেছিস
+N;ACC;PL;DEFবিভাগN;ACC;PL;DEF	বিভাগগুলা
+V;1;PST;PROGবোঝাV;1;PST;PROG	বুঝছিলাম
+V;2;PRS;PROG;LGSPEC1মাল ফেলাV;2;PRS;PROG;LGSPEC1	মাল ফেলছিস
+V;2;PST;PRF;POLউল্কি আঁকাV;2;PST;PRF;POL	উল্কি এঁকেছিলো
+V;1;PRSকেনাV;1;PRS	কিনি
+V;2;PRS;PROG;POLহাঁটাV;2;PRS;PROG;POL	হাঁটছে
+V;2;PST;HAB;LGSPEC1ঢুকানোV;2;PST;HAB;LGSPEC1	ঢুকাতিস
+V;3;PST;HAB;INFMঘৃণা করাV;3;PST;HAB;INFM	ঘৃণা করতে
+N;NOM;NDEFঘটনাN;NOM;NDEF	ঘটনা
+V;2;FUT;LGSPEC1বিশেষ করাV;2;FUT;LGSPEC1	বিশেষ করবি
+V;V.PTCP;HABঅনুবাদ করাV;V.PTCP;HAB	অনুবাদ করেকরে
+V;2;PRS;PROG;LGSPEC1অনুরোধ করাV;2;PRS;PROG;LGSPEC1	অনুরোধ করছিস
+V;3;FUT;POLলেখাV;3;FUT;POL	লিখবেন
+N;GEN;PL;DEFউপজেলাN;GEN;PL;DEF	উপজেলাগুলার
+V;1;PRS;PROGশিখানোV;1;PRS;PROG	শিখাচ্ছি
+V;3;PRS;INFMহাত মারাV;3;PRS;INFM	হাত মারো
+V;2;PST;PROG;POLঘামানোV;2;PST;PROG;POL	ঘামাচ্ছিলো
+V;2;FUT;POLচাটাV;2;FUT;POL	চাটবে
+V;3;PRS;POLঘুমানোV;3;PRS;POL	ঘুমান
+V;1;FUTচাপাV;1;FUT	চাপবো
+V;3;PST;PROG;POLরাখাV;3;PST;PROG;POL	রাখছিলেন
+N;GEN;NDEFশব্দN;GEN;NDEF	শব্দের
+V;3;PST;INFMভরাV;3;PST;INFM	ভরলে
+V;2;PST;PRF;POLবলাV;2;PST;PRF;POL	বলেছিলো
+V;3;FUT;POLবিশেষ করাV;3;FUT;POL	বিশেষ করবেন
+V;3;PRS;PROG;INFMওঠাV;3;PRS;PROG;INFM	উঠছো
+V;2;PRS;PROG;POLঅনুভব করাV;2;PRS;PROG;POL	অনুভব করছে
+V;2;PST;LGSPEC1ফেলাV;2;PST;LGSPEC1	ফেল্লি
+V;1;FUTহাত মারাV;1;FUT	হাত মারবো
+V;V.PTCP;CONDচুম্বন করাV;V.PTCP;COND	চুম্বন করলে
+V;V.PTCP;CONDচাওয়াV;V.PTCP;COND	চেলে
+N;ACC;PL;DEFফুলN;ACC;PL;DEF	ফুলগুলা
+V;1;PRS;PROGমনে রাখাV;1;PRS;PROG	মনে রাখছি
+V;3;PST;INFMজাগাV;3;PST;INFM	জাগলে
+V;V.PTCP;PROGদেখানোV;V.PTCP;PROG	দেখাতে
+V;2;PRS;LGSPEC1নাচাV;2;PRS;LGSPEC1	নাচিস
+V;3;FUT;POLরাখাV;3;FUT;POL	রাখবেন
+V;3;PRS;INFMজানাV;3;PRS;INFM	জানো
+V;2;PST;HAB;LGSPEC1চুম্বন করাV;2;PST;HAB;LGSPEC1	চুম্বন করতিস
+V;1;PST;PROGপ্রমাণ করাV;1;PST;PROG	প্রমাণ করছিলাম
+V;3;PST;PROG;POLচাপাV;3;PST;PROG;POL	চাপছিলেন
+V;2;FUT;LGSPEC1পরাV;2;FUT;LGSPEC1	পরবি
+V;2;PRS;PROG;LGSPEC1চেষ্টা করাV;2;PRS;PROG;LGSPEC1	চেষ্টা করছিস
+V;3;PRS;PRF;INFMখোঁজাV;3;PRS;PRF;INFM	খুঁজেছো
+V;3;PST;HAB;POLনেওয়াV;3;PST;HAB;POL	নিতেন
+V;V.MSDRবোঝাV;V.MSDR	বোঝা
+V;2;PRS;PROG;LGSPEC1মারাV;2;PRS;PROG;LGSPEC1	মারছিস
+V;1;PST;PROGঅপেক্ষা করাV;1;PST;PROG	অপেক্ষা করছিলাম
+V;3;PRS;PRF;INFMআঁকাV;3;PRS;PRF;INFM	এঁকেছো
+V;3;PRS;INFMভালোবাসাV;3;PRS;INFM	ভালোবাসো
+V;3;PST;HAB;INFMমাল ফেলাV;3;PST;HAB;INFM	মাল ফেলতে
+V;2;PST;PROG;LGSPEC1অনুবাদ করাV;2;PST;PROG;LGSPEC1	অনুবাদ করছিলি
+V;3;PRS;POLমনে রাখাV;3;PRS;POL	মনে রাখেন
+N;ACC;SG;DEFধনN;ACC;SG;DEF	ধনটা
+V;1;PSTঢুকানোV;1;PST	ঢুকালাম
+V;3;PST;HAB;INFMপাওয়াV;3;PST;HAB;INFM	পেতে
+V;1;PST;HABখোলাV;1;PST;HAB	খুলতাম
+V;2;PRS;PROG;POLলেখাV;2;PRS;PROG;POL	লিখছে
+V;1;PRS;PRFহাত মারাV;1;PRS;PRF	হাত মেরেছি
+V;2;PRS;PROG;POLবিশেষ করাV;2;PRS;PROG;POL	বিশেষ করছে
+N;NOM;NDEFতিমিN;NOM;NDEF	তিমি
+V;3;PRS;INFMজ্বালাতন করাV;3;PRS;INFM	জ্বালাতন করো
+V;3;PRS;PRF;POLখোলাV;3;PRS;PRF;POL	খুলেছেন
+V;3;PRS;POLহাগাV;3;PRS;POL	হাগেন
+V;3;PRS;PROG;POLভাঙাV;3;PRS;PROG;POL	ভাঙছেন
+V;2;PRS;PROG;LGSPEC1আগানোV;2;PRS;PROG;LGSPEC1	আগাচ্ছিস
+V;3;PST;PROG;INFMঅনুবাদ করাV;3;PST;PROG;INFM	অনুবাদ করছিলে
+V;3;PRS;PRF;POLজ্বালাতন করাV;3;PRS;PRF;POL	জ্বালাতন করেছেন
+V;3;PST;PRF;POLঅপেক্ষা করাV;3;PST;PRF;POL	অপেক্ষা করেছিলেন
+V;2;PRS;PROG;POLআগানোV;2;PRS;PROG;POL	আগাচ্ছে
+V;1;PRS;PROGদেখানোV;1;PRS;PROG	দেখাচ্ছি
+N;GEN;NDEFকুকুরN;GEN;NDEF	কুকুরের
+N;NOM;PL;DEFলিঙ্গN;NOM;PL;DEF	লিঙ্গগুলা
+V;2;PST;HAB;LGSPEC1প্রশ্ন করাV;2;PST;HAB;LGSPEC1	প্রশ্ন করতিস
+V;3;PST;PRF;INFMরাখাV;3;PST;PRF;INFM	রেখেছিলে
+V;2;PRS;LGSPEC1খাওয়াV;2;PRS;LGSPEC1	খাস
+V;3;PST;PRF;POLআসাV;3;PST;PRF;POL	এসেছিলেন
+V;1;PST;PRFহাগাV;1;PST;PRF	হেগেছিলাম
+V;3;PST;PRF;INFMহওয়াV;3;PST;PRF;INFM	হয়েছিলে
+V;3;PRS;PRF;POLপাঠানোV;3;PRS;PRF;POL	পাঠিয়েছেন
+V;1;PST;PRFচালানোV;1;PST;PRF	চালিয়েছিলাম
+V;2;PRS;POLমনে রাখাV;2;PRS;POL	মনে রাখে
+V;3;PST;PROG;POLজাগাV;3;PST;PROG;POL	জাগছিলেন
+V;3;PST;PROG;POLচালানোV;3;PST;PROG;POL	চালাচ্ছিলেন
+V;2;PST;LGSPEC1চাখাV;2;PST;LGSPEC1	চাখলি
+V;1;PRS;PROGভুলে যাওয়াV;1;PRS;PROG	ভুলে যাচ্ছি
+V;3;PRS;PROG;POLসাহায্য করাV;3;PRS;PROG;POL	সাহায্য করছেন
+V;3;FUT;POLঢুকানোV;3;FUT;POL	ঢুকাবেন
+V;3;PRS;POLপ্রশ্ন করাV;3;PRS;POL	প্রশ্ন করেন
+V;3;PRS;PROG;POLশেখাV;3;PRS;PROG;POL	শিখছেন
+V;3;PRS;PROG;POLধরাV;3;PRS;PROG;POL	ধরছেন
+N;LOC;SG;DEFবিভাগN;LOC;SG;DEF	বিভাগটাতে
+N;GEN;PL;DEFছাত্রN;GEN;PL;DEF	ছাত্রদের
+N;NOM;NDEFজন্মN;NOM;NDEF	জন্ম
+V;2;PRS;PROG;POLহওয়াV;2;PRS;PROG;POL	হচ্ছে
+V;2;PST;PROG;POLমাল ফেলাV;2;PST;PROG;POL	মাল ফেলছিলো
+V;2;PST;PROG;LGSPEC1হাত মারাV;2;PST;PROG;LGSPEC1	হাত মারছিলি
+V;3;PST;POLউল্কি আঁকাV;3;PST;POL	উল্কি আঁকলেন
+V;1;PRSজ্বালাতন করাV;1;PRS	জ্বালাতন করি
+V;2;PRS;PROG;LGSPEC1দেওয়াV;2;PRS;PROG;LGSPEC1	দিচ্ছিস
+V;2;PST;PROG;POLব্যবহার করাV;2;PST;PROG;POL	ব্যবহার করছিলো
+V;3;PRS;PRF;INFMঘামানোV;3;PRS;PRF;INFM	ঘামিয়েছো
+V;3;PST;HAB;POLচুম্বন করাV;3;PST;HAB;POL	চুম্বন করতেন
+V;3;PST;PROG;POLজানাV;3;PST;PROG;POL	জানছিলেন
+V;3;FUT;POLভরাV;3;FUT;POL	ভরবেন
+V;3;PST;INFMচোষাV;3;PST;INFM	চুষলে
+V;2;PRS;POLঅপেক্ষা করাV;2;PRS;POL	অপেক্ষা করে
+V;1;PST;HABভাবাV;1;PST;HAB	ভাবতাম
+V;1;PST;PRFউল্কি আঁকাV;1;PST;PRF	উল্কি এঁকেছিলাম
+V;1;PST;PRFলেখাV;1;PST;PRF	লিখেছিলাম
+V;2;PST;PRF;POLমনে রাখাV;2;PST;PRF;POL	মনে রেখেছিলো
+V;2;FUT;POLশোনাV;2;FUT;POL	শুনবে
+V;2;PST;HAB;POLধরাV;2;PST;HAB;POL	ধরতো
+N;GEN;PL;DEFঘটনাN;GEN;PL;DEF	ঘটনাগুলার
+V;2;FUT;POLপাঠানোV;2;FUT;POL	পাঠাবে
+V;2;PST;LGSPEC1কাটাV;2;PST;LGSPEC1	কাটলি
+V;1;FUTবিশেষ করাV;1;FUT	বিশেষ করবো
+V;2;PRS;PRF;LGSPEC1মারাV;2;PRS;PRF;LGSPEC1	মেরেছিস
+V;2;PRS;PROG;POLচাপাV;2;PRS;PROG;POL	চাপছে
+V;2;PST;POLঅনুরোধ করাV;2;PST;POL	অনুরোধ করলো
+V;V.MSDRচাটাV;V.MSDR	চাটা
+V;3;PST;HAB;INFMকরাV;3;PST;HAB;INFM	করতে
+V;V.PTCP;HABহাঁটাV;V.PTCP;HAB	হেঁটে
+V;2;PST;PROG;POLজাগানোV;2;PST;PROG;POL	জাগাচ্ছিলো
+V;1;PST;PROGহাত মারাV;1;PST;PROG	হাত মারছিলাম
+V;2;PST;PRF;LGSPEC1নেওয়াV;2;PST;PRF;LGSPEC1	নিয়েছিলি
+V;3;FUT;INFMখোলাV;3;FUT;INFM	খুলবে
+V;2;PRS;LGSPEC1খোঁজাV;2;PRS;LGSPEC1	খুঁজিস
+V;2;PST;PRF;POLঘামানোV;2;PST;PRF;POL	ঘামিয়েছিলো
+V;2;PRS;POLকেনাV;2;PRS;POL	কেনে
+V;2;PST;HAB;POLদেওয়াV;2;PST;HAB;POL	দিতো
+V;1;PST;PROGহাঁটাV;1;PST;PROG	হাঁটছিলাম
+V;1;PRS;PROGফেলাV;1;PRS;PROG	ফেলছি
+V;2;PST;HAB;POLভরাV;2;PST;HAB;POL	ভরতো
+N;ACC;NDEFভাষাN;ACC;NDEF	ভাষা
+V;V.NFINকাটাV;V.NFIN	কাটতে
+V;3;FUT;POLইচ্ছা হওয়াV;3;FUT;POL	ইচ্ছা হবেন
+V;2;PRS;PROG;LGSPEC1উল্কি আঁকাV;2;PRS;PROG;LGSPEC1	উল্কি আঁকছিস
+V;2;PST;POLচালানোV;2;PST;POL	চালালো
+V;3;PST;PROG;POLঅনুরোধ করাV;3;PST;PROG;POL	অনুরোধ করছিলেন
+N;LOC;PL;DEFশব্দN;LOC;PL;DEF	শব্দগুলাতে
+V;3;PST;PRF;POLবৃষ্টি হওয়াV;3;PST;PRF;POL	বৃষ্টি হয়েছিলেন
+V;V.NFINগেলাV;V.NFIN	গিলতে
+V;3;PST;HAB;POLবলাV;3;PST;HAB;POL	বলতেন
+V;3;PST;PROG;INFMফেলাV;3;PST;PROG;INFM	ফেলছিলে
+V;1;PRS;PROGচালানোV;1;PRS;PROG	চালাচ্ছি
+V;2;PST;LGSPEC1শেখাV;2;PST;LGSPEC1	শিখলি
+V;1;PRS;PRFবসাV;1;PRS;PRF	বসেছি
+N;NOM;PL;DEFজানালাN;NOM;PL;DEF	জানালাগুলা
+V;3;PST;INFMপাঠানোV;3;PST;INFM	পাঠালে
+V;V.PTCP;CONDশিখানোV;V.PTCP;COND	শিখালে
+V;V.PTCP;PROGআঁকাV;V.PTCP;PROG	আঁকতে
+V;2;PST;PROG;POLখোঁজাV;2;PST;PROG;POL	খুঁজছিলো
+N;LOC;NDEFফুলN;LOC;NDEF	ফুলে
+V;3;PST;HAB;POLযাওয়াV;3;PST;HAB;POL	যেতেন
+V;1;PRS;PROGকাটাV;1;PRS;PROG	কাটছি
+V;1;PST;HABদেখানোV;1;PST;HAB	দেখাতাম
+V;2;PST;HAB;POLভাঙাV;2;PST;HAB;POL	ভাঙতো
+V;1;PRSচেষ্টা করাV;1;PRS	চেষ্টা করি
+N;LOC;NDEFজানালাN;LOC;NDEF	জানালাতে
+N;ACC;PL;DEFএলাকাN;ACC;PL;DEF	এলাকাগুলা
+N;NOM;SG;DEFগাঁজাখোরN;NOM;SG;DEF	গাঁজাখোরটা
+V;1;PST;HABদাঁড়ানোV;1;PST;HAB	দাঁড়াতাম
+V;2;PST;PROG;LGSPEC1চালানোV;2;PST;PROG;LGSPEC1	চালাচ্ছিলি
+V;1;PST;PROGদেখানোV;1;PST;PROG	দেখাচ্ছিলাম
+V;3;PST;PROG;INFMআসাV;3;PST;PROG;INFM	আসছিলে
+V;2;FUT;LGSPEC1জ্বালাতন করাV;2;FUT;LGSPEC1	জ্বালাতন করবি
+V;V.PTCP;PRFজ্বালাতন করাV;V.PTCP;PRF	জ্বালাতন করে
+V;3;PST;HAB;POLজাগাV;3;PST;HAB;POL	জাগতেন
+V;2;PST;PROG;POLগাওয়াV;2;PST;PROG;POL	গাচ্ছিলো
+V;1;PRSবিশেষ করাV;1;PRS	বিশেষ করি
+V;2;PST;PRF;LGSPEC1চাখাV;2;PST;PRF;LGSPEC1	চেখেছিলি
+V;2;PRS;LGSPEC1ডিফ্র্যাগমেন্ট করাV;2;PRS;LGSPEC1	ডিফ্র্যাগমেন্ট করিস
+V;3;PST;HAB;INFMকাটাV;3;PST;HAB;INFM	কাটতে
+N;NOM;SG;DEFবিভাগN;NOM;SG;DEF	বিভাগটা
+N;GEN;NDEFধনN;GEN;NDEF	ধনের
+V;2;PRS;LGSPEC1প্রশ্ন করাV;2;PRS;LGSPEC1	প্রশ্ন করিস
+V;2;PRS;PRF;LGSPEC1আঁকাV;2;PRS;PRF;LGSPEC1	এঁকেছিস
+V;3;PST;POLমরাV;3;PST;POL	মরলেন
+V;3;PRS;PROG;INFMপ্রশ্ন করাV;3;PRS;PROG;INFM	প্রশ্ন করছো
+V;2;PST;PRF;LGSPEC1শেখাV;2;PST;PRF;LGSPEC1	শিখেছিলি
+V;1;PST;PRFটানাV;1;PST;PRF	টেনেছিলাম
+N;ACC;SG;DEFনেশাখোরN;ACC;SG;DEF	নেশাখোরটাকে
+V;V.NFINউল্কি আঁকাV;V.NFIN	উল্কি আঁকতে
+V;2;PRS;PROG;POLঢোকাV;2;PRS;PROG;POL	ঢুকছে
+V;3;PST;POLবোঝাV;3;PST;POL	বুঝলেন
+V;3;PST;PRF;INFMভুলে যাওয়াV;3;PST;PRF;INFM	ভুলে গিয়েছিলে
+V;2;PST;HAB;POLবন্ধ করাV;2;PST;HAB;POL	বন্ধ করতো
+V;2;PST;POLবসাV;2;PST;POL	বসলো
+V;3;PST;PROG;INFMসাহায্য করাV;3;PST;PROG;INFM	সাহায্য করছিলে
+N;GEN;NDEFঅঙ্গN;GEN;NDEF	অঙ্গের
+V;1;PRS;PRFআঁকাV;1;PRS;PRF	এঁকেছি
+V;V.NFINঢোকাV;V.NFIN	ঢুকতে
+V;1;FUTবসাV;1;FUT	বসবো
+N;ACC;NDEFপ্রতিষ্ঠাতাN;ACC;NDEF	প্রতিষ্ঠাতা
+V;V.NFINভালবাসাV;V.NFIN	ভালবাসতে
+V;3;PST;PROG;POLভাবাV;3;PST;PROG;POL	ভাবছিলেন
+V;3;FUT;POLকরাV;3;FUT;POL	করবেন
+N;ACC;SG;DEFদেশN;ACC;SG;DEF	দেশটা
+V;3;PST;PRF;INFMমাল ফেলাV;3;PST;PRF;INFM	মাল ফেলেছিলে
+V;2;PST;PRF;POLযাওয়াV;2;PST;PRF;POL	গিয়েছিলো
+V;3;PRS;INFMমারাV;3;PRS;INFM	মারো
+N;NOM;SG;DEFনুনুN;NOM;SG;DEF	নুনুটা
+V;3;PST;PROG;POLটানাV;3;PST;PROG;POL	টানছিলেন
+V;1;PSTশিখানোV;1;PST	শিখালাম
+V;3;PST;PRF;INFMচাপাV;3;PST;PRF;INFM	চেপেছিলে
+V;2;PST;HAB;POLলেখাV;2;PST;HAB;POL	লিখতো
+V;V.PTCP;HABনাচাV;V.PTCP;HAB	নেচে
+V;2;PST;HAB;LGSPEC1সাহায্য করাV;2;PST;HAB;LGSPEC1	সাহায্য করতিস
+V;3;PST;HAB;INFMবন্ধ করাV;3;PST;HAB;INFM	বন্ধ করতে
+N;NOM;SG;DEFজেলাN;NOM;SG;DEF	জেলাটা
+V;2;PST;HAB;POLভুলে যাওয়াV;2;PST;HAB;POL	ভুলে যেতো
+V;3;PST;PROG;INFMকেনাV;3;PST;PROG;INFM	কিনছিলে
+V;3;PST;HAB;INFMলেখাV;3;PST;HAB;INFM	লিখতে
+V;3;PST;PRF;POLভালোবাসাV;3;PST;PRF;POL	ভালোবেসেছিলেন
+V;2;PRS;POLলেখাV;2;PRS;POL	লেখে
+N;ACC;NDEFঘরN;ACC;NDEF	ঘর
+V;3;PST;HAB;POLবোঝাV;3;PST;HAB;POL	বুঝতেন
+V;2;PRS;PRF;LGSPEC1হাঁটাV;2;PRS;PRF;LGSPEC1	হেঁটেছিস
+V;2;PRS;PROG;LGSPEC1খাওয়াV;2;PRS;PROG;LGSPEC1	খাচ্ছিস
+V;3;PST;HAB;INFMঅনুরোধ করাV;3;PST;HAB;INFM	অনুরোধ করতে
+V;3;PST;INFMবসাV;3;PST;INFM	বসলে
+N;LOC;PL;DEFদেশN;LOC;PL;DEF	দেশগুলাতে
+V;1;PST;PRFভুলে যাওয়াV;1;PST;PRF	ভুলে গিয়েছিলাম
+V;1;PST;PRFখোলাV;1;PST;PRF	খুলেছিলাম
+V;V.NFINজ্বালাতন করাV;V.NFIN	জ্বালাতন করতে
+V;3;FUT;POLমরাV;3;FUT;POL	মরবেন
+V;3;PST;PROG;POLলেখাV;3;PST;PROG;POL	লিখছিলেন
+V;V.PTCP;CONDচোষাV;V.PTCP;COND	চুষলে
+N;GEN;SG;DEFবস্তুN;GEN;SG;DEF	বস্তুটার
+V;2;PST;HAB;LGSPEC1অনুরোধ করাV;2;PST;HAB;LGSPEC1	অনুরোধ করতিস
+N;NOM;SG;DEFকারণN;NOM;SG;DEF	কারণটা
+V;1;PST;PROGচাটাV;1;PST;PROG	চাটছিলাম
+V;3;PRS;INFMপাঠানোV;3;PRS;INFM	পাঠাও
+V;3;PRS;PROG;POLকাটাV;3;PRS;PROG;POL	কাটছেন
+V;V.PTCP;HABমরাV;V.PTCP;HAB	মরে
+V;3;PRS;INFMলুকানোV;3;PRS;INFM	লুকাও
+V;3;PST;POLদেখানোV;3;PST;POL	দেখালেন
+V;V.PTCP;HABগেলাV;V.PTCP;HAB	গিলে
+N;LOC;PL;DEFঘরN;LOC;PL;DEF	ঘরগুলাতে
+N;GEN;PL;DEFজুতাN;GEN;PL;DEF	জুতাগুলার
+V;3;PST;HAB;INFMচাটাV;3;PST;HAB;INFM	চাটতে
+V;2;PST;PROG;LGSPEC1চোষাV;2;PST;PROG;LGSPEC1	চুষছিলি
+V;3;PRS;PRF;POLটাইপ করাV;3;PRS;PRF;POL	টাইপ করেছেন
+V;2;PST;HAB;POLবসাV;2;PST;HAB;POL	বসতো
+V;2;PST;HAB;LGSPEC1বসাV;2;PST;HAB;LGSPEC1	বসতিস
+V;2;PRS;PROG;POLচাটাV;2;PRS;PROG;POL	চাটছে
+N;LOC;SG;DEFঅঙ্গN;LOC;SG;DEF	অঙ্গটাতে
+V;2;PRS;PRF;POLপাওয়াV;2;PRS;PRF;POL	পেয়েছে
+V;2;PRS;POLখোঁজাV;2;PRS;POL	খোঁজে
+V;1;PRS;PROGজানাV;1;PRS;PROG	জানছি
+V;3;PRS;INFMশেখাV;3;PRS;INFM	শেখো
+V;2;FUT;LGSPEC1গেলাV;2;FUT;LGSPEC1	গিলবি
+V;3;PRS;POLলুকানোV;3;PRS;POL	লুকান
+V;V.PTCP;PROGআসাV;V.PTCP;PROG	আসতে
+N;ACC;SG;DEFজেলাN;ACC;SG;DEF	জেলাটা
+V;3;PRS;PRF;INFMনেওয়াV;3;PRS;PRF;INFM	নিয়েছো
+V;V.PTCP;HABপাওয়াV;V.PTCP;HAB	পেয়ে
+N;NOM;SG;DEFশহরN;NOM;SG;DEF	শহরটা
+V;3;PST;PROG;INFMদেখানোV;3;PST;PROG;INFM	দেখাচ্ছিলে
+V;2;PST;PRF;LGSPEC1দেওয়াV;2;PST;PRF;LGSPEC1	দিয়েছিলি
+V;1;FUTখোঁজাV;1;FUT	খুঁজবো
+V;3;PRS;PROG;POLগাওয়াV;3;PRS;PROG;POL	গাচ্ছেন
+V;2;PRS;PROG;LGSPEC1চোষাV;2;PRS;PROG;LGSPEC1	চুষছিস
+V;3;PST;HAB;POLভুলে যাওয়াV;3;PST;HAB;POL	ভুলে যেতেন
+V;3;PRS;PROG;POLকরাV;3;PRS;PROG;POL	করছেন
+V;1;FUTপ্রশ্ন করাV;1;FUT	প্রশ্ন করবো
+V;2;PST;POLঢোকাV;2;PST;POL	ঢুকলো
+V;2;PST;LGSPEC1খোলাV;2;PST;LGSPEC1	খুল্লি
+V;2;PRS;PRF;LGSPEC1প্রমাণ করাV;2;PRS;PRF;LGSPEC1	প্রমাণ করেছিস
+V;3;PRS;PRF;INFMচাওয়াV;3;PRS;PRF;INFM	চেয়েছো
+V;3;PST;PRF;POLভালবাসাV;3;PST;PRF;POL	ভালবেসেছিলেন
+N;LOC;NDEFশহরN;LOC;NDEF	শহরে
+N;LOC;SG;DEFজেলাN;LOC;SG;DEF	জেলাটাতে
+V;3;PST;PROG;POLমরাV;3;PST;PROG;POL	মরছিলেন
+N;LOC;NDEFশিশ্নN;LOC;NDEF	শিশ্নে
+V;3;FUT;POLহাগাV;3;FUT;POL	হাগবেন
+V;2;PRS;PROG;POLজানাV;2;PRS;PROG;POL	জানছে
+V;2;PST;POLবৃষ্টি হওয়াV;2;PST;POL	বৃষ্টি হলো
+V;2;PST;LGSPEC1হাঁটাV;2;PST;LGSPEC1	হাঁটলি
+V;3;FUT;INFMলেখাV;3;FUT;INFM	লিখবে
+N;GEN;PL;DEFশব্দN;GEN;PL;DEF	শব্দগুলার
+V;2;PRS;PRF;POLকাটাV;2;PRS;PRF;POL	কেটেছে
+N;LOC;PL;DEFঘটনাN;LOC;PL;DEF	ঘটনাগুলাতে
+V;3;PRS;PRF;POLভাবাV;3;PRS;PRF;POL	ভেবেছেন
+N;GEN;PL;DEFলিঙ্গN;GEN;PL;DEF	লিঙ্গগুলার
+V;2;PRS;PROG;LGSPEC1হাগাV;2;PRS;PROG;LGSPEC1	হাগছিস
+V;2;PST;HAB;POLঘৃণা করাV;2;PST;HAB;POL	ঘৃণা করতো
+V;1;PRSওঠাV;1;PRS	উঠি
+N;GEN;PL;DEFভাষাN;GEN;PL;DEF	ভাষাগুলার
+V;2;PST;PROG;POLলেখাV;2;PST;PROG;POL	লিখছিলো
+N;GEN;PL;DEFবস্তুN;GEN;PL;DEF	বস্তুগুলার
+V;2;PRS;PROG;POLশিখানোV;2;PRS;PROG;POL	শিখাচ্ছে
+V;1;PSTখোঁজাV;1;PST	খুঁজলাম
+V;3;FUT;POLমাল ফেলাV;3;FUT;POL	মাল ফেলবেন
+V;3;FUT;POLশিখানোV;3;FUT;POL	শিখাবেন
+V;3;PRS;PROG;POLআচরণ করাV;3;PRS;PROG;POL	আচরণ করছেন
+V;2;PRS;POLনাচাV;2;PRS;POL	নাচে
+V;2;PRS;PROG;POLচালানোV;2;PRS;PROG;POL	চালাচ্ছে
+V;2;PST;HAB;POLপরাV;2;PST;HAB;POL	পরতো
+V;3;PRS;POLখাওয়াV;3;PRS;POL	খান
+V;2;PRS;PRF;LGSPEC1চাটাV;2;PRS;PRF;LGSPEC1	চেটেছিস
+V;3;PST;PROG;INFMহাগাV;3;PST;PROG;INFM	হাগছিলে
+V;2;PST;HAB;POLবলাV;2;PST;HAB;POL	বলতো
+V;1;PST;PRFবিশেষ করাV;1;PST;PRF	বিশেষ করেছিলাম
+V;2;PRS;PROG;LGSPEC1পছন্দ করাV;2;PRS;PROG;LGSPEC1	পছন্দ করছিস
+V;V.PTCP;CONDহাগাV;V.PTCP;COND	হাগলে
+V;2;PRS;POLঅনুরোধ করাV;2;PRS;POL	অনুরোধ করে
+V;3;PRS;INFMপ্রমাণ করাV;3;PRS;INFM	প্রমাণ করো
+V;V.PTCP;PROGচেনাV;V.PTCP;PROG	চিনতে
+V;3;PST;PRF;POLলেখাV;3;PST;PRF;POL	লিখেছিলেন
+V;V.MSDRহাঁটাV;V.MSDR	হাঁটা
+V;1;PST;HABঅপেক্ষা করাV;1;PST;HAB	অপেক্ষা করতাম
+V;2;PRS;POLঅনুভব করাV;2;PRS;POL	অনুভব করে
+V;1;PRS;PRFবলাV;1;PRS;PRF	বলেছি
+V;1;PRS;PRFসাহায্য করাV;1;PRS;PRF	সাহায্য করেছি
+N;GEN;SG;DEFগাঁজাখোরN;GEN;SG;DEF	গাঁজাখোরটার
+V;2;PRS;PROG;LGSPEC1হাত মারাV;2;PRS;PROG;LGSPEC1	হাত মারছিস
+V;2;PST;PROG;POLপ্রমাণ করাV;2;PST;PROG;POL	প্রমাণ করছিলো
+V;3;PRS;PRF;INFMদেখাV;3;PRS;PRF;INFM	দেখেছো
+V;2;PRS;PROG;POLশেখাV;2;PRS;PROG;POL	শিখছে
+V;1;PRS;PRFচাটাV;1;PRS;PRF	চেটেছি
+V;3;PRS;INFMচাপাV;3;PRS;INFM	চাপো
+V;1;PST;HABকাটাV;1;PST;HAB	কাটতাম
+V;3;PST;PROG;POLভাঙাV;3;PST;PROG;POL	ভাঙছিলেন
+V;2;PRS;POLঘামাV;2;PRS;POL	ঘামে
+V;2;FUT;POLধরাV;2;FUT;POL	ধরবে
+V;2;PRS;PRF;POLঅনুবাদ করাV;2;PRS;PRF;POL	অনুবাদ করেছে
+V;1;PST;HABকরাV;1;PST;HAB	করতাম
+N;ACC;PL;DEFআলুN;ACC;PL;DEF	আলুগুলা
+V;2;PST;HAB;POLঢুকানোV;2;PST;HAB;POL	ঢুকাতো
+V;3;FUT;POLজাগাV;3;FUT;POL	জাগবেন
+V;2;PST;PROG;POLবোঝাV;2;PST;PROG;POL	বুঝছিলো
+V;3;PST;PRF;INFMগাওয়াV;3;PST;PRF;INFM	গেয়েছিলে
+V;3;PRS;POLনেওয়াV;3;PRS;POL	নেন
+V;3;PRS;PRF;POLটানাV;3;PRS;PRF;POL	টেনেছেন
+V;3;PRS;INFMনেওয়াV;3;PRS;INFM	নাও
+N;GEN;SG;DEFনুনুN;GEN;SG;DEF	নুনুটার
+V;3;PRS;INFMবলাV;3;PRS;INFM	বলো
+V;V.MSDRপ্রশ্ন করাV;V.MSDR	প্রশ্ন করা
+V;3;FUT;INFMইচ্ছা হওয়াV;3;FUT;INFM	ইচ্ছা হবে
+V;3;PST;HAB;INFMখোলাV;3;PST;HAB;INFM	খুলতে
+V;V.MSDRখোঁজাV;V.MSDR	খোঁজা
+V;1;PSTঅপেক্ষা করাV;1;PST	অপেক্ষা করলাম
+V;1;FUTলুকানোV;1;FUT	লুকাবো
+V;V.PTCP;HABবলাV;V.PTCP;HAB	বলে
+V;3;PST;INFMহাত মারাV;3;PST;INFM	হাত মারলে
+V;2;PST;PROG;LGSPEC1মরাV;2;PST;PROG;LGSPEC1	মরছিলি
+V;2;PRS;PRF;LGSPEC1করাV;2;PRS;PRF;LGSPEC1	করেছিস
+V;3;PST;POLবলাV;3;PST;POL	বল্লেন
+V;1;PRSহাঁটাV;1;PRS	হাঁটি
+V;3;PST;PROG;INFMচুম্বন করাV;3;PST;PROG;INFM	চুম্বন করছিলে
+V;1;PRS;PRFপ্রমাণ করাV;1;PRS;PRF	প্রমাণ করেছি
+V;V.NFINকেনাV;V.NFIN	কিনতে
+V;1;PSTডিফ্র্যাগমেন্ট করাV;1;PST	ডিফ্র্যাগমেন্ট করলাম
+V;3;FUT;POLদেখানোV;3;FUT;POL	দেখাবেন
+V;2;PST;PROG;POLডিফ্র্যাগমেন্ট করাV;2;PST;PROG;POL	ডিফ্র্যাগমেন্ট করছিলো
+N;ACC;SG;DEFগাঁজাখোরN;ACC;SG;DEF	গাঁজাখোরটাকে
+V;V.PTCP;HABপছন্দ করাV;V.PTCP;HAB	পছন্দ করেকরে
+V;3;PRS;POLখোলাV;3;PRS;POL	খোলেন
+V;3;PRS;INFMযাওয়াV;3;PRS;INFM	যাও
+N;NOM;PL;DEFমানুষN;NOM;PL;DEF	মানুষেরা
+V;3;PST;PROG;POLজাগানোV;3;PST;PROG;POL	জাগাচ্ছিলেন
+V;3;FUT;POLলুকানোV;3;FUT;POL	লুকাবেন
+V;2;PST;PROG;LGSPEC1লুকানোV;2;PST;PROG;LGSPEC1	লুকাচ্ছিলি
+V;3;PST;PRF;POLপাওয়াV;3;PST;PRF;POL	পেয়েছিলেন
+V;3;FUT;POLঅনুরোধ করাV;3;FUT;POL	অনুরোধ করবেন
+V;2;PST;LGSPEC1হাত মারাV;2;PST;LGSPEC1	হাত মারলি
+V;2;PST;PRF;POLইচ্ছা হওয়াV;2;PST;PRF;POL	ইচ্ছা হয়েছিলো
+V;3;PST;INFMসাহায্য করাV;3;PST;INFM	সাহায্য করলে
+V;2;FUT;POLদাঁড়ানোV;2;FUT;POL	দাঁড়াবে
+V;1;PST;HABমারাV;1;PST;HAB	মারতাম
+V;2;PST;PRF;POLআঁকাV;2;PST;PRF;POL	এঁকেছিলো
+V;3;PRS;POLটানাV;3;PRS;POL	টানেন
+V;3;PST;PRF;POLজ্বালাতন করাV;3;PST;PRF;POL	জ্বালাতন করেছিলেন
+V;3;PRS;PROG;INFMইচ্ছা হওয়াV;3;PRS;PROG;INFM	ইচ্ছা হচ্ছো
+V;2;PRS;LGSPEC1মাল ফেলাV;2;PRS;LGSPEC1	মাল ফেলিস
+V;2;FUT;LGSPEC1ফেলাV;2;FUT;LGSPEC1	ফেলবি
+V;2;PST;PROG;POLচাওয়াV;2;PST;PROG;POL	চাচ্ছিলো
+V;1;PRSঘামাV;1;PRS	ঘামি
+V;2;PST;PRF;LGSPEC1দেখানোV;2;PST;PRF;LGSPEC1	দেখিয়েছিলি
+V;3;PST;INFMগেলাV;3;PST;INFM	গিল্লে
+V;1;FUTকেনাV;1;FUT	কিনবো
+N;GEN;SG;DEFঘটনাN;GEN;SG;DEF	ঘটনাটার
+V;2;PST;PRF;POLমাল ফেলাV;2;PST;PRF;POL	মাল ফেলেছিলো
+N;GEN;SG;DEFগাজরN;GEN;SG;DEF	গাজরটার
+N;GEN;SG;DEFজন্মN;GEN;SG;DEF	জন্মটার
+V;1;FUTরাখাV;1;FUT	রাখবো
+V;3;PRS;PRF;POLচেনাV;3;PRS;PRF;POL	চিনেছেন
+V;1;PST;HABবোঝাV;1;PST;HAB	বুঝতাম
+V;3;FUT;POLনেওয়াV;3;FUT;POL	নিবেন
+N;GEN;NDEFলিঙ্গN;GEN;NDEF	লিঙ্গের
+N;GEN;SG;DEFঅনুরোধN;GEN;SG;DEF	অনুরোধটার
+N;LOC;PL;DEFউপজেলাN;LOC;PL;DEF	উপজেলাগুলাতে
+V;3;FUT;POLপরাV;3;FUT;POL	পরবেন
+V;2;PRS;PRF;LGSPEC1চাপাV;2;PRS;PRF;LGSPEC1	চেপেছিস
+V;2;PRS;LGSPEC1শোনাV;2;PRS;LGSPEC1	শুনিস
+N;LOC;SG;DEFনামN;LOC;SG;DEF	নামটাতে
+V;V.PTCP;PRFচালানোV;V.PTCP;PRF	চালায়
+V;1;PRS;PRFঅনুভব করাV;1;PRS;PRF	অনুভব করেছি
+V;1;PRS;PROGসাহায্য করাV;1;PRS;PROG	সাহায্য করছি
+V;1;PST;HABচালানোV;1;PST;HAB	চালাতাম
+V;3;PST;PROG;INFMদাঁড়ানোV;3;PST;PROG;INFM	দাঁড়াচ্ছিলে
+N;NOM;NDEFদৃষ্টান্তN;NOM;NDEF	দৃষ্টান্ত
+V;2;PRS;PRF;LGSPEC1খোঁজাV;2;PRS;PRF;LGSPEC1	খুঁজেছিস
+N;NOM;SG;DEFপ্রতিষ্ঠাতাN;NOM;SG;DEF	প্রতিষ্ঠাতাটা
+N;ACC;NDEFছেলেN;ACC;NDEF	ছেলে
+V;3;PST;HAB;INFMভরাV;3;PST;HAB;INFM	ভরতে
+V;2;PRS;LGSPEC1ভুলে যাওয়াV;2;PRS;LGSPEC1	ভুলে যাস
+V;2;PRS;PRF;POLঘামানোV;2;PRS;PRF;POL	ঘামিয়েছে
+V;V.PTCP;PRFলুকানোV;V.PTCP;PRF	লুকায়
+V;3;PST;PRF;POLব্যবহার করাV;3;PST;PRF;POL	ব্যবহার করেছিলেন
+N;NOM;NDEFজানালাN;NOM;NDEF	জানালা
+V;2;FUT;POLসাহায্য করাV;2;FUT;POL	সাহায্য করবে
+V;2;PST;HAB;LGSPEC1ভুলে যাওয়াV;2;PST;HAB;LGSPEC1	ভুলে যেতিস
+V;V.PTCP;PROGখোঁজাV;V.PTCP;PROG	খুঁজতে
+V;2;PRS;POLভুলে যাওয়াV;2;PRS;POL	ভুলে যায়
+V;2;PST;HAB;POLশোনাV;2;PST;HAB;POL	শুনতো
+V;1;PSTভাবাV;1;PST	ভাবলাম
+V;2;PST;LGSPEC1ভুলে যাওয়াV;2;PST;LGSPEC1	ভুলে গেলি
+V;2;PST;POLমারাV;2;PST;POL	মারলো
+V;2;PST;PROG;LGSPEC1আচরণ করাV;2;PST;PROG;LGSPEC1	আচরণ করছিলি
+V;2;PRS;PROG;POLঘামানোV;2;PRS;PROG;POL	ঘামাচ্ছে
+V;3;PRS;PROG;INFMচালানোV;3;PRS;PROG;INFM	চালাচ্ছো
+V;2;PST;POLভালবাসাV;2;PST;POL	ভালবাসলো
+V;2;PRS;POLচোষাV;2;PRS;POL	চোষে
+V;3;PST;PROG;INFMওঠাV;3;PST;PROG;INFM	উঠছিলে
+V;3;PRS;PRF;POLঘৃণা করাV;3;PRS;PRF;POL	ঘৃণা করেছেন
+V;2;PST;PROG;POLহাত মারাV;2;PST;PROG;POL	হাত মারছিলো
+N;LOC;NDEFকারণN;LOC;NDEF	কারণে
+V;3;PRS;INFMচোষাV;3;PRS;INFM	চোষো
+V;2;PST;POLশোনাV;2;PST;POL	শুনলো
+V;2;PST;PRF;LGSPEC1চেষ্টা করাV;2;PST;PRF;LGSPEC1	চেষ্টা করেছিলি
+V;3;PST;PROG;POLদেওয়াV;3;PST;PROG;POL	দিচ্ছিলেন
+V;2;PST;HAB;LGSPEC1চাটাV;2;PST;HAB;LGSPEC1	চাটতিস
+V;2;PST;PROG;POLকরাV;2;PST;PROG;POL	করছিলো
+V;3;PRS;POLধরাV;3;PRS;POL	ধরেন
+V;3;PRS;INFMব্যবহার করাV;3;PRS;INFM	ব্যবহার করো
+N;NOM;PL;DEFকারণN;NOM;PL;DEF	কারণগুলা
+V;V.PTCP;PRFবন্ধ করাV;V.PTCP;PRF	বন্ধ করে
+V;3;PRS;PROG;POLচেষ্টা করাV;3;PRS;PROG;POL	চেষ্টা করছেন
+V;2;PST;POLচাওয়াV;2;PST;POL	চেলো
+V;V.PTCP;PRFচাখাV;V.PTCP;PRF	চেখে
+V;1;PRSদেওয়াV;1;PRS	দেই
+N;LOC;SG;DEFগাজরN;LOC;SG;DEF	গাজরটাতে
+V;2;PST;PROG;LGSPEC1ঘৃণা করাV;2;PST;PROG;LGSPEC1	ঘৃণা করছিলি
+V;2;PRS;LGSPEC1বসাV;2;PRS;LGSPEC1	বসিস
+V;1;PRSভাঙাV;1;PRS	ভাঙি
+V;2;PRS;PRF;POLকেনাV;2;PRS;PRF;POL	কিনেছে
+V;3;PRS;PROG;INFMমারাV;3;PRS;PROG;INFM	মারছো
+N;LOC;NDEFনীহারিকাN;LOC;NDEF	নীহারিকাতে
+V;2;PST;HAB;POLডিফ্র্যাগমেন্ট করাV;2;PST;HAB;POL	ডিফ্র্যাগমেন্ট করতো
+V;3;PST;PRF;INFMযাওয়াV;3;PST;PRF;INFM	গিয়েছিলে
+N;NOM;PL;DEFঅভিযোগN;NOM;PL;DEF	অভিযোগগুলা
+V;3;PRS;PROG;POLনাচাV;3;PRS;PROG;POL	নাচছেন
+V;3;PST;HAB;INFMচুম্বন করাV;3;PST;HAB;INFM	চুম্বন করতে
+V;2;PRS;PROG;LGSPEC1দেখাV;2;PRS;PROG;LGSPEC1	দেখছিস
+V;V.PTCP;CONDযাওয়াV;V.PTCP;COND	গেলে
+V;V.NFINঢুকানোV;V.NFIN	ঢুকাতে
+V;1;PST;HABডিফ্র্যাগমেন্ট করাV;1;PST;HAB	ডিফ্র্যাগমেন্ট করতাম
+N;NOM;SG;DEFমানুষN;NOM;SG;DEF	মানুষটা
+V;3;PST;HAB;INFMদেখাV;3;PST;HAB;INFM	দেখতে
+V;2;PST;PRF;POLকাটাV;2;PST;PRF;POL	কেটেছিলো
+V;2;PST;LGSPEC1ভালবাসাV;2;PST;LGSPEC1	ভালবাসলি
+V;1;PRS;PROGধরাV;1;PRS;PROG	ধরছি
+V;3;PRS;PRF;POLচাটাV;3;PRS;PRF;POL	চেটেছেন
+N;NOM;NDEFফুলN;NOM;NDEF	ফুল
+V;2;PRS;LGSPEC1দেখানোV;2;PRS;LGSPEC1	দেখাস
+V;1;PSTটাইপ করাV;1;PST	টাইপ করলাম
+N;NOM;PL;DEFগলাN;NOM;PL;DEF	গলাগুলা
+V;3;PST;INFMপ্রশ্ন করাV;3;PST;INFM	প্রশ্ন করলে
+V;2;PST;PROG;LGSPEC1ঘামাV;2;PST;PROG;LGSPEC1	ঘামছিলি
+V;3;FUT;INFMপ্রমাণ করাV;3;FUT;INFM	প্রমাণ করবে
+V;2;PRS;PRF;POLহাঁটাV;2;PRS;PRF;POL	হেঁটেছে
+N;NOM;PL;DEFকুকুরN;NOM;PL;DEF	কুকুরেরা
+N;NOM;PL;DEFরংN;NOM;PL;DEF	রংগুলা
+V;3;PST;PROG;INFMভালোবাসাV;3;PST;PROG;INFM	ভালোবাসছিলে
+N;LOC;NDEFঅনুরোধN;LOC;NDEF	অনুরোধে
+V;1;PRSফেলাV;1;PRS	ফেলি
+V;3;PRS;PROG;INFMলেখাV;3;PRS;PROG;INFM	লিখছো
+V;2;PST;PRF;POLমারাV;2;PST;PRF;POL	মেরেছিলো
+V;3;PST;HAB;INFMইচ্ছা হওয়াV;3;PST;HAB;INFM	ইচ্ছা হতে
+V;3;PST;PROG;POLকাটাV;3;PST;PROG;POL	কাটছিলেন
+V;3;PST;PRF;POLকরাV;3;PST;PRF;POL	করেছিলেন
+V;2;FUT;LGSPEC1অনুবাদ করাV;2;FUT;LGSPEC1	অনুবাদ করবি
+N;GEN;NDEFঅভিযোগN;GEN;NDEF	অভিযোগের
+V;3;PST;POLঢোকাV;3;PST;POL	ঢুকলেন
+V;2;PST;HAB;LGSPEC1আগানোV;2;PST;HAB;LGSPEC1	আগাতিস
+V;2;PRS;PRF;POLহাগাV;2;PRS;PRF;POL	হেগেছে
+V;3;PRS;PRF;POLঅনুভব করাV;3;PRS;PRF;POL	অনুভব করেছেন
+V;V.PTCP;HABঅনুরোধ করাV;V.PTCP;HAB	অনুরোধ করেকরে
+V;2;PRS;POLগাওয়াV;2;PRS;POL	গায়
+V;3;PST;INFMহাঁটাV;3;PST;INFM	হাঁটলে
+V;V.PTCP;CONDজানাV;V.PTCP;COND	জানলে
+V;2;PRS;PROG;LGSPEC1ঘামাV;2;PRS;PROG;LGSPEC1	ঘামছিস
+V;2;PRS;PROG;POLবলাV;2;PRS;PROG;POL	বলছে
+V;1;PST;PROGপাওয়াV;1;PST;PROG	পাচ্ছিলাম
+V;3;PRS;POLজ্বালাতন করাV;3;PRS;POL	জ্বালাতন করেন
+V;2;PST;POLআগানোV;2;PST;POL	আগালো
+V;3;PST;PRF;POLশেখাV;3;PST;PRF;POL	শিখেছিলেন
+V;2;FUT;LGSPEC1অপেক্ষা করাV;2;FUT;LGSPEC1	অপেক্ষা করবি
+V;2;PST;POLঅপেক্ষা করাV;2;PST;POL	অপেক্ষা করলো
+V;1;PRS;PROGপ্রশ্ন করাV;1;PRS;PROG	প্রশ্ন করছি
+V;V.PTCP;PROGলুকানোV;V.PTCP;PROG	লুকাতে
+V;2;PST;PROG;LGSPEC1যাওয়াV;2;PST;PROG;LGSPEC1	যাচ্ছিলি
+V;3;FUT;INFMভরাV;3;FUT;INFM	ভরবে
+V;1;FUTলেখাV;1;FUT	লিখবো
+V;3;PRS;INFMশোনাV;3;PRS;INFM	শোনো
+V;1;PRSপ্রশ্ন করাV;1;PRS	প্রশ্ন করি
+V;2;PST;PROG;POLদেখাV;2;PST;PROG;POL	দেখছিলো
+V;2;PST;HAB;POLজাগাV;2;PST;HAB;POL	জাগতো
+V;3;PST;PROG;POLচাওয়াV;3;PST;PROG;POL	চাচ্ছিলেন
+V;3;PST;PRF;POLবন্ধ করাV;3;PST;PRF;POL	বন্ধ করেছিলেন
+V;3;PRS;PRF;POLখোঁজাV;3;PRS;PRF;POL	খুঁজেছেন
+V;2;PRS;PROG;POLচুম্বন করাV;2;PRS;PROG;POL	চুম্বন করছে
+N;LOC;NDEFগলাN;LOC;NDEF	গলাতে
+V;3;PRS;PROG;INFMবৃষ্টি হওয়াV;3;PRS;PROG;INFM	বৃষ্টি হচ্ছো
+V;2;PST;LGSPEC1ভাবাV;2;PST;LGSPEC1	ভাবলি
+V;V.NFINচেনাV;V.NFIN	চিনতে
+V;2;PST;POLচুম্বন করাV;2;PST;POL	চুম্বন করলো
+V;V.PTCP;PROGওঠাV;V.PTCP;PROG	উঠতে
+V;V.MSDRঢোকাV;V.MSDR	ঢোকা
+V;1;PRS;PROGটাইপ করাV;1;PRS;PROG	টাইপ করছি
+V;V.PTCP;PRFগাওয়াV;V.PTCP;PRF	গেয়ে
+V;2;PRS;PROG;LGSPEC1চেনাV;2;PRS;PROG;LGSPEC1	চিনছিস
+V;2;PST;LGSPEC1পছন্দ করাV;2;PST;LGSPEC1	পছন্দ করলি
+V;2;PRS;PROG;POLচেনাV;2;PRS;PROG;POL	চিনছে
+V;1;PST;PRFফেলাV;1;PST;PRF	ফেলেছিলাম
+V;2;FUT;POLভালোবাসাV;2;FUT;POL	ভালোবাসবে
+V;2;PST;HAB;POLকরাV;2;PST;HAB;POL	করতো
+V;2;PST;LGSPEC1হাগাV;2;PST;LGSPEC1	হাগলি
+V;V.MSDRচোষাV;V.MSDR	চোষা
+N;LOC;NDEFছাতাN;LOC;NDEF	ছাতাতে
+V;2;PST;PRF;LGSPEC1ভালোবাসাV;2;PST;PRF;LGSPEC1	ভালোবেসেছিলি
+V;1;PRS;PRFপাওয়াV;1;PRS;PRF	পেয়েছি
+V;2;FUT;LGSPEC1বসাV;2;FUT;LGSPEC1	বসবি
+V;3;PRS;INFMদেওয়াV;3;PRS;INFM	দাও
+V;V.NFINচাপাV;V.NFIN	চাপতে
+V;2;PST;HAB;POLপাওয়াV;2;PST;HAB;POL	পেতো
+V;1;PST;HABযাওয়াV;1;PST;HAB	যেতাম
+V;3;PST;PRF;POLঘামানোV;3;PST;PRF;POL	ঘামিয়েছিলেন
+V;3;PRS;PROG;POLখোলাV;3;PRS;PROG;POL	খুলছেন
+N;NOM;SG;DEFমিত্রN;NOM;SG;DEF	মিত্রটা
+V;1;PRS;PRFচালানোV;1;PRS;PRF	চালিয়েছি
+V;V.PTCP;HABমাল ফেলাV;V.PTCP;HAB	মাল ফেলেফেলে
+V;3;PST;PROG;INFMকাটাV;3;PST;PROG;INFM	কাটছিলে
+V;3;PRS;POLলেখাV;3;PRS;POL	লেখেন
+V;V.PTCP;HABহাত মারাV;V.PTCP;HAB	হাত মেরেমেরে
+V;3;FUT;INFMলুকানোV;3;FUT;INFM	লুকাবে
+V;1;PRS;PROGআগানোV;1;PRS;PROG	আগাচ্ছি
+V;1;PRS;PROGঅনুরোধ করাV;1;PRS;PROG	অনুরোধ করছি
+V;2;PST;HAB;POLউল্কি আঁকাV;2;PST;HAB;POL	উল্কি আঁকতো
+V;1;PST;PRFকেনাV;1;PST;PRF	কিনেছিলাম
+V;3;FUT;INFMবলাV;3;FUT;INFM	বলবে
+V;2;PRS;PRF;LGSPEC1লেখাV;2;PRS;PRF;LGSPEC1	লিখেছিস
+V;1;FUTঢুকানোV;1;FUT	ঢুকাবো
+N;NOM;NDEFউপজেলাN;NOM;NDEF	উপজেলা
+V;3;PST;INFMঅনুরোধ করাV;3;PST;INFM	অনুরোধ করলে
+N;LOC;SG;DEFজুতাN;LOC;SG;DEF	জুতাটাতে
+N;GEN;SG;DEFছাতাN;GEN;SG;DEF	ছাতাটার
+V;2;FUT;LGSPEC1আসাV;2;FUT;LGSPEC1	আসবি
+V;2;PRS;PRF;LGSPEC1লুকানোV;2;PRS;PRF;LGSPEC1	লুকিয়েছিস
+V;V.PTCP;CONDচাখাV;V.PTCP;COND	চাখলে
+N;ACC;NDEFঘটনাN;ACC;NDEF	ঘটনা
+V;V.PTCP;CONDপাওয়াV;V.PTCP;COND	পেলে
+N;LOC;NDEFআলুN;LOC;NDEF	আলুতে
+V;2;PST;HAB;LGSPEC1ঢোকাV;2;PST;HAB;LGSPEC1	ঢুকতিস
+N;ACC;SG;DEFরংN;ACC;SG;DEF	রংটা
+V;1;PRSদেখাV;1;PRS	দেখি
+V;2;PRS;PRF;LGSPEC1বিশেষ করাV;2;PRS;PRF;LGSPEC1	বিশেষ করেছিস
+V;2;FUT;POLদেওয়াV;2;FUT;POL	দিবে
+V;2;PRS;LGSPEC1বিশেষ করাV;2;PRS;LGSPEC1	বিশেষ করিস
+V;2;PRS;PROG;LGSPEC1ভরাV;2;PRS;PROG;LGSPEC1	ভরছিস
+V;V.PTCP;PRFউল্কি আঁকাV;V.PTCP;PRF	উল্কি এঁকে
+N;NOM;SG;DEFনেশাখোরN;NOM;SG;DEF	নেশাখোরটা
+N;GEN;PL;DEFছেলেN;GEN;PL;DEF	ছেলেদের
+V;1;PSTচেনাV;1;PST	চিনলাম
+V;1;PRS;PRFদেখাV;1;PRS;PRF	দেখেছি
+V;2;PST;LGSPEC1চাপাV;2;PST;LGSPEC1	চাপলি
+V;3;PST;POLখোঁজাV;3;PST;POL	খুঁজলেন
+V;V.MSDRআসাV;V.MSDR	আসা
+V;3;PST;HAB;POLখোলাV;3;PST;HAB;POL	খুলতেন
+V;V.MSDRদাঁড়ানোV;V.MSDR	দাঁড়ানো
+V;1;PSTফেলাV;1;PST	ফেল্লাম
+V;3;PST;HAB;POLভাঙাV;3;PST;HAB;POL	ভাঙতেন
+V;3;FUT;POLখোঁজাV;3;FUT;POL	খুঁজবেন
+V;2;PRS;POLদেওয়াV;2;PRS;POL	দেয়
+V;2;PST;PROG;POLআগানোV;2;PST;PROG;POL	আগাচ্ছিলো
+V;V.PTCP;PRFখোঁজাV;V.PTCP;PRF	খুঁজে
+V;1;FUTওঠাV;1;FUT	উঠবো
+V;V.NFINচোষাV;V.NFIN	চুষতে
+V;2;FUT;POLখোলাV;2;FUT;POL	খুলবে
+V;V.PTCP;PROGদেওয়াV;V.PTCP;PROG	দেতে
+V;V.PTCP;PROGচাপাV;V.PTCP;PROG	চাপতে
+V;3;FUT;INFMআসাV;3;FUT;INFM	আসবে
+V;V.PTCP;HABভালবাসাV;V.PTCP;HAB	ভালবেসে
+V;2;PRS;LGSPEC1গেলাV;2;PRS;LGSPEC1	গিলিস
+V;2;PRS;PROG;LGSPEC1ইচ্ছা হওয়াV;2;PRS;PROG;LGSPEC1	ইচ্ছা হচ্ছিস
+V;V.PTCP;PROGচাটাV;V.PTCP;PROG	চাটতে
+V;3;PST;PRF;POLপছন্দ করাV;3;PST;PRF;POL	পছন্দ করেছিলেন
+V;2;PRS;LGSPEC1হাঁটাV;2;PRS;LGSPEC1	হাঁটিস
+N;ACC;SG;DEFনামN;ACC;SG;DEF	নামটা
+V;2;FUT;POLশেখাV;2;FUT;POL	শিখবে
+V;V.PTCP;CONDপরাV;V.PTCP;COND	পরলে
+V;3;PST;PRF;INFMখোলাV;3;PST;PRF;INFM	খুলেছিলে
+V;1;PST;PRFভালবাসাV;1;PST;PRF	ভালবেসেছিলাম
+V;3;PRS;PROG;POLঘামানোV;3;PRS;PROG;POL	ঘামাচ্ছেন
+V;2;PRS;LGSPEC1ভাঙাV;2;PRS;LGSPEC1	ভাঙিস
+V;2;PST;HAB;POLটানাV;2;PST;HAB;POL	টানতো
+V;2;PRS;PROG;LGSPEC1চাখাV;2;PRS;PROG;LGSPEC1	চাখছিস
+V;3;PST;PRF;INFMজানাV;3;PST;PRF;INFM	জেনেছিলে
+V;1;PST;PRFহাঁটাV;1;PST;PRF	হেঁটেছিলাম
+V;3;PRS;PRF;INFMবসাV;3;PRS;PRF;INFM	বসেছো
+V;1;PRS;PRFব্যবহার করাV;1;PRS;PRF	ব্যবহার করেছি
+V;2;FUT;POLহাত মারাV;2;FUT;POL	হাত মারবে
+N;ACC;SG;DEFবোনN;ACC;SG;DEF	বোনটাকে
+V;3;PRS;POLপরাV;3;PRS;POL	পরেন
+V;V.PTCP;PRFভাবাV;V.PTCP;PRF	ভেবে
+V;2;PST;PRF;LGSPEC1পরাV;2;PST;PRF;LGSPEC1	পরেছিলি
+V;1;PST;PRFবলাV;1;PST;PRF	বলেছিলাম
+V;V.PTCP;PROGবিশেষ করাV;V.PTCP;PROG	বিশেষ করতেকরতে
+N;GEN;SG;DEFফুলN;GEN;SG;DEF	ফুলটার
+V;3;PST;PROG;POLগাওয়াV;3;PST;PROG;POL	গাচ্ছিলেন
+N;NOM;NDEFভাষাN;NOM;NDEF	ভাষা
+V;2;PST;LGSPEC1অনুভব করাV;2;PST;LGSPEC1	অনুভব করলি
+V;3;PST;HAB;POLফেলাV;3;PST;HAB;POL	ফেলতেন
+V;2;PRS;POLচাটাV;2;PRS;POL	চাটে
+V;V.PTCP;PROGঅনুরোধ করাV;V.PTCP;PROG	অনুরোধ করতেকরতে
+V;1;PRSখোঁজাV;1;PRS	খুঁজি
+V;1;PST;PRFমনে রাখাV;1;PST;PRF	মনে রেখেছিলাম
+V;2;PST;HAB;POLঅনুরোধ করাV;2;PST;HAB;POL	অনুরোধ করতো
+V;3;PST;HAB;POLঘামাV;3;PST;HAB;POL	ঘামতেন
+V;2;PRS;LGSPEC1সাহায্য করাV;2;PRS;LGSPEC1	সাহায্য করিস
+V;3;PST;PROG;INFMঅনুভব করাV;3;PST;PROG;INFM	অনুভব করছিলে
+V;3;PRS;PROG;POLবিশেষ করাV;3;PRS;PROG;POL	বিশেষ করছেন
+V;3;PST;PRF;INFMশিখানোV;3;PST;PRF;INFM	শিখিয়েছিলে
+N;LOC;NDEFবস্তুN;LOC;NDEF	বস্তুতে
+V;3;PRS;PRF;POLজাগানোV;3;PRS;PRF;POL	জাগিয়েছেন
+V;2;FUT;POLভালবাসাV;2;FUT;POL	ভালবাসবে
+V;1;FUTভালোবাসাV;1;FUT	ভালোবাসবো
+V;2;PST;PRF;LGSPEC1ফেলাV;2;PST;PRF;LGSPEC1	ফেলেছিলি
+V;1;PSTভাঙাV;1;PST	ভাঙলাম
+V;1;PSTযাওয়াV;1;PST	গেলাম
+N;NOM;NDEFশিশুN;NOM;NDEF	শিশু
+V;2;PRS;PRF;POLচেষ্টা করাV;2;PRS;PRF;POL	চেষ্টা করেছে
+V;3;PST;INFMজ্বালাতন করাV;3;PST;INFM	জ্বালাতন করলে
+V;V.PTCP;HABমনে রাখাV;V.PTCP;HAB	মনে রেখেরেখে
+V;3;PST;PRF;POLপাঠানোV;3;PST;PRF;POL	পাঠিয়েছিলেন
+V;3;FUT;INFMঘুমানোV;3;FUT;INFM	ঘুমাবে
+V;3;PST;PROG;INFMবিশেষ করাV;3;PST;PROG;INFM	বিশেষ করছিলে
+N;GEN;NDEFব্যক্তিN;GEN;NDEF	ব্যক্তির
+V;1;PSTঘামাV;1;PST	ঘামলাম
+V;2;PST;PRF;POLমরাV;2;PST;PRF;POL	মরেছিলো
+N;ACC;PL;DEFঘটনাN;ACC;PL;DEF	ঘটনাগুলা
+V;3;PRS;PROG;INFMঘৃণা করাV;3;PRS;PROG;INFM	ঘৃণা করছো
+V;2;PST;HAB;LGSPEC1দেওয়াV;2;PST;HAB;LGSPEC1	দিতিস
+N;GEN;NDEFআলুN;GEN;NDEF	আলুর
+V;V.PTCP;PRFঘুমানোV;V.PTCP;PRF	ঘুমায়
+V;1;PSTচাখাV;1;PST	চাখলাম
+V;2;PST;PRF;LGSPEC1যাওয়াV;2;PST;PRF;LGSPEC1	গিয়েছিলি
+V;V.PTCP;PROGবৃষ্টি হওয়াV;V.PTCP;PROG	বৃষ্টি হতেহতে
+V;2;PST;LGSPEC1দেখানোV;2;PST;LGSPEC1	দেখালি
+V;3;PRS;POLঘৃণা করাV;3;PRS;POL	ঘৃণা করেন
+V;3;PST;HAB;INFMশিখানোV;3;PST;HAB;INFM	শিখাতে
+V;3;PRS;POLআচরণ করাV;3;PRS;POL	আচরণ করেন
+V;2;FUT;POLজ্বালাতন করাV;2;FUT;POL	জ্বালাতন করবে
+V;2;PST;PRF;LGSPEC1ঘৃণা করাV;2;PST;PRF;LGSPEC1	ঘৃণা করেছিলি
+N;ACC;SG;DEFগাজরN;ACC;SG;DEF	গাজরটা
+V;1;PST;PROGবৃষ্টি হওয়াV;1;PST;PROG	বৃষ্টি হচ্ছিলাম
+V;2;PST;PRF;POLনেওয়াV;2;PST;PRF;POL	নিয়েছিলো
+V;3;PRS;INFMহাগাV;3;PRS;INFM	হাগো
+V;2;PST;PROG;POLচুম্বন করাV;2;PST;PROG;POL	চুম্বন করছিলো
+V;3;PST;PROG;POLঘৃণা করাV;3;PST;PROG;POL	ঘৃণা করছিলেন
+N;GEN;PL;DEFব্যক্তিN;GEN;PL;DEF	ব্যক্তিদের
+V;2;PRS;POLফেলাV;2;PRS;POL	ফেলে
+V;2;PRS;LGSPEC1ভালবাসাV;2;PRS;LGSPEC1	ভালবাসিস
+V;V.MSDRমরাV;V.MSDR	মরা
+N;NOM;SG;DEFতরঙ্গN;NOM;SG;DEF	তরঙ্গটা
+V;3;PRS;PRF;INFMঘুমানোV;3;PRS;PRF;INFM	ঘুমিয়েছো
+V;2;PST;LGSPEC1রাখাV;2;PST;LGSPEC1	রাখলি
+V;2;PST;POLচাপাV;2;PST;POL	চাপলো
+N;NOM;NDEFনামN;NOM;NDEF	নাম
+V;2;PRS;LGSPEC1ঘামানোV;2;PRS;LGSPEC1	ঘামাস
+V;2;PRS;POLপাওয়াV;2;PRS;POL	পায়
+V;2;FUT;LGSPEC1টাইপ করাV;2;FUT;LGSPEC1	টাইপ করবি
+V;V.PTCP;PROGডিফ্র্যাগমেন্ট করাV;V.PTCP;PROG	ডিফ্র্যাগমেন্ট করতেকরতে
+V;V.NFINখাওয়াV;V.NFIN	খেতে
+V;3;PST;PRF;INFMঘুমানোV;3;PST;PRF;INFM	ঘুমিয়েছিলে
+V;3;PST;PRF;POLচাটাV;3;PST;PRF;POL	চেটেছিলেন
+N;LOC;NDEFজন্মN;LOC;NDEF	জন্মে
+V;3;PST;PRF;INFMচেনাV;3;PST;PRF;INFM	চিনেছিলে
+V;3;PST;HAB;POLহাত মারাV;3;PST;HAB;POL	হাত মারতেন
+V;1;PRS;PRFহাগাV;1;PRS;PRF	হেগেছি
+V;3;PST;PRF;INFMহাত মারাV;3;PST;PRF;INFM	হাত মেরেছিলে
+V;3;PST;HAB;INFMপ্রমাণ করাV;3;PST;HAB;INFM	প্রমাণ করতে
+V;1;PST;PROGব্যবহার করাV;1;PST;PROG	ব্যবহার করছিলাম
+V;1;FUTটাইপ করাV;1;FUT	টাইপ করবো
+V;1;PST;PROGবসাV;1;PST;PROG	বসছিলাম
+V;3;PRS;PROG;POLখোঁজাV;3;PRS;PROG;POL	খুঁজছেন
+N;ACC;NDEFশব্দN;ACC;NDEF	শব্দ
+V;3;PRS;INFMচেনাV;3;PRS;INFM	চেনো
+V;3;PST;HAB;POLঅনুরোধ করাV;3;PST;HAB;POL	অনুরোধ করতেন
+V;3;PST;PRF;INFMহাগাV;3;PST;PRF;INFM	হেগেছিলে
+V;2;FUT;POLঘুমানোV;2;FUT;POL	ঘুমাবে
+V;1;PRS;PROGদেখাV;1;PRS;PROG	দেখছি
+N;GEN;SG;DEFদৃষ্টান্তN;GEN;SG;DEF	দৃষ্টান্তটার
+V;2;PST;PROG;LGSPEC1চাখাV;2;PST;PROG;LGSPEC1	চাখছিলি
+V;2;PRS;LGSPEC1রাখাV;2;PRS;LGSPEC1	রাখিস
+V;3;PST;PRF;INFMডিফ্র্যাগমেন্ট করাV;3;PST;PRF;INFM	ডিফ্র্যাগমেন্ট করেছিলে
+V;3;PRS;PROG;INFMচেষ্টা করাV;3;PRS;PROG;INFM	চেষ্টা করছো
+V;1;FUTআগানোV;1;FUT	আগাবো
+V;2;PRS;PRF;POLঅনুরোধ করাV;2;PRS;PRF;POL	অনুরোধ করেছে
+V;V.NFINমনে রাখাV;V.NFIN	মনে রাখতে
+V;3;PRS;INFMডিফ্র্যাগমেন্ট করাV;3;PRS;INFM	ডিফ্র্যাগমেন্ট করো
+N;ACC;SG;DEFশহরN;ACC;SG;DEF	শহরটা
+N;NOM;SG;DEFগাজরN;NOM;SG;DEF	গাজরটা
+V;2;PRS;LGSPEC1বৃষ্টি হওয়াV;2;PRS;LGSPEC1	বৃষ্টি হস
+V;2;FUT;LGSPEC1আচরণ করাV;2;FUT;LGSPEC1	আচরণ করবি
+V;V.NFINহাত মারাV;V.NFIN	হাত মারতে
+V;2;PST;HAB;POLবোঝাV;2;PST;HAB;POL	বুঝতো
+N;NOM;PL;DEFউদ্দেশ্যN;NOM;PL;DEF	উদ্দেশ্যগুলা
+V;3;PST;PROG;INFMভুলে যাওয়াV;3;PST;PROG;INFM	ভুলে যাচ্ছিলে
+V;3;PST;POLচাখাV;3;PST;POL	চাখলেন
+N;LOC;SG;DEFউদ্দেশ্যN;LOC;SG;DEF	উদ্দেশ্যটাতে
+V;V.PTCP;HABপরাV;V.PTCP;HAB	পরে
+V;1;PSTপছন্দ করাV;1;PST	পছন্দ করলাম
+V;3;PST;HAB;POLকাটাV;3;PST;HAB;POL	কাটতেন
+V;V.NFINচাওয়াV;V.NFIN	চেতে
+V;2;PST;PRF;POLঘুমানোV;2;PST;PRF;POL	ঘুমিয়েছিলো
+V;1;PST;PRFবোঝাV;1;PST;PRF	বুঝেছিলাম
+V;3;FUT;INFMটানাV;3;FUT;INFM	টানবে
+V;2;PRS;PRF;POLভালোবাসাV;2;PRS;PRF;POL	ভালোবেসেছে
+V;1;PRSব্যবহার করাV;1;PRS	ব্যবহার করি
+N;LOC;NDEFরংN;LOC;NDEF	রঙ্গে
+V;2;PST;PROG;LGSPEC1ভালোবাসাV;2;PST;PROG;LGSPEC1	ভালোবাসছিলি
+V;2;PRS;PRF;POLমাল ফেলাV;2;PRS;PRF;POL	মাল ফেলেছে
+V;2;PST;PROG;POLপাঠানোV;2;PST;PROG;POL	পাঠাচ্ছিলো
+V;3;PRS;PROG;INFMরাখাV;3;PRS;PROG;INFM	রাখছো
+V;3;PRS;POLআঁকাV;3;PRS;POL	আঁকেন
+V;3;PRS;PRF;INFMমারাV;3;PRS;PRF;INFM	মেরেছো
+V;V.PTCP;CONDডিফ্র্যাগমেন্ট করাV;V.PTCP;COND	ডিফ্র্যাগমেন্ট করলে
+V;3;FUT;POLটানাV;3;FUT;POL	টানবেন
+V;V.MSDRচাখাV;V.MSDR	চাখা
+V;3;PST;INFMখাওয়াV;3;PST;INFM	খেলে
+V;1;PRS;PRFঅপেক্ষা করাV;1;PRS;PRF	অপেক্ষা করেছি
+V;1;PST;PRFপ্রশ্ন করাV;1;PST;PRF	প্রশ্ন করেছিলাম
+V;3;FUT;POLঘুমানোV;3;FUT;POL	ঘুমাবেন
+V;3;PST;PRF;POLচুম্বন করাV;3;PST;PRF;POL	চুম্বন করেছিলেন
+V;3;PRS;PROG;POLবৃষ্টি হওয়াV;3;PRS;PROG;POL	বৃষ্টি হচ্ছেন
+N;GEN;SG;DEFতরঙ্গN;GEN;SG;DEF	তরঙ্গটার
+V;3;PRS;PRF;INFMবিশেষ করাV;3;PRS;PRF;INFM	বিশেষ করেছো
+V;2;PST;HAB;LGSPEC1দাঁড়ানোV;2;PST;HAB;LGSPEC1	দাঁড়াতিস
+V;1;PST;PRFজাগানোV;1;PST;PRF	জাগিয়েছিলাম
+V;1;PSTপাঠানোV;1;PST	পাঠালাম
+V;3;PRS;POLটাইপ করাV;3;PRS;POL	টাইপ করেন
+N;NOM;SG;DEFজানালাN;NOM;SG;DEF	জানালাটা
+N;ACC;NDEFদেশN;ACC;NDEF	দেশ
+V;3;PST;POLআঁকাV;3;PST;POL	আঁকলেন
+V;1;PST;HABভুলে যাওয়াV;1;PST;HAB	ভুলে যেতাম
+V;V.PTCP;PRFশেখাV;V.PTCP;PRF	শিখে
+V;2;PST;PRF;LGSPEC1বোঝাV;2;PST;PRF;LGSPEC1	বুঝেছিলি
+V;3;PST;INFMধরাV;3;PST;INFM	ধরলে
+V;3;FUT;INFMবোঝাV;3;FUT;INFM	বুঝবে
+V;1;PRS;PROGহাগাV;1;PRS;PROG	হাগছি
+N;LOC;PL;DEFতরঙ্গN;LOC;PL;DEF	তরঙ্গগুলাতে
+V;2;PST;PROG;POLদেখানোV;2;PST;PROG;POL	দেখাচ্ছিলো
+N;LOC;PL;DEFফুলN;LOC;PL;DEF	ফুলগুলাতে
+V;3;PRS;PRF;POLহাগাV;3;PRS;PRF;POL	হেগেছেন
+V;2;PST;LGSPEC1প্রমাণ করাV;2;PST;LGSPEC1	প্রমাণ করলি
+V;3;PST;PRF;POLউল্কি আঁকাV;3;PST;PRF;POL	উল্কি এঁকেছিলেন
+V;1;PRSসাহায্য করাV;1;PRS	সাহায্য করি
+V;3;PST;POLঅনুভব করাV;3;PST;POL	অনুভব করলেন
+V;V.PTCP;PRFরাখাV;V.PTCP;PRF	রেখে
+V;V.PTCP;HABচোষাV;V.PTCP;HAB	চুষে
+V;3;PRS;PRF;INFMপাঠানোV;3;PRS;PRF;INFM	পাঠিয়েছো
+V;2;PRS;PRF;LGSPEC1ভাঙাV;2;PRS;PRF;LGSPEC1	ভেঙেছিস
+V;3;PST;PROG;INFMপ্রমাণ করাV;3;PST;PROG;INFM	প্রমাণ করছিলে
+V;1;PST;PRFওঠাV;1;PST;PRF	উঠেছিলাম
+V;2;PST;HAB;LGSPEC1ঘামানোV;2;PST;HAB;LGSPEC1	ঘামাতিস
+V;3;PST;HAB;INFMউল্কি আঁকাV;3;PST;HAB;INFM	উল্কি আঁকতে
+N;NOM;NDEFছাত্রN;NOM;NDEF	ছাত্র
+V;V.PTCP;CONDহাঁটাV;V.PTCP;COND	হাঁটলে
+V;2;PRS;POLচাপাV;2;PRS;POL	চাপে
+V;1;PST;PROGচাখাV;1;PST;PROG	চাখছিলাম
+V;2;PST;PROG;LGSPEC1চুম্বন করাV;2;PST;PROG;LGSPEC1	চুম্বন করছিলি
+V;2;PRS;PROG;POLভাঙাV;2;PRS;PROG;POL	ভাঙছে
+V;2;PST;PRF;LGSPEC1অনুভব করাV;2;PST;PRF;LGSPEC1	অনুভব করেছিলি
+V;3;PST;HAB;INFMভালোবাসাV;3;PST;HAB;INFM	ভালোবাসতে
+V;2;PRS;PROG;LGSPEC1আসাV;2;PRS;PROG;LGSPEC1	আসছিস
+V;V.PTCP;PROGগাওয়াV;V.PTCP;PROG	গেতে
+V;2;PST;PRF;LGSPEC1ভুলে যাওয়াV;2;PST;PRF;LGSPEC1	ভুলে গিয়েছিলি
+V;3;PST;PROG;INFMআচরণ করাV;3;PST;PROG;INFM	আচরণ করছিলে
+V;2;PRS;POLশেখাV;2;PRS;POL	শেখে
+V;1;PST;PRFচোষাV;1;PST;PRF	চুষেছিলাম
+V;1;PSTভালোবাসাV;1;PST	ভালোবাসলাম
+V;1;PRSগাওয়াV;1;PRS	গাই
+N;NOM;PL;DEFআলুN;NOM;PL;DEF	আলুগুলা
+V;3;PST;PROG;INFMহওয়াV;3;PST;PROG;INFM	হচ্ছিলে
+V;3;FUT;INFMচাটাV;3;FUT;INFM	চাটবে
+V;V.PTCP;PROGহাগাV;V.PTCP;PROG	হাগতে
+V;3;PST;HAB;INFMবলাV;3;PST;HAB;INFM	বলতে
+V;2;FUT;POLঢুকানোV;2;FUT;POL	ঢুকাবে
+V;3;PRS;INFMচেষ্টা করাV;3;PRS;INFM	চেষ্টা করো
+V;1;PST;HABঘৃণা করাV;1;PST;HAB	ঘৃণা করতাম
+V;2;PST;PRF;LGSPEC1চাওয়াV;2;PST;PRF;LGSPEC1	চেয়েছিলি
+V;1;PST;HABহাত মারাV;1;PST;HAB	হাত মারতাম
+V;2;PST;PROG;POLশেখাV;2;PST;PROG;POL	শিখছিলো
+V;2;PST;PRF;LGSPEC1ঢুকানোV;2;PST;PRF;LGSPEC1	ঢুকিয়েছিলি
+V;1;PST;HABজানাV;1;PST;HAB	জানতাম
+V;V.PTCP;PROGগেলাV;V.PTCP;PROG	গিলতে
+V;V.MSDRটাইপ করাV;V.MSDR	টাইপ করা
+V;3;PRS;PROG;POLঅনুরোধ করাV;3;PRS;PROG;POL	অনুরোধ করছেন
+V;V.PTCP;PROGদেখাV;V.PTCP;PROG	দেখতে
+V;3;FUT;INFMআঁকাV;3;FUT;INFM	আঁকবে
+V;1;PRS;PRFকরাV;1;PRS;PRF	করেছি
+V;2;PRS;PROG;POLলুকানোV;2;PRS;PROG;POL	লুকাচ্ছে
+V;3;FUT;INFMদেওয়াV;3;FUT;INFM	দিবে
+N;GEN;PL;DEFঘরN;GEN;PL;DEF	ঘরগুলার
+V;1;PST;PROGচোষাV;1;PST;PROG	চুষছিলাম
+V;3;PRS;POLহওয়াV;3;PRS;POL	হন
+V;3;PST;HAB;INFMঅনুভব করাV;3;PST;HAB;INFM	অনুভব করতে
+V;2;PRS;PROG;LGSPEC1জ্বালাতন করাV;2;PRS;PROG;LGSPEC1	জ্বালাতন করছিস
+V;2;PST;HAB;POLচালানোV;2;PST;HAB;POL	চালাতো
+V;2;PST;LGSPEC1ঘুমানোV;2;PST;LGSPEC1	ঘুমালি
+V;3;PST;PRF;INFMপছন্দ করাV;3;PST;PRF;INFM	পছন্দ করেছিলে
+V;3;PST;INFMঢোকাV;3;PST;INFM	ঢুকলে
+N;ACC;SG;DEFশিশুN;ACC;SG;DEF	শিশুটাকে
+V;2;PRS;LGSPEC1লেখাV;2;PRS;LGSPEC1	লিখিস
+V;V.MSDRমাল ফেলাV;V.MSDR	মাল ফেলা
+V;3;PRS;PROG;POLলুকানোV;3;PRS;PROG;POL	লুকাচ্ছেন
+V;2;FUT;POLগেলাV;2;FUT;POL	গিলবে
+V;3;PRS;PRF;POLনাচাV;3;PRS;PRF;POL	নেচেছেন
+V;1;PSTগেলাV;1;PST	গিল্লাম
+V;2;PST;POLআসাV;2;PST;POL	আসলো
+V;3;PST;PROG;INFMদেখাV;3;PST;PROG;INFM	দেখছিলে
+V;2;FUT;LGSPEC1চাপাV;2;FUT;LGSPEC1	চাপবি
+V;2;PRS;POLবন্ধ করাV;2;PRS;POL	বন্ধ করে
+V;2;PRS;PROG;POLভরাV;2;PRS;PROG;POL	ভরছে
+V;3;PRS;PROG;INFMকরাV;3;PRS;PROG;INFM	করছো
+V;3;FUT;INFMনেওয়াV;3;FUT;INFM	নিবে
+V;3;PST;PROG;INFMহাঁটাV;3;PST;PROG;INFM	হাঁটছিলে
+V;2;PRS;PROG;POLভাবাV;2;PRS;PROG;POL	ভাবছে
+V;2;PST;PRF;LGSPEC1হাঁটাV;2;PST;PRF;LGSPEC1	হেঁটেছিলি
+V;3;PRS;INFMরাখাV;3;PRS;INFM	রাখো
+V;3;FUT;POLবৃষ্টি হওয়াV;3;FUT;POL	বৃষ্টি হবেন
+V;3;PRS;POLঢুকানোV;3;PRS;POL	ঢুকান
+V;1;PSTলেখাV;1;PST	লিখলাম
+V;3;PST;INFMপরাV;3;PST;INFM	পরলে
+V;2;PST;LGSPEC1খোঁজাV;2;PST;LGSPEC1	খুঁজলি
+V;3;PST;POLকরাV;3;PST;POL	করলেন
+N;GEN;SG;DEFঘরN;GEN;SG;DEF	ঘরটার
+V;2;PST;PROG;POLমনে রাখাV;2;PST;PROG;POL	মনে রাখছিলো
+V;2;PST;PROG;POLচাপাV;2;PST;PROG;POL	চাপছিলো
+V;V.PTCP;PRFহাঁটাV;V.PTCP;PRF	হেঁটে
+V;2;PRS;PRF;POLহওয়াV;2;PRS;PRF;POL	হয়েছে
+V;3;PST;HAB;INFMঘুমানোV;3;PST;HAB;INFM	ঘুমাতে
+V;3;PRS;PRF;POLআসাV;3;PRS;PRF;POL	এসেছেন
+V;2;PRS;PROG;POLপ্রমাণ করাV;2;PRS;PROG;POL	প্রমাণ করছে
+V;3;PST;POLভাবাV;3;PST;POL	ভাবলেন
+V;2;PST;PROG;LGSPEC1দেখানোV;2;PST;PROG;LGSPEC1	দেখাচ্ছিলি
+N;ACC;SG;DEFশিশ্নN;ACC;SG;DEF	শিশ্নটা
+V;2;PRS;POLমাল ফেলাV;2;PRS;POL	মাল ফেলে
+V;2;PRS;PRF;POLচাওয়াV;2;PRS;PRF;POL	চেয়েছে
+V;1;FUTগেলাV;1;FUT	গিলবো
+V;3;PRS;PROG;INFMভরাV;3;PRS;PROG;INFM	ভরছো
+V;3;PST;PROG;INFMখাওয়াV;3;PST;PROG;INFM	খাচ্ছিলে
+V;2;PRS;POLগেলাV;2;PRS;POL	গেলে
+V;2;PRS;PROG;POLঅপেক্ষা করাV;2;PRS;PROG;POL	অপেক্ষা করছে
+V;2;PRS;LGSPEC1কেনাV;2;PRS;LGSPEC1	কিনিস
+V;2;PST;POLভালোবাসাV;2;PST;POL	ভালোবাসলো
+V;1;PRSচাপাV;1;PRS	চাপি
+V;2;PST;HAB;POLচেষ্টা করাV;2;PST;HAB;POL	চেষ্টা করতো
+V;2;PST;HAB;LGSPEC1চেষ্টা করাV;2;PST;HAB;LGSPEC1	চেষ্টা করতিস
+V;1;PRS;PROGচাপাV;1;PRS;PROG	চাপছি
+V;2;PST;PROG;LGSPEC1টানাV;2;PST;PROG;LGSPEC1	টানছিলি
+V;3;PRS;POLভাঙাV;3;PRS;POL	ভাঙেন
+N;LOC;SG;DEFদৃষ্টান্তN;LOC;SG;DEF	দৃষ্টান্তটাতে
+V;V.PTCP;CONDচাপাV;V.PTCP;COND	চাপলে
+V;1;PRSভাবাV;1;PRS	ভাবি
+V;2;FUT;POLপাওয়াV;2;FUT;POL	পাবে
+V;2;PST;LGSPEC1চুম্বন করাV;2;PST;LGSPEC1	চুম্বন করলি
+V;V.MSDRচালানোV;V.MSDR	চালানো
+V;2;PST;PRF;POLঘৃণা করাV;2;PST;PRF;POL	ঘৃণা করেছিলো
+V;3;PST;PRF;POLহাগাV;3;PST;PRF;POL	হেগেছিলেন
+V;2;FUT;LGSPEC1কেনাV;2;FUT;LGSPEC1	কিনবি
+V;2;PST;LGSPEC1সাহায্য করাV;2;PST;LGSPEC1	সাহায্য করলি
+V;3;PST;PRF;INFMখাওয়াV;3;PST;PRF;INFM	খেয়েছিলে
+V;3;PST;PRF;INFMপরাV;3;PST;PRF;INFM	পরেছিলে
+V;3;PST;HAB;INFMঅপেক্ষা করাV;3;PST;HAB;INFM	অপেক্ষা করতে
+V;2;PST;PRF;POLঢুকানোV;2;PST;PRF;POL	ঢুকিয়েছিলো
+V;3;PRS;PRF;POLঅনুবাদ করাV;3;PRS;PRF;POL	অনুবাদ করেছেন
+V;V.NFINজাগানোV;V.NFIN	জাগাতে
+N;ACC;PL;DEFঘরN;ACC;PL;DEF	ঘরগুলা
+V;3;FUT;POLশোনাV;3;FUT;POL	শুনবেন
+V;3;PST;PRF;POLগাওয়াV;3;PST;PRF;POL	গেয়েছিলেন
+V;2;PST;PROG;POLভাঙাV;2;PST;PROG;POL	ভাঙছিলো
+V;V.PTCP;CONDজাগানোV;V.PTCP;COND	জাগালে
+V;1;PRS;PRFকেনাV;1;PRS;PRF	কিনেছি
+V;3;PST;PRF;POLডিফ্র্যাগমেন্ট করাV;3;PST;PRF;POL	ডিফ্র্যাগমেন্ট করেছিলেন
+N;LOC;NDEFদেহN;LOC;NDEF	দেহে
+N;LOC;SG;DEFজন্মN;LOC;SG;DEF	জন্মটাতে
+V;3;PST;POLজ্বালাতন করাV;3;PST;POL	জ্বালাতন করলেন
+V;2;PRS;PRF;LGSPEC1ঘৃণা করাV;2;PRS;PRF;LGSPEC1	ঘৃণা করেছিস
+V;3;PRS;INFMঅনুরোধ করাV;3;PRS;INFM	অনুরোধ করো
+V;V.MSDRঢুকানোV;V.MSDR	ঢুকানো
+V;3;PRS;PROG;INFMপাঠানোV;3;PRS;PROG;INFM	পাঠাচ্ছো
+V;V.PTCP;CONDমারাV;V.PTCP;COND	মারলে
+V;1;PST;HABঢুকানোV;1;PST;HAB	ঢুকাতাম
+V;2;PST;PROG;LGSPEC1দেখাV;2;PST;PROG;LGSPEC1	দেখছিলি
+V;2;PST;PROG;POLচেষ্টা করাV;2;PST;PROG;POL	চেষ্টা করছিলো
+V;2;PRS;PROG;LGSPEC1ভাঙাV;2;PRS;PROG;LGSPEC1	ভাঙছিস
+V;2;PST;POLবলাV;2;PST;POL	বল্লো
+N;NOM;PL;DEFতিমিN;NOM;PL;DEF	তিমিরা
+V;3;PST;PROG;POLঘুমানোV;3;PST;PROG;POL	ঘুমাচ্ছিলেন
+V;2;PST;PROG;LGSPEC1পছন্দ করাV;2;PST;PROG;LGSPEC1	পছন্দ করছিলি
+V;3;PRS;POLমরাV;3;PRS;POL	মরেন
+V;3;PST;HAB;POLজাগানোV;3;PST;HAB;POL	জাগাতেন
+V;1;PRSপরাV;1;PRS	পরি
+V;2;PRS;PRF;POLচোষাV;2;PRS;PRF;POL	চুষেছে
+V;2;PST;HAB;POLচেনাV;2;PST;HAB;POL	চিনতো
+V;1;PRS;PRFচেষ্টা করাV;1;PRS;PRF	চেষ্টা করেছি
+V;V.PTCP;PROGশেখাV;V.PTCP;PROG	শিখতে
+V;3;PST;POLচোষাV;3;PST;POL	চুষলেন
+V;1;PRSহাত মারাV;1;PRS	হাত মারি
+V;2;PST;HAB;LGSPEC1নাচাV;2;PST;HAB;LGSPEC1	নাচতিস
+V;V.PTCP;PROGযাওয়াV;V.PTCP;PROG	যেতে
+V;2;PST;PROG;LGSPEC1প্রমাণ করাV;2;PST;PROG;LGSPEC1	প্রমাণ করছিলি
+V;1;PRS;PRFভালোবাসাV;1;PRS;PRF	ভালোবেসেছি
+N;GEN;NDEFমুখN;GEN;NDEF	মুখের
+V;V.PTCP;CONDওঠাV;V.PTCP;COND	উঠলে
+V;2;PST;PRF;LGSPEC1টাইপ করাV;2;PST;PRF;LGSPEC1	টাইপ করেছিলি
+V;V.PTCP;PROGচুম্বন করাV;V.PTCP;PROG	চুম্বন করতেকরতে
+V;3;PRS;PRF;POLজানাV;3;PRS;PRF;POL	জেনেছেন
+V;2;PRS;PROG;POLচোষাV;2;PRS;PROG;POL	চুষছে
+V;2;PRS;POLমরাV;2;PRS;POL	মরে
+V;3;PST;PRF;INFMজাগাV;3;PST;PRF;INFM	জেগেছিলে
+V;2;PRS;PROG;POLঘৃণা করাV;2;PRS;PROG;POL	ঘৃণা করছে
+N;LOC;SG;DEFরংN;LOC;SG;DEF	রংটাতে
+V;1;FUTগাওয়াV;1;FUT	গাবো
+V;3;PRS;POLবন্ধ করাV;3;PRS;POL	বন্ধ করেন
+V;3;PRS;PROG;POLচুম্বন করাV;3;PRS;PROG;POL	চুম্বন করছেন
+V;2;FUT;LGSPEC1বলাV;2;FUT;LGSPEC1	বলবি
+N;ACC;PL;DEFশহরN;ACC;PL;DEF	শহরগুলা
+V;2;PST;PROG;LGSPEC1দাঁড়ানোV;2;PST;PROG;LGSPEC1	দাঁড়াচ্ছিলি
+V;2;PRS;PRF;POLলেখাV;2;PRS;PRF;POL	লিখেছে
+V;1;PST;HABপ্রমাণ করাV;1;PST;HAB	প্রমাণ করতাম
+V;2;PST;PRF;POLচাপাV;2;PST;PRF;POL	চেপেছিলো
+V;V.NFINঅনুরোধ করাV;V.NFIN	অনুরোধ করতে
+V;3;PRS;INFMঅনুভব করাV;3;PRS;INFM	অনুভব করো
+V;3;PST;PROG;INFMচালানোV;3;PST;PROG;INFM	চালাচ্ছিলে
+V;V.MSDRটানাV;V.MSDR	টানা
+V;3;PST;PRF;INFMদেওয়াV;3;PST;PRF;INFM	দিয়েছিলে
+V;V.PTCP;CONDভুলে যাওয়াV;V.PTCP;COND	ভুলে গেলে
+V;2;PST;POLহাত মারাV;2;PST;POL	হাত মারলো
+V;2;FUT;LGSPEC1চাখাV;2;FUT;LGSPEC1	চাখবি
+V;1;PRSমাল ফেলাV;1;PRS	মাল ফেলি
+V;3;PRS;PROG;POLফেলাV;3;PRS;PROG;POL	ফেলছেন
+N;LOC;SG;DEFজানালাN;LOC;SG;DEF	জানালাটাতে
+V;1;PST;PROGচুম্বন করাV;1;PST;PROG	চুম্বন করছিলাম
+N;ACC;PL;DEFতিমিN;ACC;PL;DEF	তিমিদেরকে
+V;1;PRSআসাV;1;PRS	আসি
+N;NOM;NDEFনীহারিকাN;NOM;NDEF	নীহারিকা
+V;2;PRS;POLলুকানোV;2;PRS;POL	লুকায়
+V;1;PRSআচরণ করাV;1;PRS	আচরণ করি
+V;3;FUT;POLহাঁটাV;3;FUT;POL	হাঁটবেন
+V;2;PST;HAB;LGSPEC1নেওয়াV;2;PST;HAB;LGSPEC1	নিতিস
+V;3;PST;HAB;POLচাটাV;3;PST;HAB;POL	চাটতেন
+V;3;PST;PROG;POLবোঝাV;3;PST;PROG;POL	বুঝছিলেন
+V;3;PST;INFMচেনাV;3;PST;INFM	চিনলে
+V;2;PST;LGSPEC1মাল ফেলাV;2;PST;LGSPEC1	মাল ফেল্লি
+V;2;PST;PROG;LGSPEC1ওঠাV;2;PST;PROG;LGSPEC1	উঠছিলি
+V;2;PRS;LGSPEC1শিখানোV;2;PRS;LGSPEC1	শিখাস
+N;LOC;SG;DEFবস্তুN;LOC;SG;DEF	বস্তুটাতে
+V;3;PST;HAB;POLহওয়াV;3;PST;HAB;POL	হতেন
+V;2;PST;LGSPEC1প্রশ্ন করাV;2;PST;LGSPEC1	প্রশ্ন করলি
+V;2;PST;POLচাটাV;2;PST;POL	চাটলো
+V;1;PST;HABবৃষ্টি হওয়াV;1;PST;HAB	বৃষ্টি হতাম
+V;3;PST;POLভালোবাসাV;3;PST;POL	ভালোবাসলেন
+V;3;PST;PROG;INFMঅপেক্ষা করাV;3;PST;PROG;INFM	অপেক্ষা করছিলে
+V;1;PST;PRFঘামানোV;1;PST;PRF	ঘামিয়েছিলাম
+N;GEN;PL;DEFএলাকাN;GEN;PL;DEF	এলাকাগুলার
+V;2;PRS;PRF;POLচাটাV;2;PRS;PRF;POL	চেটেছে
+V;2;PRS;LGSPEC1ঘুমানোV;2;PRS;LGSPEC1	ঘুমাস
+V;V.PTCP;CONDমাল ফেলাV;V.PTCP;COND	মাল ফেল্লে
+V;3;PRS;PROG;INFMহাগাV;3;PRS;PROG;INFM	হাগছো
+V;2;FUT;POLঘামানোV;2;FUT;POL	ঘামাবে
+V;2;PST;LGSPEC1টানাV;2;PST;LGSPEC1	টানলি
+V;2;FUT;LGSPEC1শেখাV;2;FUT;LGSPEC1	শিখবি
+V;2;PST;PROG;POLঅনুরোধ করাV;2;PST;PROG;POL	অনুরোধ করছিলো
+V;3;FUT;POLদাঁড়ানোV;3;FUT;POL	দাঁড়াবেন
+V;1;PRS;PRFভাবাV;1;PRS;PRF	ভেবেছি
+V;3;PRS;INFMভরাV;3;PRS;INFM	ভরো
+V;2;FUT;POLআচরণ করাV;2;FUT;POL	আচরণ করবে
+V;2;PST;LGSPEC1যাওয়াV;2;PST;LGSPEC1	গেলি
+V;3;PST;PROG;INFMচাওয়াV;3;PST;PROG;INFM	চাচ্ছিলে
+V;3;PST;INFMপছন্দ করাV;3;PST;INFM	পছন্দ করলে
+V;2;PST;HAB;POLমারাV;2;PST;HAB;POL	মারতো
+V;1;PST;PROGভুলে যাওয়াV;1;PST;PROG	ভুলে যাচ্ছিলাম
+V;2;PRS;PROG;POLনাচাV;2;PRS;PROG;POL	নাচছে
+V;V.NFINঘামাV;V.NFIN	ঘামতে
+V;2;FUT;POLকরাV;2;FUT;POL	করবে
+V;1;PSTঘুমানোV;1;PST	ঘুমালাম
+V;2;FUT;LGSPEC1করাV;2;FUT;LGSPEC1	করবি
+V;3;PST;HAB;POLচোষাV;3;PST;HAB;POL	চুষতেন
+V;V.PTCP;PRFভরাV;V.PTCP;PRF	ভরে
+N;NOM;PL;DEFবিভাগN;NOM;PL;DEF	বিভাগগুলা
+V;V.PTCP;PROGখাওয়াV;V.PTCP;PROG	খেতে
+N;NOM;SG;DEFঘরN;NOM;SG;DEF	ঘরটা
+V;1;PST;PROGখোঁজাV;1;PST;PROG	খুঁজছিলাম
+N;GEN;SG;DEFদেশN;GEN;SG;DEF	দেশটার
+N;NOM;NDEFকারণN;NOM;NDEF	কারণ
+V;3;PRS;PRF;INFMবন্ধ করাV;3;PRS;PRF;INFM	বন্ধ করেছো
+V;V.PTCP;HABখোলাV;V.PTCP;HAB	খুলে
+V;1;PSTসাহায্য করাV;1;PST	সাহায্য করলাম

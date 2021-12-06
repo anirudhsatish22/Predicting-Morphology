@@ -1,0 +1,997 @@
+V;2;PL;HAB;LGSPEC3;FEMغلط کرناV;2;PL;HAB;LGSPEC3;FEM	غلط کرتی ہو گی
+V;1;PL;SBJV;FEMپہنچناV;1;PL;SBJV;FEM	ہم پہنچیں گی
+V;2;PL;HAB;SBJV;FEMبرداشت کرناV;2;PL;HAB;SBJV;FEM	برداشت کرتی ہو
+V;3;PL;PRF;PRS;MASCانکار کرناV;3;PL;PRF;PRS;MASC	انکار کیی ہیں
+V;3;SG;SBJV;FEMعیش کرناV;3;SG;SBJV;FEM	یہ  وہ عیش شکتی گی
+V;3;SG;PROG;LGSPEC3;MASCپڑھناV;3;SG;PROG;LGSPEC3;MASC	پڑھ رہا ہو گا
+V;1;SG;PROG;LGSPEC4;FEMجپناV;1;SG;PROG;LGSPEC4;FEM	جپ رہی ہوتی
+V;3;PL;PROG;PRS;MASCختنہ کرناV;3;PL;PROG;PRS;MASC	ختنہ کر رہی ہیں
+V;2;PL;HAB;PST;MASCایسی تیسی کرناV;2;PL;HAB;PST;MASC	ایسی تیارییو کرتی تھے
+V;3;PL;HAB;SBJV;FEMلوٹناV;3;PL;HAB;SBJV;FEM	لوٹتی ہوں
+V;3;PL;PROG;PRS;MASCلگناV;3;PL;PROG;PRS;MASC	لگ رہے ہیں
+V;1;PL;PROG;LGSPEC3;FEMآدر کرناV;1;PL;PROG;LGSPEC3;FEM	آدر کر رہی ہوں گی
+V;2;PL;PROG;PRS;MASCبہناV;2;PL;PROG;PRS;MASC	بہ رہے ہو
+V;3;SG;PROG;PST;MASCآدر کرناV;3;SG;PROG;PST;MASC	آدر کر رہا تھا
+V;2;PL;PRF;PRS;MASCپہنچناV;2;PL;PRF;PRS;MASC	پہنچے ہو
+N;NOM;SGسوداگرN;NOM;SG	سوداگر
+V;2;PL;PRF;PRS;MASCڈھانپناV;2;PL;PRF;PRS;MASC	ڈھانپے ہو
+V;3;SG;HAB;LGSPEC4;FEMچاٹناV;3;SG;HAB;LGSPEC4;FEM	چاٹتی ہوتی
+V;2;PL;PROG;LGSPEC4;MASCکھیلناV;2;PL;PROG;LGSPEC4;MASC	کھیل رہے ہوتے
+V;2;PL;HAB;LGSPEC4;FEMاٹھناV;2;PL;HAB;LGSPEC4;FEM	اٹھتی ہوتی
+V;V.PTCP;FEM;SG;PFVانتظار کرناV;V.PTCP;FEM;SG;PFV	انتظار کی
+V;3;PL;HAB;LGSPEC3;MASCلکھناV;3;PL;HAB;LGSPEC3;MASC	لکھتے ہوں گے
+V;3;SG;PROG;PRS;FEMآرام کرناV;3;SG;PROG;PRS;FEM	کر رہی ہے
+V;2;PL;PROG;LGSPEC3;MASCکھیلناV;2;PL;PROG;LGSPEC3;MASC	کھیلے رہے ہو گے
+V;2;SG;HAB;SBJV;MASCایسی تیسی کرناV;2;SG;HAB;SBJV;MASC	ایسی تیارییاں کرتا ہو
+V;2;PL;PRF;LGSPEC3;FEMعیش کرناV;2;PL;PRF;LGSPEC3;FEM	عیش شکتی ہو گی
+V;2;SG;PROG;LGSPEC3;FEMعلاج کرناV;2;SG;PROG;LGSPEC3;FEM	علاج کر رہی ہو گی
+V;3;PL;PROG;PRS;FEMملاناV;3;PL;PROG;PRS;FEM	ملا رہی ہیں
+V;3;PL;SBJV;MASCسیکھناV;3;PL;SBJV;MASC	یہ  وہ سیکھے گے
+V;2;PL;PROG;PST;FEMدیکھناV;2;PL;PROG;PST;FEM	دیکھ رہی تھیں
+V;1;SG;PROG;SBJV;MASCچاٹناV;1;SG;PROG;SBJV;MASC	چاٹ رہا ہوں
+V;1;PL;HAB;LGSPEC3;FEMآدر کرناV;1;PL;HAB;LGSPEC3;FEM	آدر کرتی ہوں گی
+V;2;PL;PROG;PST;MASCسوچناV;2;PL;PROG;PST;MASC	سوچ رہے تھے
+V;3;SG;HAB;PST;FEMآشچریہ کرناV;3;SG;HAB;PST;FEM	آشچریہ کرتا تھی
+N;ACC;SGآنکھN;ACC;SG	آنکھ
+V;1;PL;PROG;SBJV;MASCجپناV;1;PL;PROG;SBJV;MASC	جپ رہے ہوں
+V;2;SG;PRF;SBJV;FEMلکھناV;2;SG;PRF;SBJV;FEM	لکھی ہو
+N;ACC;SGبھیN;ACC;SG	بھیوں
+V;2;SG;PROG;LGSPEC4;MASCلوٹناV;2;SG;PROG;LGSPEC4;MASC	لوٹ رہا ہوتا
+V;1;PL;PROG;SBJV;FEMکھیلناV;1;PL;PROG;SBJV;FEM	کھیل رہی ہوں
+V;NFIN;LGSPEC2بٹورناV;NFIN;LGSPEC2	بٹورنا
+V;3;SG;SBJV;MASCدکھاناV;3;SG;SBJV;MASC	یہ  وہ دکھایں گا
+N;VOC;PLعزتN;VOC;PL	عزتوں
+V;2;PL;PROG;PST;MASCجھکناV;2;PL;PROG;PST;MASC	جھک رہے تھے
+V;V.PTCP;MASC;SG;PFVٹوٹناV;V.PTCP;MASC;SG;PFV	ٹوٹے
+V;1;PL;HAB;LGSPEC4;FEMسہماناV;1;PL;HAB;LGSPEC4;FEM	سہماتی ہوتی
+V;1;SG;HAB;PRS;MASCسمجھناV;1;SG;HAB;PRS;MASC	سمجھتا ہوں
+V;1;PL;PROG;LGSPEC3;MASCآدر کرناV;1;PL;PROG;LGSPEC3;MASC	آدر کریں رہے ہوں گے
+V;2;SG;PROG;PST;FEMکہناV;2;SG;PROG;PST;FEM	کہ رہی تھی
+V;1;SG;HAB;PST;MASCملاناV;1;SG;HAB;PST;MASC	ملاتا تھا
+V;3;SG;PRF;PST;FEMسمجھناV;3;SG;PRF;PST;FEM	سمجھی تھی
+V;2;SG;PROG;LGSPEC4;FEMسیکھناV;2;SG;PROG;LGSPEC4;FEM	سیکھ رہی ہوتی
+N;VOC;PLانگوٹھاN;VOC;PL	انگوٹھے
+V;1;SG;PROG;PST;FEMچودناV;1;SG;PROG;PST;FEM	چود رہی تھی
+V;1;PL;PROG;SBJV;MASCانتظار کرناV;1;PL;PROG;SBJV;MASC	انتظار کر رہی ہوں
+V;2;PL;PRF;LGSPEC4;MASCسکناV;2;PL;PRF;LGSPEC4;MASC	سکے ہوتے
+V;3;PL;PROG;LGSPEC3;FEMچودناV;3;PL;PROG;LGSPEC3;FEM	چود رہی ہوں گی
+V;2;PL;IMP;FORMپڑھناV;2;PL;IMP;FORM	پڑھو
+V;3;PL;HAB;PST;FEMسوپن دیکھناV;3;PL;HAB;PST;FEM	سوپن دیکھتے تھیں
+V;2;PL;HAB;PST;FEMسوپن دیکھناV;2;PL;HAB;PST;FEM	سوپن دیکھتے تھیں
+V;2;SG;PROG;PRS;FEMپڑھناV;2;SG;PROG;PRS;FEM	پڑھ رہی ہے
+V;2;SG;HAB;SBJV;MASCبرداشت کرناV;2;SG;HAB;SBJV;MASC	برداشت کرتا ہو
+V;1;SG;PROG;LGSPEC4;MASCکہناV;1;SG;PROG;LGSPEC4;MASC	کہ رہا ہوتا
+V;3;SG;PROG;SBJV;MASCبولناV;3;SG;PROG;SBJV;MASC	بول رہا ہو
+V;2;PL;HAB;PRS;FEMپہنچناV;2;PL;HAB;PRS;FEM	پہنچتی ہو
+V;2;PL;HAB;PST;FEMلکھناV;2;PL;HAB;PST;FEM	لکھتی تھیں
+V;V.PTCP;MASC;PL;PFVآرام کرناV;V.PTCP;MASC;PL;PFV	کیا
+N;VOC;PLشہرN;VOC;PL	شہروں
+V;1;PL;HAB;LGSPEC3;MASCختنہ کرناV;1;PL;HAB;LGSPEC3;MASC	ختنہ کرتی ہوں گے
+V;1;SG;PRF;PST;MASCاٹھناV;1;SG;PRF;PST;MASC	اٹھا تھا
+V;1;SG;SBJV;MASCملاناV;1;SG;SBJV;MASC	میں ملایں گا
+V;1;PL;PROG;SBJV;FEMسمجھناV;1;PL;PROG;SBJV;FEM	سمجھ رہی ہوں
+V;1;PL;PRF;LGSPEC3;FEMبٹورناV;1;PL;PRF;LGSPEC3;FEM	بٹوری ہوں گی
+V;2;SG;PRF;PRS;FEMچاہناV;2;SG;PRF;PRS;FEM	چاہی ہے
+V;2;PL;PRF;LGSPEC4;MASCلگناV;2;PL;PRF;LGSPEC4;MASC	لگے ہوتے
+V;1;SG;HAB;PST;MASCلکھناV;1;SG;HAB;PST;MASC	لکھتا تھا
+V;1;SG;PRF;PST;MASCکھیلناV;1;SG;PRF;PST;MASC	کھیلا تھا
+V;3;PL;SBJV;FEMلوٹناV;3;PL;SBJV;FEM	یہ  وہ لوٹے گی
+V;V.PTCP;MASC;SG;PFVپہنچناV;V.PTCP;MASC;SG;PFV	پہنچی
+V;1;SG;PROG;LGSPEC3;FEMسکناV;1;SG;PROG;LGSPEC3;FEM	سک رہی ہوں گی
+V;2;PL;PROG;LGSPEC3;FEMچاہناV;2;PL;PROG;LGSPEC3;FEM	چاہی رہی ہو گی
+V;1;SG;SBJV;FEMبولناV;1;SG;SBJV;FEM	میں بولیں گی
+V;2;PL;HAB;PRS;MASCدوڑناV;2;PL;HAB;PRS;MASC	دوڑتے ہو
+V;3;PL;PROG;SBJV;MASCدوڑناV;3;PL;PROG;SBJV;MASC	دوڑ رہے ہوں
+N;VOC;PLبازیN;VOC;PL	بازیوں
+V;3;PL;PRF;LGSPEC3;FEMٹوٹناV;3;PL;PRF;LGSPEC3;FEM	ٹوٹی ہوں گی
+V;1;PL;PROG;PRS;MASCچودناV;1;PL;PROG;PRS;MASC	چود رہے ہیں
+V;1;PL;PROG;LGSPEC3;FEMانکار کرناV;1;PL;PROG;LGSPEC3;FEM	انکار کر رہی ہوں گی
+V;3;SG;SBJV;FEMروناV;3;SG;SBJV;FEM	یہ  وہ روتی گی
+V;3;SG;PROG;PRS;FEMسوچناV;3;SG;PROG;PRS;FEM	سوچ رہی ہے
+V;2;SG;HAB;SBJV;MASCسہمناV;2;SG;HAB;SBJV;MASC	سہمتا ہو
+N;NOM;PLحکومتN;NOM;PL	حکومتوں
+V;2;SG;PRF;LGSPEC3;FEMبرداشت کرناV;2;SG;PRF;LGSPEC3;FEM	برداشت کیا ہو گی
+V;2;SG;PRF;LGSPEC3;FEMروناV;2;SG;PRF;LGSPEC3;FEM	روئی ہو گی
+V;2;SG;HAB;LGSPEC4;FEMآشچریہ کرناV;2;SG;HAB;LGSPEC4;FEM	آشچریہ کرتا ہوتی
+V;1;PL;PROG;PST;FEMدیکھناV;1;PL;PROG;PST;FEM	دیکھ رہی تھیں
+V;2;SG;PROG;SBJV;FEMسمجھناV;2;SG;PROG;SBJV;FEM	سمجھ رہی ہو
+V;3;PL;PROG;SBJV;MASCہنسناV;3;PL;PROG;SBJV;MASC	ہنس رہے ہوں
+V;2;SG;HAB;PRS;FEMآگرہ کرناV;2;SG;HAB;PRS;FEM	آگرہ کرتا ہے
+V;1;SG;PROG;LGSPEC4;FEMجلناV;1;SG;PROG;LGSPEC4;FEM	جل رہی ہوتی
+V;2;SG;IMP;FORMعلاج کرناV;2;SG;IMP;FORM	علاج کرو
+V;2;PL;PROG;LGSPEC3;FEMآرمبھ کرناV;2;PL;PROG;LGSPEC3;FEM	آرمبھ کر رہی ہو گی
+V;1;PL;HAB;SBJV;FEMبرداشت کرناV;1;PL;HAB;SBJV;FEM	برداشت کرتی ہوں
+V;1;PL;SBJVلکھناV;1;PL;SBJV	ہم لکھے
+V;2;PL;PRF;PST;MASCجپناV;2;PL;PRF;PST;MASC	جپے تھے
+V;3;SG;PROG;PST;MASCسکناV;3;SG;PROG;PST;MASC	سک رہا تھا
+V;1;PL;SBJV;MASCکھیلناV;1;PL;SBJV;MASC	ہم کھیلیں گے
+V;1;PL;PROG;PRS;FEMآگرہ کرناV;1;PL;PROG;PRS;FEM	آگرہ کر رہی ہیں
+V;2;PL;PROG;LGSPEC4;FEMآرمبھ کرناV;2;PL;PROG;LGSPEC4;FEM	آرمبھ کر رہی ہوتی
+V;3;PL;PROG;PRS;MASCسکناV;3;PL;PROG;PRS;MASC	سک رہے ہیں
+V;2;PL;PRF;LGSPEC3;MASCانکار کرناV;2;PL;PRF;LGSPEC3;MASC	انکار کیی ہو گے
+V;3;PL;HAB;PST;FEMغلط کرناV;3;PL;HAB;PST;FEM	غلط کرتی تھیں
+V;2;PL;PRF;PST;MASCچومناV;2;PL;PRF;PST;MASC	چومے تھے
+V;1;SG;HAB;LGSPEC3;FEMبٹورناV;1;SG;HAB;LGSPEC3;FEM	بٹورتی ہوں گی
+V;3;PL;HAB;SBJV;MASCمٹناV;3;PL;HAB;SBJV;MASC	مٹتے ہوں
+V;2;SG;SBJV;MASCختنہ کرناV;2;SG;SBJV;MASC	تو ختنہ کرے گا
+V;1;SG;PROG;LGSPEC4;FEMکہناV;1;SG;PROG;LGSPEC4;FEM	کہ رہی ہوتی
+V;1;SG;SBJVآرام کرناV;1;SG;SBJV	میں کروں
+V;1;PL;HAB;PST;MASCچاہناV;1;PL;HAB;PST;MASC	چاہتے تھے
+V;3;PL;HAB;LGSPEC3;MASCچاٹناV;3;PL;HAB;LGSPEC3;MASC	چاٹتے ہوں گے
+V;3;SG;PROG;LGSPEC4;MASCچاہناV;3;SG;PROG;LGSPEC4;MASC	چاہ رہا ہوتا
+V;1;PL;HAB;LGSPEC3;MASCچودناV;1;PL;HAB;LGSPEC3;MASC	چودتے ہوں گے
+V;3;PL;HAB;LGSPEC4;FEMروناV;3;PL;HAB;LGSPEC4;FEM	روتی ہوتی
+V;3;SG;HAB;SBJV;FEMبرداشت کرناV;3;SG;HAB;SBJV;FEM	برداشت کرتا ہو
+V;2;PL;SBJV;MASCختنہ کرناV;2;PL;SBJV;MASC	تم ختنہ کرو گے
+V;1;SG;PROG;LGSPEC3;MASCپہنچناV;1;SG;PROG;LGSPEC3;MASC	پہنچا رہا ہوں گا
+V;3;SG;PRF;SBJV;MASCجھکناV;3;SG;PRF;SBJV;MASC	جھکا ہو
+V;1;PL;PROG;PST;MASCسوچناV;1;PL;PROG;PST;MASC	سوچ رہے تھے
+V;3;SG;HAB;LGSPEC3;MASCڈھانپناV;3;SG;HAB;LGSPEC3;MASC	ڈھانپتا ہو گا
+V;3;SG;SBJV;FEMایسی تیسی کرناV;3;SG;SBJV;FEM	یہ  وہ ایسی تیارییاں کرے گی
+V;1;SG;HAB;LGSPEC4;FEMجھانکناV;1;SG;HAB;LGSPEC4;FEM	جھانکتی ہوتی
+V;2;PL;IMP;FORMسوچناV;2;PL;IMP;FORM	سوچو
+V;2;PL;PROG;SBJV;MASCسہمناV;2;PL;PROG;SBJV;MASC	سہم رہے ہو
+V;1;PL;HAB;LGSPEC4;FEMبہناV;1;PL;HAB;LGSPEC4;FEM	بہتی ہوتی
+V;1;SG;PROG;PST;MASCلوٹناV;1;SG;PROG;PST;MASC	لوٹ رہا تھا
+V;2;PL;PRF;LGSPEC3;FEMدیکھناV;2;PL;PRF;LGSPEC3;FEM	دیکھی ہو گی
+N;VOC;SGسدھارN;VOC;SG	سدھار
+V;2;PL;PROG;PST;MASCچاٹناV;2;PL;PROG;PST;MASC	چاٹ رہے تھے
+V;3;PL;HAB;LGSPEC3;MASCدکھاناV;3;PL;HAB;LGSPEC3;MASC	دکھاتے ہوں گے
+V;2;SG;HAB;PST;MASCروناV;2;SG;HAB;PST;MASC	روتا تھا
+V;3;SG;HAB;SBJV;MASCلکھناV;3;SG;HAB;SBJV;MASC	لکھتا ہو
+V;3;PL;PROG;PST;MASCجھانکناV;3;PL;PROG;PST;MASC	جھانک رہے تھے
+V;3;SG;HAB;LGSPEC3;MASCآگرہ کرناV;3;SG;HAB;LGSPEC3;MASC	آگرہ کرتا ہو گا
+V;3;PL;PRF;SBJV;MASCلگناV;3;PL;PRF;SBJV;MASC	لگا ہوں
+V;1;SG;PROG;LGSPEC3;MASCلوٹناV;1;SG;PROG;LGSPEC3;MASC	لوٹ رہا ہوں گا
+V;2;SG;IMP;FORMدوڑناV;2;SG;IMP;FORM	دوڑ
+V;3;PL;PROG;SBJV;FEMآرام کرناV;3;PL;PROG;SBJV;FEM	کر رہی ہوں
+V;3;PL;PROG;PST;FEMہنسناV;3;PL;PROG;PST;FEM	ہنس رہی تھیں
+V;2;SG;PROG;SBJV;FEMآرمبھ کرناV;2;SG;PROG;SBJV;FEM	آرمبھ کر رہی ہو
+N;VOC;PLسیبN;VOC;PL	سیب
+V;1;PL;PROG;PST;MASCجلناV;1;PL;PROG;PST;MASC	جل رہے تھے
+V;NFIN;LGSPEC1جلاناV;NFIN;LGSPEC1	جلانے
+V;2;SG;HAB;LGSPEC3;MASCسہماناV;2;SG;HAB;LGSPEC3;MASC	سہماتا ہو گا
+V;1;SG;PRF;PRS;MASCاٹھناV;1;SG;PRF;PRS;MASC	اٹھے ہوں
+N;VOC;PLبلبلN;VOC;PL	بلبلوں
+V;3;PL;PROG;PST;FEMپہنچناV;3;PL;PROG;PST;FEM	پہنچ رہی تھیں
+N;VOC;PLبالیN;VOC;PL	بالییاں
+V;3;SG;PROG;LGSPEC3;MASCگان کرناV;3;SG;PROG;LGSPEC3;MASC	کر رہا ہو گا
+N;ACC;PLتالیN;ACC;PL	تالیو
+V;2;SG;PROG;LGSPEC3;MASCکھیلناV;2;SG;PROG;LGSPEC3;MASC	کھیلا رہا ہو گا
+V;2;SG;PRF;PST;FEMچومناV;2;SG;PRF;PST;FEM	چومی تھی
+V;2;SG;PROG;LGSPEC4;MASCسہماناV;2;SG;PROG;LGSPEC4;MASC	سہما رہا ہوتا
+V;3;SG;HAB;LGSPEC4;MASCآشچریہ کرناV;3;SG;HAB;LGSPEC4;MASC	آشچریہ کرتا ہوتا
+V;1;PL;PRF;PRS;FEMچڑھناV;1;PL;PRF;PRS;FEM	چڑھی ہیں
+N;ACC;SGندیN;ACC;SG	ندی
+V;2;PL;HAB;PRS;MASCدیکھناV;2;PL;HAB;PRS;MASC	دیکھتے ہو
+V;2;PL;HAB;SBJV;MASCچومناV;2;PL;HAB;SBJV;MASC	چومتے ہو
+V;2;SG;PROG;LGSPEC4;MASCجلاناV;2;SG;PROG;LGSPEC4;MASC	جلا رہا ہوتا
+V;2;SG;PROG;PST;MASCڈھانپناV;2;SG;PROG;PST;MASC	ڈھانپ رہا تھا
+V;2;SG;SBJVآگرہ کرناV;2;SG;SBJV	تو آگرہ کرے
+V;3;SG;PROG;PST;MASCبرداشت کرناV;3;SG;PROG;PST;MASC	برداشت کر رہا تھا
+V;3;SG;PROG;PRS;MASCایسی تیسی کرناV;3;SG;PROG;PRS;MASC	ایسی تیاریی کر رہا ہے
+V;1;SG;PROG;LGSPEC3;MASCہنسناV;1;SG;PROG;LGSPEC3;MASC	ہنس رہا ہوں گا
+N;VOC;SGقیدخانہN;VOC;SG	قید خاہے
+V;1;PL;HAB;LGSPEC3;FEMسہمناV;1;PL;HAB;LGSPEC3;FEM	سہمتی ہوں گی
+V;2;PL;PRF;SBJV;MASCروناV;2;PL;PRF;SBJV;MASC	روۓ ہو
+V;1;SG;HAB;SBJV;FEMجھانکناV;1;SG;HAB;SBJV;FEM	جھانکتی ہوں
+N;ACC;PLنوابN;ACC;PL	نوابو
+V;3;SG;PRF;LGSPEC4;MASCانتظار کرناV;3;SG;PRF;LGSPEC4;MASC	انتظار کیا ہوتا
+V;2;SG;HAB;LGSPEC3;MASCچودناV;2;SG;HAB;LGSPEC3;MASC	چودتا ہو گا
+V;3;PL;PRF;LGSPEC4;FEMآرام کرناV;3;PL;PRF;LGSPEC4;FEM	کیی ہوتی
+V;1;PL;PROG;PRS;MASCٹوٹناV;1;PL;PROG;PRS;MASC	ٹوٹ رہے ہیں
+V;3;SG;HAB;SBJV;MASCبولناV;3;SG;HAB;SBJV;MASC	بولتا ہو
+V;3;SG;SBJV;FEMجپناV;3;SG;SBJV;FEM	یہ  وہ جپتی گی
+V;1;PL;HAB;PST;MASCآشچریہ کرناV;1;PL;HAB;PST;MASC	آشچریہ کرتی تھے
+V;2;SG;PROG;PST;FEMبولناV;2;SG;PROG;PST;FEM	بول رہی تھی
+V;3;PL;HAB;PST;MASCسمجھناV;3;PL;HAB;PST;MASC	سمجھتے تھے
+V;NFIN;LGSPEC1سیکھناV;NFIN;LGSPEC1	سیکھے
+V;2;PL;HAB;PRS;MASCچومناV;2;PL;HAB;PRS;MASC	چومتے ہو
+V;2;PL;PROG;SBJV;MASCدوڑناV;2;PL;PROG;SBJV;MASC	دوڑ رہے ہو
+V;2;PL;PROG;PST;MASCسیکھناV;2;PL;PROG;PST;MASC	سیکھ رہے تھے
+V;3;PL;PROG;LGSPEC3;MASCغلط کرناV;3;PL;PROG;LGSPEC3;MASC	غلط کریں رہے ہوں گے
+V;1;SG;PRF;PST;FEMسمجھناV;1;SG;PRF;PST;FEM	سمجھی تھی
+V;1;SG;PRF;LGSPEC4;FEMجھکناV;1;SG;PRF;LGSPEC4;FEM	جھکی ہوتی
+V;3;SG;PROG;SBJV;MASCآرمبھ کرناV;3;SG;PROG;SBJV;MASC	آرمبھ کر رہا ہو
+V;3;SG;PROG;LGSPEC3;FEMلوٹناV;3;SG;PROG;LGSPEC3;FEM	لوٹ رہی ہو گی
+V;3;SG;PRF;LGSPEC3;FEMآگرہ کرناV;3;SG;PRF;LGSPEC3;FEM	آگرہ کیا ہو گی
+V;2;SG;HAB;LGSPEC4;FEMختنہ کرناV;2;SG;HAB;LGSPEC4;FEM	ختنہ کرتا ہوتی
+V;3;SG;PRF;PRS;MASCجھکناV;3;SG;PRF;PRS;MASC	جھکا ہے
+N;ACC;PLتیاریN;ACC;PL	تیارییو
+V;1;PL;PROG;PRS;FEMبٹورناV;1;PL;PROG;PRS;FEM	بٹور رہی ہیں
+V;2;PL;HAB;LGSPEC3;FEMلگناV;2;PL;HAB;LGSPEC3;FEM	لگتی ہو گی
+V;3;SG;PRF;LGSPEC4;FEMختنہ کرناV;3;SG;PRF;LGSPEC4;FEM	ختنہ کیا ہوتی
+V;2;SG;PROG;LGSPEC4;FEMدوڑناV;2;SG;PROG;LGSPEC4;FEM	دوڑ رہی ہوتی
+V;3;PL;PRF;SBJV;MASCکھیلناV;3;PL;PRF;SBJV;MASC	کھیلے ہوں
+V;3;SG;PROG;LGSPEC3;MASCخریدناV;3;SG;PROG;LGSPEC3;MASC	خریدا رہا ہو گا
+V;1;PL;HAB;PST;MASCچاٹناV;1;PL;HAB;PST;MASC	چاٹتے تھے
+V;1;SG;PROG;PRS;MASCسوپن دیکھناV;1;SG;PROG;PRS;MASC	سوپن دیکھ رہا ہوں
+V;2;SG;PRF;SBJV;FEMمٹناV;2;SG;PRF;SBJV;FEM	مٹی ہو
+V;2;SG;PROG;PRS;FEMلوٹناV;2;SG;PROG;PRS;FEM	لوٹ رہی ہے
+N;VOC;PLدھندھاN;VOC;PL	دھندھوں
+V;V.PTCP;MASC;PL;IPFVچودناV;V.PTCP;MASC;PL;IPFV	چودتی
+V;2;PL;HAB;LGSPEC4;FEMختنہ کرناV;2;PL;HAB;LGSPEC4;FEM	ختنہ کرتی ہوتی
+V;3;SG;HAB;PRS;MASCجاگناV;3;SG;HAB;PRS;MASC	جاگتا ہے
+V;2;SG;PRF;LGSPEC3;MASCاترناV;2;SG;PRF;LGSPEC3;MASC	اترا ہو گا
+V;3;SG;HAB;PST;FEMاستعمال کرناV;3;SG;HAB;PST;FEM	استعمال کرتا تھی
+V;1;PL;PROG;PST;MASCسیکھناV;1;PL;PROG;PST;MASC	سیکھ رہے تھے
+V;3;PL;HAB;PRS;MASCڈھانپناV;3;PL;HAB;PRS;MASC	ڈھانپتے ہیں
+V;2;SG;HAB;LGSPEC3;MASCآرام کرناV;2;SG;HAB;LGSPEC3;MASC	کرتا ہو گا
+V;2;PL;PRF;SBJV;MASCسہماناV;2;PL;PRF;SBJV;MASC	سہماۓ ہو
+V;2;SG;PROG;LGSPEC4;FEMآرمبھ کرناV;2;SG;PROG;LGSPEC4;FEM	آرمبھ کر رہی ہوتی
+V;1;PL;PRF;SBJV;FEMدیکھناV;1;PL;PRF;SBJV;FEM	دیکھی ہوں
+V;2;PL;IMP;FORMاٹھناV;2;PL;IMP;FORM	اٹھو
+V;2;SG;PRF;PST;MASCپڑھناV;2;SG;PRF;PST;MASC	پڑھا تھا
+V;2;SG;HAB;PRS;MASCڈھانپناV;2;SG;HAB;PRS;MASC	ڈھانپتا ہے
+V;1;PL;HAB;PRS;MASCدیکھناV;1;PL;HAB;PRS;MASC	دیکھتے ہیں
+N;ACC;SGبولیN;ACC;SG	بولی
+V;2;PL;PRF;SBJV;FEMدوڑناV;2;PL;PRF;SBJV;FEM	دوڑی ہو
+V;3;SG;HAB;SBJV;FEMدوڑناV;3;SG;HAB;SBJV;FEM	دوڑتی ہو
+V;V.PTCP;FEM;PL;PFVپہنچناV;V.PTCP;FEM;PL;PFV	پہنچی
+V;3;PL;SBJV;MASCانتظار کرناV;3;PL;SBJV;MASC	یہ  وہ انتظار کریں گے
+V;3;SG;HAB;LGSPEC4;FEMکہناV;3;SG;HAB;LGSPEC4;FEM	کہتی ہوتی
+V;3;PL;PRF;PRS;MASCایسی تیسی کرناV;3;PL;PRF;PRS;MASC	ایسی تیارییاں کیی ہیں
+V;2;PL;PROG;PST;FEMڈھانپناV;2;PL;PROG;PST;FEM	ڈھانپ رہی تھیں
+V;V.PTCP;FEM;SG;PFVجلناV;V.PTCP;FEM;SG;PFV	جلا
+V;1;SG;PRF;LGSPEC4;MASCسکناV;1;SG;PRF;LGSPEC4;MASC	سک ہوتا
+V;1;PL;PRF;SBJV;FEMاٹھناV;1;PL;PRF;SBJV;FEM	اٹھی ہوں
+V;3;SG;HAB;PST;MASCجلاناV;3;SG;HAB;PST;MASC	جلاتا تھا
+V;3;SG;HAB;LGSPEC3;MASCلگناV;3;SG;HAB;LGSPEC3;MASC	لگتا ہو گا
+V;1;SG;PROG;SBJV;FEMختنہ کرناV;1;SG;PROG;SBJV;FEM	ختنہ کر رہی ہوں
+V;2;PL;PRF;PRS;MASCچاٹناV;2;PL;PRF;PRS;MASC	چاٹے ہو
+V;2;SG;HAB;SBJV;FEMآرمبھ کرناV;2;SG;HAB;SBJV;FEM	آرمبھ کرتا ہو
+V;2;PL;PRF;PRS;FEMڈھانپناV;2;PL;PRF;PRS;FEM	ڈھانپی ہو
+V;2;SG;PRF;SBJV;MASCاٹھاناV;2;SG;PRF;SBJV;MASC	اٹھایا ہو
+V;1;SG;HAB;SBJV;MASCسمجھناV;1;SG;HAB;SBJV;MASC	سمجھتا ہوں
+V;2;SG;PROG;PST;MASCآرام کرناV;2;SG;PROG;PST;MASC	کر رہا تھا
+V;3;SG;HAB;LGSPEC4;MASCخریدناV;3;SG;HAB;LGSPEC4;MASC	خریدتا ہوتا
+V;1;SG;HAB;LGSPEC3;MASCلگناV;1;SG;HAB;LGSPEC3;MASC	لگتا ہوں گا
+V;2;SG;PRF;PST;MASCاترناV;2;SG;PRF;PST;MASC	اترا تھا
+V;2;PL;HAB;LGSPEC3;MASCچومناV;2;PL;HAB;LGSPEC3;MASC	چومتے ہو گے
+V;1;PL;HAB;PST;FEMمٹناV;1;PL;HAB;PST;FEM	مٹتی تھیں
+V;2;PL;HAB;LGSPEC3;MASCانتظار کرناV;2;PL;HAB;LGSPEC3;MASC	انتظار کرتی ہو گے
+V;2;SG;HAB;LGSPEC3;MASCملاناV;2;SG;HAB;LGSPEC3;MASC	ملاتا ہو گا
+V;1;SG;HAB;LGSPEC3;FEMبہناV;1;SG;HAB;LGSPEC3;FEM	بہتی ہوں گی
+N;VOC;SGکتاN;VOC;SG	کتے
+V;2;SG;SBJVسیکھناV;2;SG;SBJV	تو سیکھے
+N;ACC;PLہِنساN;ACC;PL	ہنسائیں
+V;1;PL;PRF;PRS;MASCاستعمال کرناV;1;PL;PRF;PRS;MASC	استعمال کیی ہیں
+V;3;SG;PROG;LGSPEC4;FEMاٹھناV;3;SG;PROG;LGSPEC4;FEM	اٹھ رہی ہوتی
+V;1;PL;PRF;PST;FEMکھیلناV;1;PL;PRF;PST;FEM	کھیلی تھیں
+V;3;PL;PROG;PST;MASCایسی تیسی کرناV;3;PL;PROG;PST;MASC	ایسی تیارییو کر رہی تھے
+V;1;SG;PRF;PST;FEMسوپن دیکھناV;1;SG;PRF;PST;FEM	سوپن دیکھا تھی
+V;3;PL;SBJV;MASCلگناV;3;PL;SBJV;MASC	یہ  وہ لگے گے
+V;V.PTCP;MASC;SG;IPFVپڑھناV;V.PTCP;MASC;SG;IPFV	پڑھتی
+V;1;SG;PROG;LGSPEC3;MASCروناV;1;SG;PROG;LGSPEC3;MASC	رو رہا ہوں گا
+V;2;SG;IMP;INFMگان کرناV;2;SG;IMP;INFM	کر
+V;3;PL;PRF;LGSPEC3;FEMدوڑناV;3;PL;PRF;LGSPEC3;FEM	دوڑ ہوں گی
+V;2;PL;HAB;PRS;FEMبہناV;2;PL;HAB;PRS;FEM	بہتی ہو
+V;1;PL;HAB;PRS;MASCچومناV;1;PL;HAB;PRS;MASC	چومتے ہیں
+V;3;PL;HAB;LGSPEC4;MASCعیش کرناV;3;PL;HAB;LGSPEC4;MASC	عیش شکتی ہوتے
+V;V.PTCP;MASC;SG;IPFVآرام کرناV;V.PTCP;MASC;SG;IPFV	کیا
+V;1;PL;PROG;LGSPEC3;MASCاٹھناV;1;PL;PROG;LGSPEC3;MASC	اٹھ رہے ہوں گے
+V;3;SG;PRF;LGSPEC3;FEMسیکھناV;3;SG;PRF;LGSPEC3;FEM	سیکھی ہو گی
+V;3;SG;PRF;PST;FEMجھکناV;3;SG;PRF;PST;FEM	جھکی تھی
+V;1;PL;PRF;SBJV;FEMاٹھاناV;1;PL;PRF;SBJV;FEM	اٹھائی ہوں
+V;3;SG;PRF;LGSPEC3;FEMمٹناV;3;SG;PRF;LGSPEC3;FEM	مٹی ہو گی
+V;2;SG;HAB;SBJV;MASCآرام کرناV;2;SG;HAB;SBJV;MASC	کرتا ہو
+V;1;SG;PROG;PRS;FEMانتظار کرناV;1;SG;PROG;PRS;FEM	انتظار کر رہی ہوں
+V;1;SG;HAB;LGSPEC4;MASCغلط کرناV;1;SG;HAB;LGSPEC4;MASC	غلط کرتا ہوتا
+V;2;SG;PRF;LGSPEC3;MASCبرداشت کرناV;2;SG;PRF;LGSPEC3;MASC	برداشت کیا ہو گا
+V;3;PL;SBJV;MASCجلناV;3;PL;SBJV;MASC	یہ  وہ جلے گے
+V;2;PL;IMP;FORMبٹورناV;2;PL;IMP;FORM	بٹور
+V;1;SG;HAB;LGSPEC3;MASCجلناV;1;SG;HAB;LGSPEC3;MASC	جلتا ہوں گا
+V;1;SG;PROG;LGSPEC3;MASCاستعمال کرناV;1;SG;PROG;LGSPEC3;MASC	استعمال کر رہا ہوں گا
+V;1;PL;HAB;PST;MASCڈھانپناV;1;PL;HAB;PST;MASC	ڈھانپتے تھے
+V;3;SG;PRF;PRS;FEMانکار کرناV;3;SG;PRF;PRS;FEM	انکار کیا ہے
+V;1;SG;HAB;LGSPEC3;FEMچڑھناV;1;SG;HAB;LGSPEC3;FEM	چڑھتی ہوں گی
+N;VOC;PLسوستکN;VOC;PL	سوستک
+V;1;SG;PRF;LGSPEC3;FEMدوڑناV;1;SG;PRF;LGSPEC3;FEM	دوڑی ہوں گی
+V;1;PL;HAB;SBJV;FEMہنسناV;1;PL;HAB;SBJV;FEM	ہنستی ہوں
+V;3;PL;PRF;LGSPEC4;MASCپہنچناV;3;PL;PRF;LGSPEC4;MASC	پہنچ ہوتے
+V;1;PL;PRF;PRS;FEMآرمبھ کرناV;1;PL;PRF;PRS;FEM	آرمبھ کیی ہیں
+V;3;PL;PROG;SBJV;MASCکہناV;3;PL;PROG;SBJV;MASC	کہ رہے ہوں
+V;1;PL;HAB;LGSPEC3;FEMبٹورناV;1;PL;HAB;LGSPEC3;FEM	بٹورتی ہوں گی
+V;3;SG;PROG;LGSPEC3;MASCدکھاناV;3;SG;PROG;LGSPEC3;MASC	دکھایا رہا ہو گا
+N;VOC;PLہتھیلیN;VOC;PL	ہتھیلیوں
+V;1;PL;PROG;PST;MASCچڑھناV;1;PL;PROG;PST;MASC	چڑھ رہے تھے
+N;VOC;SGمارگN;VOC;SG	مارگ
+V;2;PL;SBJV;FEMسوپن دیکھناV;2;PL;SBJV;FEM	تم سوپن دیکھو گی
+V;2;PL;PRF;LGSPEC3;MASCدوڑناV;2;PL;PRF;LGSPEC3;MASC	دوڑے ہو گے
+V;2;PL;PROG;LGSPEC3;MASCآدر کرناV;2;PL;PROG;LGSPEC3;MASC	آدر کرو رہے ہو گے
+V;V.PTCP;MASC;SG;IPFVجاگناV;V.PTCP;MASC;SG;IPFV	جاگتی
+V;1;SG;HAB;LGSPEC4;FEMکھیلناV;1;SG;HAB;LGSPEC4;FEM	کھیلتی ہوتی
+V;1;SG;PRF;PST;FEMسوچناV;1;SG;PRF;PST;FEM	سوچی تھی
+V;1;SG;PRF;LGSPEC4;MASCسہماناV;1;SG;PRF;LGSPEC4;MASC	سہمایا ہوتا
+V;1;SG;SBJVسوپن دیکھناV;1;SG;SBJV	میں سوپن دیکھوں
+V;1;SG;PRF;SBJV;MASCدکھاناV;1;SG;PRF;SBJV;MASC	دکھایا ہوں
+V;3;SG;HAB;LGSPEC3;FEMبہناV;3;SG;HAB;LGSPEC3;FEM	بہتی ہو گی
+V;NFIN;LGSPEC2چاٹناV;NFIN;LGSPEC2	چاٹے
+V;NFIN;LGSPEC2سمجھناV;NFIN;LGSPEC2	سمجھنا
+V;2;SG;PROG;LGSPEC3;FEMپہنچناV;2;SG;PROG;LGSPEC3;FEM	پہنچ رہی ہو گی
+V;1;PL;PROG;SBJV;FEMلکھناV;1;PL;PROG;SBJV;FEM	لکھ رہی ہوں
+V;2;SG;HAB;LGSPEC3;FEMروناV;2;SG;HAB;LGSPEC3;FEM	روتی ہو گی
+V;1;SG;PRF;PST;MASCجھانکناV;1;SG;PRF;PST;MASC	جھانکا تھا
+V;3;SG;PROG;SBJV;FEMپڑھناV;3;SG;PROG;SBJV;FEM	پڑھ رہی ہو
+V;1;SG;PRF;LGSPEC3;FEMجلناV;1;SG;PRF;LGSPEC3;FEM	جلی ہوں گی
+V;V.PTCP;FEM;PL;IPFVجلناV;V.PTCP;FEM;PL;IPFV	جلتے
+V;V.PTCP;MASC;SG;IPFVسہمناV;V.PTCP;MASC;SG;IPFV	سہمتی
+V;2;PL;PROG;SBJV;MASCگان کرناV;2;PL;PROG;SBJV;MASC	کر رہی ہو
+V;1;PL;PRF;LGSPEC3;MASCروناV;1;PL;PRF;LGSPEC3;MASC	روۓ ہوں گے
+V;1;PL;HAB;PST;MASCسمجھناV;1;PL;HAB;PST;MASC	سمجھتے تھے
+V;1;SG;PROG;PST;FEMسہمناV;1;SG;PROG;PST;FEM	سہم رہی تھی
+V;2;PL;PRF;PRS;FEMبٹورناV;2;PL;PRF;PRS;FEM	بٹوری ہو
+V;3;PL;HAB;PST;MASCمٹناV;3;PL;HAB;PST;MASC	مٹتے تھے
+V;3;PL;PRF;LGSPEC4;MASCایسی تیسی کرناV;3;PL;PRF;LGSPEC4;MASC	ایسی تیارییو کیی ہوتے
+V;3;SG;PROG;LGSPEC3;FEMآدر کرناV;3;SG;PROG;LGSPEC3;FEM	آدر کر رہی ہو گی
+V;2;PL;HAB;SBJV;FEMآشچریہ کرناV;2;PL;HAB;SBJV;FEM	آشچریہ کرتی ہو
+V;3;PL;HAB;PRS;FEMکہناV;3;PL;HAB;PRS;FEM	کہتی ہیں
+V;1;PL;PRF;LGSPEC3;FEMغلط کرناV;1;PL;PRF;LGSPEC3;FEM	غلط کیی ہوں گی
+V;2;SG;PROG;LGSPEC4;FEMروناV;2;SG;PROG;LGSPEC4;FEM	رو رہی ہوتی
+V;NFIN;LGSPEC1غلط کرناV;NFIN;LGSPEC1	غلط
+V;3;SG;PROG;PST;FEMاٹھناV;3;SG;PROG;PST;FEM	اٹھ رہی تھی
+V;3;SG;PRF;SBJV;FEMخریدناV;3;SG;PRF;SBJV;FEM	خریدی ہو
+V;2;SG;PROG;LGSPEC4;FEMایسی تیسی کرناV;2;SG;PROG;LGSPEC4;FEM	ایسی تیارییو کر رہی ہوتی
+V;3;SG;HAB;PRS;MASCدیکھناV;3;SG;HAB;PRS;MASC	دیکھتا ہے
+V;2;PL;HAB;LGSPEC3;MASCآگرہ کرناV;2;PL;HAB;LGSPEC3;MASC	آگرہ کرتی ہو گے
+V;3;SG;PROG;PST;FEMعیش کرناV;3;SG;PROG;PST;FEM	عیش شکتی رہی تھی
+V;3;SG;HAB;PST;FEMعیش کرناV;3;SG;HAB;PST;FEM	عیش شکتی تھی
+V;NFIN;LGSPEC2ختنہ کرناV;NFIN;LGSPEC2	ختنہ
+V;1;SG;PROG;SBJV;MASCجلاناV;1;SG;PROG;SBJV;MASC	جلا رہا ہوں
+V;2;PL;PROG;LGSPEC3;MASCلگناV;2;PL;PROG;LGSPEC3;MASC	لگ رہے ہو گے
+V;3;PL;PROG;SBJV;MASCختنہ کرناV;3;PL;PROG;SBJV;MASC	ختنہ کر رہی ہوں
+V;NFIN;LGSPEC2ایسی تیسی کرناV;NFIN;LGSPEC2	ایسی تیارییاں
+V;3;PL;PRF;SBJV;MASCعیش کرناV;3;PL;PRF;SBJV;MASC	عیش شکتی ہوں
+V;V.PTCP;MASC;SG;IPFVکھیلناV;V.PTCP;MASC;SG;IPFV	کھیلتی
+V;3;PL;HAB;LGSPEC4;MASCسوپن دیکھناV;3;PL;HAB;LGSPEC4;MASC	سوپن دیکھتے ہوتے
+V;3;PL;SBJVآگرہ کرناV;3;PL;SBJV	یہ  وہ آگرہ کریں
+V;2;PL;PRF;PRS;FEMبرداشت کرناV;2;PL;PRF;PRS;FEM	برداشت کیی ہو
+V;1;PL;SBJV;MASCاٹھناV;1;PL;SBJV;MASC	ہم اٹھیں گے
+V;2;PL;HAB;SBJV;FEMچاہناV;2;PL;HAB;SBJV;FEM	چاہتی ہو
+V;1;PL;PROG;LGSPEC3;MASCجھکناV;1;PL;PROG;LGSPEC3;MASC	جھک رہے ہوں گے
+V;1;PL;PROG;PRS;FEMآرمبھ کرناV;1;PL;PROG;PRS;FEM	آرمبھ کر رہی ہیں
+V;2;PL;HAB;PST;FEMخریدناV;2;PL;HAB;PST;FEM	خریدتی تھیں
+V;V.PTCP;MASC;PL;IPFVلکھناV;V.PTCP;MASC;PL;IPFV	لکھتی
+V;2;PL;PROG;PRS;FEMدیکھناV;2;PL;PROG;PRS;FEM	دیکھ رہی ہو
+V;1;PL;PRF;PRS;MASCدیکھناV;1;PL;PRF;PRS;MASC	دیکھے ہیں
+V;2;PL;HAB;PST;MASCجھکناV;2;PL;HAB;PST;MASC	جھکتے تھے
+V;2;PL;HAB;PST;FEMاستعمال کرناV;2;PL;HAB;PST;FEM	استعمال کرتی تھیں
+V;1;SG;PRF;LGSPEC3;MASCچاہناV;1;SG;PRF;LGSPEC3;MASC	چاہا ہوں گا
+V;1;SG;PROG;LGSPEC4;FEMملاناV;1;SG;PROG;LGSPEC4;FEM	ملا رہی ہوتی
+V;1;PL;HAB;PRS;MASCدکھاناV;1;PL;HAB;PRS;MASC	دکھاتے ہیں
+N;ACC;SGشبدکوشN;ACC;SG	شبدکوش
+V;2;PL;PROG;PST;FEMکھیلناV;2;PL;PROG;PST;FEM	کھیل رہی تھیں
+V;3;SG;PRF;PRS;MASCلکھناV;3;SG;PRF;PRS;MASC	لکھا ہے
+V;V.PTCP;FEM;PL;PFVآدر کرناV;V.PTCP;FEM;PL;PFV	آدر کی
+V;1;PL;HAB;PST;MASCلگناV;1;PL;HAB;PST;MASC	لگتے تھے
+V;3;SG;PROG;LGSPEC3;MASCجھکناV;3;SG;PROG;LGSPEC3;MASC	جھکا رہا ہو گا
+V;1;SG;PRF;SBJV;MASCخریدناV;1;SG;PRF;SBJV;MASC	خریدا ہوں
+V;1;SG;PRF;SBJV;FEMاترناV;1;SG;PRF;SBJV;FEM	اتری ہوں
+V;2;SG;HAB;SBJV;MASCسیکھناV;2;SG;HAB;SBJV;MASC	سیکھتا ہو
+V;2;PL;PRF;LGSPEC3;FEMٹوٹناV;2;PL;PRF;LGSPEC3;FEM	ٹوٹی ہو گی
+N;VOC;SGروگN;VOC;SG	روگ
+V;2;PL;PROG;LGSPEC4;MASCچاٹناV;2;PL;PROG;LGSPEC4;MASC	چاٹ رہے ہوتے
+V;1;PL;PROG;PST;FEMاٹھناV;1;PL;PROG;PST;FEM	اٹھ رہی تھیں
+V;2;PL;PROG;SBJV;MASCسمجھناV;2;PL;PROG;SBJV;MASC	سمجھ رہے ہو
+V;2;SG;HAB;PRS;FEMسیکھناV;2;SG;HAB;PRS;FEM	سیکھتی ہے
+V;2;SG;SBJVپڑھناV;2;SG;SBJV	تو پڑھے
+V;3;SG;PROG;LGSPEC4;FEMسیکھناV;3;SG;PROG;LGSPEC4;FEM	سیکھی رہی ہوتی
+V;3;SG;PROG;SBJV;FEMپہنچناV;3;SG;PROG;SBJV;FEM	پہنچ رہی ہو
+V;3;SG;PRF;PRS;FEMجلناV;3;SG;PRF;PRS;FEM	جلی ہے
+V;3;SG;HAB;LGSPEC3;FEMبٹورناV;3;SG;HAB;LGSPEC3;FEM	بٹورتی ہو گی
+V;V.PTCP;MASC;SG;IPFVچاٹناV;V.PTCP;MASC;SG;IPFV	چاٹتے
+V;3;PL;PRF;PRS;MASCآدر کرناV;3;PL;PRF;PRS;MASC	آدر کیی ہیں
+V;2;PL;PRF;PST;FEMکھیلناV;2;PL;PRF;PST;FEM	کھیلی تھیں
+V;2;SG;PROG;SBJV;MASCبہناV;2;SG;PROG;SBJV;MASC	بہ رہا ہو
+V;2;PL;HAB;LGSPEC3;MASCپڑھناV;2;PL;HAB;LGSPEC3;MASC	پڑھتے ہو گے
+V;3;SG;HAB;PRS;FEMغلط کرناV;3;SG;HAB;PRS;FEM	غلط کرتا ہے
+V;1;PL;PRF;SBJV;FEMسکناV;1;PL;PRF;SBJV;FEM	سکی ہوں
+V;3;SG;SBJVگان کرناV;3;SG;SBJV	یہ  وہ گان کرے
+V;3;PL;SBJV;MASCبہناV;3;PL;SBJV;MASC	یہ  وہ بہے گے
+V;3;PL;HAB;PST;FEMچودناV;3;PL;HAB;PST;FEM	چودتی تھیں
+V;3;SG;SBJV;MASCسہمناV;3;SG;SBJV;MASC	یہ  وہ سہمے گا
+V;3;PL;PROG;LGSPEC3;FEMبٹورناV;3;PL;PROG;LGSPEC3;FEM	بٹور رہی ہوں گی
+V;V.PTCP;FEM;PL;IPFVدکھاناV;V.PTCP;FEM;PL;IPFV	دکھاتے
+V;3;PL;HAB;PST;MASCآرام کرناV;3;PL;HAB;PST;MASC	کرتی تھے
+V;3;SG;PROG;LGSPEC3;FEMسیکھناV;3;SG;PROG;LGSPEC3;FEM	سیکھ رہی ہو گی
+V;V.PTCP;MASC;SG;PFVختنہ کرناV;V.PTCP;MASC;SG;PFV	ختنہ کیا
+V;1;PL;PROG;PRS;MASCلکھناV;1;PL;PROG;PRS;MASC	لکھ رہے ہیں
+V;2;SG;HAB;LGSPEC3;FEMدکھاناV;2;SG;HAB;LGSPEC3;FEM	دکھاتی ہو گی
+V;2;PL;PROG;SBJV;MASCختنہ کرناV;2;PL;PROG;SBJV;MASC	ختنہ کر رہی ہو
+V;1;SG;PROG;PRS;FEMکھیلناV;1;SG;PROG;PRS;FEM	کھیل رہی ہوں
+V;2;PL;PROG;LGSPEC4;MASCاستعمال کرناV;2;PL;PROG;LGSPEC4;MASC	استعمال کر رہی ہوتی
+V;2;PL;PROG;SBJV;MASCجاگناV;2;PL;PROG;SBJV;MASC	جاگ رہے ہو
+V;2;SG;HAB;PRS;FEMپڑھناV;2;SG;HAB;PRS;FEM	پڑھتی ہے
+V;2;PL;HAB;SBJV;FEMآرام کرناV;2;PL;HAB;SBJV;FEM	کرتی ہو
+V;1;PL;PROG;SBJV;FEMبولناV;1;PL;PROG;SBJV;FEM	بول رہی ہوں
+V;2;PL;PRF;PST;FEMاستعمال کرناV;2;PL;PRF;PST;FEM	استعمال کیی تھیں
+V;1;SG;PROG;SBJV;FEMچاٹناV;1;SG;PROG;SBJV;FEM	چاٹ رہی ہوں
+V;V.PTCP;MASC;PL;PFVبٹورناV;V.PTCP;MASC;PL;PFV	بٹورا
+V;2;PL;SBJV;FEMآرمبھ کرناV;2;PL;SBJV;FEM	تم آرمبھ کرو گی
+V;3;SG;PROG;PST;FEMاٹھاناV;3;SG;PROG;PST;FEM	اٹھا رہی تھی
+V;NFIN;LGSPEC1آشچریہ کرناV;NFIN;LGSPEC1	آشچریہ
+V;1;PL;PROG;SBJV;FEMلگناV;1;PL;PROG;SBJV;FEM	لگ رہی ہوں
+V;2;PL;PRF;PST;FEMچومناV;2;PL;PRF;PST;FEM	چومی تھیں
+V;2;SG;PROG;LGSPEC4;FEMملاناV;2;SG;PROG;LGSPEC4;FEM	ملا رہی ہوتی
+V;2;SG;PROG;LGSPEC4;FEMاترناV;2;SG;PROG;LGSPEC4;FEM	اتر رہی ہوتی
+V;1;PL;HAB;LGSPEC3;MASCجلناV;1;PL;HAB;LGSPEC3;MASC	جلتے ہوں گے
+V;2;PL;PRF;PRS;FEMگان کرناV;2;PL;PRF;PRS;FEM	کیی ہو
+V;2;SG;PROG;LGSPEC4;MASCکھیلناV;2;SG;PROG;LGSPEC4;MASC	کھیل رہا ہوتا
+V;3;PL;PRF;LGSPEC4;MASCختنہ کرناV;3;PL;PRF;LGSPEC4;MASC	ختنہ کیی ہوتے
+V;1;PL;HAB;LGSPEC3;FEMبہناV;1;PL;HAB;LGSPEC3;FEM	بہتی ہوں گی
+V;3;PL;PROG;LGSPEC3;FEMچومناV;3;PL;PROG;LGSPEC3;FEM	چوم رہی ہوں گی
+V;1;PL;PRF;LGSPEC4;MASCجپناV;1;PL;PRF;LGSPEC4;MASC	جپے ہوتے
+V;1;PL;SBJV;MASCچڑھناV;1;PL;SBJV;MASC	ہم چڑھیں گے
+V;1;SG;PROG;PST;MASCاترناV;1;SG;PROG;PST;MASC	اتر رہا تھا
+V;3;SG;PRF;LGSPEC4;MASCدوڑناV;3;SG;PRF;LGSPEC4;MASC	دوڑا ہوتا
+V;2;SG;HAB;PRS;MASCلوٹناV;2;SG;HAB;PRS;MASC	لوٹتا ہے
+N;ACC;PLبھاشاN;ACC;PL	بھاشاؤ
+V;3;SG;PROG;PST;FEMدیکھناV;3;SG;PROG;PST;FEM	دیکھ رہی تھی
+V;2;SG;PRF;LGSPEC3;FEMغلط کرناV;2;SG;PRF;LGSPEC3;FEM	غلط کیا ہو گی
+V;3;SG;HAB;LGSPEC4;MASCسہمناV;3;SG;HAB;LGSPEC4;MASC	سہمتا ہوتا
+V;3;PL;PRF;PST;FEMپہنچناV;3;PL;PRF;PST;FEM	پہنچی تھیں
+V;2;SG;SBJV;MASCروناV;2;SG;SBJV;MASC	تو روۓ گا
+V;3;SG;PROG;SBJV;MASCعیش کرناV;3;SG;PROG;SBJV;MASC	عیش شکتی رہا ہو
+V;1;SG;PROG;LGSPEC4;MASCجھانکناV;1;SG;PROG;LGSPEC4;MASC	جھانک رہا ہوتا
+V;1;SG;HAB;PRS;FEMپڑھناV;1;SG;HAB;PRS;FEM	پڑھتی ہوں
+V;2;SG;HAB;LGSPEC3;FEMچودناV;2;SG;HAB;LGSPEC3;FEM	چودتی ہو گی
+V;2;SG;PROG;PRS;FEMدوڑناV;2;SG;PROG;PRS;FEM	دوڑ رہی ہے
+V;2;SG;HAB;LGSPEC4;FEMٹوٹناV;2;SG;HAB;LGSPEC4;FEM	ٹوٹتی ہوتی
+V;2;SG;HAB;SBJV;MASCبہناV;2;SG;HAB;SBJV;MASC	بہتا ہو
+V;NFIN;LGSPEC2انتظار کرناV;NFIN;LGSPEC2	انتظار
+V;2;PL;HAB;LGSPEC3;MASCملاناV;2;PL;HAB;LGSPEC3;MASC	ملاتے ہو گے
+V;3;PL;PRF;PRS;MASCجلاناV;3;PL;PRF;PRS;MASC	جلاۓ ہیں
+V;3;PL;PROG;PST;MASCٹوٹناV;3;PL;PROG;PST;MASC	ٹوٹ رہے تھے
+V;2;PL;HAB;LGSPEC4;FEMچاہناV;2;PL;HAB;LGSPEC4;FEM	چاہتی ہوتی
+V;2;PL;PROG;SBJV;FEMاٹھناV;2;PL;PROG;SBJV;FEM	اٹھ رہی ہو
+V;3;PL;PRF;PST;FEMدیکھناV;3;PL;PRF;PST;FEM	دیکھی تھیں
+V;V.PTCP;FEM;SG;PFVسہماناV;V.PTCP;FEM;SG;PFV	سہمایا
+V;3;SG;HAB;LGSPEC4;FEMآرام کرناV;3;SG;HAB;LGSPEC4;FEM	کرتا ہوتی
+N;ACC;PLسانسN;ACC;PL	سانسو
+V;3;PL;PRF;LGSPEC4;MASCعلاج کرناV;3;PL;PRF;LGSPEC4;MASC	علاج کیی ہوتے
+V;1;PL;SBJVجاگناV;1;PL;SBJV	ہم جاگیں
+V;3;SG;PRF;LGSPEC4;MASCسوپن دیکھناV;3;SG;PRF;LGSPEC4;MASC	سوپن دیکھا ہوتا
+V;1;SG;HAB;LGSPEC4;FEMآرام کرناV;1;SG;HAB;LGSPEC4;FEM	کرتا ہوتی
+V;1;PL;PROG;PST;MASCانتظار کرناV;1;PL;PROG;PST;MASC	انتظار کر رہی تھے
+V;2;PL;HAB;PST;MASCجاگناV;2;PL;HAB;PST;MASC	جاگتے تھے
+V;2;SG;PROG;PRS;FEMلگناV;2;SG;PROG;PRS;FEM	لگ رہی ہے
+V;1;SG;SBJV;FEMآرمبھ کرناV;1;SG;SBJV;FEM	میں آرمبھ کروں گی
+V;3;SG;PROG;LGSPEC3;FEMکہناV;3;SG;PROG;LGSPEC3;FEM	کہ رہی ہو گی
+V;2;PL;PRF;PRS;MASCدوڑناV;2;PL;PRF;PRS;MASC	دوڑے ہو
+V;3;SG;HAB;SBJV;MASCچودناV;3;SG;HAB;SBJV;MASC	چودتا ہو
+V;1;SG;PRF;LGSPEC3;MASCبٹورناV;1;SG;PRF;LGSPEC3;MASC	بٹورا ہوں گا
+V;3;PL;HAB;LGSPEC4;FEMپہنچناV;3;PL;HAB;LGSPEC4;FEM	پہنچتی ہوتی
+V;3;SG;HAB;LGSPEC4;MASCدکھاناV;3;SG;HAB;LGSPEC4;MASC	دکھاتا ہوتا
+V;2;SG;PROG;PRS;MASCآرام کرناV;2;SG;PROG;PRS;MASC	کر رہا ہے
+V;2;PL;SBJV;MASCسوپن دیکھناV;2;PL;SBJV;MASC	تم سوپن دیکھو گے
+V;1;SG;PRF;LGSPEC4;FEMسہمناV;1;SG;PRF;LGSPEC4;FEM	سہمی ہوتی
+V;1;SG;HAB;LGSPEC4;FEMآدر کرناV;1;SG;HAB;LGSPEC4;FEM	آدر کرتا ہوتی
+V;2;SG;PRF;LGSPEC4;MASCجلناV;2;SG;PRF;LGSPEC4;MASC	جلا ہوتا
+N;VOC;SGبالیN;VOC;SG	بالیی
+V;2;PL;HAB;LGSPEC3;FEMگان کرناV;2;PL;HAB;LGSPEC3;FEM	کرتی ہو گی
+V;1;PL;PRF;LGSPEC4;FEMچودناV;1;PL;PRF;LGSPEC4;FEM	چودی ہوتی
+V;2;SG;SBJV;MASCایسی تیسی کرناV;2;SG;SBJV;MASC	تو ایسی تیارییو کرے گا
+V;1;PL;HAB;SBJV;FEMکھیلناV;1;PL;HAB;SBJV;FEM	کھیلتی ہوں
+V;2;PL;HAB;LGSPEC3;FEMچاہناV;2;PL;HAB;LGSPEC3;FEM	چاہتی ہو گی
+V;V.PTCP;MASC;PL;IPFVجھکناV;V.PTCP;MASC;PL;IPFV	جھکتی
+V;2;PL;PROG;PRS;FEMسہمناV;2;PL;PROG;PRS;FEM	سہم رہی ہو
+N;ACC;PLروٹیN;ACC;PL	روٹیو
+V;3;PL;PROG;LGSPEC4;MASCجاگناV;3;PL;PROG;LGSPEC4;MASC	جاگ رہے ہوتے
+V;1;SG;PROG;PST;FEMمٹناV;1;SG;PROG;PST;FEM	مٹ رہی تھی
+V;2;PL;HAB;LGSPEC3;FEMآرام کرناV;2;PL;HAB;LGSPEC3;FEM	کرتی ہو گی
+V;1;SG;PRF;SBJV;MASCآرمبھ کرناV;1;SG;PRF;SBJV;MASC	آرمبھ کیا ہوں
+V;2;SG;PROG;LGSPEC3;FEMسمجھناV;2;SG;PROG;LGSPEC3;FEM	سمجھ رہی ہو گی
+V;1;SG;PRF;LGSPEC4;MASCچومناV;1;SG;PRF;LGSPEC4;MASC	چوما ہوتا
+V;3;PL;HAB;LGSPEC3;MASCختنہ کرناV;3;PL;HAB;LGSPEC3;MASC	ختنہ کرتی ہوں گے
+V;2;PL;SBJVلوٹناV;2;PL;SBJV	تم لوٹو
+V;1;PL;PRF;LGSPEC4;FEMجھانکناV;1;PL;PRF;LGSPEC4;FEM	جھانکی ہوتی
+V;3;SG;PROG;SBJV;MASCآشچریہ کرناV;3;SG;PROG;SBJV;MASC	آشچریہ کر رہا ہو
+V;3;SG;HAB;PRS;FEMگان کرناV;3;SG;HAB;PRS;FEM	کرتا ہے
+V;3;PL;PRF;PRS;MASCپڑھناV;3;PL;PRF;PRS;MASC	پڑھے ہیں
+V;1;SG;HAB;LGSPEC3;FEMآرمبھ کرناV;1;SG;HAB;LGSPEC3;FEM	آرمبھ کرتا ہوں گی
+V;2;SG;HAB;PRS;FEMآرمبھ کرناV;2;SG;HAB;PRS;FEM	آرمبھ کرتا ہے
+V;3;PL;PROG;SBJV;FEMآگرہ کرناV;3;PL;PROG;SBJV;FEM	آگرہ کر رہی ہوں
+V;3;PL;PRF;PST;MASCملاناV;3;PL;PRF;PST;MASC	ملاۓ تھے
+V;2;SG;PROG;PRS;FEMبرداشت کرناV;2;SG;PROG;PRS;FEM	برداشت کر رہی ہے
+V;3;PL;PRF;SBJV;FEMسیکھناV;3;PL;PRF;SBJV;FEM	سیکھی ہوں
+V;3;SG;SBJVسوپن دیکھناV;3;SG;SBJV	یہ  وہ سوپن دیکھے
+V;3;SG;HAB;PRS;FEMعلاج کرناV;3;SG;HAB;PRS;FEM	علاج کرتا ہے
+V;1;SG;PROG;SBJV;MASCغلط کرناV;1;SG;PROG;SBJV;MASC	غلط کر رہا ہوں
+V;2;SG;PRF;LGSPEC4;FEMچڑھناV;2;SG;PRF;LGSPEC4;FEM	چڑھی ہوتی
+V;3;SG;PROG;LGSPEC4;FEMدکھاناV;3;SG;PROG;LGSPEC4;FEM	دکھا رہی ہوتی
+V;1;PL;PRF;PRS;MASCبٹورناV;1;PL;PRF;PRS;MASC	بٹورے ہیں
+V;1;PL;HAB;LGSPEC3;MASCانکار کرناV;1;PL;HAB;LGSPEC3;MASC	انکار کرتی ہوں گے
+V;3;PL;PROG;LGSPEC4;MASCآشچریہ کرناV;3;PL;PROG;LGSPEC4;MASC	آشچریہ کر رہی ہوتی
+V;3;SG;PRF;SBJV;FEMچودناV;3;SG;PRF;SBJV;FEM	چودی ہو
+V;1;SG;PROG;LGSPEC4;FEMآشچریہ کرناV;1;SG;PROG;LGSPEC4;FEM	آشچریہ کر رہی ہوتی
+V;2;SG;PROG;LGSPEC4;MASCچومناV;2;SG;PROG;LGSPEC4;MASC	چوم رہا ہوتا
+V;1;SG;HAB;PST;FEMسمجھناV;1;SG;HAB;PST;FEM	سمجھتی تھی
+V;3;PL;PRF;SBJV;FEMپڑھناV;3;PL;PRF;SBJV;FEM	پڑھی ہوں
+V;2;PL;PRF;PST;FEMچڑھناV;2;PL;PRF;PST;FEM	چڑھی تھیں
+V;2;PL;PRF;SBJV;MASCانکار کرناV;2;PL;PRF;SBJV;MASC	انکار کیی ہو
+V;2;PL;HAB;LGSPEC4;MASCٹوٹناV;2;PL;HAB;LGSPEC4;MASC	ٹوٹتے ہوتے
+N;VOC;SGہِنساN;VOC;SG	ہنسا
+V;2;SG;PRF;PRS;FEMآگرہ کرناV;2;SG;PRF;PRS;FEM	آگرہ کیا ہے
+V;3;PL;PRF;PST;FEMملاناV;3;PL;PRF;PST;FEM	ملائی تھیں
+V;1;PL;PROG;SBJV;FEMآرمبھ کرناV;1;PL;PROG;SBJV;FEM	آرمبھ کر رہی ہوں
+V;3;PL;SBJV;FEMانکار کرناV;3;PL;SBJV;FEM	یہ  وہ انکار کریں گی
+V;3;PL;PROG;LGSPEC3;MASCخریدناV;3;PL;PROG;LGSPEC3;MASC	خرید رہے ہوں گے
+V;3;SG;PROG;LGSPEC4;MASCڈھانپناV;3;SG;PROG;LGSPEC4;MASC	ڈھانپا رہا ہوتا
+V;3;PL;PRF;LGSPEC3;MASCآگرہ کرناV;3;PL;PRF;LGSPEC3;MASC	آگرہ کیی ہوں گے
+V;1;SG;PROG;PRS;MASCلگناV;1;SG;PROG;PRS;MASC	لگ رہا ہوں
+V;2;SG;IMP;FORMجھکناV;2;SG;IMP;FORM	جھکئیے
+V;3;SG;PRF;PRS;FEMکہناV;3;SG;PRF;PRS;FEM	کہی ہے
+N;ACC;SGوگیانN;ACC;SG	وگیان
+V;3;PL;PROG;PRS;FEMبرداشت کرناV;3;PL;PROG;PRS;FEM	برداشت کر رہی ہیں
+V;1;SG;HAB;PRS;MASCروناV;1;SG;HAB;PRS;MASC	روتا ہوں
+V;1;PL;PROG;PRS;MASCسہمناV;1;PL;PROG;PRS;MASC	سہم رہے ہیں
+V;3;SG;HAB;PRS;MASCجھکناV;3;SG;HAB;PRS;MASC	جھکتا ہے
+V;3;SG;HAB;PST;MASCسہمناV;3;SG;HAB;PST;MASC	سہمتا تھا
+V;1;PL;PROG;PST;FEMجلناV;1;PL;PROG;PST;FEM	جل رہی تھیں
+V;2;PL;PRF;LGSPEC4;MASCچودناV;2;PL;PRF;LGSPEC4;MASC	چودے ہوتے
+V;2;SG;PROG;PST;FEMسیکھناV;2;SG;PROG;PST;FEM	سیکھ رہی تھی
+V;1;PL;HAB;PRS;MASCاستعمال کرناV;1;PL;HAB;PRS;MASC	استعمال کرتی ہیں
+V;2;PL;PROG;SBJV;FEMچودناV;2;PL;PROG;SBJV;FEM	چود رہی ہو
+V;1;SG;PROG;SBJV;MASCہنسناV;1;SG;PROG;SBJV;MASC	ہنس رہا ہوں
+V;3;PL;SBJV;FEMروناV;3;PL;SBJV;FEM	یہ  وہ روتی گی
+V;1;SG;PROG;PRS;FEMختنہ کرناV;1;SG;PROG;PRS;FEM	ختنہ کر رہی ہوں
+V;2;PL;HAB;LGSPEC4;MASCآرمبھ کرناV;2;PL;HAB;LGSPEC4;MASC	آرمبھ کرتی ہوتے
+V;1;PL;PRF;PST;FEMدیکھناV;1;PL;PRF;PST;FEM	دیکھی تھیں
+V;3;PL;PRF;LGSPEC4;MASCبہناV;3;PL;PRF;LGSPEC4;MASC	بہے ہوتے
+V;2;PL;PROG;PRS;FEMکہناV;2;PL;PROG;PRS;FEM	کہ رہی ہو
+V;3;SG;PROG;PRS;FEMجھانکناV;3;SG;PROG;PRS;FEM	جھانک رہی ہے
+N;VOC;PLپرمکھN;VOC;PL	پرمکھوں
+V;1;SG;PRF;PRS;FEMانتظار کرناV;1;SG;PRF;PRS;FEM	انتظار کیا ہوں
+N;NOM;SGرنڈیN;NOM;SG	رنڈی
+V;1;PL;PROG;PST;FEMلکھناV;1;PL;PROG;PST;FEM	لکھ رہی تھیں
+V;1;SG;HAB;PRS;FEMملاناV;1;SG;HAB;PRS;FEM	ملاتی ہوں
+V;2;PL;PRF;PRS;MASCجھکناV;2;PL;PRF;PRS;MASC	جھکے ہو
+V;1;SG;HAB;PST;MASCغلط کرناV;1;SG;HAB;PST;MASC	غلط کرتا تھا
+V;3;PL;PRF;LGSPEC3;FEMسیکھناV;3;PL;PRF;LGSPEC3;FEM	سیکھی ہوں گی
+V;3;PL;PRF;PRS;MASCاٹھاناV;3;PL;PRF;PRS;MASC	اٹھاۓ ہیں
+V;2;PL;PROG;LGSPEC3;MASCکہناV;2;PL;PROG;LGSPEC3;MASC	کہے رہے ہو گے
+V;2;PL;PRF;PRS;MASCخریدناV;2;PL;PRF;PRS;MASC	خریدے ہو
+V;2;PL;PRF;PRS;MASCسہماناV;2;PL;PRF;PRS;MASC	سہماۓ ہو
+V;2;SG;IMP;FORMآرام کرناV;2;SG;IMP;FORM	کرو
+V;3;PL;PROG;PST;FEMجاگناV;3;PL;PROG;PST;FEM	جاگ رہی تھیں
+V;2;PL;PROG;LGSPEC3;MASCچڑھناV;2;PL;PROG;LGSPEC3;MASC	چڑھ رہے ہو گے
+V;3;SG;HAB;SBJV;MASCسوچناV;3;SG;HAB;SBJV;MASC	سوچتا ہو
+V;3;SG;PROG;PRS;MASCپڑھناV;3;SG;PROG;PRS;MASC	پڑھ رہا ہے
+V;2;SG;PROG;PRS;MASCچاٹناV;2;SG;PROG;PRS;MASC	چاٹ رہا ہے
+V;NFIN;LGSPEC2بولناV;NFIN;LGSPEC2	بولنا
+V;1;PL;PRF;PRS;MASCاٹھاناV;1;PL;PRF;PRS;MASC	اٹھا ہیں
+V;1;PL;SBJV;FEMاستعمال کرناV;1;PL;SBJV;FEM	ہم استعمال کریں گی
+V;1;PL;PRF;LGSPEC4;MASCآرمبھ کرناV;1;PL;PRF;LGSPEC4;MASC	آرمبھ کیی ہوتے
+V;1;PL;PROG;PRS;MASCبٹورناV;1;PL;PROG;PRS;MASC	بٹور رہے ہیں
+V;1;SG;PROG;LGSPEC4;MASCآدر کرناV;1;SG;PROG;LGSPEC4;MASC	آدر کر رہا ہوتا
+V;1;SG;HAB;PRS;MASCجپناV;1;SG;HAB;PRS;MASC	جپتا ہوں
+V;2;SG;PRF;SBJV;FEMآدر کرناV;2;SG;PRF;SBJV;FEM	آدر کیا ہو
+V;3;SG;HAB;LGSPEC3;FEMجپناV;3;SG;HAB;LGSPEC3;FEM	جپتی ہو گی
+V;3;SG;PROG;PST;FEMچومناV;3;SG;PROG;PST;FEM	چوم رہی تھی
+V;1;PL;PROG;LGSPEC4;MASCسمجھناV;1;PL;PROG;LGSPEC4;MASC	سمجھ رہے ہوتے
+V;V.PTCP;MASC;PL;PFVکھیلناV;V.PTCP;MASC;PL;PFV	کھیلی
+V;2;PL;IMP;FORMسوپن دیکھناV;2;PL;IMP;FORM	سوپن دیکھو
+V;3;SG;PROG;SBJV;MASCمٹناV;3;SG;PROG;SBJV;MASC	مٹ رہا ہو
+V;2;PL;HAB;LGSPEC3;FEMانتظار کرناV;2;PL;HAB;LGSPEC3;FEM	انتظار کرتی ہو گی
+N;ACC;SGآتماN;ACC;SG	آتما
+V;1;PL;PRF;SBJV;FEMآشچریہ کرناV;1;PL;PRF;SBJV;FEM	آشچریہ کیی ہوں
+V;3;PL;PROG;SBJV;MASCانکار کرناV;3;PL;PROG;SBJV;MASC	انکار کر رہی ہوں
+V;1;PL;PROG;LGSPEC4;FEMپہنچناV;1;PL;PROG;LGSPEC4;FEM	پہنچ رہی ہوتی
+V;2;SG;HAB;LGSPEC4;MASCکھیلناV;2;SG;HAB;LGSPEC4;MASC	کھیلتا ہوتا
+N;ACC;SGنشانہN;ACC;SG	نشانے
+V;2;SG;PRF;PST;FEMچڑھناV;2;SG;PRF;PST;FEM	چڑھی تھی
+V;V.PTCP;MASC;PL;PFVجلاناV;V.PTCP;MASC;PL;PFV	جلایی
+V;3;SG;PRF;PRS;MASCانکار کرناV;3;SG;PRF;PRS;MASC	انکار کیا ہے
+V;2;PL;PROG;PRS;FEMکھیلناV;2;PL;PROG;PRS;FEM	کھیل رہی ہو
+V;2;PL;PROG;PST;FEMجلناV;2;PL;PROG;PST;FEM	جل رہی تھیں
+V;1;PL;HAB;SBJV;FEMٹوٹناV;1;PL;HAB;SBJV;FEM	ٹوٹتی ہوں
+V;2;PL;HAB;SBJV;MASCکہناV;2;PL;HAB;SBJV;MASC	کہتے ہو
+V;3;PL;PROG;PRS;FEMپہنچناV;3;PL;PROG;PRS;FEM	پہنچ رہی ہیں
+V;3;PL;PRF;LGSPEC3;MASCعلاج کرناV;3;PL;PRF;LGSPEC3;MASC	علاج کیی ہوں گے
+V;1;PL;PROG;PRS;MASCجلناV;1;PL;PROG;PRS;MASC	جل رہے ہیں
+V;3;PL;HAB;SBJV;FEMروناV;3;PL;HAB;SBJV;FEM	روتی ہوں
+V;1;PL;HAB;LGSPEC4;FEMپہنچناV;1;PL;HAB;LGSPEC4;FEM	پہنچتی ہوتی
+V;1;PL;PRF;PST;FEMچومناV;1;PL;PRF;PST;FEM	چومی تھیں
+V;3;PL;PRF;SBJV;MASCجھکناV;3;PL;PRF;SBJV;MASC	جھکے ہوں
+V;3;PL;HAB;LGSPEC4;FEMسہمناV;3;PL;HAB;LGSPEC4;FEM	سہمتی ہوتی
+V;1;SG;PROG;PRS;FEMملاناV;1;SG;PROG;PRS;FEM	ملا رہی ہوں
+V;3;PL;PRF;LGSPEC3;FEMڈھانپناV;3;PL;PRF;LGSPEC3;FEM	ڈھانپی ہوں گی
+V;1;PL;HAB;SBJV;MASCجلناV;1;PL;HAB;SBJV;MASC	جلتے ہوں
+N;VOC;PLزبانN;VOC;PL	زبانوں
+V;3;PL;PROG;PRS;MASCڈھانپناV;3;PL;PROG;PRS;MASC	ڈھانپ رہے ہیں
+V;1;PL;HAB;PRS;FEMجھانکناV;1;PL;HAB;PRS;FEM	جھانکتی ہیں
+V;1;SG;PRF;LGSPEC3;MASCسہماناV;1;SG;PRF;LGSPEC3;MASC	سہمایا ہوں گا
+N;ACC;PLندیN;ACC;PL	ندیو
+V;2;SG;PRF;PST;FEMجپناV;2;SG;PRF;PST;FEM	جپی تھی
+V;2;SG;PRF;PST;FEMجھکناV;2;SG;PRF;PST;FEM	جھکی تھی
+V;3;PL;PROG;SBJV;FEMبولناV;3;PL;PROG;SBJV;FEM	بول رہی ہوں
+V;V.PTCP;FEM;SG;IPFVبرداشت کرناV;V.PTCP;FEM;SG;IPFV	برداشت کی
+V;3;PL;PROG;PRS;FEMآدر کرناV;3;PL;PROG;PRS;FEM	آدر کر رہی ہیں
+N;NOM;PLمالاN;NOM;PL	مالاؤں
+V;2;SG;PROG;PST;FEMروناV;2;SG;PROG;PST;FEM	رو رہی تھی
+V;1;SG;HAB;LGSPEC3;FEMاستعمال کرناV;1;SG;HAB;LGSPEC3;FEM	استعمال کرتا ہوں گی
+V;1;SG;HAB;PST;FEMروناV;1;SG;HAB;PST;FEM	روتی تھی
+V;V.PTCP;MASC;PL;PFVعلاج کرناV;V.PTCP;MASC;PL;PFV	علاج کیا
+V;2;SG;PRF;SBJV;MASCعلاج کرناV;2;SG;PRF;SBJV;MASC	علاج کیا ہو
+N;ACC;SGالرجیN;ACC;SG	الرجی
+N;NOM;PLوگیانN;NOM;PL	وگیانوں
+V;3;SG;PROG;PRS;FEMسہماناV;3;SG;PROG;PRS;FEM	سہما رہی ہے
+V;3;SG;PROG;LGSPEC4;MASCکھیلناV;3;SG;PROG;LGSPEC4;MASC	کھیل رہا ہوتا
+V;2;PL;PRF;PST;MASCآرام کرناV;2;PL;PRF;PST;MASC	کیی تھے
+V;3;SG;PROG;PST;MASCپہنچناV;3;SG;PROG;PST;MASC	پہنچ رہا تھا
+V;1;SG;HAB;SBJV;MASCجلناV;1;SG;HAB;SBJV;MASC	جلتا ہوں
+V;2;PL;SBJV;FEMچاٹناV;2;PL;SBJV;FEM	تم چاٹتی گی
+N;NOM;PLمعیشتN;NOM;PL	معیشتو
+V;1;SG;PRF;LGSPEC3;FEMلکھناV;1;SG;PRF;LGSPEC3;FEM	لکھی ہوں گی
+V;3;SG;PRF;PST;MASCلوٹناV;3;SG;PRF;PST;MASC	لوٹا تھا
+V;3;PL;PRF;PST;MASCلوٹناV;3;PL;PRF;PST;MASC	لوٹے تھے
+V;3;PL;PROG;LGSPEC4;MASCاٹھناV;3;PL;PROG;LGSPEC4;MASC	اٹھ رہے ہوتے
+V;1;PL;PROG;LGSPEC3;MASCبٹورناV;1;PL;PROG;LGSPEC3;MASC	بٹورے رہے ہوں گے
+V;3;PL;PROG;LGSPEC3;MASCآرمبھ کرناV;3;PL;PROG;LGSPEC3;MASC	آرمبھ کریں رہے ہوں گے
+V;3;SG;HAB;PRS;MASCاٹھناV;3;SG;HAB;PRS;MASC	اٹھتا ہے
+V;2;PL;PROG;SBJV;FEMلوٹناV;2;PL;PROG;SBJV;FEM	لوٹ رہی ہو
+V;2;PL;HAB;LGSPEC4;FEMمٹناV;2;PL;HAB;LGSPEC4;FEM	مٹتی ہوتی
+V;1;PL;PRF;SBJV;FEMاستعمال کرناV;1;PL;PRF;SBJV;FEM	استعمال کیی ہوں
+V;1;SG;PROG;PST;FEMعلاج کرناV;1;SG;PROG;PST;FEM	علاج کر رہی تھی
+V;2;PL;HAB;LGSPEC4;FEMسوپن دیکھناV;2;PL;HAB;LGSPEC4;FEM	سوپن دیکھتے ہوتی
+V;2;SG;PROG;SBJV;MASCملاناV;2;SG;PROG;SBJV;MASC	ملا رہا ہو
+V;1;PL;HAB;LGSPEC4;FEMایسی تیسی کرناV;1;PL;HAB;LGSPEC4;FEM	ایسی تیاریی کرتی ہوتی
+V;2;PL;HAB;SBJV;MASCخریدناV;2;PL;HAB;SBJV;MASC	خریدتے ہو
+V;3;PL;PRF;LGSPEC3;FEMجاگناV;3;PL;PRF;LGSPEC3;FEM	جاگی ہوں گی
+V;3;SG;HAB;PRS;FEMکھیلناV;3;SG;HAB;PRS;FEM	کھیلتی ہے
+V;1;SG;PRF;SBJV;FEMسہمناV;1;SG;PRF;SBJV;FEM	سہمی ہوں
+V;2;PL;PROG;LGSPEC4;FEMپہنچناV;2;PL;PROG;LGSPEC4;FEM	پہنچ رہی ہوتی
+V;3;SG;HAB;LGSPEC3;FEMچڑھناV;3;SG;HAB;LGSPEC3;FEM	چڑھتی ہو گی
+V;2;PL;HAB;LGSPEC3;MASCجھکناV;2;PL;HAB;LGSPEC3;MASC	جھکتے ہو گے
+V;1;SG;SBJV;FEMسہمناV;1;SG;SBJV;FEM	میں سہموں گی
+N;VOC;PLسانپN;VOC;PL	سانپ
+V;2;PL;HAB;PRS;FEMخریدناV;2;PL;HAB;PRS;FEM	خریدتی ہو
+V;2;SG;PROG;SBJV;FEMسوپن دیکھناV;2;SG;PROG;SBJV;FEM	سوپن دیکھ رہی ہو
+V;V.PTCP;FEM;PL;PFVجلناV;V.PTCP;FEM;PL;PFV	جلا
+V;2;SG;SBJV;FEMروناV;2;SG;SBJV;FEM	تو رو گی
+V;2;SG;PROG;SBJV;FEMٹوٹناV;2;SG;PROG;SBJV;FEM	ٹوٹ رہی ہو
+V;1;SG;PROG;SBJV;FEMچومناV;1;SG;PROG;SBJV;FEM	چوم رہی ہوں
+V;2;PL;PROG;LGSPEC4;MASCروناV;2;PL;PROG;LGSPEC4;MASC	رو رہے ہوتے
+V;2;PL;HAB;LGSPEC3;FEMعیش کرناV;2;PL;HAB;LGSPEC3;FEM	عیش شکتی ہو گی
+N;ACC;SGدھندھاN;ACC;SG	دھندھے
+V;3;PL;HAB;PST;MASCچڑھناV;3;PL;HAB;PST;MASC	چڑھتے تھے
+V;V.PTCP;MASC;SG;IPFVلوٹناV;V.PTCP;MASC;SG;IPFV	لوٹتے
+V;2;SG;HAB;LGSPEC3;FEMجاگناV;2;SG;HAB;LGSPEC3;FEM	جاگتی ہو گی
+V;1;SG;HAB;PST;MASCجلاناV;1;SG;HAB;PST;MASC	جلاتا تھا
+N;VOC;SGلیکھکN;VOC;SG	لیکھکو
+V;1;PL;SBJVدکھاناV;1;PL;SBJV	ہم دکھایں
+V;1;SG;PROG;LGSPEC4;MASCچومناV;1;SG;PROG;LGSPEC4;MASC	چوم رہا ہوتا
+V;2;SG;HAB;PST;MASCپہنچناV;2;SG;HAB;PST;MASC	پہنچتا تھا
+V;2;SG;PROG;PST;MASCچاہناV;2;SG;PROG;PST;MASC	چاہ رہا تھا
+V;3;SG;PRF;PRS;FEMعیش کرناV;3;SG;PRF;PRS;FEM	عیش شکتی ہے
+V;1;SG;PRF;PRS;FEMایسی تیسی کرناV;1;SG;PRF;PRS;FEM	ایسی تیارییو کیا ہوں
+V;2;PL;SBJV;MASCٹوٹناV;2;PL;SBJV;MASC	تم ٹوٹے گے
+V;2;SG;PRF;LGSPEC4;FEMجاگناV;2;SG;PRF;LGSPEC4;FEM	جاگی ہوتی
+V;3;PL;PRF;PST;FEMجھکناV;3;PL;PRF;PST;FEM	جھکی تھیں
+V;3;SG;HAB;LGSPEC4;FEMاستعمال کرناV;3;SG;HAB;LGSPEC4;FEM	استعمال کرتا ہوتی
+V;1;SG;HAB;LGSPEC3;FEMآگرہ کرناV;1;SG;HAB;LGSPEC3;FEM	آگرہ کرتا ہوں گی
+V;2;SG;PRF;PRS;MASCجھانکناV;2;SG;PRF;PRS;MASC	جھانکا ہے
+V;3;PL;PROG;PST;FEMآدر کرناV;3;PL;PROG;PST;FEM	آدر کر رہی تھیں
+V;1;SG;PROG;SBJV;MASCآرمبھ کرناV;1;SG;PROG;SBJV;MASC	آرمبھ کر رہا ہوں
+V;2;SG;PRF;SBJV;FEMعلاج کرناV;2;SG;PRF;SBJV;FEM	علاج کیا ہو
+V;2;SG;PROG;PST;FEMآگرہ کرناV;2;SG;PROG;PST;FEM	آگرہ کر رہی تھی
+V;1;PL;PROG;SBJV;FEMبٹورناV;1;PL;PROG;SBJV;FEM	بٹور رہی ہوں
+V;3;PL;PRF;PRS;MASCپہنچناV;3;PL;PRF;PRS;MASC	پہنچے ہیں
+V;2;SG;SBJV;MASCسکناV;2;SG;SBJV;MASC	تو سکو گا
+N;VOC;PLاخروٹN;VOC;PL	اخروٹوں
+V;V.PTCP;FEM;SG;PFVچاٹناV;V.PTCP;FEM;SG;PFV	چاٹا
+N;ACC;SGچڑیاN;ACC;SG	چڑیا
+V;3;PL;PRF;SBJV;MASCسیکھناV;3;PL;PRF;SBJV;MASC	سیکھے ہوں
+V;1;SG;PRF;LGSPEC3;MASCچومناV;1;SG;PRF;LGSPEC3;MASC	چوم ہوں گا
+V;1;SG;HAB;LGSPEC3;FEMکھیلناV;1;SG;HAB;LGSPEC3;FEM	کھیلتی ہوں گی
+V;3;PL;HAB;LGSPEC4;FEMدوڑناV;3;PL;HAB;LGSPEC4;FEM	دوڑی ہوتی
+V;2;PL;PRF;SBJV;FEMکہناV;2;PL;PRF;SBJV;FEM	کہی ہو
+V;1;PL;SBJVہنسناV;1;PL;SBJV	ہم ہنسیں
+V;3;SG;PRF;PST;FEMڈھانپناV;3;SG;PRF;PST;FEM	ڈھانپی تھی
+V;3;PL;PRF;SBJV;FEMآدر کرناV;3;PL;PRF;SBJV;FEM	آدر کیی ہوں
+V;1;PL;PROG;SBJV;MASCسمجھناV;1;PL;PROG;SBJV;MASC	سمجھ رہے ہوں
+V;2;SG;HAB;LGSPEC4;MASCخریدناV;2;SG;HAB;LGSPEC4;MASC	خریدتا ہوتا
+V;1;SG;HAB;PST;FEMہنسناV;1;SG;HAB;PST;FEM	ہنستی تھی
+V;2;SG;HAB;SBJV;MASCاستعمال کرناV;2;SG;HAB;SBJV;MASC	استعمال کرتا ہو
+V;3;PL;PROG;PST;MASCجپناV;3;PL;PROG;PST;MASC	جپ رہے تھے
+V;2;SG;PROG;LGSPEC4;FEMخریدناV;2;SG;PROG;LGSPEC4;FEM	خرید رہی ہوتی
+V;2;PL;HAB;LGSPEC3;FEMجلناV;2;PL;HAB;LGSPEC3;FEM	جلتی ہو گی
+V;2;PL;PROG;LGSPEC3;FEMلوٹناV;2;PL;PROG;LGSPEC3;FEM	لوٹی رہی ہو گی
+V;3;PL;HAB;SBJV;FEMعیش کرناV;3;PL;HAB;SBJV;FEM	عیش شکتی ہوں
+V;2;PL;HAB;SBJV;MASCسمجھناV;2;PL;HAB;SBJV;MASC	سمجھتے ہو
+V;3;SG;SBJV;MASCآشچریہ کرناV;3;SG;SBJV;MASC	یہ  وہ آشچریہ کرے گا
+V;1;PL;PRF;LGSPEC4;MASCدکھاناV;1;PL;PRF;LGSPEC4;MASC	دکھا ہوتے
+V;2;SG;HAB;PST;MASCسہمناV;2;SG;HAB;PST;MASC	سہمتا تھا
+V;2;PL;SBJVاٹھناV;2;PL;SBJV	تم اٹھو
+V;1;SG;PROG;SBJV;MASCآرام کرناV;1;SG;PROG;SBJV;MASC	کر رہا ہوں
+V;2;PL;HAB;LGSPEC3;MASCچڑھناV;2;PL;HAB;LGSPEC3;MASC	چڑھتے ہو گے
+V;2;PL;HAB;LGSPEC3;MASCدکھاناV;2;PL;HAB;LGSPEC3;MASC	دکھاتے ہو گے
+V;2;SG;PRF;PRS;FEMغلط کرناV;2;SG;PRF;PRS;FEM	غلط کیا ہے
+V;1;PL;PROG;PRS;FEMلوٹناV;1;PL;PROG;PRS;FEM	لوٹ رہی ہیں
+V;1;PL;HAB;PRS;MASCآرمبھ کرناV;1;PL;HAB;PRS;MASC	آرمبھ کرتی ہیں
+V;3;PL;HAB;PRS;MASCسمجھناV;3;PL;HAB;PRS;MASC	سمجھتے ہیں
+V;1;SG;PRF;LGSPEC4;MASCاترناV;1;SG;PRF;LGSPEC4;MASC	اترا ہوتا
+V;2;PL;HAB;LGSPEC3;MASCدیکھناV;2;PL;HAB;LGSPEC3;MASC	دیکھتے ہو گے
+V;1;SG;PRF;PRS;FEMاستعمال کرناV;1;SG;PRF;PRS;FEM	استعمال کیا ہوں
+V;2;PL;PROG;PRS;FEMدکھاناV;2;PL;PROG;PRS;FEM	دکھا رہی ہو
+V;2;PL;HAB;LGSPEC4;FEMجلاناV;2;PL;HAB;LGSPEC4;FEM	جلاتی ہوتی
+V;3;PL;PRF;LGSPEC4;MASCبولناV;3;PL;PRF;LGSPEC4;MASC	بولے ہوتے
+V;1;PL;PRF;PST;FEMبرداشت کرناV;1;PL;PRF;PST;FEM	برداشت کیی تھیں
+V;2;SG;PROG;LGSPEC4;FEMختنہ کرناV;2;SG;PROG;LGSPEC4;FEM	ختنہ کر رہی ہوتی
+V;2;PL;PRF;PRS;FEMٹوٹناV;2;PL;PRF;PRS;FEM	ٹوٹی ہو
+V;1;SG;PROG;PST;MASCخریدناV;1;SG;PROG;PST;MASC	خرید رہا تھا
+V;2;PL;HAB;LGSPEC3;FEMچڑھناV;2;PL;HAB;LGSPEC3;FEM	چڑھتی ہو گی
+V;3;SG;HAB;PRS;FEMدکھاناV;3;SG;HAB;PRS;FEM	دکھاتی ہے
+V;3;SG;PROG;PST;MASCاترناV;3;SG;PROG;PST;MASC	اتر رہا تھا
+V;3;PL;PRF;PRS;FEMجلاناV;3;PL;PRF;PRS;FEM	جلائی ہیں
+V;3;SG;PROG;PRS;FEMڈھانپناV;3;SG;PROG;PRS;FEM	ڈھانپ رہی ہے
+V;2;PL;PRF;LGSPEC3;FEMسمجھناV;2;PL;PRF;LGSPEC3;FEM	سمجھی ہو گی
+V;3;SG;PROG;PST;FEMبٹورناV;3;SG;PROG;PST;FEM	بٹور رہی تھی
+V;2;PL;PRF;LGSPEC3;MASCآشچریہ کرناV;2;PL;PRF;LGSPEC3;MASC	آشچریہ کیی ہو گے
+N;ACC;PLوعدہN;ACC;PL	وعدو
+V;2;SG;PRF;LGSPEC4;FEMبرداشت کرناV;2;SG;PRF;LGSPEC4;FEM	برداشت کیا ہوتی
+V;NFIN;LGSPEC2پڑھناV;NFIN;LGSPEC2	پڑھنا
+V;1;PL;PRF;LGSPEC3;MASCختنہ کرناV;1;PL;PRF;LGSPEC3;MASC	ختنہ کیی ہوں گے
+V;1;SG;PRF;PST;MASCجلاناV;1;SG;PRF;PST;MASC	جلایا تھا
+V;3;PL;PRF;PST;MASCکھیلناV;3;PL;PRF;PST;MASC	کھیلے تھے
+V;2;SG;PRF;LGSPEC4;FEMچودناV;2;SG;PRF;LGSPEC4;FEM	چودی ہوتی
+V;3;PL;SBJV;MASCچودناV;3;PL;SBJV;MASC	یہ  وہ چودے گے
+V;1;SG;PROG;PST;MASCاستعمال کرناV;1;SG;PROG;PST;MASC	استعمال کر رہا تھا
+V;3;SG;PROG;LGSPEC4;FEMلکھناV;3;SG;PROG;LGSPEC4;FEM	لکھ رہی ہوتی
+V;2;SG;IMP;INFMملاناV;2;SG;IMP;INFM	ملاؤ
+V;3;SG;HAB;PRS;FEMآشچریہ کرناV;3;SG;HAB;PRS;FEM	آشچریہ کرتا ہے
+V;2;SG;HAB;SBJV;FEMدیکھناV;2;SG;HAB;SBJV;FEM	دیکھتی ہو
+V;3;PL;HAB;LGSPEC3;MASCروناV;3;PL;HAB;LGSPEC3;MASC	روتے ہوں گے
+V;2;SG;HAB;SBJV;FEMدکھاناV;2;SG;HAB;SBJV;FEM	دکھاتی ہو
+V;2;PL;PRF;LGSPEC3;FEMجپناV;2;PL;PRF;LGSPEC3;FEM	جپی ہو گی
+N;VOC;PLصوبہN;VOC;PL	صوبوں
+V;2;PL;PROG;PRS;FEMسوچناV;2;PL;PROG;PRS;FEM	سوچ رہی ہو
+V;V.PTCP;FEM;SG;IPFVچاٹناV;V.PTCP;FEM;SG;IPFV	چاٹتے
+V;3;PL;PRF;SBJV;FEMچاہناV;3;PL;PRF;SBJV;FEM	چاہی ہوں
+V;2;PL;HAB;PRS;MASCآدر کرناV;2;PL;HAB;PRS;MASC	آدر کرتی ہو
+V;1;PL;PRF;LGSPEC3;MASCلگناV;1;PL;PRF;LGSPEC3;MASC	لگے ہوں گے
+V;2;PL;PROG;LGSPEC3;FEMبولناV;2;PL;PROG;LGSPEC3;FEM	بول رہی ہو گی
+V;1;PL;HAB;LGSPEC4;FEMجپناV;1;PL;HAB;LGSPEC4;FEM	جپتی ہوتی
+V;2;SG;PRF;LGSPEC4;FEMعلاج کرناV;2;SG;PRF;LGSPEC4;FEM	علاج کیا ہوتی
+V;3;SG;SBJVسکناV;3;SG;SBJV	یہ  وہ سکیں
+V;3;SG;HAB;PRS;MASCکہناV;3;SG;HAB;PRS;MASC	کہتا ہے
+V;1;SG;PROG;PRS;MASCعلاج کرناV;1;SG;PROG;PRS;MASC	علاج کر رہا ہوں
+V;1;PL;PROG;SBJV;FEMغلط کرناV;1;PL;PROG;SBJV;FEM	غلط کر رہی ہوں
+V;1;PL;PRF;PRS;FEMملاناV;1;PL;PRF;PRS;FEM	ملائی ہیں
+V;3;SG;HAB;LGSPEC4;FEMبرداشت کرناV;3;SG;HAB;LGSPEC4;FEM	برداشت کرتا ہوتی
+V;1;SG;PRF;PRS;MASCدکھاناV;1;SG;PRF;PRS;MASC	دکھایا ہوں
+V;1;PL;HAB;LGSPEC3;MASCبرداشت کرناV;1;PL;HAB;LGSPEC3;MASC	برداشت کرتی ہوں گے
+V;2;SG;SBJV;FEMسہمناV;2;SG;SBJV;FEM	تو سہمتی گی
+N;VOC;PLہِنساN;VOC;PL	ہنسائیں
+V;3;PL;HAB;PRS;FEMجلاناV;3;PL;HAB;PRS;FEM	جلاتی ہیں
+V;1;PL;PRF;LGSPEC3;FEMاستعمال کرناV;1;PL;PRF;LGSPEC3;FEM	استعمال کیی ہوں گی
+V;1;SG;HAB;LGSPEC4;FEMبرداشت کرناV;1;SG;HAB;LGSPEC4;FEM	برداشت کرتا ہوتی
+V;2;SG;PROG;LGSPEC4;FEMچڑھناV;2;SG;PROG;LGSPEC4;FEM	چڑھ رہی ہوتی
+V;3;SG;PROG;PRS;MASCبولناV;3;SG;PROG;PRS;MASC	بول رہا ہے
+V;2;SG;PROG;PST;MASCلکھناV;2;SG;PROG;PST;MASC	لکھ رہا تھا
+V;V.PTCP;MASC;PL;IPFVروناV;V.PTCP;MASC;PL;IPFV	روتی
+V;2;PL;HAB;LGSPEC3;FEMآرمبھ کرناV;2;PL;HAB;LGSPEC3;FEM	آرمبھ کرتی ہو گی
+N;NOM;PLبجلیN;NOM;PL	بجلیوں
+V;2;SG;SBJV;MASCدکھاناV;2;SG;SBJV;MASC	تو دکھاۓ گا
+V;1;PL;PRF;PST;FEMانکار کرناV;1;PL;PRF;PST;FEM	انکار کیی تھیں
+V;1;PL;PROG;LGSPEC3;FEMآگرہ کرناV;1;PL;PROG;LGSPEC3;FEM	آگرہ کر رہی ہوں گی
+V;2;PL;PRF;LGSPEC3;MASCملاناV;2;PL;PRF;LGSPEC3;MASC	ملاۓ ہو گے
+V;3;SG;HAB;PST;MASCآرمبھ کرناV;3;SG;HAB;PST;MASC	آرمبھ کرتا تھا
+V;2;PL;PROG;SBJV;FEMجاگناV;2;PL;PROG;SBJV;FEM	جاگ رہی ہو
+V;3;SG;HAB;LGSPEC3;FEMپڑھناV;3;SG;HAB;LGSPEC3;FEM	پڑھتی ہو گی
+V;1;PL;HAB;LGSPEC3;FEMجھانکناV;1;PL;HAB;LGSPEC3;FEM	جھانکتی ہوں گی
+V;2;PL;PROG;SBJV;MASCسوچناV;2;PL;PROG;SBJV;MASC	سوچ رہے ہو
+V;3;PL;PRF;LGSPEC3;MASCٹوٹناV;3;PL;PRF;LGSPEC3;MASC	ٹوٹے ہوں گے
+V;3;SG;HAB;LGSPEC3;MASCپڑھناV;3;SG;HAB;LGSPEC3;MASC	پڑھتا ہو گا
+V;1;PL;PROG;PST;FEMدوڑناV;1;PL;PROG;PST;FEM	دوڑ رہی تھیں
+V;V.PTCP;FEM;SG;IPFVجھکناV;V.PTCP;FEM;SG;IPFV	جھکتا
+V;2;PL;PROG;PST;MASCسہماناV;2;PL;PROG;PST;MASC	سہما رہے تھے
+V;V.PTCP;MASC;SG;PFVروناV;V.PTCP;MASC;SG;PFV	روۓ
+V;3;SG;HAB;LGSPEC3;MASCختنہ کرناV;3;SG;HAB;LGSPEC3;MASC	ختنہ کرتا ہو گا
+V;1;SG;PRF;LGSPEC3;MASCبہناV;1;SG;PRF;LGSPEC3;MASC	بہا ہوں گا
+V;3;PL;PRF;PST;FEMعلاج کرناV;3;PL;PRF;PST;FEM	علاج کیی تھیں
+V;3;SG;SBJVبٹورناV;3;SG;SBJV	یہ  وہ بٹوریں
+V;3;PL;HAB;LGSPEC3;FEMجاگناV;3;PL;HAB;LGSPEC3;FEM	جاگتی ہوں گی
+V;3;SG;HAB;LGSPEC4;FEMپہنچناV;3;SG;HAB;LGSPEC4;FEM	پہنچتی ہوتی
+V;3;PL;PROG;LGSPEC3;MASCاٹھناV;3;PL;PROG;LGSPEC3;MASC	اٹھے رہے ہوں گے
+V;2;SG;HAB;SBJV;FEMلگناV;2;SG;HAB;SBJV;FEM	لگتی ہو
+V;1;SG;PROG;LGSPEC3;FEMبولناV;1;SG;PROG;LGSPEC3;FEM	بول رہی ہوں گی
+V;3;PL;PRF;SBJV;MASCبولناV;3;PL;PRF;SBJV;MASC	بولے ہوں
+V;1;PL;PROG;PRS;FEMچومناV;1;PL;PROG;PRS;FEM	چوم رہی ہیں
+V;3;SG;PRF;LGSPEC3;MASCاترناV;3;SG;PRF;LGSPEC3;MASC	اترا ہو گا
+V;1;SG;PRF;PST;FEMعلاج کرناV;1;SG;PRF;PST;FEM	علاج کیا تھی
+V;3;SG;PROG;LGSPEC3;MASCاٹھاناV;3;SG;PROG;LGSPEC3;MASC	اٹھایا رہا ہو گا
+V;3;PL;PRF;PRS;FEMآگرہ کرناV;3;PL;PRF;PRS;FEM	آگرہ کیی ہیں
+V;1;SG;PRF;LGSPEC3;MASCلوٹناV;1;SG;PRF;LGSPEC3;MASC	لوٹا ہوں گا
+V;3;PL;HAB;PRS;FEMسوچناV;3;PL;HAB;PRS;FEM	سوچتی ہیں
+V;3;PL;PRF;SBJV;FEMڈھانپناV;3;PL;PRF;SBJV;FEM	ڈھانپی ہوں
+V;2;SG;HAB;LGSPEC4;FEMہنسناV;2;SG;HAB;LGSPEC4;FEM	ہنستی ہوتی
+V;3;PL;PRF;PRS;MASCگان کرناV;3;PL;PRF;PRS;MASC	کیی ہیں
+V;1;PL;PROG;PRS;FEMدیکھناV;1;PL;PROG;PRS;FEM	دیکھ رہی ہیں
+N;VOC;SGآدمیN;VOC;SG	آدمی
+V;3;PL;HAB;PST;MASCعیش کرناV;3;PL;HAB;PST;MASC	عیش شکتی تھے
+V;3;PL;PRF;PST;FEMاٹھاناV;3;PL;PRF;PST;FEM	اٹھائی تھیں
+V;3;PL;PROG;LGSPEC3;FEMاترناV;3;PL;PROG;LGSPEC3;FEM	اتر رہی ہوں گی
+V;1;SG;PROG;LGSPEC4;FEMسوپن دیکھناV;1;SG;PROG;LGSPEC4;FEM	سوپن دیکھ رہی ہوتی
+V;2;SG;PRF;PRS;FEMکھیلناV;2;SG;PRF;PRS;FEM	کھیلی ہے
+V;2;PL;PRF;PRS;MASCہنسناV;2;PL;PRF;PRS;MASC	ہنسے ہو
+V;2;PL;PROG;LGSPEC3;MASCانکار کرناV;2;PL;PROG;LGSPEC3;MASC	انکار کرو رہے ہو گے
+V;2;PL;PROG;PRS;FEMلگناV;2;PL;PROG;PRS;FEM	لگ رہی ہو
+V;3;PL;PRF;SBJV;FEMپہنچناV;3;PL;PRF;SBJV;FEM	پہنچی ہوں
+V;1;PL;HAB;LGSPEC4;FEMجلاناV;1;PL;HAB;LGSPEC4;FEM	جلاتی ہوتی
+V;2;SG;HAB;PRS;FEMچڑھناV;2;SG;HAB;PRS;FEM	چڑھتی ہے
+V;3;PL;PROG;SBJV;MASCآگرہ کرناV;3;PL;PROG;SBJV;MASC	آگرہ کر رہی ہوں
+V;1;SG;HAB;LGSPEC3;MASCجلاناV;1;SG;HAB;LGSPEC3;MASC	جلاتا ہوں گا
+V;2;SG;PROG;LGSPEC3;FEMچومناV;2;SG;PROG;LGSPEC3;FEM	چوم رہی ہو گی
+V;3;SG;PROG;PST;MASCلکھناV;3;SG;PROG;PST;MASC	لکھ رہا تھا
+N;ACC;SGسیبN;ACC;SG	سیب
+V;2;SG;PRF;PST;FEMبرداشت کرناV;2;SG;PRF;PST;FEM	برداشت کیا تھی
+V;1;PL;SBJVچاہناV;1;PL;SBJV	ہم چاہیں
+V;3;SG;HAB;LGSPEC4;MASCلوٹناV;3;SG;HAB;LGSPEC4;MASC	لوٹتا ہوتا
+V;3;SG;PROG;LGSPEC4;MASCہنسناV;3;SG;PROG;LGSPEC4;MASC	ہنس رہا ہوتا
+V;1;SG;PRF;LGSPEC3;FEMچودناV;1;SG;PRF;LGSPEC3;FEM	چودی ہوں گی
+V;3;SG;PRF;PST;MASCلکھناV;3;SG;PRF;PST;MASC	لکھا تھا
+V;V.PTCP;MASC;PL;IPFVجپناV;V.PTCP;MASC;PL;IPFV	جپتا
+V;1;PL;PROG;PST;MASCاستعمال کرناV;1;PL;PROG;PST;MASC	استعمال کر رہی تھے
+V;3;SG;PRF;LGSPEC4;MASCاٹھاناV;3;SG;PRF;LGSPEC4;MASC	اٹھا ہوتا
+V;3;SG;PRF;LGSPEC3;FEMجپناV;3;SG;PRF;LGSPEC3;FEM	جپی ہو گی
+N;NOM;SGپرمکھN;NOM;SG	پرمکھ
+V;2;PL;PRF;SBJV;FEMپڑھناV;2;PL;PRF;SBJV;FEM	پڑھی ہو
+V;2;PL;PRF;PRS;MASCبہناV;2;PL;PRF;PRS;MASC	بہے ہو
+N;VOC;PLپرستشN;VOC;PL	پرستشوں
+N;NOM;SGہونٹھN;NOM;SG	ہونٹھ
+V;1;PL;PROG;LGSPEC4;MASCخریدناV;1;PL;PROG;LGSPEC4;MASC	خرید رہے ہوتے
+V;1;PL;PROG;LGSPEC4;FEMڈھانپناV;1;PL;PROG;LGSPEC4;FEM	ڈھانپ رہی ہوتی
+V;3;SG;PROG;LGSPEC4;FEMبہناV;3;SG;PROG;LGSPEC4;FEM	بہ رہی ہوتی
+V;2;PL;PROG;LGSPEC3;FEMجھانکناV;2;PL;PROG;LGSPEC3;FEM	جھانک رہی ہو گی
+V;2;PL;PROG;SBJV;MASCہنسناV;2;PL;PROG;SBJV;MASC	ہنس رہے ہو
+V;2;SG;SBJV;MASCآرام کرناV;2;SG;SBJV;MASC	تو کرے گا
+V;1;SG;PROG;LGSPEC4;MASCانکار کرناV;1;SG;PROG;LGSPEC4;MASC	انکار کر رہا ہوتا
+V;1;PL;PRF;PRS;MASCبہناV;1;PL;PRF;PRS;MASC	بہے ہیں
+V;3;SG;PRF;LGSPEC3;MASCسوچناV;3;SG;PRF;LGSPEC3;MASC	سوچا ہو گا
+V;2;PL;HAB;LGSPEC4;MASCبرداشت کرناV;2;PL;HAB;LGSPEC4;MASC	برداشت کرتی ہوتے
+V;1;PL;PRF;PRS;MASCروناV;1;PL;PRF;PRS;MASC	روۓ ہیں
+V;V.PTCP;MASC;SG;PFVگان کرناV;V.PTCP;MASC;SG;PFV	گان کیا
+V;3;PL;PRF;PRS;FEMٹوٹناV;3;PL;PRF;PRS;FEM	ٹوٹی ہیں
+N;ACC;SGفیصلہN;ACC;SG	فیصلے
+V;3;SG;HAB;LGSPEC3;MASCاٹھاناV;3;SG;HAB;LGSPEC3;MASC	اٹھاتا ہو گا
+V;1;PL;PRF;PRS;MASCلوٹناV;1;PL;PRF;PRS;MASC	لوٹے ہیں
+V;3;PL;HAB;LGSPEC3;MASCملاناV;3;PL;HAB;LGSPEC3;MASC	ملاتے ہوں گے
+N;ACC;SGملکN;ACC;SG	ملک
+V;1;SG;SBJV;MASCسوپن دیکھناV;1;SG;SBJV;MASC	میں سوپن دیکھوں گا
+V;2;PL;PROG;LGSPEC3;MASCلکھناV;2;PL;PROG;LGSPEC3;MASC	لکھ رہے ہو گے
+V;1;PL;PRF;LGSPEC4;MASCخریدناV;1;PL;PRF;LGSPEC4;MASC	خریدے ہوتے
+V;2;SG;PROG;LGSPEC4;MASCعلاج کرناV;2;SG;PROG;LGSPEC4;MASC	علاج کر رہا ہوتا
+N;NOM;PLدھندھاN;NOM;PL	دھندھوں
+V;V.PTCP;MASC;SG;IPFVسمجھناV;V.PTCP;MASC;SG;IPFV	سمجھتی
+V;1;SG;PRF;LGSPEC4;MASCپڑھناV;1;SG;PRF;LGSPEC4;MASC	پڑھا ہوتا
+V;3;PL;HAB;LGSPEC4;FEMملاناV;3;PL;HAB;LGSPEC4;FEM	ملاتی ہوتی
+V;2;SG;PRF;PRS;FEMاستعمال کرناV;2;SG;PRF;PRS;FEM	استعمال کیا ہے
+V;3;SG;PROG;PRS;FEMچاہناV;3;SG;PROG;PRS;FEM	چاہ رہی ہے
+V;2;SG;PRF;PST;FEMجھانکناV;2;SG;PRF;PST;FEM	جھانکی تھی
+V;3;PL;HAB;SBJV;MASCچڑھناV;3;PL;HAB;SBJV;MASC	چڑھتے ہوں
+V;3;PL;PROG;SBJV;FEMمٹناV;3;PL;PROG;SBJV;FEM	مٹ رہی ہوں
+V;1;SG;HAB;PST;FEMسوچناV;1;SG;HAB;PST;FEM	سوچتی تھی
+V;2;PL;PROG;PST;MASCچومناV;2;PL;PROG;PST;MASC	چوم رہی تھے
+V;1;PL;HAB;PST;MASCملاناV;1;PL;HAB;PST;MASC	ملاتے تھے
+V;1;SG;SBJV;MASCجھکناV;1;SG;SBJV;MASC	میں جھکوں گا
+V;1;PL;PRF;LGSPEC3;MASCجلناV;1;PL;PRF;LGSPEC3;MASC	جلے ہوں گے
+N;VOC;PLسرکارN;VOC;PL	سرکاروں
+V;3;PL;SBJV;MASCمٹناV;3;PL;SBJV;MASC	یہ  وہ مٹے گے
+V;2;PL;PROG;LGSPEC3;MASCروناV;2;PL;PROG;LGSPEC3;MASC	رو رہے ہو گے
+V;2;PL;PRF;SBJV;FEMسمجھناV;2;PL;PRF;SBJV;FEM	سمجھی ہو
+V;3;SG;HAB;LGSPEC3;FEMعلاج کرناV;3;SG;HAB;LGSPEC3;FEM	علاج کرتا ہو گی
+V;2;SG;PROG;PRS;FEMسکناV;2;SG;PROG;PRS;FEM	سک رہی ہے
+N;NOM;SGروگN;NOM;SG	روگ
+V;1;SG;PROG;SBJV;FEMآشچریہ کرناV;1;SG;PROG;SBJV;FEM	آشچریہ کر رہی ہوں
+V;3;SG;HAB;LGSPEC3;FEMڈھانپناV;3;SG;HAB;LGSPEC3;FEM	ڈھانپتی ہو گی
+V;3;PL;PROG;LGSPEC3;FEMختنہ کرناV;3;PL;PROG;LGSPEC3;FEM	ختنہ کر رہی ہوں گی
+V;3;PL;PRF;LGSPEC3;FEMملاناV;3;PL;PRF;LGSPEC3;FEM	ملائی ہوں گی
+V;2;PL;HAB;PST;FEMچودناV;2;PL;HAB;PST;FEM	چودتی تھیں
+V;3;PL;SBJV;FEMآرام کرناV;3;PL;SBJV;FEM	یہ  وہ کریں گی
+V;1;PL;HAB;PRS;MASCروناV;1;PL;HAB;PRS;MASC	روتے ہیں
+V;1;PL;PRF;SBJV;MASCپہنچناV;1;PL;PRF;SBJV;MASC	پہنچے ہوں
+V;2;SG;HAB;PRS;FEMمٹناV;2;SG;HAB;PRS;FEM	مٹتی ہے
+V;V.PTCP;MASC;SG;IPFVجلاناV;V.PTCP;MASC;SG;IPFV	جلاتی
+V;3;SG;PROG;PST;FEMسکناV;3;SG;PROG;PST;FEM	سک رہی تھی
+V;1;SG;PROG;PRS;MASCکھیلناV;1;SG;PROG;PRS;MASC	کھیل رہا ہوں
+V;3;PL;PRF;LGSPEC4;MASCعیش کرناV;3;PL;PRF;LGSPEC4;MASC	عیش شکتی ہوتے
+V;2;SG;HAB;LGSPEC3;FEMدیکھناV;2;SG;HAB;LGSPEC3;FEM	دیکھتی ہو گی
+V;1;PL;PRF;LGSPEC4;FEMآرمبھ کرناV;1;PL;PRF;LGSPEC4;FEM	آرمبھ کیی ہوتی
+V;2;SG;IMP;FORMآگرہ کرناV;2;SG;IMP;FORM	آگرہ کرو
+N;VOC;SGسانپN;VOC;SG	سانپ
+V;2;PL;HAB;SBJV;FEMدوڑناV;2;PL;HAB;SBJV;FEM	دوڑتی ہو
+V;3;SG;HAB;PST;MASCآدر کرناV;3;SG;HAB;PST;MASC	آدر کرتا تھا
+V;1;SG;PRF;PST;FEMچاہناV;1;SG;PRF;PST;FEM	چاہی تھی
+V;2;SG;HAB;LGSPEC4;FEMچڑھناV;2;SG;HAB;LGSPEC4;FEM	چڑھتی ہوتی
+V;2;PL;PRF;PRS;MASCآرام کرناV;2;PL;PRF;PRS;MASC	کیی ہو
+V;1;PL;PROG;SBJV;FEMسکناV;1;PL;PROG;SBJV;FEM	سک رہی ہوں
+V;1;PL;SBJVجلاناV;1;PL;SBJV	ہم جلایں
+V;3;PL;HAB;LGSPEC3;FEMکھیلناV;3;PL;HAB;LGSPEC3;FEM	کھیلتی ہوں گی
+N;ACC;SGبازیN;ACC;SG	بازی
+V;3;PL;PROG;PRS;MASCچودناV;3;PL;PROG;PRS;MASC	چود رہے ہیں
+V;2;SG;PRF;LGSPEC3;MASCسمجھناV;2;SG;PRF;LGSPEC3;MASC	سمجھا ہو گا
+V;1;SG;HAB;LGSPEC3;MASCآدر کرناV;1;SG;HAB;LGSPEC3;MASC	آدر کرتا ہوں گا
+V;2;SG;SBJV;MASCآشچریہ کرناV;2;SG;SBJV;MASC	تو آشچریہ کرے گا
+V;3;PL;PRF;SBJV;FEMآرام کرناV;3;PL;PRF;SBJV;FEM	کیی ہوں
+V;3;PL;PROG;SBJV;FEMسوچناV;3;PL;PROG;SBJV;FEM	سوچ رہی ہوں
+V;1;SG;PRF;SBJV;FEMپہنچناV;1;SG;PRF;SBJV;FEM	پہنچی ہوں
+V;3;PL;HAB;LGSPEC4;MASCبٹورناV;3;PL;HAB;LGSPEC4;MASC	بٹورتے ہوتے
+V;3;PL;SBJV;MASCسوچناV;3;PL;SBJV;MASC	یہ  وہ سوچے گے
+V;1;PL;SBJV;FEMکہناV;1;PL;SBJV;FEM	ہم کہیں گی
+V;1;SG;PROG;PST;MASCچاٹناV;1;SG;PROG;PST;MASC	چاٹ رہا تھا
+V;2;SG;HAB;PST;MASCدیکھناV;2;SG;HAB;PST;MASC	دیکھتا تھا
+V;1;SG;HAB;PST;FEMاترناV;1;SG;HAB;PST;FEM	اترتی تھی
+V;1;PL;SBJV;MASCآرام کرناV;1;PL;SBJV;MASC	ہم کریں گے
+V;3;PL;PROG;LGSPEC3;MASCکھیلناV;3;PL;PROG;LGSPEC3;MASC	کھیلے رہے ہوں گے
+V;2;PL;HAB;PRS;MASCسوچناV;2;PL;HAB;PRS;MASC	سوچتے ہو
+V;1;SG;PRF;LGSPEC4;MASCاٹھناV;1;SG;PRF;LGSPEC4;MASC	اٹھ ہوتا
+V;3;SG;HAB;PRS;MASCانکار کرناV;3;SG;HAB;PRS;MASC	انکار کرتا ہے
+V;3;SG;PROG;LGSPEC4;MASCانتظار کرناV;3;SG;PROG;LGSPEC4;MASC	انتظار کر رہا ہوتا
+V;1;SG;PRF;PRS;MASCجھانکناV;1;SG;PRF;PRS;MASC	جھانکا ہوں
+V;1;PL;PROG;LGSPEC3;MASCسیکھناV;1;PL;PROG;LGSPEC3;MASC	سیکھ رہے ہوں گے
+V;1;PL;HAB;SBJV;MASCآرمبھ کرناV;1;PL;HAB;SBJV;MASC	آرمبھ کرتی ہوں
+V;1;SG;PRF;PRS;FEMچڑھناV;1;SG;PRF;PRS;FEM	چڑھی ہوں
+V;V.PTCP;FEM;PL;IPFVاٹھاناV;V.PTCP;FEM;PL;IPFV	اٹھاتے
+V;1;PL;HAB;LGSPEC4;MASCسیکھناV;1;PL;HAB;LGSPEC4;MASC	سیکھتے ہوتے
+V;V.PTCP;MASC;PL;PFVدکھاناV;V.PTCP;MASC;PL;PFV	دکھایا
+V;1;SG;SBJVانکار کرناV;1;SG;SBJV	میں انکار کروں
+V;3;PL;HAB;PST;FEMسہمناV;3;PL;HAB;PST;FEM	سہمتی تھیں
+V;1;PL;PROG;LGSPEC3;MASCجھانکناV;1;PL;PROG;LGSPEC3;MASC	جھانک رہے ہوں گے
+V;2;PL;PRF;PST;FEMہنسناV;2;PL;PRF;PST;FEM	ہنسی تھیں
+V;3;PL;PROG;LGSPEC4;MASCچومناV;3;PL;PROG;LGSPEC4;MASC	چوم رہے ہوتے
+V;2;SG;HAB;PRS;MASCاترناV;2;SG;HAB;PRS;MASC	اترتا ہے
+V;3;SG;PRF;SBJV;FEMبولناV;3;SG;PRF;SBJV;FEM	بولی ہو
+V;2;SG;PROG;LGSPEC3;MASCبٹورناV;2;SG;PROG;LGSPEC3;MASC	بٹور رہا ہو گا
+V;2;PL;HAB;PRS;MASCپڑھناV;2;PL;HAB;PRS;MASC	پڑھتے ہو
+V;3;PL;HAB;PST;FEMکہناV;3;PL;HAB;PST;FEM	کہتی تھیں
+V;2;SG;PRF;SBJV;MASCبٹورناV;2;SG;PRF;SBJV;MASC	بٹورے ہو
+V;1;PL;PRF;LGSPEC3;MASCجھکناV;1;PL;PRF;LGSPEC3;MASC	جھکے ہوں گے
+V;3;PL;PROG;LGSPEC3;FEMجاگناV;3;PL;PROG;LGSPEC3;FEM	جاگی رہی ہوں گی
+V;3;SG;PROG;SBJV;FEMاترناV;3;SG;PROG;SBJV;FEM	اتر رہی ہو
+V;1;SG;PROG;SBJV;MASCگان کرناV;1;SG;PROG;SBJV;MASC	کر رہا ہوں
+V;2;SG;IMP;INFMچومناV;2;SG;IMP;INFM	چومو
+V;2;SG;IMP;FORMانتظار کرناV;2;SG;IMP;FORM	انتظار کرو
+V;3;PL;PRF;SBJV;MASCجاگناV;3;PL;PRF;SBJV;MASC	جاگے ہوں
+V;1;PL;PROG;LGSPEC3;FEMجلناV;1;PL;PROG;LGSPEC3;FEM	جل رہی ہوں گی
+V;2;PL;HAB;PRS;FEMجلناV;2;PL;HAB;PRS;FEM	جلتی ہو
+V;3;PL;PROG;LGSPEC3;FEMآدر کرناV;3;PL;PROG;LGSPEC3;FEM	آدر کر رہی ہوں گی
+V;2;PL;PRF;PST;FEMختنہ کرناV;2;PL;PRF;PST;FEM	ختنہ کیی تھیں
+V;1;SG;PROG;LGSPEC3;FEMعیش کرناV;1;SG;PROG;LGSPEC3;FEM	عیش شکتی رہی ہوں گی
+V;1;PL;HAB;SBJV;FEMعلاج کرناV;1;PL;HAB;SBJV;FEM	علاج کرتی ہوں
+V;1;SG;HAB;PRS;FEMبٹورناV;1;SG;HAB;PRS;FEM	بٹورتی ہوں
+V;1;SG;PROG;PST;FEMبٹورناV;1;SG;PROG;PST;FEM	بٹور رہی تھی
+V;2;PL;SBJV;MASCپہنچناV;2;PL;SBJV;MASC	تم پہنچے گے
+V;2;PL;HAB;PRS;FEMچڑھناV;2;PL;HAB;PRS;FEM	چڑھتی ہو
+V;2;PL;PRF;PST;MASCپہنچناV;2;PL;PRF;PST;MASC	پہنچے تھے
+V;1;SG;SBJV;FEMملاناV;1;SG;SBJV;FEM	میں ملایں گی
+V;1;SG;PRF;LGSPEC4;FEMآشچریہ کرناV;1;SG;PRF;LGSPEC4;FEM	آشچریہ کیا ہوتی
+V;2;PL;HAB;LGSPEC4;FEMسوچناV;2;PL;HAB;LGSPEC4;FEM	سوچتی ہوتی
+V;1;SG;SBJV;FEMبرداشت کرناV;1;SG;SBJV;FEM	میں برداشت کروں گی
+V;3;SG;PROG;SBJV;FEMچڑھناV;3;SG;PROG;SBJV;FEM	چڑھ رہی ہو
+V;1;SG;HAB;LGSPEC4;MASCچومناV;1;SG;HAB;LGSPEC4;MASC	چومتا ہوتا
+V;2;PL;PRF;SBJV;MASCخریدناV;2;PL;PRF;SBJV;MASC	خریدے ہو
+V;1;PL;PRF;LGSPEC3;MASCانکار کرناV;1;PL;PRF;LGSPEC3;MASC	انکار کیی ہوں گے
+V;2;SG;HAB;LGSPEC3;MASCسکناV;2;SG;HAB;LGSPEC3;MASC	سکتا ہو گا
+V;2;SG;SBJVگان کرناV;2;SG;SBJV	تو کرے
+V;3;PL;HAB;SBJV;FEMآگرہ کرناV;3;PL;HAB;SBJV;FEM	آگرہ کرتی ہوں
+V;3;SG;HAB;PRS;MASCغلط کرناV;3;SG;HAB;PRS;MASC	غلط کرتا ہے
+V;V.PTCP;MASC;PL;IPFVلگناV;V.PTCP;MASC;PL;IPFV	لگتا
+V;3;PL;SBJVدیکھناV;3;PL;SBJV	یہ  وہ دیکھے
+V;2;SG;PRF;PRS;FEMکہناV;2;SG;PRF;PRS;FEM	کہی ہے
+V;3;PL;PROG;PST;MASCسکناV;3;PL;PROG;PST;MASC	سک رہے تھے
+V;2;PL;HAB;PRS;FEMجھکناV;2;PL;HAB;PRS;FEM	جھکتی ہو
+V;3;PL;PROG;SBJV;MASCبٹورناV;3;PL;PROG;SBJV;MASC	بٹور رہے ہوں
+V;3;SG;PRF;PST;MASCخریدناV;3;SG;PRF;PST;MASC	خریدا تھا
+V;3;PL;HAB;LGSPEC4;FEMبرداشت کرناV;3;PL;HAB;LGSPEC4;FEM	برداشت کرتی ہوتی
+V;1;SG;PRF;LGSPEC3;FEMسہماناV;1;SG;PRF;LGSPEC3;FEM	سہمائی ہوں گی
+V;3;PL;PROG;LGSPEC3;MASCاستعمال کرناV;3;PL;PROG;LGSPEC3;MASC	استعمال کریں رہے ہوں گے
+V;1;SG;PROG;PST;MASCملاناV;1;SG;PROG;PST;MASC	ملا رہا تھا
+V;1;SG;SBJV;MASCجاگناV;1;SG;SBJV;MASC	میں جاگیں گا
+V;V.PTCP;MASC;SG;IPFVروناV;V.PTCP;MASC;SG;IPFV	روتی
+V;1;SG;PRF;SBJV;MASCبولناV;1;SG;PRF;SBJV;MASC	بولا ہوں
+V;3;PL;PRF;LGSPEC4;FEMروناV;3;PL;PRF;LGSPEC4;FEM	روئی ہوتی
+V;3;PL;HAB;LGSPEC3;MASCانتظار کرناV;3;PL;HAB;LGSPEC3;MASC	انتظار کرتی ہوں گے
+V;V.PTCP;MASC;PL;IPFVسیکھناV;V.PTCP;MASC;PL;IPFV	سیکھتا
+V;3;PL;PROG;LGSPEC3;FEMخریدناV;3;PL;PROG;LGSPEC3;FEM	خرید رہی ہوں گی
+V;1;PL;HAB;PST;FEMآدر کرناV;1;PL;HAB;PST;FEM	آدر کرتی تھیں

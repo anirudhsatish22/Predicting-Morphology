@@ -119,7 +119,7 @@ Train a complete model with default parameters using the wrapper script.
 NOTE: this assumes the tool was compiled with the python3 bindings:
 ```
 $ phonetisaurus-train --lexicon cmudict.formatted.dict --seq2_del
-INFO:phonetisaurus-train:2017-07-09 16:35:31:  Checking command configuration...
+INFO:phonetisaurus-train:2017-07-09 16:35:31:  Checking command configuration...=
 INFO:phonetisaurus-train:2017-07-09 16:35:31:  Checking lexicon for reserved characters: '}', '|', '_'...
 INFO:phonetisaurus-train:2017-07-09 16:35:31:  Aligning lexicon...
 INFO:phonetisaurus-train:2017-07-09 16:37:44:  Training joint ngram model...
@@ -155,7 +155,7 @@ GitRevision: kaldi-1-g5028ba-dirty
 eggselent  26.85  EH1 G S L AH0 N T
 eggselent  28.12  EH1 G Z L AH0 N T
 excellent  0.00  EH1 K S AH0 L AH0 N T
-excellent  19.28  EH1 K S L EH1 N T
+excellent  19.28  EH1 K S L EH1 N Tt
 jumbotron  0.00  JH AH1 M B OW0 T R AA0 N
 jumbotron  17.30  JH AH1 M B OW0 T R AA2 N
 test  0.00  T EH1 S T

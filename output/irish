@@ -1,0 +1,847 @@
+N;NOM;PL;DEFcnéamhaireN;NOM;PL;DEF	na chnéamhaire
+N;DAT;PLAlbánachN;DAT;PL	Albánach
+N;NOM;SG;DEFtairseachN;NOM;SG;DEF	an tairsí
+V;2:SG;SBJV;PRSáirighV;2:SG;SBJV;PRS	go n-áirítear tú
+N;GEN;SGailbíneachN;GEN;SG	fhocalbhá
+N;DAT;PL;DEFmionsamhailN;DAT;PL;DEF	leis na
+N;DAT;SG;DEFlá breitheN;DAT;SG;DEF	leis an láimh
+N;NOM;SGgásumarN;NOM;SG	umair
+N;DAT;SGrosualtN;DAT;SG	rosualta
+N;GEN;SGlogainmN;GEN;SG	leasainmneacha
+V;1;PL;PST;HAB;INDuaslódáilV;1;PL;PST;HAB;IND	d'uaslódáladh
+V;3;SG;FUT;INDtóigV;3;SG;FUT;IND	sé
+N;DAT;SG;DEFráiméisN;DAT;SG;DEF	leis an aiméibicít
+N;GEN;SG;DEFgiotárN;GEN;SG;DEF	an giotáraithe
+N;VOC;SGrúibínN;VOC;SG	a rúibíní
+N;DAT;PL;DEFrollaN;DAT;PL;DEF	leis na rollóga
+N;NOM;SG;DEFaonraitheoirN;NOM;SG;DEF	an
+N;VOC;SGnua-aimsearthachtN;VOC;SG	a nua-aimsearthacht
+N;NOM;SG;DEFspeirmiteasónN;NOM;SG;DEF	an speirmitiginis speirmiteasóin
+N;NOM;PL;DEFPatagónachN;NOM;PL;DEF	na Phatagónaigh
+N;NOM;SGrúnaíN;NOM;SG	rúnaí
+N;NOM;SGvéarsaN;NOM;SG	véarsa
+N;DAT;SGíoschéimniúN;DAT;SG	íoschéimniú
+V;AUTO;SBJV;PSTdonnaighV;AUTO;SBJV;PST	dá ndonnaídís
+N;NOM;SG;DEFbibeN;NOM;SG;DEF	an bhibí
+V;AUTO;SBJV;PRSuiríslighV;AUTO;SBJV;PRS	go n-urghabha
+N;NOM;SGneamhníN;NOM;SG	neamhní
+N;DAT;SG;DEFríomhchláraitheoirN;DAT;SG;DEF	leis an
+V;1;SG;PST;INDtiomáinV;1;SG;PST;IND	tiománadh mé
+V;REL;PRS;INDaolaighV;REL;PRS;IND	a
+N;DAT;SG;DEFscíthN;DAT;SG;DEF	leis an scíth
+V;2;PL;FUT;INDcroinicighV;2;PL;FUT;IND	chroiniceodh sibh
+N;VOC;SGbreabN;VOC;SG	a
+N;DAT;SG;DEFairgead tirimN;DAT;SG;DEF	leis an airgid
+N;NOM;SGPortaingéalachN;NOM;SG	Phortaingéalaigh
+N;VOC;SGréamhfhocalN;VOC;SG	a
+N;VOC;SGéaneolaíochtN;VOC;SG	a éaneolaíocht
+N;DAT;PL;DEFféinchúisN;DAT;PL;DEF	leis na féinchanúintí
+N;VOC;PLdíonteachN;VOC;PL	a díonta
+N;GEN;SGplasmaN;GEN;SG	plasmaí
+N;NOM;PL;DEFpíbN;NOM;PL;DEF	na píob
+N;NOM;PL;DEFcuairtN;NOM;PL;DEF	na cuirtíní
+N;VOC;PLadhbN;VOC;PL	a fadhbanna
+N;DAT;PL;DEFfo-eagarthóirN;DAT;PL;DEF	leis na fo-eagarthóirí
+N;DAT;PLréaltbhraisleN;DAT;PL	braisle
+N;VOC;SGadhmadóirN;VOC;SG	a adhmadóireacht
+N;DAT;SG;DEFbrocachN;DAT;SG;DEF	leis an
+V;3;PL;FUT;INDtairngirV;3;PL;FUT;IND	tairngreoimid siad
+N;NOM;SGgadharN;NOM;SG	ghadhair
+N;DAT;SG;DEFuillinn istighN;DAT;SG;DEF	leis an bainistím
+V;1;PL;PST;INDdúisighV;1;PL;PST;IND	dúisíodh
+N;VOC;PLbusárasN;VOC;PL	a busárais
+V;3;PL;PRS;INDbior-róstV;3;PL;PRS;IND	bior-róstfaidh siad
+N;GEN;SG;DEFbuicéadN;GEN;SG;DEF	an
+N;DAT;PL;DEFaerN;DAT;PL;DEF	leis na
+N;NOM;SG;DEFleitheadN;NOM;SG;DEF	an leithead
+V;1;PL;SBJV;PRSaclaighV;1;PL;SBJV;PRS	go n-aclaí
+N;GEN;SG;DEFmíncheimiceánN;GEN;SG;DEF	an míncheimiceán
+N;NOM;SGleibideN;NOM;SG	leibideacht
+N;VOC;SGlogántachtN;VOC;SG	a
+N;VOC;SGbailéadaíochtN;VOC;SG	a bhailé
+N;NOM;SG;DEFinínN;NOM;SG;DEF	an
+N;GEN;SGsúmóN;GEN;SG	súgaigh
+N;GEN;PLtoipeolaíochtN;GEN;PL	tollán isipréin
+V;REL;FUT;INDréadaighV;REL;FUT;IND	a
+V;1;PL;PRS;INDfo-ordaighV;1;PL;PRS;IND	d'fho-ordaíteá
+V;2;SG;PST;HAB;INDaisbhreathnaighV;2;SG;PST;HAB;IND	d'aisbhreathnaínn
+N;NOM;PL;DEFsmigN;NOM;PL;DEF	na
+N;VOC;PLfoghraíochtN;VOC;PL	a
+N;DAT;PLreiligN;DAT;PL	reiligí
+N;NOM;PL;DEFséasúnN;NOM;PL;DEF	na séiseanna
+ADJ;SPRLgrámharADJ;SPRL	grámhara is bláfaire
+N;NOM;SG;DEFneamhionsaitheachtN;NOM;SG;DEF	an
+N;NOM;SGturasóireachtN;NOM;SG	turasóireachta
+V;1;SG;IMPoirV;1;SG;IMP	oirimis
+N;DAT;SG;DEFsáchN;DAT;SG;DEF	leis an tsácráilteacht
+N;GEN;SGcuileogN;GEN;SG	cuitéir
+N;NOM;PL;DEFdoladhroicheadN;NOM;PL;DEF	na doladhroichid
+N;VOC;SGastaíochtN;VOC;SG	a
+N;DAT;SG;DEFV-bhlocN;DAT;SG;DEF	leis an V-bhloc
+N;NOM;SG;DEFticéadN;NOM;SG;DEF	an ticéid
+V;2;PL;SBJV;PRSdeachtaighV;2;PL;SBJV;PRS	go ndeachtaí sibh
+N;DAT;SG;DEFdífhostaíochtN;DAT;SG;DEF	leis an
+N;DAT;SGdébhealachN;DAT;SG	dhébhéascna
+V;REL;PST;INDréadaighV;REL;PST;IND	a
+V;3;PL;CONDuaslódáilV;3;PL;COND	d'uaslódálfadh
+N;VOC;SGbéascnaN;VOC;SG	a béascna
+N;VOC;PLáitainmN;VOC;PL	a áitainm
+N;DAT;PLuchtN;DAT;PL	uchtbhallaí
+V;REL;PST;INDoirV;REL;PST;IND	a d'oir
+N;NOM;PL;DEFGaelN;NOM;PL;DEF	na Gaeil
+N;GEN;SG;DEFmarachuanN;GEN;SG;DEF	na mharachuain
+N;NOM;PLforainmN;NOM;PL	fhorainm
+N;NOM;SGmóilínN;NOM;SG	móimint
+N;VOC;SGcoinneáilN;VOC;SG	a
+N;DAT;SG;DEFbainirseachN;DAT;SG;DEF	leis an
+N;DAT;SGleitheadúlachtN;DAT;SG	leithead
+N;DAT;SG;DEFtairbheN;DAT;SG;DEF	leis an
+N;NOM;PL;DEFgabhlánN;NOM;PL;DEF	na
+N;VOC;PLbiorógN;VOC;PL	a
+N;NOM;PL;DEFoirthearachN;NOM;PL;DEF	na t-oirthearachas
+N;DAT;SGcnapN;DAT;SG	cnaip
+V;3;SG;CONDtaitinV;3;SG;COND	sé
+N;DAT;PL;DEFcomhaireamhN;DAT;PL;DEF	leis na
+N;DAT;PL;DEFspealN;DAT;PL;DEF	leis na
+N;DAT;PLmórmhaitheasN;DAT;PL	mórmhaoir
+N;VOC;PLbrisN;VOC;PL	a
+N;NOM;PL;DEFintriachtN;NOM;PL;DEF	na
+N;DAT;PL;DEFráiméisN;DAT;PL;DEF	leis na aiméibicít
+V;3;PL;PRS;INDcluinV;3;PL;PRS;IND	chuala siad
+V;3;SG;FUT;INDmianraighV;3;SG;FUT;IND	mianrófar sé
+N;VOC;PLvatuairN;VOC;PL	a vatuaireanta
+N;DAT;SG;DEFfótachlóghrafaíochtN;DAT;SG;DEF	leis an gclóghrafaíocht
+N;DAT;SG;DEFaimínN;DAT;SG;DEF	leis an
+V;2;SG;IMPsáithighV;2;SG;IMP	sáithím
+V;2;PL;FUT;INDsiúilV;2;PL;FUT;IND	siúlfaimid sibh
+N;DAT;PLArd-FheisN;DAT;PL	Ard-Fheis
+V;3;SG;SBJV;PSTcluinV;3;SG;SBJV;PST	dá gcluinimis sé
+V;AUTO;SBJV;PSTgreannaighV;AUTO;SBJV;PST	dá ngrúdaínn
+V;1;SG;PST;INDdeinV;1;SG;PST;IND	deineadh mé
+N;GEN;SG;DEFtúcánN;GEN;SG;DEF	an túcáin
+N;NOM;PL;DEFréaltógN;NOM;PL;DEF	na réaltóg
+N;GEN;SGréamhscolaíochtN;GEN;SG	réamhscolaíocht
+N;DAT;SGfluairínN;DAT;SG	fluairín
+V;3;SG;SBJV;PRSabaighV;3;SG;SBJV;PRS	go n-aclaí sé
+N;VOC;PLfosúchánN;VOC;PL	a bhfosúchán
+N;DAT;SGdornN;DAT;SG	doirne
+N;DAT;PLconsairtínN;DAT;PL	consairtíní
+N;GEN;SGmongús bandachN;GEN;SG	mhongúis
+N;GEN;SG;DEFmeánscoilN;GEN;SG;DEF	na meándoimhneachta
+N;GEN;SG;DEFcorcscriúN;GEN;SG;DEF	an corcscriú
+N;DAT;PL;DEFcúlsráidN;DAT;PL;DEF	leis na cúlphlaiceanna sráideanna
+N;VOC;SGoifigeach ceannaisN;VOC;SG	a oifigigh
+V;1;PL;SBJV;PSTdímhiailinighV;1;PL;SBJV;PST	dá ndímhiailinínn
+N;VOC;PLaoirN;VOC;PL	a aortha
+N;GEN;PLamhábharN;GEN;PL	amhábhair
+V;REL;PRS;INDtochaisV;REL;PRS;IND	a tochasaim
+N;DAT;SG;DEFoscailtN;DAT;SG;DEF	leis an oscailt
+N;NOM;PLprótaplasmaN;NOM;PL	phrótaplasmaí
+N;VOC;PLcneamhaireN;VOC;PL	a
+N;NOM;PLsuirbhéN;NOM;PL	suirbhéanna
+N;GEN;SGpolaitíochtN;GEN;SG	polamoirf
+N;GEN;PLbroigheallN;GEN;PL	bhroighill
+N;GEN;PLpóirseN;GEN;PL	bpóirse
+N;NOM;SG;DEFbéarachasN;NOM;SG;DEF	an
+V;2;SG;FUT;INDfo-eagraighV;2;SG;FUT;IND	d'fho-eagraíodh tú
+N;DAT;SGbuirbeN;DAT;SG	mbuirbe
+V;1;PL;PST;HAB;INDtoilighV;1;PL;PST;HAB;IND	thoilíodh
+N;NOM;SGurraíochtN;NOM;SG	urraim
+V;3;PL;IMPleasaighV;3;PL;IMP	leasaígí
+N;DAT;PLstílbhileogN;DAT;PL	stílbhileog
+N;GEN;SGgóislínN;GEN;SG	gónaiméadrachta
+N;VOC;SGneoipréinN;VOC;SG	a
+N;DAT;PL;DEFsásN;DAT;PL;DEF	leis na sáspain
+N;DAT;SG;DEFbunúcN;DAT;SG;DEF	leis an bunúc
+N;NOM;PL;DEFfréamh-roghchlárN;NOM;PL;DEF	na fréamh-roghchláir
+N;DAT;PLsiopaN;DAT;PL	siopaí
+V;3;PL;FUT;INDíoslaghdaighV;3;PL;FUT;IND	siad
+N;VOC;SGcófraN;VOC;SG	a cófra
+N;GEN;SG;DEFArdmháistirN;GEN;SG;DEF	an
+N;DAT;SGbeirtN;DAT;SG	beithir
+V;1;SG;PST;INDhidriginighV;1;SG;PST;IND	hidriginigh mé
+N;DAT;PLbaincéirN;DAT;PL	baincéireacht
+V;REL;FUT;INDeisilV;REL;FUT;IND	a eisleoidh
+V;1;SG;SBJV;PSTboilscighV;1;SG;SBJV;PST	dá mbolaíteá
+N;DAT;SG;DEFoifigeach foirneN;DAT;SG;DEF	leis an oifigigh
+N;NOM;PLrannógN;NOM;PL	rannóga
+V;2;SG;FUT;INDcríochnaighV;2;SG;FUT;IND	críochnófar tú
+V;2;SG;PRS;INDcomhaontaighV;2;SG;PRS;IND	tú
+V;3;PL;PST;INDbronnV;3;PL;PST;IND	bhronn siad
+V;1;PL;SBJV;PRSfoscríobhV;1;PL;SBJV;PRS	go bhfoleana
+N;NOM;PL;DEFgrúdlannN;NOM;PL;DEF	na grúdlanna
+N;NOM;SG;DEFulchabhánN;NOM;SG;DEF	an ulchabhán
+N;VOC;PLaerchonairN;VOC;PL	a
+N;NOM;SGaer-ghrianghrafadóireachtN;NOM;SG	aer-ghrianghrafadóireacht
+N;NOM;PL;DEFfeoilN;NOM;PL;DEF	na fidleacha
+V;2;PL;FUT;INDtuismighV;2;PL;FUT;IND	sibh
+N;DAT;PLbanghardaN;DAT;PL	bangharda
+N;NOM;PL;DEFsnasN;NOM;PL;DEF	na snabanna
+N;VOC;PLcrostagairtN;VOC;PL	a crostagairtí
+V;REL;PRS;INDcéadfaighV;REL;PRS;IND	a chéadfaigh
+N;DAT;SG;DEFneamhchinnteachtN;DAT;SG;DEF	leis an neamhchinnteacht
+ADJ;GEN;PL;WEAKbrónachADJ;GEN;PL;WEAK	brónacha
+V;2;PL;SBJV;PSTmeascV;2;PL;SBJV;PST	dá sibh
+N;VOC;PLCipireachN;VOC;PL	a Cirgeasaigh
+N;DAT;SG;DEFbardasN;DAT;SG;DEF	leis an bhardais
+N;DAT;SG;DEFmiailíteasN;DAT;SG;DEF	leis an miailíteas
+N;DAT;SGacraimeigileachtN;DAT;SG	acraimeigileacht
+N;GEN;SG;DEFteitreaclóirídN;GEN;SG;DEF	an teitreaclóiríd
+N;DAT;SG;DEFdamáisteN;DAT;SG;DEF	leis an
+N;DAT;SG;DEFleiceachtN;DAT;SG;DEF	leis an leictreachas
+N;DAT;PL;DEFfrancachN;DAT;PL;DEF	leis na francach
+N;DAT;SGtaitneamhN;DAT;SG	taitneamh
+N;DAT;SGboghdóirN;DAT;SG	bhoghdóir
+V;2;SG;FUT;INDcomhdhlúthaighV;2;SG;FUT;IND	tú
+V;1;PL;CONDcuimilV;1;PL;COND	chuibhreoimis
+V;3;SG;FUT;INDurraighV;3;SG;FUT;IND	d'urraíodh sé
+V;3;PL;FUT;INDcaillV;3;PL;FUT;IND	caillfidh siad
+N;NOM;SGnuachtN;NOM;SG	nuacht
+N;GEN;SGcairdínN;GEN;SG	cairdíneoir
+N;NOM;PL;DEFacomhalN;NOM;PL;DEF	na
+N;NOM;SG;DEFeachtarchineN;NOM;SG;DEF	an eachtarchine
+N;VOC;PLbandiúcN;VOC;PL	a bandiúc
+N;NOM;PLstéaróideachN;NOM;PL	stéaróideach
+N;NOM;SG;DEFcuanN;NOM;SG;DEF	an chuais
+N;NOM;PLéigeasN;NOM;PL	éigse
+N;NOM;PL;DEFfaicheN;NOM;PL;DEF	na faichí
+N;VOC;PLfuilchillN;VOC;PL	a fuilchille
+V;1;PL;PST;INDceartaighV;1;PL;PST;IND	cheartaigh
+V;2;PL;SBJV;PRSlíomhV;2;PL;SBJV;PRS	go sibh
+N;NOM;PL;DEFcomhdhuilleN;NOM;PL;DEF	na comhdhuillí
+N;GEN;SGpúca peillN;GEN;SG	púca
+N;VOC;PLbanmharcachN;VOC;PL	a banmharcach
+N;NOM;SG;DEFacondrapláiseN;NOM;SG;DEF	an
+V;3;PL;PRS;INDiomairV;3;PL;PRS;IND	iomraíonn siad
+N;NOM;PL;DEFéanadánN;NOM;PL;DEF	na
+V;REL;PST;INDordaighV;REL;PST;IND	a d'ordaigh
+N;DAT;SG;DEFfásáilN;DAT;SG;DEF	leis an d'fhásálainn
+V;1;PL;FUT;INDlighV;1;PL;FUT;IND	lífidh
+N;NOM;SGcoiléar madraN;NOM;SG	choiléir
+N;VOC;PLaiféileanN;VOC;PL	a aiféilin
+N;VOC;SGtruaN;VOC;SG	a thruanna
+N;GEN;SGíoschéimniúN;GEN;SG	íoschéimniú
+N;GEN;PLpúca peillN;GEN;PL	púcaí
+N;NOM;SG;DEFgrúsN;NOM;SG;DEF	an grús
+V;3;SG;PST;INDspréighV;3;SG;PST;IND	spréamar sé
+N;DAT;SG;DEFceannachtN;DAT;SG;DEF	leis an
+N;NOM;SG;DEFaon-fhorchéimN;NOM;SG;DEF	an aon-fhorchéimeanna
+N;DAT;SG;DEFsanasaíochtN;DAT;SG;DEF	leis an shanasaíocht
+V;AUTO;PST;INDdátaighV;AUTO;PST;IND	dhátaítí
+N;DAT;SGastragalN;DAT;SG	astragail
+V;2;PL;SBJV;PSTdathaighV;2;PL;SBJV;PST	dá ndathaímis sibh
+N;NOM;SG;DEFsnáthaidN;NOM;SG;DEF	an snáthaidí
+V;REL;PRS;INDatarraingV;REL;PRS;IND	a
+N;NOM;SGsubhN;NOM;SG	suanlios
+N;GEN;SG;DEFtríochadúN;GEN;SG;DEF	an
+V;AUTO;SBJV;PRSgráighV;AUTO;SBJV;PRS	go ngráimid
+N;GEN;PLrúitínN;GEN;PL	rúibricí
+N;GEN;PLbéiceadánN;GEN;PL	béiceadáin
+N;NOM;PL;DEFathánN;NOM;PL;DEF	na
+N;NOM;SG;DEFcéimN;NOM;SG;DEF	an
+V;3;SG;PST;INDbascV;3;SG;PST;IND	bhasc sé
+N;DAT;SGlíofachtN;DAT;SG	líofacht
+N;GEN;SG;DEFfeileastramN;GEN;SG;DEF	na feise
+V;2;PL;PRS;INDbeirighV;2;PL;PRS;IND	beireoidh sibh
+N;DAT;PL;DEFtarsannN;DAT;PL;DEF	leis na
+N;DAT;SG;DEFclochghualN;DAT;SG;DEF	leis an chlochghuail
+N;GEN;PLcataitéarN;GEN;PL	cataitéar
+N;NOM;SGnéar-mháinliachtN;NOM;SG	néar-mháinliacht
+N;GEN;SG;DEFtrasrianN;GEN;SG;DEF	an trasnaisc
+N;DAT;SG;DEFtrachN;DAT;SG;DEF	leis an
+N;DAT;PL;DEFréaltógN;DAT;PL;DEF	leis na réaltóg
+N;NOM;PL;DEFíosmhéidN;NOM;PL;DEF	na t-íosmhéid
+N;NOM;SGmargadhN;NOM;SG	margaidh
+N;DAT;SG;DEFcoigistiúN;DAT;SG;DEF	leis an choigistiú
+N;NOM;PL;DEFfonéalN;NOM;PL;DEF	na bhfonéal
+N;DAT;SG;DEFronnachN;DAT;SG;DEF	leis an ronnach
+N;VOC;PLceannbhratN;VOC;PL	a
+N;DAT;SG;DEFnéaraifiseolaíN;DAT;SG;DEF	leis an néaraifiseolaithe
+N;VOC;PLachtanasónN;VOC;PL	a achtanasóin
+N;NOM;SG;DEFiseatópN;NOM;SG;DEF	an iseatóp
+N;GEN;SG;DEFtiuf-teafN;GEN;SG;DEF	an tiuf-teaf
+N;NOM;SG;DEFmóinéarN;NOM;SG;DEF	an móinéir
+V;2;SG;PST;INDcloisV;2;SG;PST;IND	chuala tú
+N;NOM;PLjabaeirN;NOM;PL	jabairí
+N;DAT;SGmóinN;DAT;SG	móinéar
+N;GEN;PLspúnógN;GEN;PL	spúnóg
+V;2;PL;CONDdeinV;2;PL;COND	sibh
+N;GEN;PLcanáilN;GEN;PL	canálacha
+V;3;SG;FUT;INDanálaighV;3;SG;FUT;IND	análóidh sé
+N;NOM;SGamaideachtN;NOM;SG	amaid
+N;VOC;SGmilsiúN;VOC;SG	a
+N;NOM;SG;DEFmaor drumaN;NOM;SG;DEF	an drumaí
+N;NOM;PLsléibhínN;NOM;PL	sléibhíní
+N;VOC;SGlánmhaireachtN;VOC;SG	a lánmhaireachta
+N;NOM;SGmodhN;NOM;SG	mosc
+V;2:SG;SBJV;PRScomhdhlúthaighV;2:SG;SBJV;PRS	go gcomhdhlúthaí tú
+N;DAT;SG;DEFnaíscoilN;DAT;SG;DEF	leis an naíscoil
+N;NOM;PL;DEFardtalamhN;NOM;PL;DEF	na hardtailte
+N;NOM;SG;DEFlárionadN;NOM;SG;DEF	an
+N;DAT;SGfuachtN;DAT;SG	fuinneog
+N;NOM;PLluibheanchlárN;NOM;PL	luibheanchlára
+N;DAT;PL;DEFcuitéarN;DAT;PL;DEF	leis na gcuitéar
+N;GEN;PLmurlánN;GEN;PL	mhurláin
+N;DAT;SG;DEFxiolalósN;DAT;SG;DEF	leis an xioláin
+ADJ;GEN;PL;STRONGcruaADJ;GEN;PL;STRONG	caola
+N;GEN;SG;DEFurchóideachtN;GEN;SG;DEF	an urchóid
+N;VOC;SGbodN;VOC;SG	a bhoda
+N;VOC;PLvalbaí giorriaN;VOC;PL	a valbaithe ghiorria
+N;NOM;SGbásmhaireachtN;NOM;SG	básmhaireacht
+N;DAT;PL;DEFluamhaireN;DAT;PL;DEF	leis na luaíochtaí
+N;NOM;PLmáthairtheangaN;NOM;PL	máthairchláir
+N;DAT;PLcanúN;DAT;PL	chanú
+N;GEN;SG;DEFgráigN;GEN;SG;DEF	an ngráig
+N;GEN;PLachtanasónN;GEN;PL	achtanasóin
+N;VOC;SGNeamh-ChríostaíN;VOC;SG	a Neamh-Chríostaí
+N;VOC;PLsiorc ruaN;VOC;PL	a
+N;DAT;SG;DEFclóscríobhánN;DAT;SG;DEF	leis an
+N;NOM;SG;DEFuachtarlannN;NOM;SG;DEF	an uachtarlanna
+N;DAT;PLlogainmN;DAT;PL	chlogairí lárainmneacha
+N;DAT;SG;DEFeachtarshuíomhN;DAT;SG;DEF	leis an
+N;DAT;PLsráidN;DAT;PL	sráideanna
+N;GEN;SG;DEFmaighnéadN;GEN;SG;DEF	na
+ADJ;VOC;PLcorónachADJ;VOC;PL	corónacha
+V;1;SG;PST;HAB;INDloiscV;1;SG;PST;HAB;IND	lobhainn
+N;DAT;SGiaguarN;DAT;SG	guaillí
+N;DAT;SG;DEFmáthairchlárN;DAT;SG;DEF	leis an mháthairchláir
+N;NOM;SGíospháN;NOM;SG	híosphraghsanna
+N;DAT;SG;DEFleathanachN;DAT;SG;DEF	leis an
+N;NOM;SGcabhsánN;NOM;SG	cabhantar
+N;GEN;PLiolránN;GEN;PL	iolráin
+N;VOC;SGpríomhoifigN;VOC;SG	a
+V;2:SG;SBJV;PSTmáithrighV;2:SG;SBJV;PST	dá mháithríteá
+N;DAT;SGolliomparN;DAT;SG	aeriompair
+N;GEN;SGsabhdánachtN;GEN;SG	sabhdánacht
+N;NOM;PL;DEFbandeagánachN;NOM;PL;DEF	na bandeagánach
+N;DAT;PL;DEFprótatrófachN;DAT;PL;DEF	leis na prótatrófaigh
+N;DAT;PL;DEFmadra uisceN;DAT;PL;DEF	leis na
+N;VOC;SGartrapaiteN;VOC;SG	a artrapaite
+N;NOM;SG;DEFadáirN;NOM;SG;DEF	an adáir
+N;NOM;SGsiotárN;NOM;SG	siotár
+N;NOM;PL;DEFoiriseachN;NOM;PL;DEF	na
+V;1;SG;SBJV;PSTspreagV;1;SG;SBJV;PST	dá spléachainn
+N;NOM;PLfo-ghrúpaN;NOM;PL	fho-ghrúpaí
+N;NOM;PL;DEFclosmhéadraíN;NOM;PL;DEF	na closmhéadraithe
+V;1;PL;FUT;INDathshonV;1;PL;FUT;IND	d'athshonadh
+V;2;PL;CONDclóbhuailV;2;PL;COND	sibh
+V;3;SG;PRS;INDsmaoinV;3;SG;PRS;IND	smaoinim sé
+N;NOM;SGtimpeallN;NOM;SG	timpeallán
+N;NOM;SG;DEFidirlíneN;NOM;SG;DEF	an
+N;VOC;PLceanncheathrúN;VOC;PL	a bhláthshaothrú
+N;NOM;PL;DEFaerphiocóidN;NOM;PL;DEF	na haerphiocóidí
+N;VOC;PLgníomhasN;VOC;PL	a gníomhais
+V;1;SG;IMPtroitheánaighV;1;SG;IMP	troitheánaímis
+V;1;PL;FUT;INDhidriginighV;1;PL;FUT;IND	hidriginím
+N;GEN;SG;DEFneamhthábhachtN;GEN;SG;DEF	na
+N;GEN;SG;DEFtruaillN;GEN;SG;DEF	an truaill
+V;2;PL;SBJV;PSTdeisighV;2;PL;SBJV;PST	dá ndeisímis sibh
+N;DAT;SG;DEFáilleagánachtN;DAT;SG;DEF	leis an áille
+N;GEN;PLcoiléar capaillN;GEN;PL	choiléir
+N;DAT;SG;DEFochtóN;DAT;SG;DEF	leis an ochtód
+N;DAT;SG;DEFfótaighreanadóireachtN;DAT;SG;DEF	leis an
+N;GEN;PLpáirteachN;GEN;PL	páirteagal
+N;GEN;SG;DEFcraobhN;GEN;SG;DEF	na craobháin
+N;GEN;SG;DEFminicíochtN;GEN;SG;DEF	na minicíocht
+V;REL;CONDsuanbhruithV;REL;COND	a suanbhruithim
+V;2;SG;PRS;INDmúchV;2;SG;PRS;IND	tú
+N;DAT;SG;DEFblastóirN;DAT;SG;DEF	leis an blas
+V;3;SG;CONDceartaighV;3;SG;COND	sé
+ADJ;CMPRgéarADJ;CMPR	níos
+N;NOM;SG;DEFcamánachtN;NOM;SG;DEF	an camánachta
+N;GEN;PLUigingeachN;GEN;PL	Uigingigh
+N;GEN;SG;DEFgleoN;GEN;SG;DEF	na gleoiseacha
+N;DAT;SGfíscheamaraN;DAT;SG	físchluichire
+N;NOM;PL;DEFtrumpadóirN;NOM;PL;DEF	na trumpadóir
+N;GEN;SG;DEFáracsN;GEN;SG;DEF	na háracsanna
+N;DAT;PL;DEFBablónachN;DAT;PL;DEF	leis na Bablónach
+N;VOC;SGleataobhN;VOC;SG	a leataobhanna
+N;NOM;PL;DEFsceachN;NOM;PL;DEF	na
+V;3;SG;PST;HAB;INDoibiachtúlaighV;3;SG;PST;HAB;IND	sé
+N;VOC;SGalfa-ghaN;VOC;SG	a alfa-ghathanna
+N;DAT;SGvardaílN;DAT;SG	vardaíl
+N;VOC;PLBriotanachN;VOC;PL	a Briotanaigh
+N;VOC;PLdraíodóirN;VOC;PL	a
+N;NOM;SGsiúchraN;NOM;SG	siúinéara
+N;NOM;SG;DEFfótailéarscáilN;NOM;SG;DEF	an fótailéarscáileanna
+N;NOM;SG;DEFnéareangachN;NOM;SG;DEF	an
+N;NOM;SGarmadailínN;NOM;SG	t-armadailín
+N;DAT;PL;DEFtobánN;DAT;PL;DEF	leis na tobán
+N;VOC;SGjiohádachN;VOC;SG	a jiolc
+V;3;SG;SBJV;PRSgliúáilV;3;SG;SBJV;PRS	go ngloiní ghliúáladh sé
+N;VOC;SGdordveidhlínN;VOC;SG	a dhordveidhilí
+V;AUTO;FUT;INDadhfhuathaighV;AUTO;FUT;IND	adhfhuathóidh
+N;NOM;SGdulcaiméirN;NOM;SG	dulcaiméir
+N;DAT;SGagóideoirN;DAT;SG	agóidfidh mé
+N;GEN;SG;DEFbunN;GEN;SG;DEF	na bunatachta
+N;DAT;PLválsaN;DAT;PL	válsa
+ADJ;DAT;PLféasógachADJ;DAT;PL	féasóg
+N;NOM;SG;DEFaindiadhachtN;NOM;SG;DEF	an aindiagaí
+N;GEN;SGard-ghiúiréN;GEN;SG	ard-ghiúiréithe
+N;DAT;PLleathógN;DAT;PL	leathóg
+V;3;PL;PRS;INDtarV;3;PL;PRS;IND	siad
+N;GEN;SGceannadhartN;GEN;SG	cheannadhairt
+V;1;SG;CONDionsaighV;1;SG;COND	d'ionsaímis
+N;GEN;SGlochN;GEN;SG	loch
+N;DAT;SG;DEFsásN;DAT;SG;DEF	leis an tsáis
+V;AUTO;PRS;INDbeirighV;AUTO;PRS;IND	bheirigh
+N;VOC;SGsúilN;VOC;SG	a súile
+N;DAT;SG;DEFnarcailéipseN;DAT;SG;DEF	leis an bhithóipse
+N;DAT;PLbaintreachN;DAT;PL	baintreacha
+N;NOM;PLspotaN;NOM;PL	spotaí
+N;VOC;SGfaolchúN;VOC;SG	a faolchúnna
+N;NOM;SGaer-ruatharN;NOM;SG	aer-ghrianghrafadóireacht
+N;GEN;SG;DEFfreagraN;GEN;SG;DEF	an bhfreagracht
+V;1;SG;SBJV;PSTtiomsaighV;1;SG;SBJV;PST	dá dtiontaídís
+N;NOM;SGneamhfhulangachtN;NOM;SG	neamhfhulangacht
+N;DAT;SGbráisleogN;DAT;SG	bráisleoige
+N;VOC;SGneamhthuilleamaíochtN;VOC;SG	a
+V;2:SG;SBJV;PSTteilgV;2:SG;SBJV;PST	dá dteibeadh
+N;NOM;PL;DEFbithscaglannN;NOM;PL;DEF	na
+N;NOM;SG;DEFfonéalN;NOM;SG;DEF	an bhfonéal
+N;NOM;PL;DEFcaschiorcalN;NOM;PL;DEF	na gcaschiorcal
+N;NOM;PL;DEFaintN;NOM;PL;DEF	na
+N;GEN;SGBrámanN;GEN;SG	Brámain
+N;VOC;SGmeánlíneN;VOC;SG	a mheáin
+N;GEN;PLeascaN;GEN;PL	eascaí
+N;GEN;PLsclábhaíN;GEN;PL	sclábhaithe
+V;2;PL;FUT;INDrianaighV;2;PL;FUT;IND	sibh
+N;DAT;PL;DEFbilbíN;DAT;PL;DEF	leis na bhilbithe
+N;NOM;SG;DEFréadlannN;NOM;SG;DEF	an réadán
+N;DAT;SG;DEFfideogN;DAT;SG;DEF	leis an
+N;DAT;SG;DEFairleacanN;DAT;SG;DEF	leis an airleacain
+N;DAT;SG;DEFsálN;DAT;SG;DEF	leis an tsácráilteacht
+N;DAT;PLgáibéalN;DAT;PL	gháibéil
+V;3;SG;PRS;INDbainistighV;3;SG;PRS;IND	sé
+N;NOM;PLgrúsN;NOM;PL	grúis
+V;2;PL;SBJV;PSTdiongaibhV;2;PL;SBJV;PST	dá sibh
+N;GEN;SG;DEFscríbhneoirN;GEN;SG;DEF	na banscríbhneora
+V;REL;PST;INDdíscaoilV;REL;PST;IND	a dhíscaoilfidh
+V;2:SG;SBJV;PRScoisricV;2:SG;SBJV;PRS	go gcoisrice tú
+N;NOM;PLagúsN;NOM;PL	agús
+V;AUTO;PST;INDfolíonV;AUTO;PST;IND	d'fholíon
+N;NOM;SGgortaN;NOM;SG	goraille
+N;VOC;PLlúbraN;VOC;PL	a lúbána
+V;3;SG;PST;HAB;INDboilscighV;3;SG;PST;HAB;IND	bhoilscídís sé
+N;NOM;SG;DEFaláramN;NOM;SG;DEF	an aláraim
+V;2;PL;SBJV;PSTbiathaighV;2;PL;SBJV;PST	dá mbascadh sibh
+N;GEN;PLtrocóideachN;GEN;PL	throcóideacha
+V;3;PL;SBJV;PSTéagnaighV;3;PL;SBJV;PST	dá n-éagnaínn
+N;NOM;SG;DEFcrománN;NOM;SG;DEF	an chromána
+N;VOC;PLmaorsháirsintN;VOC;PL	a maorsháirsint
+V;1;SG;PST;INDatáthaighV;1;SG;PST;IND	d'atáthaíomar mé
+N;VOC;SGbábN;VOC;SG	a bhábóg
+V;AUTO;SBJV;PRSbreabhsaighV;AUTO;SBJV;PRS	go mbruitear
+N;NOM;SGsliosbhótharN;NOM;SG	sliosbhóithre
+N;VOC;SGmadra uisceN;VOC;SG	a
+N;NOM;SGhidribhitheolaíochtN;NOM;SG	hidreafóbacht
+N;GEN;SG;DEFaerógN;GEN;SG;DEF	an aeróg
+N;GEN;SG;DEFleachtachtN;GEN;SG;DEF	an leachtacht
+N;GEN;SG;DEFfileN;GEN;SG;DEF	an
+V;1;SG;CONDdreapV;1;SG;COND	dhreapfadh
+V;2;PL;SBJV;PRSathbhreithnighV;2;PL;SBJV;PRS	go sibh
+N;VOC;SGnótaireachtN;VOC;SG	a nósúlacht
+N;NOM;SGhidreagrafaíochtN;NOM;SG	hidreafóbacht
+N;GEN;SG;DEFdramaN;GEN;SG;DEF	an
+N;NOM;PL;DEFainmnitheoirN;NOM;PL;DEF	na hainmnithigh
+N;DAT;PL;DEFbansclábhaíN;DAT;PL;DEF	leis na bansclábhaí
+N;GEN;PLbádóirN;GEN;PL	bádóirí
+V;3;PL;SBJV;PRSaomV;3;PL;SBJV;PRS	go n-aoma siad
+N;NOM;SG;DEFfo-dhordaireN;NOM;SG;DEF	an fho-dhordaire
+N;GEN;SGoirfideachN;GEN;SG	oirfide
+V;3;SG;CONDcaillV;3;SG;COND	cailleann sé
+N;GEN;PLluathscríbhneoirN;GEN;PL	luathscríbhneoireacht
+V;3;SG;PST;HAB;INDsiosV;3;SG;PST;HAB;IND	sé
+N;NOM;PL;DEFaerasólN;NOM;PL;DEF	na t-aerasól
+N;DAT;PL;DEFbanphríosúnachN;DAT;PL;DEF	leis na banphríosúnaigh
+V;2;PL;FUT;INDteilgV;2;PL;FUT;IND	teilgfimid sibh
+N;VOC;SGsiosachN;VOC;SG	a siosaigh
+N;DAT;SG;DEFseaimpéinN;DAT;SG;DEF	leis an seaimpín
+V;1;PL;FUT;INDbreathnaighV;1;PL;FUT;IND	breathnóidh
+N;VOC;SGmaorlathaíN;VOC;SG	a mhaorlathais
+N;NOM;SG;DEFlao maraN;NOM;SG;DEF	an laoich
+N;VOC;SGcóisir bhrídeoigeN;VOC;SG	a bhrídeoige
+N;NOM;PL;DEFmátaN;NOM;PL;DEF	na másailéim
+N;NOM;SGmuineN;NOM;SG	muic
+N;DAT;SG;DEFascaillN;DAT;SG;DEF	leis an
+N;NOM;PL;DEFmincN;NOM;PL;DEF	na minceanna
+N;DAT;SGmagairleN;DAT;SG	magairlín
+N;GEN;SGmí-ailíniúN;GEN;SG	mí-ailíniú
+N;NOM;PL;DEFmeáchanN;NOM;PL;DEF	na meáchain
+N;VOC;PLGaimbiachN;VOC;PL	a Giúdacha
+N;GEN;SG;DEFhopaN;GEN;SG;DEF	an hoiméapait
+N;NOM;SG;DEFtaobhphortN;NOM;SG;DEF	an taobhphort
+N;NOM;SG;DEFcloschaiséadN;NOM;SG;DEF	an closchaiséid
+N;DAT;SGmórfhaillíN;DAT;SG	mórfhaillí
+N;GEN;SGteampallN;GEN;SG	teampall
+V;AUTO;IMPathneartaighV;AUTO;IMP	athneartaím
+N;VOC;PLmórchríochN;VOC;PL	a
+N;DAT;SG;DEFtáblaN;DAT;SG;DEF	leis an constáblaí
+N;NOM;SGmósáicN;NOM;SG	d'fhacsálfadh
+N;DAT;PL;DEFéiclipsN;DAT;PL;DEF	leis na éiclips
+V;2:SG;SBJV;PSTcluinV;2:SG;SBJV;PST	dá gcluinimis
+V;AUTO;PST;INDspréighV;AUTO;PST;IND	spréamar
+N;GEN;PLóstachN;GEN;PL	óstaigh
+V;2;PL;CONDoibrighV;2;PL;COND	d'oibreoimis sibh
+N;GEN;SGantatocsainN;GEN;SG	antatocsainí
+N;VOC;SGcrua-chlárN;VOC;SG	a lasc-chlár
+N;DAT;SG;DEFceártaN;DAT;SG;DEF	leis an cheárta
+N;DAT;SGbronntanasN;DAT;SG	mbronntanas
+N;DAT;SG;DEFprótaisteachN;DAT;SG;DEF	leis an prótaistéile
+V;AUTO;IMPdreapV;AUTO;IMP	dreapadh
+N;GEN;SGaralN;GEN;SG	aral
+N;GEN;SG;DEFcaonachN;GEN;SG;DEF	an chaoich
+N;DAT;PLbanstiúrthóirN;DAT;PL	bhanstiúrthóir
+N;VOC;SGpolainéarapaiteN;VOC;SG	a pholashuanagrafaíocht
+N;GEN;SG;DEFjaingléirN;GEN;SG;DEF	an jaingléirí
+N;NOM;SG;DEFscréachógN;NOM;SG;DEF	an
+N;DAT;SG;DEFeipidéimeolaíochtN;DAT;SG;DEF	leis an eipidéim
+N;DAT;PLfabhalN;DAT;PL	fabhalscéalaithe
+N;NOM;PLbaincéirN;NOM;PL	baincéireacht
+N;VOC;SGcúlfhuinneogN;VOC;SG	a cúlfhuinneoga
+V;REL;PST;HAB;INDmiotaighV;REL;PST;HAB;IND	a
+N;NOM;PL;DEFleacN;NOM;PL;DEF	na leaca
+N;GEN;SG;DEFbalbhánN;GEN;SG;DEF	an
+N;GEN;SGaonchraoladhN;GEN;SG	aonchraoladh
+N;VOC;PLseangánN;VOC;PL	a seangán
+V;3;SG;FUT;INDdonnaighV;3;SG;FUT;IND	sé
+N;VOC;PLionsáN;VOC;PL	a ionsá
+N;NOM;SG;DEFgairmuimhirN;NOM;SG;DEF	an gairmuimhreacha
+N;DAT;PLglúinN;DAT;PL	nglúin
+N;DAT;PL;DEFseilbhN;DAT;PL;DEF	leis na
+V;1;SG;IMPfighV;1;SG;IMP	figh
+N;NOM;SG;DEFáitreabhachN;NOM;SG;DEF	an t-áitreabh
+N;DAT;SG;DEFdébhliantógN;DAT;SG;DEF	leis an débhealach
+N;DAT;SGfótatháirgeN;DAT;SG	fótatháirgí
+V;1;PL;FUT;INDéagnaighV;1;PL;FUT;IND	éagnaíonn
+V;1;PL;PST;INDfo-ordaighV;1;PL;PST;IND	d'fho-ordaíteá
+V;REL;PST;HAB;INDléasaighV;REL;PST;HAB;IND	a
+N;DAT;PLmagairleN;DAT;PL	magairle
+N;DAT;PL;DEFcrónónN;DAT;PL;DEF	leis na
+N;DAT;PL;DEFceannbhratN;DAT;PL;DEF	leis na
+V;3;PL;SBJV;PSTleaghV;3;PL;SBJV;PST	dá leanadh
+N;VOC;SGbéaloideasN;VOC;SG	a bhéalfharaing
+N;NOM;SG;DEFadamhachasN;NOM;SG;DEF	an adamhacht
+N;GEN;PLfo-eachtraN;GEN;PL	fo-eagarthóirí
+N;VOC;PLtonn tuileN;VOC;PL	a tonnchlár hintuigtheachta
+N;NOM;PL;DEFeaspaN;NOM;PL;DEF	na heaspa
+N;GEN;SGurchóidN;GEN;SG	urchóid
+N;NOM;PL;DEFtoitínN;NOM;PL;DEF	na torthaí
+N;NOM;SG;DEFfótamósáicN;NOM;SG;DEF	an sáithím
+V;2;PL;FUT;INDathbhreithnighV;2;PL;FUT;IND	sibh
+N;NOM;SG;DEFiarnótaN;NOM;SG;DEF	an iarnónta
+N;GEN;SGmoirtiúlachtN;GEN;SG	moiréin
+N;GEN;SG;DEFeitneachanúintN;GEN;SG;DEF	na eitneachanúint
+N;DAT;SGmargadhN;DAT;SG	margaidh
+N;DAT;PL;DEFleitheadN;DAT;PL;DEF	leis na leithead
+N;DAT;SG;DEFagarthóirN;DAT;SG;DEF	leis an
+N;GEN;PLponcN;GEN;PL	poinc
+V;REL;CONDbainistighV;REL;COND	a
+N;NOM;SGpianóN;NOM;SG	pianónna
+N;DAT;SGsácráilteachtN;DAT;SG	tsácráilteacht
+N;VOC;SGdreapaireachtN;VOC;SG	a
+V;2;SG;IMPmeascV;2;SG;IMP	meascaidís
+V;1;SG;SBJV;PSTsuighV;1;SG;SBJV;PST	dá suidhinn
+N;VOC;SGclóchuradóireachtN;VOC;SG	a clóchuradóireacht
+V;3;SG;CONDatíolaicV;3;SG;COND	sé
+N;VOC;PLcultasN;VOC;PL	a cultas
+N;VOC;PLochtapasN;VOC;PL	a
+N;NOM;SG;DEFoistéaclastN;NOM;SG;DEF	an oistéaclastaí
+N;VOC;PLceolreacaireachtN;VOC;PL	a ceolreacaireacht
+V;REL;PST;HAB;INDaontaighV;REL;PST;HAB;IND	a
+N;VOC;PLconsólN;VOC;PL	a chonsóil
+V;2;SG;PRS;INDfriotaighV;2;SG;PRS;IND	tú
+V;AUTO;IMPaisigV;AUTO;IMP	aiseagaidís
+N;GEN;SG;DEFbrothaireN;GEN;SG;DEF	na broghaisireachta
+N;VOC;SGgárN;VOC;SG	a
+N;GEN;PLspágN;GEN;PL	spága
+N;GEN;PLsiotárN;GEN;PL	siotár
+N;DAT;SG;DEFréamhaibíochtN;DAT;SG;DEF	leis an
+N;VOC;SGmóráilN;VOC;SG	a
+N;VOC;PLdonaisínN;VOC;PL	a donaisíní
+V;1;PL;PRS;INDionfhabhtaighV;1;PL;PRS;IND	d'ionfhabhtaímis
+N;GEN;PLeiscirN;GEN;PL	heascracha
+N;NOM;PLlárcheantarN;NOM;PL	lárcheantair
+N;NOM;SGurthosachN;NOM;SG	urthosaigh
+V;1;PL;PST;HAB;INDgloinighV;1;PL;PST;HAB;IND	ghloiníodh
+V;1;PL;FUT;INDfo-eagraighV;1;PL;FUT;IND	fo-eagraím
+N;VOC;SGBoihéamachN;VOC;SG	a Bhoihéamacha
+N;NOM;SGprótasónN;NOM;SG	phrótasóin
+N;GEN;PLdobharchúN;GEN;PL	dobhriathra árchú
+N;NOM;SG;DEFjiohádachN;NOM;SG;DEF	an jiolc
+N;GEN;SG;DEFmeasarthachtN;GEN;SG;DEF	an mheasarthacht
+N;GEN;SG;DEFgaisceoireachtN;GEN;SG;DEF	na gailsí
+N;NOM;SG;DEFdabhaichN;NOM;SG;DEF	an
+N;GEN;PLbunócN;GEN;PL	mbunóc
+N;NOM;SG;DEFcuilN;NOM;SG;DEF	an chuideog
+N;GEN;SG;DEFnaonúrN;GEN;SG;DEF	na
+N;DAT;PL;DEFosréalaíN;DAT;PL;DEF	leis na hois
+N;DAT;SG;DEFurlárN;DAT;SG;DEF	leis an urlabhairt
+N;DAT;PL;DEFneamhfhírinneN;DAT;PL;DEF	leis na neamhfhírinne
+N;GEN;SG;DEFleagáideachtN;GEN;SG;DEF	na leagáideacht
+V;3;SG;FUT;INDbior-róstV;3;SG;FUT;IND	bhior-róstfaidh sé
+N;NOM;SG;DEFfaillíN;NOM;SG;DEF	an fhail
+N;VOC;SGféinfhostaíochtN;VOC;SG	a fhéinchanúint
+N;NOM;SGneamh-thréscaoilteachtN;NOM;SG	neamh-thréscaoilteacht
+N;DAT;PL;DEFbréagthacailítN;DAT;PL;DEF	leis na bréagthacailítí
+N;NOM;PLsnáthaidN;NOM;PL	snáthaidí
+N;DAT;PLgrósaN;DAT;PL	grósaí
+N;VOC;PLseanadóirN;VOC;PL	a seanadóir
+N;VOC;PLdordeochairN;VOC;PL	a
+N;VOC;PLaerchomhlaN;VOC;PL	a
+N;GEN;SGbanbharúnN;GEN;SG	banbharúin
+N;GEN;SG;DEFmaide mórN;GEN;SG;DEF	na maide
+V;2;SG;PST;INDimirV;2;SG;PST;IND	tú
+N;DAT;PL;DEFboltaN;DAT;PL;DEF	leis na
+N;DAT;SGmífhaisnéisN;DAT;SG	bréagaisnéis
+V;AUTO;SBJV;PRSbiathaighV;AUTO;SBJV;PRS	go mbiathaí
+V;REL;PST;HAB;INDdearbhaighV;REL;PST;HAB;IND	a
+V;3;SG;PST;HAB;INDgreannaighV;3;SG;PST;HAB;IND	sé
+N;GEN;SG;DEFbuachaill aimsireN;GEN;SG;DEF	an aimsire
+V;AUTO;SBJV;PRSimirV;AUTO;SBJV;PRS	go n-imtheorannaítear
+N;DAT;SG;DEFcroscheisteoirN;DAT;SG;DEF	leis an
+N;VOC;PLfidilN;VOC;PL	a
+N;GEN;SG;DEFaerchillN;GEN;SG;DEF	an
+N;GEN;SG;DEFY-chrómasómN;GEN;SG;DEF	an Y-chrómasóim
+N;DAT;SGbrannógN;DAT;SG	brannóga
+N;DAT;PL;DEFbunaonadN;DAT;PL;DEF	leis na bunuimhreacha
+N;NOM;SG;DEFcúlbhallaN;NOM;SG;DEF	an cúlbhalla
+N;VOC;SGmí-ordúN;VOC;SG	a mí-ordaithe
+N;DAT;PL;DEFNua-ShéalannachN;DAT;PL;DEF	na Nua-Shéalannaigh
+N;NOM;PL;DEFbithbhreoslaN;NOM;PL;DEF	na bithbhlastaí
+V;2;SG;PST;HAB;INDeagraighV;2;SG;PST;HAB;IND	d'eagraídís
+N;NOM;SG;DEFtrébhótharN;NOM;SG;DEF	an trébhóithre
+N;NOM;SG;DEFdordlíneN;NOM;SG;DEF	an dordlíne
+N;DAT;SG;DEFpríomhachtN;DAT;SG;DEF	leis an bpríomhscannán
+N;VOC;SGcripteagrafaíochtN;VOC;SG	a foscripteanna
+N;NOM;SGrollógN;NOM;SG	rolla
+N;VOC;PLsliseogN;VOC;PL	a sliseog
+N;DAT;SG;DEFéimírN;DAT;SG;DEF	leis an réimír
+V;2;PL;SBJV;PRSbásaighV;2;PL;SBJV;PRS	go mbásaí sibh
+N;NOM;SGnuálaíN;NOM;SG	nuálaithe
+N;NOM;PLcúlbhallaN;NOM;PL	cúlbhalla
+V;2;PL;PRS;INDiarnaighV;2;PL;PRS;IND	sibh
+N;VOC;PLmamN;VOC;PL	a
+N;GEN;PLgiúrannN;GEN;PL	giúrainn
+N;GEN;PLpéinteáilN;GEN;PL	péineas
+N;DAT;SG;DEFNígireachN;DAT;SG;DEF	leis an
+V;1;PL;PRS;INDcáilighV;1;PL;PRS;IND	cáileofar
+V;1;PL;SBJV;PSTaisigV;1;PL;SBJV;PST	dá n-aicmímis
+N;DAT;SGfichiúN;DAT;SG	fichithe
+N;VOC;SGnochtadhN;VOC;SG	a nochtadh
+V;1;PL;CONDfo-eagraighV;1;PL;COND	d'fho-eagródh
+N;GEN;SG;DEFtaistealN;GEN;SG;DEF	an
+N;NOM;SG;DEFscannánN;NOM;SG;DEF	an scannáin
+N;NOM;PLbéileN;NOM;PL	béiríní
+N;GEN;SG;DEFhiatasN;GEN;SG;DEF	na
+V;3;SG;CONDéistV;3;SG;COND	sé
+V;AUTO;CONDtuilV;AUTO;COND	tuilfidh
+N;NOM;SG;DEFaicearraN;NOM;SG;DEF	an t-aiceantach
+V;2;SG;PST;INDadharcáilV;2;SG;PST;IND	d'adharcáil tú
+N;NOM;PLcomhcheilgN;NOM;PL	comhcheilg
+N;DAT;SG;DEFtuathN;DAT;SG;DEF	leis an tuathánach
+N;DAT;PLclóácaN;DAT;PL	chlóácaí
+V;3;SG;SBJV;PSTimirV;3;SG;SBJV;PST	dá n-imdhruideadh sé
+V;2;SG;PST;HAB;INDbreoighV;2;SG;PST;HAB;IND	bhreoidís
+N;NOM;SG;DEFdíghrádúN;NOM;SG;DEF	an díghrádaithe
+N;GEN;SGrostramN;GEN;SG	rostraim
+N;NOM;PL;DEFmáistirN;NOM;PL;DEF	na máistreása
+N;DAT;PL;DEFfophláinéadN;DAT;PL;DEF	leis na fionphláinéid
+N;VOC;SGcaochadhN;VOC;SG	a caochán
+N;VOC;SGréaltnéalmhaireachtN;VOC;SG	a réaltnéalta
+N;DAT;SGdiamhaslaN;DAT;SG	diamhasla
+N;NOM;PLlárainmN;NOM;PL	lárainmneacha
+N;NOM;SG;DEFlingeadhN;NOM;SG;DEF	an
+N;GEN;SG;DEFsatailítN;GEN;SG;DEF	an tsatailít
+N;DAT;SGstriapachN;DAT;SG	striapacha
+N;DAT;SG;DEFairpéitseN;DAT;SG;DEF	leis an airpéitse
+N;NOM;SGMeitheamhN;NOM;SG	Meicsiceach
+V;2;SG;PRS;INDcomhlíonV;2;SG;PRS;IND	tú
+N;GEN;SG;DEFoistéipéineN;GEN;SG;DEF	na
+N;DAT;PLuainN;DAT;PL	uaigneacha
+N;NOM;SG;DEFciogalN;NOM;SG;DEF	an
+V;AUTO;SBJV;PRSoirV;AUTO;SBJV;PRS	go n-oighrítear
+N;DAT;SGNigéarachN;DAT;SG	Nigéaraigh
+N;GEN;PLcarbónN;GEN;PL	radacarbón
+N;DAT;SG;DEFcumhachtstáisiúnN;DAT;SG;DEF	leis an gcumhachtach
+V;1;PL;SBJV;PRSagaighV;1;PL;SBJV;PRS	go n-agaí
+N;VOC;SGócairínN;VOC;SG	a ócairíní
+V;3;SG;SBJV;PRSbásaighV;3;SG;SBJV;PRS	go mbásaí sé
+N;DAT;PL;DEFdomhanN;DAT;PL;DEF	leis na
+N;NOM;SG;DEFagaoisN;NOM;SG;DEF	an
+N;DAT;PL;DEFMáltachN;DAT;PL;DEF	leis na Máltach
+N;DAT;SGBútánachN;DAT;SG	Búda
+N;NOM;PLcuánN;NOM;PL	cumhachtstáisiúin
+N;NOM;PLcoileach gaoitheN;NOM;PL	coiligh
+N;DAT;SG;DEFaigéanN;DAT;SG;DEF	leis an aigéaneolaíocht
+N;VOC;PLasparagasN;VOC;PL	a aspaí
+N;VOC;SGmonarchaN;VOC;SG	a
+N;DAT;SG;DEFmaithiúnasN;DAT;SG;DEF	leis an maig
+N;GEN;SG;DEFbogmheisceN;GEN;SG;DEF	an mbogmheisce
+N;VOC;SGbogmheisceN;VOC;SG	a mbogmheisce
+N;DAT;SGdrongadóirN;DAT;SG	dhrongadóir
+N;GEN;SGánshraithN;GEN;SG	ánshraith
+N;VOC;SGleachtN;VOC;SG	a
+N;DAT;SG;DEFmiotalóirN;DAT;SG;DEF	leis an miotalóir
+V;1;PL;IMPbiathaighV;1;PL;IMP	biathaím
+N;DAT;SG;DEFleatharN;DAT;SG;DEF	leis an
+N;DAT;PLspeictreafótaiméadarN;DAT;PL	speictreafótaiméadar
+N;GEN;SG;DEFmoirtN;GEN;SG;DEF	na moiréin
+N;NOM;PL;DEFmairgN;NOM;PL;DEF	na mairgí
+N;GEN;SGamadántachtN;GEN;SG	amadáiníní
+V;1;PL;SBJV;PRSdeachtaighV;1;PL;SBJV;PRS	go ndeachtaí
+N;NOM;SGbanscálN;NOM;SG	áil
+N;GEN;SGáitreabhthóirN;GEN;SG	áitreabhthóra
+N;DAT;PL;DEFcatN;DAT;PL;DEF	leis na
+N;GEN;SG;DEFforásN;GEN;SG;DEF	an
+V;2;SG;PST;INDaifirV;2;SG;PST;IND	d'aifríomar tú
+V;REL;PRS;INDumhlaighV;REL;PRS;IND	a umhlaíonn
+V;1;SG;IMPfrithchaithV;1;SG;IMP	frithchaithigí
+N;DAT;PL;DEFsiollachN;DAT;PL;DEF	leis na
+N;NOM;SG;DEFríomhchoireachtN;NOM;SG;DEF	an
+N;DAT;SG;DEFIoslamaíN;DAT;SG;DEF	leis an Ioslamaí
+N;NOM;PL;DEFisiméadrachtN;NOM;PL;DEF	na
+N;DAT;PLleictreacardagrafN;DAT;PL	leictreacardagraif
+V;1;PL;PRS;INDionadaighV;1;PL;PRS;IND	d'ionadaíodh
+N;VOC;SGfeidhmN;VOC;SG	a fheidhm
+N;GEN;SG;DEFmáineN;GEN;SG;DEF	na máistreása
+N;DAT;SGeitleoireachtN;DAT;SG	eitleogaíocht
+N;NOM;SGzóspórN;NOM;SG	zóspóir
+N;DAT;SGcumhachtN;DAT;SG	chumhacht
+N;VOC;SGfóta-iriseoirN;VOC;SG	a fóta-iriseoir
+N;NOM;SG;DEFfeilméaraN;NOM;SG;DEF	an feilméaraí
+N;NOM;SG;DEFréaltN;NOM;SG;DEF	an
+N;GEN;PLvataN;GEN;PL	vatuaireanta
+N;GEN;SGgnéasN;GEN;SG	gnéasaíochais
+N;VOC;PLtiúbaN;VOC;PL	a tiúbaí
+N;DAT;SG;DEFcomhdháilN;DAT;SG;DEF	leis an chomhdháil
+V;2;PL;PST;INDteastaighV;2;PL;PST;IND	theastaíomar sibh
+V;AUTO;SBJV;PSTmeascV;AUTO;SBJV;PST	dá marmaraítí
+N;NOM;PLinscneN;NOM;PL	inscne
+N;NOM;PL;DEFfoghlaimeoirN;NOM;PL;DEF	na bhfoghlaimeoir
+N;GEN;PLargóintN;GEN;PL	hargóintí
+N;NOM;PLacastóirN;NOM;PL	acastóra
+N;VOC;SGbibeN;VOC;SG	a bhibí
+N;GEN;SG;DEFmoiréanN;GEN;SG;DEF	na moiréin
+N;DAT;PL;DEFméarlorgN;DAT;PL;DEF	leis na méarlorg
+N;GEN;SG;DEFscealpadhN;GEN;SG;DEF	na scealpadh
+N;VOC;SGurnótaN;VOC;SG	a urnóta
+N;VOC;SGachtanaiméadrachtN;VOC;SG	a
+N;DAT;PLcarcanaigineasN;DAT;PL	carcanaiginí
+N;DAT;SG;DEFcóálaN;DAT;SG;DEF	leis an cóálaí
+N;VOC;SGturcaíN;VOC;SG	a turcach
+N;GEN;SG;DEFhipeanastachtN;GEN;SG;DEF	na hipeanastacht
+N;GEN;SG;DEFainfheoilN;GEN;SG;DEF	an ainfheoil
+N;GEN;SGfachtóiriúN;GEN;SG	fhachtóiriú
+N;NOM;SG;DEFmiondíoltóirN;NOM;SG;DEF	an mhiondíoltóra
+V;REL;FUT;INDtoirchighV;REL;FUT;IND	a toircheoidh
+N;VOC;SGsoilireN;VOC;SG	a soilire
+V;1;PL;FUT;INDuraighV;1;PL;FUT;IND	uróidh
+N;VOC;SGbrionglóidíochtN;VOC;SG	a brionglóidíochta
+N;GEN;SGTuircisN;GEN;SG	n-uiríslítí
+N;GEN;PLvíosaN;GEN;PL	víosa
+N;DAT;SG;DEFallaiteitreaplóideachN;DAT;SG;DEF	leis an hallaiteitreaplóidigh
+N;NOM;PL;DEFleamhanN;NOM;PL;DEF	na
+N;VOC;SGceardchumannachN;VOC;SG	a ceardchumannaithe
+N;NOM;SGamplaisN;NOM;SG	ampla
+V;3;PL;PRS;INDéarV;3;PL;PRS;IND	siad
+N;NOM;SG;DEFsnaidhmN;NOM;SG;DEF	an snaidhm
+N;NOM;SGscriúireN;NOM;SG	scriúire
+N;GEN;SGfíréanN;GEN;SG	fíréin
+N;VOC;PLampaillN;VOC;PL	a ampaillí
+N;DAT;SG;DEFleachtachtN;DAT;SG;DEF	leis an leachtacht
+N;NOM;PLtigmeatrópachtN;NOM;PL	ceimeatrópachtaí
+N;GEN;SGcrónaluadarN;GEN;SG	chrónaichrios teirmealuadair
+N;VOC;SGcráifeachtN;VOC;SG	a cráifeacha
+N;VOC;PLpócaN;VOC;PL	a phóca
+N;DAT;PLcácaN;DAT;PL	cácaí
+N;NOM;PLtiomnóirN;NOM;PL	díthiomnóirí
+N;VOC;PLgunnaN;VOC;PL	a ghuthanna
+V;AUTO;PST;INDteibighV;AUTO;PST;IND	theibigh
+ADJ;VOC+GEN;SG;MASVcnocachADJ;VOC+GEN;SG;MASV	cnocacha
+V;2;SG;FUT;INDboilscighV;2;SG;FUT;IND	bhoilscídís tú
+N;GEN;SG;DEFréchantaireachtN;GEN;SG;DEF	an réchantaireacht
+N;NOM;PLHaváíochN;NOM;PL	Haváígh
+N;DAT;SG;DEFforaoiseachtN;DAT;SG;DEF	leis an foraoiseacht
+V;1;SG;FUT;INDbainistighV;1;SG;FUT;IND	mé
+N;VOC;SGdéadchíorN;VOC;SG	a déadchíoradóirí
+N;NOM;PLsiubhalN;NOM;PL	siubhal
+V;AUTO;PRS;INDatíolaicV;AUTO;PRS;IND	atíolacaim
+N;DAT;SGcóisir bhrídeoigeN;DAT;SG	bhrídeoige
+V;2;PL;PST;INDdearbhaighV;2;PL;PST;IND	sibh
+N;DAT;PL;DEFgóraíN;DAT;PL;DEF	leis na góraithe
+N;GEN;PLfliúiteadóirN;GEN;PL	fliúit
+N;GEN;PLardríN;GEN;PL	arda suirí
+N;DAT;SG;DEFspeictreafótaiméadrachtN;DAT;SG;DEF	leis an
+V;2;PL;PRS;INDcumV;2;PL;PRS;IND	chumfainn sibh
+V;2;PL;PST;HAB;INDceilV;2;PL;PST;HAB;IND	sibh
+N;NOM;SG;DEFbanoidhreN;NOM;SG;DEF	an
+ADJ;CMPRdaonlathachADJ;CMPR	níos
+V;3;SG;PRS;INDéirighV;3;SG;PRS;IND	sé
+V;1;PL;SBJV;PSTséidV;1;PL;SBJV;PST	dá
+N;VOC;PLCeanadachN;VOC;PL	a Ceanadaigh
+N;NOM;PL;DEFardchumhachtN;NOM;PL;DEF	na ardchultúir
+N;GEN;SG;DEFlogántachtN;GEN;SG;DEF	an
+N;VOC;SGfoclachasN;VOC;SG	a
+N;VOC;SGaiste mheadarachtaN;VOC;SG	a meadarachta
+N;NOM;PL;DEFlinntreogN;NOM;PL;DEF	na lingchláir
+V;1;PL;CONDtroitheánaighV;1;PL;COND	troitheánaímis
+N;NOM;SG;DEFíosioncamN;NOM;SG;DEF	an íosioncam
+V;3;SG;CONDgreannaighV;3;SG;COND	sé
+N;NOM;SG;DEFnochtachN;NOM;SG;DEF	an nochtach
+N;NOM;PLbuntáirgeN;NOM;PL	bunaíochtaí
+N;DAT;PLlus anainnN;DAT;PL	luamháin
+N;DAT;PL;DEFdeimhneachtN;DAT;PL;DEF	leis na
+N;GEN;SGdroicheadN;GEN;SG	droichid
+N;DAT;SG;DEFainiseatrópachtN;DAT;SG;DEF	leis an ainiseatrópacht
+V;2;PL;PST;HAB;INDurchoillV;2;PL;PST;HAB;IND	urchoilltear sibh
+N;DAT;PL;DEFtuairiscN;DAT;PL;DEF	leis na tuairiscí
+N;NOM;SGcúramN;NOM;SG	cúramóir
+N;DAT;PLscriútaN;DAT;PL	scriútaí
+V;3;SG;PST;INDtarV;3;SG;PST;IND	sé
+N;DAT;SGtrasnasc dúbailteN;DAT;SG	dúbailt
+N;DAT;PL;DEFcín laeN;DAT;PL;DEF	leis na taicín
+N;NOM;SG;DEFampaillN;NOM;SG;DEF	an
+N;NOM;PL;DEFfíschluichireN;NOM;PL;DEF	na físchluichí
+N;VOC;PLplásógN;VOC;PL	a plásóige
+V;2;PL;IMPidirlínighV;2;PL;IMP	idirlínídís
+V;1;PL;SBJV;PRSabaighV;1;PL;SBJV;PRS	go n-análaímid
+N;GEN;SG;DEFbolscaireachtN;GEN;SG;DEF	an
+N;VOC;SGbithbhancN;VOC;SG	a bhithbhraiteoir
+N;NOM;PL;DEFparamorfachtN;NOM;PL;DEF	na paramorfachta
+V;2;SG;PST;INDspréighV;2;SG;PST;IND	spréamar tú
+N;GEN;PLsliogán maraN;GEN;PL	sliogán
+N;GEN;PLcomhlathasN;GEN;PL	comhlachtaí
+N;VOC;SGgleoN;VOC;SG	a gleo
+N;NOM;SGancaireachtN;NOM;SG	ancaireacht
+V;V.MSDRbeachtaighV;V.MSDR	beiriú
+N;VOC;PLcréachtN;VOC;PL	a
+N;NOM;SG;DEFmuileannN;NOM;SG;DEF	an mhuilinn
+V;2:SG;SBJV;PRSbreabhsaighV;2:SG;SBJV;PRS	go mbreathnaí tú
+N;DAT;SG;DEFmínáireN;DAT;SG;DEF	leis an
+N;NOM;SGmórancaireN;NOM;SG	mórancairí
+V;3;PL;SBJV;PRScreathV;3;PL;SBJV;PRS	go gcrosphóraí siad
+N;NOM;SG;DEFábhar greamaitheachN;NOM;SG;DEF	an ábha greamaitheoirí
+N;DAT;PLmúinteoirN;DAT;PL	múis
+V;3;PL;PRS;INDfreagairV;3;PL;PRS;IND	siad
+N;NOM;SGbréagléiriúN;NOM;SG	bréagléirithe
+N;VOC;PLfo-armónachN;VOC;PL	a fho-armónaigh
+N;DAT;PLgairmuimhirN;DAT;PL	gairmuimhreacha
+V;AUTO;IMPatarraingV;AUTO;IMP	atarraingím
+N;NOM;PL;DEFionadN;NOM;PL;DEF	na
+V;3;PL;PST;HAB;INDéagothromaighV;3;PL;PST;HAB;IND	éagothromaíonn
+N;GEN;SG;DEFgrúdaireN;GEN;SG;DEF	an
+N;VOC;PLfomháistreásN;VOC;PL	a fomháistrí
+N;VOC;SGgarN;VOC;SG	a
+ADJ;DAT;SG;MASCbochtADJ;DAT;SG;MASC	bochta
+N;NOM;SG;DEFtuáilléadachN;NOM;SG;DEF	an tuáilléadaigh
+N;VOC;PLcúramN;VOC;PL	a
+N;DAT;PL;DEFbansiógN;DAT;PL;DEF	leis na bansióga
+N;VOC;PLbanóghN;VOC;PL	a banógh
+N;DAT;SG;DEFaonfhogharN;DAT;SG;DEF	leis an aonfhoirmeacht
+N;NOM;SGrothaíochtN;NOM;SG	raonrothaíocht
+N;GEN;PLachasánN;GEN;PL	achasáin
+N;VOC;SGcampálaíN;VOC;SG	a champálann
+N;DAT;SGbreisiúN;DAT;SG	breis treisiú
+N;GEN;PLmeántiarnaN;GEN;PL	meánghearrthacha tiarnaí
+V;3;PL;PRS;INDsiúilV;3;PL;PRS;IND	siad
