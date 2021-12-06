@@ -116,7 +116,7 @@ def evaluateOutput(predictedFp, expectedFp):
     acc = accuracy(predictedFp, expectedFp)
     levDist = levenshtein(predictedFp, expectedFp)
 
-    return ((acc[0]*100, acc[1]*100), levDist)
+    return ((round(acc[0]*100,2), round(acc[1]*100, 2)), levDist)
 
 
 def evalAll(outputFp,directory):
@@ -133,7 +133,7 @@ def evalAll(outputFp,directory):
                 expected = open(expectedFilePath, "r")
 
                 acc, levDist = evaluateOutput(predicted, expected)
-                outputStr = name + "   total accuracy: " + str(acc[0]) + "  accuracy of guessed: " + str(acc[1]) + "  levenshtein: " + str(levDist) + "\n"
+                outputStr = name + "\ttotal accuracy: " + str(acc[0]) + "\taccuracy of guessed: " + str(acc[1]) + "\tlevenshtein: " + str(levDist) + "\n"
                 outputFp.write(outputStr)
                 
 
