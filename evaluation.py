@@ -22,13 +22,15 @@ def distance(str1, str2):
 
 def readCorrectTest(fp):
     D = set()
+    i = 0
     for line in fp:
+        i+=1
         newLine  = line.rstrip()
         listOfWords = newLine.split("\t")
         
         D.add(listOfWords[1])
 
-    return D
+    return D,i
 
 
 
@@ -36,12 +38,12 @@ def readCorrectTest(fp):
 def accuracy(predictedFp, expectedFp):
     i = 0
     j = 0
-    setOfCorrectInflections = readCorrectTest(expectedFp)
+    setOfCorrectInflections,total = readCorrectTest(expectedFp)
     expectedFp.seek(0)
     for line in predictedFp:
         newLine  = line.rstrip()
         listOfWords = newLine.split("\t")
-        print(listOfWords[1])
+        # print(listOfWords[1])
         j+=1
         if listOfWords[1] in setOfCorrectInflections:
             i+=1
@@ -49,7 +51,7 @@ def accuracy(predictedFp, expectedFp):
     predictedFp.seek(0)
     if j == 0:
         j = 1
-    return (i/1000, i/j)
+    return (i/total, i/j)
 
 
 
@@ -118,7 +120,7 @@ def evaluateOutput(predictedFp, expectedFp):
     acc = accuracy(predictedFp, expectedFp)
     levDist = levenshtein(predictedFp, expectedFp)
 
-    return ((acc), levDist)
+    return ((round(acc[0]*100,2), round(acc[1]*100,2)), levDist)
 
 
 def evalAll(outputFp,directory):
