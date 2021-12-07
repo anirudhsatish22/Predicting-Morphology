@@ -1,5 +1,6 @@
 import argparse
 import sys
+import ast 
 
 
 def Reformat(inputFp, outputFp, mode):
@@ -43,7 +44,8 @@ def buckets(fp, op, mode, len_tags, len_lemma):
         op.write(reformatted)
 
 
-def mapUnicode(fp, op, mode):
+
+def mapUnicodeTrain(fp,op, name):
     D = {}
     i = 300
     for line in fp:
@@ -59,6 +61,8 @@ def mapUnicode(fp, op, mode):
 
 
         # print(y)
+    dfp = open("UnicodeDict/"+name, "w")
+    dfp.write(str(D))
         
     fp.seek(0)
 
@@ -77,22 +81,57 @@ def mapUnicode(fp, op, mode):
             if feature in D:
                 morphString += D[feature]
             else:
-                morphString += D[feature]
+                morphString += chr(i)
                 i+=1
 
         
-        if (mode):
-            reformatted = morphString+lemma+morphString + "\t" + conjugated + "\n"
-        else:
-            reformatted = morphString+lemma+morphString + "\n"
+    
+        reformatted = morphString+lemma+morphString + "\t" + conjugated + "\n"
         op.write(reformatted)
+
+def mapUnicodeTest(fp,op, name):
+    with open('UnicodeDict/'+name, "r") as f:
+        data = f.read()
+    
+    D = ast.literal_eval(data)
+    i = 1000
+    for line in fp:
+        newLine  = line.rstrip()
+        listOfWords = newLine.split("\t")
+        lemma = listOfWords[0]
+        conjugated = listOfWords[1]
+        features = listOfWords[2]
+
+
+        listOfFeatures = features.split(";")
+        morphString = listOfFeatures[0]
+        for feature in listOfFeatures[1:]:
+            if feature in D:
+                morphString += D[feature]
+            else:
+                morphString += chr(i)
+                i+=1
+
+        
+        print("hi")
+        reformatted = morphString+lemma+morphString +  "\n"
+        op.write(reformatted)
+
+def mapUnicode(fp, op, mode, name):
+
+    if (mode):
+        mapUnicodeTrain(fp,op, name)
+    else:
+        mapUnicodeTest(fp,op, name)
+    
+    
 
 def main(args):
 
     if (args.nocompression):    
         Reformat(args.input_file, args.output_file, args.train)
     elif (args.unicodeMap):
-        mapUnicode(args.input_file, args.output_file, args.train)
+        mapUnicode(args.input_file, args.output_file, args.train, args.language)
     elif (args.buckets):
         buckets(args.input_file, args.output_file, args.train, args.len_tags, args.len_lemma)
     
@@ -114,6 +153,7 @@ if __name__ == '__main__':
 
     parser.add_argument("--len_lemma", type=int, help="length of the lemma bucket for bucket compression")
     parser.add_argument("--len_tags", type=int, help="length of the tags bucket for bucket compression")
+    parser.add_argument("--language", help="language")
 
 
 
