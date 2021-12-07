@@ -137,7 +137,8 @@ def evalAll(outputFp,directory):
                 expected = open(expectedFilePath, "r")
 
                 acc, levDist = evaluateOutput(predicted, expected)
-                outputStr = name + "\ttotal accuracy: " + str(acc[0]) + "\taccuracy of guessed: " + str(acc[1]) + "\tlevenshtein: " + str(levDist) + "\n"
+                # (name,  acc[0], levDist)
+                outputStr = name + "\n\ttotal accuracy: " + str(acc[0]) + "\n\taccuracy of guessed: " + str(acc[1]) + "\n\tlevenshtein: " + str(levDist) + "\n"
                 outputFp.write(outputStr)
                 
 

@@ -19,20 +19,24 @@ def Reformat(inputFp, outputFp, mode):
         outputFp.write(reformatted)
 
 
-def Ref2(fp, op, mode):
+def mapUnicode(fp, op, mode):
     D = {}
-    i = 1
+    i = 300
     for line in fp:
         newLine = line.rstrip()
         listOfWords = newLine.split("\t")
 
         x = listOfWords[2]
         features = x.split(";")
-        y = ''.join(features)
+        print(features)
+        for feature in features[1:]:
+            if feature not in D:
+                D[feature] = chr(i)
+                i+=1
+
+
         # print(y)
-        if y not in D:
-            D[y] = i
-            i+=1
+        
     fp.seek(0)
 
 
@@ -43,21 +47,26 @@ def Ref2(fp, op, mode):
         conjugated = listOfWords[1]
         features = listOfWords[2]
 
+
+        print(features)
         if features in D:
             x = D[features]
         else:
-            x = i
+            x = chr(i)
             i+=1
         
         if (mode):
-            reformatted = str(x)+lemma+str(x) + "\t" + conjugated + "\n"
+            reformatted = x+lemma+x + "\t" + conjugated
         else:
-            reformatted = str(x)+lemma+str(x) + "\n"
-        op.write(reformatted)
+            reformatted = x+lemma+x
+        op.writeline(reformatted)
 
 def main(args):
 
-    Reformat(args.input_file, args.output_file, args.train)
+    if (args.nocompression):    
+        Reformat(args.input_file, args.output_file, args.train)
+    elif (args.unicodeMap):
+        mapUnicode(args.input_file, args.output_file, args.train)
     # Ref2(args.input_file, args.output_file, args.train)
     
 
@@ -69,6 +78,12 @@ if __name__ == '__main__':
     eval_group = parser.add_mutually_exclusive_group(required=True)
     eval_group.add_argument("--train", action="store_true")
     eval_group.add_argument("--test", action="store_true")
+
+
+    eval_group = parser.add_mutually_exclusive_group(required=True)
+    eval_group.add_argument("--nocompression", action="store_true")
+    eval_group.add_argument("--unicodeMap", action="store_true")
+
 
 
     args=parser.parse_args()
