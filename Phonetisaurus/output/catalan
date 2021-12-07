@@ -1,559 +1,818 @@
-V;SBJV;PST;3;SGtirarV;SBJV;PST;3;SG	tirarà
-V;COND;2;SGalimentarV;COND;2;SG	alimenti
-V;SBJV;PRS;2;PLenderrocarV;SBJV;PRS;2;PL	enderroquem
-V;SBJV;PRS;1;PLrecuperarV;SBJV;PRS;1;PL	recuperaríem
-V;SBJV;PRS;2;PLfumarV;SBJV;PRS;2;PL	fumeu
-V;IND;FUT;3;SGabeurarV;IND;FUT;3;SG	abeuraria
-V.PTCP;PRSsuposarV.PTCP;PRS	suspenent
-V;IND;PRS;3;PLdisculparV;IND;PRS;3;PL	disculpessin
-V;COND;1;PLtransformarV;COND;1;PL	transformarem
-V;IND;PST;2;PL;IPFVsaltarV;IND;PST;2;PL;IPFV	salàveu
-V;POS;IMP;3;PLmodelarV;POS;IMP;3;PL	modelessin
-V;IND;PST;1;PL:IPFVsegregarV;IND;PST;1;PL:IPFV	segregaven
-V;COND;3;SGidentificarV;COND;3;SG	identificarà
-V;IND;FUT;1;PLmalparlarV;IND;FUT;1;PL	malparlem
-V;IND;FUT;1;SGreconquerirV;IND;FUT;1;SG	reconquereixi
-V.PTCP;PST;PL;MASCcargolarV.PTCP;PST;PL;MASC	cargolareu
-V;IND;FUT;1;PLdiferenciarV;IND;FUT;1;PL	diferenciïn
-V;IND;PST;1;SG;PFVplanxarV;IND;PST;1;SG;PFV	planxàreu
-V;COND;3;SGlexicalitzarV;COND;3;SG	lexicalitzaré
-V;COND;1;SGtractarV;COND;1;SG	tractés
-V;IND;PRS;3;SGproposarV;IND;PRS;3;SG	proposi
-V.PTCP;PST;PL;MASCobtenirV.PTCP;PST;PL;MASC	obtingut
-V;POS;IMP;3;SGconfiarV;POS;IMP;3;SG	confiaria
-V;SBJV;PRS;2;SGassumirV;SBJV;PRS;2;SG	assumeixi
-V;IND;PRS;3;SGantecedirV;IND;PRS;3;SG	antecediré
-V;POS;IMP;2;PLmastegarV;POS;IMP;2;PL	mastegares
-V;SBJV;PRS;2;PLfugirV;SBJV;PRS;2;PL	fugíssim
-V;POS;IMP;1;PLpactarV;POS;IMP;1;PL	pacteu
-V;COND;2;SGestressarV;COND;2;SG	estressaràs
-V;SBJV;PST;2;PLalçarV;SBJV;PST;2;PL	alcem
-V;POS;IMP;2;PLaglomerarV;POS;IMP;2;PL	aglomereu
-V;NFINdubtarV;NFIN	dubtem
-V;IND;PST;1;PL:PFVtransgredirV;IND;PST;1;PL:PFV	transgredien
-V;SBJV;PST;1;PLextingirV;SBJV;PST;1;PL	extingíssiu
-V;COND;2;SGnarrarV;COND;2;SG	narris
-V;IND;FUT;3;SGmaterialitzarV;IND;FUT;3;SG	materialitzaran
-V;NFINendevinarV;NFIN	endevinaves
-V;POS;IMP;3;PLenfocarV;POS;IMP;3;PL	enfonguin
-V;IND;PST;2;SG;PFVtorçarV;IND;PST;2;SG;PFV	torcí
-V;SBJV;PRS;3;PLrebentarV;SBJV;PRS;3;PL	rebentin
-V;IND;PST;3;SG;IPFVrescatarV;IND;PST;3;SG;IPFV	rescatàreu
-V;SBJV;PST;2;PLpermetreV;SBJV;PST;2;PL	permetessin
-V;IND;PST;3;PL;PFVpenetrarV;IND;PST;3;PL;PFV	penetràreu
-V;SBJV;PST;1;SGatraureV;SBJV;PST;1;SG	atragui
-V;COND;1;SGrepartirV;COND;1;SG	repartís
-V;COND;1;PLruixarV;COND;1;PL	ruixéssiu
-V;SBJV;PST;2;SGdialogarV;SBJV;PST;2;SG	dialogui
-V;IND;PST;2;SG;IPFVnoureV;IND;PST;2;SG;IPFV	noïa
-V;COND;3;PLinaugurarV;COND;3;PL	inaugurem
-V;POS;IMP;2;SGsubhastarV;POS;IMP;2;SG	subhastaria
-V;IND;FUT;3;PLintensificarV;IND;FUT;3;PL	intensificarem
-V.PTCP;PST;PL;FEMpunirV.PTCP;PST;PL;FEM	punida
-V;IND;FUT;3;SGregistrarV;IND;FUT;3;SG	registressis
-V;IND;PST;1;SG;PFVcalcificarV;IND;PST;1;SG;PFV	calcifiqués
-V.PTCP;PST;PL;FEMbrindarV.PTCP;PST;PL;FEM	bramades
-V;SBJV;PST;3;PLsuplirV;SBJV;PST;3;PL	supleixin
-V;COND;1;SGcircumcidarV;COND;1;SG	circumcidés
-V;IND;FUT;3;SGagonitzarV;IND;FUT;3;SG	agonitzi
-V;IND;PRS;2;SGportarV;IND;PRS;2;SG	porto
-V;IND;PRS;3;SGmodernitzarV;IND;PRS;3;SG	modela
-V;SBJV;PST;3;SGestablirV;SBJV;PST;3;SG	estableix
-V;POS;IMP;3;PLdenunciarV;POS;IMP;3;PL	denunciarien
-V;IND;PST;2;SG;PFVrepartirV;IND;PST;2;SG;PFV	repartí
-V;SBJV;PRS;3;SGil·lustrarV;SBJV;PRS;3;SG	il·lustrarà
-V;POS;IMP;2;SGabdicarV;POS;IMP;2;SG	abdiquis
-V;IND;PST;2;SG;PFVtransgredirV;IND;PST;2;SG;PFV	transgredien
-V.PTCP;PST;PL;MASCcombatreV.PTCP;PST;PL;MASC	combatés
-V;SBJV;PRS;2;SGfelicitarV;SBJV;PRS;2;SG	fereixis
-V;SBJV;PRS;3;SGassaborirV;SBJV;PRS;3;SG	assaborís
-V;COND;2;PLprotagonitzarV;COND;2;PL	protagonitzeu
-V.PTCP;PST;PL;FEMconstarV.PTCP;PST;PL;FEM	construïdes
-V;IND;PRS;1;PLrosegarV;IND;PRS;1;PL	roseguem
-V;SBJV;PST;1;SGenyorarV;SBJV;PST;1;SG	enyoraràs
-V;SBJV;PST;1;SGevitarV;SBJV;PST;1;SG	evitessis
-V;IND;PST;1;SG;PFVcaminarV;IND;PST;1;SG;PFV	caminà
-V;POS;IMP;3;SGsubministrarV;POS;IMP;3;SG	subministraràs
-V;IND;PST;2;SG;PFVcapolarV;IND;PST;2;SG;PFV	capolaren
-V;SBJV;PRS;3;SGpersuadirV;SBJV;PRS;3;SG	persuadissis
-V;IND;PRS;3;SGempaquetarV;IND;PRS;3;SG	empaquetaràs
-V;SBJV;PST;2;PLlimitarV;SBJV;PST;2;PL	limitareu
-V;SBJV;PST;3;SGrefredarV;SBJV;PST;3;SG	refredaré
-V;IND;PRS;1;SGprofessionalitzarV;IND;PRS;1;SG	professionalitzés
-V;IND;PRS;1;PLdesaprovarV;IND;PRS;1;PL	desaprovaran
-V;IND;FUT;3;SGtriomfarV;IND;FUT;3;SG	triomfo
-V;SBJV;PST;3;SGemfatitzarV;SBJV;PST;3;SG	emfatitzi
-V;IND;PRS;3;PLlaïcitzarV;IND;PRS;3;PL	laïcitzessin
-V;SBJV;PRS;1;PLxiuxiuejarV;SBJV;PRS;1;PL	xiuxiuegem
-V;IND;PRS;1;PLhonrarV;IND;PRS;1;PL	honren
-V;SBJV;PST;2;PLcoordinarV;SBJV;PST;2;PL	coordinaríeu
-V;SBJV;PST;2;PLcorregirV;SBJV;PST;2;PL	corregiu
-V;IND;PST;1;PL:IPFVtransformarV;IND;PST;1;PL:IPFV	transformaves
-V;COND;2;SGsexarV;COND;2;SG	sexés
-V;NFINfiltrarV;NFIN	infiltrareu
-V;IND;PRS;3;SGdutxarV;IND;PRS;3;SG	dutxarà
-V;IND;PST;1;SG;IPFVagradarV;IND;PST;1;SG;IPFV	agradàveu
-V;IND;FUT;1;SGornamentarV;IND;FUT;1;SG	ornamenti
-V;IND;PST;2;SG;IPFVtesarV;IND;PST;2;SG;IPFV	tesava
-V;POS;IMP;2;PLmesurarV;POS;IMP;2;PL	mesurarem
-V;POS;IMP;2;SGxiuxiuejarV;POS;IMP;2;SG	xiuxiuegessis
-V;COND;1;PLcorroborarV;COND;1;PL	corroborarien
-V;IND;PST;2;SG;IPFVajornarV;IND;PST;2;SG;IPFV	ajornen
-V;IND;PST;1;SG;PFVdavallarV;IND;PST;1;SG;PFV	davallà
-V;IND;PST;1;PL:PFVpassejarV;IND;PST;1;PL:PFV	passegí
-V.PTCP;PRSverbalitzarV.PTCP;PRS	verbalitzeu
-V;COND;2;SGxuclarV;COND;2;SG	xuclis
-V;COND;3;PLsorgirV;COND;3;PL	sorgeixin
-V;SBJV;PRS;3;PLexhibirV;SBJV;PRS;3;PL	exhibeixen
-V;SBJV;PST;1;SGaugmentarV;SBJV;PST;1;SG	augmentessis
-V;SBJV;PST;1;SGofendreV;SBJV;PST;1;SG	ofendré
-V;IND;FUT;2;PLsabotejarV;IND;FUT;2;PL	sabotegéssiu
-V;IND;PST;3;PL;PFVderruirV;IND;PST;3;PL;PFV	derruirien
-V;IND;PRS;2;SGasseure'sV;IND;PRS;2;SG	us asseureu
-V;IND;FUT;1;PLtitubejarV;IND;FUT;1;PL	titubeja
-V;IND;PST;1;SG;PFVconstrènyerV;IND;PST;1;SG;PFV	constrenyia
-V;IND;PST;2;PL;IPFVrecomptarV;IND;PST;2;PL;IPFV	recomptaven
-V;IND;FUT;1;SGadormir-seV;IND;FUT;1;SG	adorm
-V.PTCP;PST;PL;MASCdogmatitzarV.PTCP;PST;PL;MASC	dogmatitzessin
-V;COND;3;PLvomitarV;COND;3;PL	vociferarien
-V;IND;PST;3;PL;IPFVinsultarV;IND;PST;3;PL;IPFV	insultaren
-V.PTCP;PST;SG;FEMcalcularV.PTCP;PST;SG;FEM	calculi
-V;IND;PRS;1;PLatribuirV;IND;PRS;1;PL	atribuirem
-V.PTCP;PRSdestorbarV.PTCP;PRS	destorbada
-V;IND;FUT;3;SGeixugarV;IND;FUT;3;SG	eixugui
-V;IND;PRS;2;SGtransfondreV;IND;PRS;2;SG	transfonen
-V;SBJV;PST;1;SGdesmagnetitzarV;SBJV;PST;1;SG	desmagnetitzi
-V.PTCP;PRSproclamarV.PTCP;PRS	proclamats
-V;IND;FUT;1;PLenfadarV;IND;FUT;1;PL	enfadaríeu
-V;COND;1;SGesmenarV;COND;1;SG	esmeno
-V;IND;FUT;2;PLempaquetarV;IND;FUT;2;PL	empaqueteu
-V;IND;FUT;1;SGsorprendreV;IND;FUT;1;SG	sorprendràs
-V;IND;FUT;3;PLinsultarV;IND;FUT;3;PL	insulten
-V;IND;PRS;3;PLacabarV;IND;PRS;3;PL	acabem
-V;SBJV;PST;3;SGconstruirV;SBJV;PST;3;SG	construirà
-V;IND;FUT;2;PLquedarV;IND;FUT;2;PL	quedin
-V;COND;2;PLpenetrarV;COND;2;PL	penetréssiu
-V;IND;PST;1;PL:IPFVidolatrarV;IND;PST;1;PL:IPFV	idolatrava
-V;SBJV;PRS;1;PLvigilarV;SBJV;PRS;1;PL	vigilem
-V;IND;FUT;2;SGantecedirV;IND;FUT;2;SG	antecediré
-V;COND;1;PLlabialitzarV;COND;1;PL	labialitzeu
-V.PTCP;PST;SG;MASCsaberV.PTCP;PST;SG;MASC	sabent
-V;IND;PST;2;PL;PFVpodarV;IND;PST;2;PL;PFV	podares
-V;IND;PST;1;SG;IPFVembolicarV;IND;PST;1;SG;IPFV	embolicava
-V;IND;PST;3;SG;PFVaglutinarV;IND;PST;3;SG;PFV	aglutinaves
-V;SBJV;PST;3;PLassegurarV;SBJV;PST;3;PL	assegureu
-V;NFINhalarV;NFIN	halem
-V;NFINcontravenirV;NFIN	contravinguessin
-V;POS;IMP;3;PLpublicarV;POS;IMP;3;PL	publiquin
-V;COND;1;PLplantejarV;COND;1;PL	plantejaríeu
-V;POS;IMP;2;SGprotestarV;POS;IMP;2;SG	protestés
-V;POS;IMP;2;SGtoldreV;POS;IMP;2;SG	tols
-V;SBJV;PRS;2;SGprosperarV;SBJV;PRS;2;SG	prosperem
-V;COND;3;PLreconèixerV;COND;3;PL	reconeguéssim
-V;IND;FUT;3;SGmanumetreV;IND;FUT;3;SG	manumetí
-V;IND;PST;1;PL:PFVcalcificarV;IND;PST;1;PL:PFV	calculàrem
-V;IND;PRS;2;SGexcretarV;IND;PRS;2;SG	excreti
-V;IND;PRS;1;PLcauteritzarV;IND;PRS;1;PL	cauteritzaré
-V;POS;IMP;1;PLoprimirV;POS;IMP;1;PL	oprimiríem
-V;COND;1;SGcol·leccionarV;COND;1;SG	col·lecciona
-V;POS;IMP;2;SGalliberarV;POS;IMP;2;SG	allibero
-V;NFINhaverV;NFIN	hagueren
-V;IND;PST;1;SG;IPFVdesembocarV;IND;PST;1;SG;IPFV	desembocava
-V;IND;PRS;3;PLnecessitarV;IND;PRS;3;PL	necessitareu
-V.PTCP;PST;SG;MASCmenysvalorarV.PTCP;PST;SG;MASC	menysvalorades
-V;POS;IMP;2;PLrenunciarV;POS;IMP;2;PL	renunciem
-V;COND;1;PLdescloureV;COND;1;PL	desclouria
-V;IND;PRS;2;PLenutjarV;IND;PRS;2;PL	enutjarem
-V;IND;PST;1;SG;PFVrequerirV;IND;PST;1;SG;PFV	requeríreu
-V;SBJV;PRS;1;SGfiltrarV;SBJV;PRS;1;SG	filtrarà
-V;COND;3;SGescurarV;COND;3;SG	escuraries
-V;IND;PRS;3;SGreflectirV;IND;PRS;3;SG	reflectiria
-V;NFINarriscarV;NFIN	arrisco
-V;IND;PRS;2;PLatreureV;IND;PRS;2;PL	atraieu
-V;SBJV;PRS;3;PLexplotarV;SBJV;PRS;3;PL	explotareu
-V;SBJV;PRS;1;PLdisculpar-seV;SBJV;PRS;1;PL	disculparíem
-V;IND;FUT;3;PLmultiplicarV;IND;FUT;3;PL	multiplicarien
-V;IND;FUT;3;PLaturarV;IND;FUT;3;PL	aturen
-V;IND;FUT;1;PLexiliarV;IND;FUT;1;PL	exiliïn
-V;SBJV;PST;3;SGempitjorarV;SBJV;PST;3;SG	empitjoraria
-V;SBJV;PRS;3;SGajornarV;SBJV;PRS;3;SG	ajornés
-V;SBJV;PRS;1;PLdiagnosticarV;SBJV;PRS;1;PL	diagnosticaran
-V;SBJV;PST;2;PLenllestirV;SBJV;PST;2;PL	enllestiu
-V;COND;3;SGassemblarV;COND;3;SG	assembli
-V;COND;2;SGinutilitzarV;COND;2;SG	inutilitzis
-V;POS;IMP;1;PLsubjectivarV;POS;IMP;1;PL	subjectiven
-V;SBJV;PRS;3;PLofegarV;SBJV;PRS;3;PL	oferirien
-V;SBJV;PST;1;PLempapussar-seV;SBJV;PST;1;PL	empapussaríem
-V;SBJV;PST;1;PLcaracteritzarV;SBJV;PST;1;PL	caracteritzaríem
-V;POS;IMP;2;SGdissoldreV;POS;IMP;2;SG	dissolguis
-V;IND;PST;3;PL;PFVquedarV;IND;PST;3;PL;PFV	queixaren
-V;POS;IMP;3;PLsatisferV;POS;IMP;3;PL	satisfan
-V;POS;IMP;3;SGviatjarV;POS;IMP;3;SG	viatja
-V;SBJV;PST;1;PLglobalitzarV;SBJV;PST;1;PL	globalitzaran
-V;SBJV;PRS;3;PLobservarV;SBJV;PRS;3;PL	observeu
-V;IND;FUT;2;SGenfadarV;IND;FUT;2;SG	enfadis
-V;IND;PST;2;PL;PFValimentarV;IND;PST;2;PL;PFV	aliàreu
-V;COND;3;PLrebotreV;COND;3;PL	rebotin
-V;SBJV;PST;2;SGguiarV;SBJV;PST;2;SG	guardonessis
-V;IND;PST;2;PL;IPFVnoureV;IND;PST;2;PL;IPFV	noïa
-V;IND;PST;1;PL:IPFVremeiarV;IND;PST;1;PL:IPFV	remeiaven
-V;SBJV;PST;2;SGperpetuarV;SBJV;PST;2;SG	perpetuï
-V;SBJV;PST;2;PLdissuadirV;SBJV;PST;2;PL	dissuadim
-V;SBJV;PRS;2;SGafavorirV;SBJV;PRS;2;SG	afavorissis
-V;IND;FUT;3;PLpersonificarV;IND;FUT;3;PL	personifiquin
-V;SBJV;PRS;1;SGdenominarV;SBJV;PRS;1;SG	denomino
-V;SBJV;PST;2;SGtransferirV;SBJV;PST;2;SG	transferiríeu
-V;COND;3;PLnegociarV;COND;3;PL	negociaríeu
-V;IND;PST;3;SG;PFVenxamparV;IND;PST;3;SG;PFV	enxampares
-V;IND;PST;1;SG;PFVfacilitarV;IND;PST;1;SG;PFV	facilitares
-V;IND;PST;3;PL;IPFValliberarV;IND;PST;3;PL;IPFV	alliberaren
-V;IND;PST;2;SG;IPFVmanipularV;IND;PST;2;SG;IPFV	manipulaven
-V;SBJV;PST;2;SGautomatitzarV;SBJV;PST;2;SG	automatitzés
-V;IND;FUT;3;PLinaugurarV;IND;FUT;3;PL	inaugurem
-V.PTCP;PST;PL;MASCgeneralitzarV.PTCP;PST;PL;MASC	gemegats
-V;POS;IMP;2;SGrevenjar-seV;POS;IMP;2;SG	revengi
-V;COND;1;SGrimarV;COND;1;SG	rimaré
-V;IND;PRS;2;PLhibernarV;IND;PRS;2;PL	hibernin
-V;IND;PST;2;SG;PFVaplaudirV;IND;PST;2;SG;PFV	aplaudí
-V;SBJV;PRS;2;SGeructarV;SBJV;PRS;2;SG	eructàrem
-V;IND;PRS;1;SGraspallarV;IND;PRS;1;SG	raspallis
-V;COND;1;PLidealitzarV;COND;1;PL	idealitzen
-V;COND;2;SGbufarV;COND;2;SG	bufàrem
-V;SBJV;PST;2;SGapercebreV;SBJV;PST;2;SG	apercebria
-V;COND;2;PLcombatreV;COND;2;PL	combateu
-V;SBJV;PST;2;PLembarrancarV;SBJV;PST;2;PL	embarranquessin
-V;IND;PRS;3;PLseduirV;IND;PRS;3;PL	seduiran
-V;IND;PST;2;SG;PFVsincronitzarV;IND;PST;2;SG;PFV	sincronitzàrem
-V;POS;IMP;1;PLllatinitzarV;POS;IMP;1;PL	llatinitzàveu
-V;IND;PRS;1;PLmagnetitzarV;IND;PRS;1;PL	magnetitzem
-V;SBJV;PST;1;SGcapficar-seV;SBJV;PST;1;SG	capfico
-V;IND;PST;1;PL:PFVremeiarV;IND;PST;1;PL:PFV	remeiaven
-V;IND;PST;3;PL;PFVconfiarV;IND;PST;3;PL;PFV	confiaves
-V.PTCP;PST;SG;MASCobliquarV.PTCP;PST;SG;MASC	obliquà
-V;SBJV;PRS;2;PLcercarV;SBJV;PRS;2;PL	cerquéssiu
-V.PTCP;PST;SG;MASCvulcanitzarV.PTCP;PST;SG;MASC	vulcanitzats
-V;SBJV;PRS;1;SGfalsejarV;SBJV;PRS;1;SG	falsejaré
-V;COND;2;SGmerèixerV;COND;2;SG	mereixés
-V;IND;PST;1;PL:IPFVconfirmarV;IND;PST;1;PL:IPFV	confirmàrem
-V;IND;PST;3;PL;IPFVsubjectivarV;IND;PST;3;PL;IPFV	subjectivava
-V;IND;FUT;1;PLfixarV;IND;FUT;1;PL	fixeu
-V;SBJV;PST;3;SGfinançarV;SBJV;PST;3;SG	financí
-V;IND;PRS;3;PLfortificarV;IND;PRS;3;PL	fortifiquin
-V;IND;PST;2;SG;IPFVequivocar-seV;IND;PST;2;SG;IPFV	equivocarien
-V;IND;PRS;3;PLdescobrirV;IND;PRS;3;PL	descobreixin
-V.PTCP;PRSimmunitzarV.PTCP;PRS	immunitzeu
-V;SBJV;PRS;2;PLevacuarV;SBJV;PRS;2;PL	evacuïn
-V;POS;IMP;2;SGulularV;POS;IMP;2;SG	ulules
-V;IND;PRS;3;PLembolicarV;IND;PRS;3;PL	emboliquem
-V;IND;PST;2;SG;PFVmodelarV;IND;PST;2;SG;PFV	modelaren
-V;COND;2;SGaturarV;COND;2;SG	atures
-V;SBJV;PRS;1;PLguardarV;SBJV;PRS;1;PL	guardonem
-V;POS;IMP;1;PLxiuxiuejarV;POS;IMP;1;PL	xiuxiuegin
-V;IND;PST;3;PL;IPFVderivarV;IND;PST;3;PL;IPFV	derivava
-V;IND;PST;1;PL:IPFVinhalarV;IND;PST;1;PL:IPFV	inhalàrem
-V.PTCP;PST;SG;MASCsobreestimarV.PTCP;PST;SG;MASC	sobreestimats
-V;SBJV;PRS;2;PLtolerarV;SBJV;PRS;2;PL	toleréssiu
-V;POS;IMP;3;SGgesticularV;POS;IMP;3;SG	gesticules
-V;COND;3;SGcompondreV;COND;3;SG	compon
-V;IND;PRS;1;PLdonarV;IND;PRS;1;PL	donem
-V;POS;IMP;3;SGpujarV;POS;IMP;3;SG	pujaria
-V;COND;1;SGpublicarV;COND;1;SG	publicaràs
-V;IND;PRS;3;PLdiversificarV;IND;PRS;3;PL	diversificava
-V;IND;PRS;2;SGcessarV;IND;PRS;2;SG	cessa
-V;SBJV;PST;2;PLdivorciarV;SBJV;PST;2;PL	divorciaríeu
-V;IND;PST;2;SG;IPFVaprofitarV;IND;PST;2;SG;IPFV	aprofitarem
-V;POS;IMP;2;PLajudarV;POS;IMP;2;PL	ajudeu
-V;IND;PST;1;SG;IPFVdialogarV;IND;PST;1;SG;IPFV	dialogàreu
-V;COND;2;PLtravessarV;COND;2;PL	travesséssiu
-V;IND;FUT;3;SGmodelarV;IND;FUT;3;SG	modela
-V;SBJV;PST;3;PLhabitarV;SBJV;PST;3;PL	habitéssim
-V;IND;PST;1;PL:PFVdestriparV;IND;PST;1;PL:PFV	destripen
-V;IND;PST;3;PL;IPFVsocarrarV;IND;PST;3;PL;IPFV	socarrava
-V;IND;PRS;1;SGdissuadirV;IND;PRS;1;SG	dissuadiria
-V;SBJV;PRS;2;SGprofetitzarV;SBJV;PRS;2;SG	profetitzessis
-V;IND;PST;3;SG;PFVcabreV;IND;PST;3;SG;PFV	cabérem
-V;COND;3;PLmodernitzarV;COND;3;PL	modernitzen
-V;IND;PRS;2;PLpenetrarV;IND;PRS;2;PL	penetréssiu
-V;IND;PST;1;PL:IPFVreaparèixerV;IND;PST;1;PL:IPFV	reapareixies
-V;POS;IMP;1;PLrodarV;POS;IMP;1;PL	rodaríem
-V;IND;PST;1;SG;PFVneutralitzarV;IND;PST;1;SG;PFV	neutralitzaré
-V;SBJV;PRS;3;SGvomitarV;SBJV;PRS;3;SG	vomita
-V;SBJV;PST;2;SGdesodorarV;SBJV;PST;2;SG	desodora
-V;IND;FUT;2;SGfregirV;IND;FUT;2;SG	fregia
-V.PTCP;PST;SG;MASCeguinarV.PTCP;PST;SG;MASC	eguinada
-V.PTCP;PST;SG;FEMexpel·lirV.PTCP;PST;SG;FEM	expel·liren
-V;SBJV;PST;2;SGviureV;SBJV;PST;2;SG	viatgessis
-V;SBJV;PRS;3;PLsimularV;SBJV;PRS;3;PL	simulessin
-V;IND;PST;3;SG;IPFVencapçalarV;IND;PST;3;SG;IPFV	encapçalí
-V;IND;FUT;3;SGjeureV;IND;FUT;3;SG	jegui
-V;IND;PST;2;SG;PFVcorregirV;IND;PST;2;SG;PFV	corregies
-V;SBJV;PRS;2;PLxafardejarV;SBJV;PRS;2;PL	xafardejaríeu
-V;IND;PST;1;SG;IPFVconquerirV;IND;PST;1;SG;IPFV	conquistava
-V;SBJV;PST;3;SGinfeccionarV;SBJV;PST;3;SG	infeccioni
-V;SBJV;PST;3;SGintensificarV;SBJV;PST;3;SG	intensificarà
-V;IND;PST;3;SG;PFVatrevir-seV;IND;PST;3;SG;PFV	atrevien
-V;IND;PST;3;PL;IPFVsorprendreV;IND;PST;3;PL;IPFV	sorprengueren
-V;COND;2;SGoccirV;COND;2;SG	occidentalitzaries
-V;IND;PRS;2;SGempitjorarV;IND;PRS;2;SG	empitjoraries
-V;IND;FUT;2;PLemprarV;IND;FUT;2;PL	empreu
-V;IND;PRS;3;SGprepararV;IND;PRS;3;SG	prepararé
-V;IND;PST;1;PL:PFVcorroborarV;IND;PST;1;PL:PFV	corroborares
-V;SBJV;PST;3;SGesmenarV;SBJV;PST;3;SG	esmeni
-V;IND;FUT;2;PLincorporarV;IND;FUT;2;PL	incorporéssim
-V;SBJV;PRS;3;SGhonrarV;SBJV;PRS;3;SG	hesiti
-V;IND;FUT;1;SGenfonsarV;IND;FUT;1;SG	enfonsarà
-V.PTCP;PST;PL;FEMnecessitarV.PTCP;PST;PL;FEM	netejades
-V;IND;PRS;1;SGoprimirV;IND;PRS;1;SG	oprimiré
-V;COND;2;SGconfirmarV;COND;2;SG	confia
-V;SBJV;PRS;2;SGossificarV;SBJV;PRS;2;SG	ossifica
-V;IND;PRS;1;SGcomunicarV;IND;PRS;1;SG	comunicaria
-V;IND;PST;1;SG;IPFVmortificarV;IND;PST;1;SG;IPFV	mortificàrem
-V;IND;PST;1;PL:IPFVvomitarV;IND;PST;1;PL:IPFV	vomitava
-V;SBJV;PST;1;SGlimitarV;SBJV;PST;1;SG	limités
-V;SBJV;PRS;1;SGcargolarV;SBJV;PRS;1;SG	cargola
-V;SBJV;PRS;1;SGesternudarV;SBJV;PRS;1;SG	esternudés
-V;SBJV;PST;3;PLdevorarV;SBJV;PST;3;PL	devoréssiu
-V.PTCP;PST;PL;FEMmocarV.PTCP;PST;PL;FEM	mocada
-V.PTCP;PST;SG;FEMfamiliaritzarV.PTCP;PST;SG;FEM	facilitada
-V;SBJV;PST;2;PLajudarV;SBJV;PST;2;PL	ajudeu
-V;POS;IMP;3;SGdistribuirV;POS;IMP;3;SG	distribuí
-V.PTCP;PRStemptarV.PTCP;PRS	atemptats
-V;SBJV;PRS;3;PLfluctuarV;SBJV;PRS;3;PL	fluctuem
-V;SBJV;PRS;3;PLenregistrarV;SBJV;PRS;3;PL	enregistrem
-V;IND;PRS;3;PLrebentarV;IND;PRS;3;PL	rebentin
-V;SBJV;PRS;2;PLmagnetitzarV;SBJV;PRS;2;PL	magnetitzaríeu
-V;SBJV;PRS;3;SGavançarV;SBJV;PRS;3;SG	avancis
-V;COND;1;SGdesamortitzarV;COND;1;SG	desamortitzaries
-V;POS;IMP;3;PLrecompondreV;POS;IMP;3;PL	recompondríem
-V;IND;PRS;2;SGguanyarV;IND;PRS;2;SG	guanyis
-V;IND;FUT;3;PLofendreV;IND;FUT;3;PL	ofenem
-V.PTCP;PST;PL;FEMestereotiparV.PTCP;PST;PL;FEM	estereotipi
-V;POS;IMP;3;SGconsagrarV;POS;IMP;3;SG	consagraries
-V;SBJV;PRS;2;PLdescansarV;SBJV;PRS;2;PL	descansaríeu
-V;SBJV;PRS;1;SGapel·larV;SBJV;PRS;1;SG	apel·lés
-V;SBJV;PRS;2;SGservirV;SBJV;PRS;2;SG	serveixes
-V;IND;PST;1;PL:IPFVembrutarV;IND;PST;1;PL:IPFV	embrutava
-V;IND;PRS;3;SGextingirV;IND;PRS;3;SG	extingeixi
-V;IND;PST;1;SG;PFVincorporarV;IND;PST;1;SG;PFV	incorporàrem
-V;COND;2;SGbelarV;COND;2;SG	beuries
-V;IND;PST;3;SG;IPFVefectuarV;IND;PST;3;SG;IPFV	efectuaven
-V;SBJV;PRS;1;PLrebotreV;SBJV;PRS;1;PL	rebotin
-V.PTCP;PRSmarxarV.PTCP;PRS	marxi
-V.PTCP;PST;PL;FEMpenetrarV.PTCP;PST;PL;FEM	pentinades penetrava
-V;IND;PST;2;PL;IPFVaguaitarV;IND;PST;2;PL;IPFV	aguaitaven
-V;COND;2;PLconjuntarV;COND;2;PL	conjuntarem
-V;IND;PRS;3;SGacceptarV;IND;PRS;3;SG	accepti
-V;IND;FUT;2;SGconfeccionarV;IND;FUT;2;SG	confeccionessin
-V;IND;FUT;1;SGvomitarV;IND;FUT;1;SG	vociferaré
-V;IND;FUT;3;PLhomenatjarV;IND;FUT;3;PL	hesitaran
-V;IND;PRS;3;SGzigzaguejarV;IND;PRS;3;SG	zigzaguegí
-V;IND;PST;2;SG;PFVbombardejarV;IND;PST;2;SG;PFV	bombardegem
-V;COND;3;SGofegarV;COND;3;SG	ofegui
-V;IND;PST;1;PL:PFVeguinarV;IND;PST;1;PL:PFV	eguinés
-V;SBJV;PST;1;PLrebutjarV;SBJV;PST;1;PL	rebutgem
-V;IND;FUT;3;SGperpetuarV;IND;FUT;3;SG	perpetuï
-V;IND;PST;2;PL;IPFVexcitarV;IND;PST;2;PL;IPFV	excitaven
-V;SBJV;PRS;2;PLcategoritzarV;SBJV;PRS;2;PL	categoritzem
-V;IND;PST;2;SG;PFVconquerirV;IND;PST;2;SG;PFV	conquistares
-V;IND;FUT;2;PLestiuarV;IND;FUT;2;PL	estiueu
-V;IND;PRS;2;SGdefinirV;IND;PRS;2;SG	defineixo
-V;IND;PST;2;PL;PFVvulcanitzarV;IND;PST;2;PL;PFV	vulcanitzi
-V;COND;3;PLrefredarV;COND;3;PL	refredeu
-V;SBJV;PST;3;PLescórrerV;SBJV;PST;3;PL	escorrem
-V;IND;PST;2;SG;PFVnecessitarV;IND;PST;2;SG;PFV	necessitava
-V;IND;PST;2;SG;IPFVsubjugarV;IND;PST;2;SG;IPFV	subjugares
-V;IND;PRS;3;PLagafar-seV;IND;PRS;3;PL	agafen
-V;SBJV;PST;1;PLrefrescarV;SBJV;PST;1;PL	refresquem
-V;IND;PST;2;PL;PFVcontagiarV;IND;PST;2;PL;PFV	contagiaves
-V;IND;FUT;2;PLobrirV;IND;FUT;2;PL	obriu
-V;SBJV;PST;3;PLsuplantarV;SBJV;PST;3;PL	suplantem
-V;IND;PST;3;SG;PFVésserV;IND;PST;3;SG;PFV	foren
-V;IND;FUT;3;SGdestriparV;IND;FUT;3;SG	destripo
-V;SBJV;PST;1;PLsolucionarV;SBJV;PST;1;PL	solucionem
-V;COND;3;PLfugirV;COND;3;PL	fugin
-V;POS;IMP;3;PLintentarV;POS;IMP;3;PL	intentarien
-V;COND;1;PLcancel·larV;COND;1;PL	cancel·lem
-V;IND;PST;3;PL;IPFVinterpretarV;IND;PST;3;PL;IPFV	interpretaren
-V;IND;PST;1;PL:IPFVfalsejarV;IND;PST;1;PL:IPFV	falsejaré
-V;COND;2;PLsimplificarV;COND;2;PL	simplifiqueu
-V;IND;PST;3;PL;PFVarraulirV;IND;PST;3;PL;PFV	arraulia
-V;IND;PST;2;PL;IPFVeclipsarV;IND;PST;2;PL;IPFV	eclipsàreu
-V.PTCP;PST;PL;FEMconfeccionarV.PTCP;PST;PL;FEM	confeccionessin
-V;IND;FUT;3;SGvehicularV;IND;FUT;3;SG	vehicularé
-V.PTCP;PST;PL;MASCcontractarV.PTCP;PST;PL;MASC	contractat
-V;SBJV;PRS;1;PLdesignarV;SBJV;PRS;1;PL	designem
-V;IND;PST;2;PL;PFVentrevistarV;IND;PST;2;PL;PFV	entrevistem
-V;IND;PRS;1;PLllevar-seV;IND;PRS;1;PL	llevarem
-V;POS;IMP;1;PLsoterrarV;POS;IMP;1;PL	soterreu
-V;IND;FUT;2;PLdissoldreV;IND;FUT;2;PL	dissolguin
-V;SBJV;PRS;3;PLmitigarV;SBJV;PRS;3;PL	mitigaria
-V;IND;PST;3;SG;IPFVentretenir-seV;IND;PST;3;SG;IPFV	entretingueres
-V;SBJV;PRS;2;SGassegurarV;SBJV;PRS;2;SG	assegurés
-V;SBJV;PRS;3;SGploureV;SBJV;PRS;3;SG	ploveu
-V;COND;3;SGmercantilitzarV;COND;3;SG	mercantilitzessis
-V;IND;PST;2;SG;IPFVsuplicarV;IND;PST;2;SG;IPFV	suplicava
-V;COND;3;SGdiscriminarV;COND;3;SG	discrimini
-V;IND;PRS;3;SGatemptarV;IND;PRS;3;SG	atempti
-V;POS;IMP;3;PLentretenir-seV;POS;IMP;3;PL	us
-V;COND;1;PLdissoldreV;COND;1;PL	dissolguin
-V;COND;3;SGfaltarV;COND;3;SG	faltarà
-V;COND;3;PLreconquerirV;COND;3;PL	reconquereixin
-V;POS;IMP;3;PLabolirV;POS;IMP;3;PL	abdiquin
-V;IND;PST;3;PL;PFVassumirV;IND;PST;3;PL;PFV	assumíreu
-V;IND;PRS;2;PLfotosintetitzarV;IND;PRS;2;PL	fotosintetitzin
-V;IND;PRS;2;SGinaugurarV;IND;PRS;2;SG	inauguraries
-V;IND;FUT;1;SGorbitarV;IND;FUT;1;SG	orbitaràs
-V.PTCP;PST;PL;FEMtraspassarV.PTCP;PST;PL;FEM	traspassats
-V;POS;IMP;3;SGrosegarV;POS;IMP;3;SG	roseguis
-V;IND;FUT;3;SGparèixerV;IND;FUT;3;SG	paregui
-V.PTCP;PRSapologitzarV.PTCP;PRS	apologitzaré
-V;SBJV;PST;2;PLqüestionarV;SBJV;PST;2;PL	qüestionaríeu
-V;SBJV;PST;3;PLsotmetreV;SBJV;PST;3;PL	sotmetem
-V;SBJV;PRS;2;PLequivocar-seV;SBJV;PRS;2;PL	equivoqueu
-V;COND;3;SGmerèixerV;COND;3;SG	mereixés
-V;IND;PRS;3;SGsolucionarV;IND;PRS;3;SG	solucioni
-V;IND;FUT;3;SGaprovarV;IND;FUT;3;SG	aprovis
-V;COND;3;PLimmunitzarV;COND;3;PL	immunitzeu
-V;COND;2;PLincorporarV;COND;2;PL	incorporéssim
-V;IND;PST;2;PL;IPFVadmetreV;IND;PST;2;PL;IPFV	admeties
-V;COND;1;PLsilenciarV;COND;1;PL	silenciarien
-V;IND;PRS;2;PLconfiarV;IND;PRS;2;PL	confiaríeu
-V;IND;PST;3;PL;PFVeixugarV;IND;PST;3;PL;PFV	eixugà
-V;IND;PST;2;SG;PFVcol·locarV;IND;PST;2;SG;PFV	col·laborares
-V;IND;PRS;1;SGpreocupar-seV;IND;PRS;1;SG	preocupés
-V;IND;PRS;2;SGagruparV;IND;PRS;2;SG	agrupés
-V;COND;2;SGfirmarV;COND;2;SG	firmis
-V;SBJV;PRS;1;PLassolirV;SBJV;PRS;1;PL	assolíssim
-V;POS;IMP;1;PLtirotejarV;POS;IMP;1;PL	tirotegem
-V;IND;PRS;2;PLfalsejarV;IND;PRS;2;PL	falsejareu
-V;IND;PST;3;PL;PFVanticiparV;IND;PST;3;PL;PFV	anticipí
-V;SBJV;PRS;3;SGnominarV;SBJV;PRS;3;SG	nomeni
-V;IND;PRS;1;SGsofrirV;IND;PRS;1;SG	sofrireu
-V;IND;FUT;3;SGperdreV;IND;FUT;3;SG	perdi
-V;IND;PRS;2;PLtemptarV;IND;PRS;2;PL	temptaríeu
-V;IND;PST;2;SG;PFVsegellarV;IND;PST;2;SG;PFV	segellen
-V;IND;PST;1;PL:IPFVdejunarV;IND;PST;1;PL:IPFV	dejunava
-V;IND;FUT;3;SGutilitzarV;IND;FUT;3;SG	utilitzi
-V;IND;FUT;2;PLguardarV;IND;FUT;2;PL	guardeu
-V;IND;PRS;2;SGevolucionarV;IND;PRS;2;SG	evolucionarem
-V;NFINvacil·larV;NFIN	vacil·lo
-V;POS;IMP;2;PLcapturarV;POS;IMP;2;PL	capturaríem
-V;IND;FUT;1;PLfolrarV;IND;FUT;1;PL	folrem
-V;SBJV;PRS;3;SGdescriureV;SBJV;PRS;3;SG	descriu
-V;IND;PST;3;PL;PFVarxivarV;IND;PST;3;PL;PFV	arxivà
-V;IND;PST;3;PL;PFVruixarV;IND;PST;3;PL;PFV	ruixava
-V;COND;2;PLeclipsarV;COND;2;PL	eclipsaríem
-V;POS;IMP;2;PLassumirV;POS;IMP;2;PL	assumiríeu
-V;COND;2;SGbarallarV;COND;2;SG	barbaries
-V;IND;PST;1;PL:IPFVcontravenirV;IND;PST;1;PL:IPFV	contraveníeu
-V;SBJV;PST;1;SGoscil·larV;SBJV;PST;1;SG	oscil·li
-V;IND;PRS;3;PLtriomfarV;IND;PRS;3;PL	triomfo
-V;SBJV;PST;3;SGescaramussarV;SBJV;PST;3;SG	escaramussi
-V;SBJV;PRS;2;PLmerceritzarV;SBJV;PRS;2;PL	merceritzem
-V;COND;3;PLrestringirV;COND;3;PL	restringiran
-V;POS;IMP;3;SGestovarV;POS;IMP;3;SG	estovi
-V;SBJV;PST;2;SGveure'sV;SBJV;PST;2;SG	veiéssim
-V;SBJV;PRS;1;SGgravarV;SBJV;PRS;1;SG	gravo
-V;IND;PRS;1;PLdivinitzarV;IND;PRS;1;PL	divinitzen
-V;IND;PST;1;SG;PFVvotarV;IND;PST;1;SG;PFV	vocalitzí
-V;SBJV;PRS;2;PLcontribuirV;SBJV;PRS;2;PL	contribuíssiu
-V;IND;PRS;1;SGculminarV;IND;PRS;1;SG	culminaràs
-V;IND;PST;3;PL;PFVbarallarV;IND;PST;3;PL;PFV	barrejaren
-V;COND;3;SGconceptualitzarV;COND;3;SG	conceptualitza
-V;COND;1;SGsexarV;COND;1;SG	sexés
-V;POS;IMP;3;PLresultarV;POS;IMP;3;PL	resultarien
-V;SBJV;PRS;3;SGlegislarV;SBJV;PRS;3;SG	legislaria
-V;COND;2;SGdecebreV;COND;2;SG	decebràs
-V;IND;PST;1;SG;PFVlaïcitzarV;IND;PST;1;SG;PFV	laïcitzàveu
-V;IND;FUT;3;SGcorprendreV;IND;FUT;3;SG	corprèn
-V;COND;1;SGmarxarV;COND;1;SG	marxés
-V;SBJV;PST;1;PLcategoritzarV;SBJV;PST;1;PL	categoritzem
-V;SBJV;PRS;2;PLreeixirV;SBJV;PRS;2;PL	reeixirien
-V;IND;PST;1;PL:PFVlletrejarV;IND;PST;1;PL:PFV	lletrejava
-V;IND;PRS;2;PLmalparlarV;IND;PRS;2;PL	malparlen
-V.PTCP;PST;SG;FEMornamentarV.PTCP;PST;SG;FEM	ornamentares
-V;IND;PRS;1;PLhospitalitzarV;IND;PRS;1;PL	hospitalitzarien
-V.PTCP;PRSposposarV.PTCP;PRS	posposés
-V;IND;FUT;2;PLadaptarV;IND;FUT;2;PL	adaptava
-V;SBJV;PRS;3;SGtrinxarV;SBJV;PRS;3;SG	trinxaran
-V;POS;IMP;2;SGaccelerarV;POS;IMP;2;SG	acceleres
-V;IND;FUT;1;SGencallar-seV;IND;FUT;1;SG	encallaran
-V;IND;FUT;1;PLemanciparV;IND;FUT;1;PL	emanciparan
-V.PTCP;PST;SG;MASCdutxarV.PTCP;PST;SG;MASC	dutxats
-V;IND;FUT;1;SGprocedirV;IND;FUT;1;SG	procedirà
-V;IND;FUT;3;PLmerceritzarV;IND;FUT;3;PL	merceritzin
-V;SBJV;PST;2;SGcomprovarV;SBJV;PST;2;SG	comproves
-V;IND;PST;2;SG;IPFVobliquarV;IND;PST;2;SG;IPFV	obliquà
-V;IND;PRS;2;PLnéixerV;IND;PRS;2;PL	naixéssiu
-V;IND;PRS;1;PLteoritzarV;IND;PRS;1;PL	teoritzéssim
-V;POS;IMP;2;SGalarmarV;POS;IMP;2;SG	alarmarem
-V;IND;FUT;1;PLfugirV;IND;FUT;1;PL	fugíssim
-V;SBJV;PST;3;SGcircularV;SBJV;PST;3;SG	circuli
-V;IND;PST;1;PL:PFVsuplirV;IND;PST;1;PL:PFV	suplí
-V;IND;FUT;2;SGassumirV;IND;FUT;2;SG	assumiu
-V;IND;PST;2;PL;IPFVdescobrirV;IND;PST;2;PL;IPFV	descobria
-V;POS;IMP;3;SGassassinarV;POS;IMP;3;SG	assassina
-V;NFINpertànyerV;NFIN	pertanyé
-V;NFINrestaurarV;NFIN	restauréssiu
-V;IND;PRS;1;PLeludirV;IND;PRS;1;PL	eludiríem
-V;SBJV;PST;3;SGnominalitzarV;SBJV;PST;3;SG	nominalitzant
-V;SBJV;PST;3;PLdemostrarV;SBJV;PST;3;PL	demostraran
-V.PTCP;PST;SG;MASCcaracteritzarV.PTCP;PST;SG;MASC	caracteritza
-V;SBJV;PRS;3;PLintervenirV;SBJV;PRS;3;PL	intervindria
-V;POS;IMP;2;PLmagnetitzarV;POS;IMP;2;PL	magnetitzaríeu
-V;IND;PST;3;SG;IPFVdissenyarV;IND;PST;3;SG;IPFV	dissenyàvem
-V.PTCP;PRSjubilarV.PTCP;PRS	jubilés
-V.PTCP;PST;SG;FEMlabialitzarV.PTCP;PST;SG;FEM	labialitzat
-V;IND;PST;2;SG;IPFVinfiltrarV;IND;PST;2;SG;IPFV	infiltrà
-V;COND;3;SGamputarV;COND;3;SG	amputar
-V;SBJV;PRS;2;SGsomriureV;SBJV;PRS;2;SG	somriuria
-V.PTCP;PST;PL;FEMfirmarV.PTCP;PST;PL;FEM	fracassades
-V;IND;PRS;1;PLimmigrarV;IND;PRS;1;PL	immigreu
-V;SBJV;PST;3;PLsimbolitzarV;SBJV;PST;3;PL	simbolitzaríeu
-V;COND;1;SGinfiltrarV;COND;1;SG	infiltro
-V;SBJV;PST;2;PLelegirV;SBJV;PST;2;PL	elegeixin
-V.PTCP;PST;PL;MASCinhumarV.PTCP;PST;PL;MASC	inhumades
-V;COND;1;PLpenjarV;COND;1;PL	penjaria
-V;IND;PRS;3;SGbufarV;IND;PRS;3;SG	bufaves
-V;SBJV;PRS;1;PLpenjarV;SBJV;PRS;1;PL	pengés
-V;IND;FUT;1;SGvocalitzarV;IND;FUT;1;SG	vociferaré
-V;IND;PST;1;PL:PFVadobarV;IND;PST;1;PL:PFV	adobares
-V;SBJV;PST;3;SGcalmarV;SBJV;PST;3;SG	calmi
-V;IND;PRS;3;PLatenuarV;IND;PRS;3;PL	atenueu
-V;POS;IMP;3;PLbrindarV;POS;IMP;3;PL	brindem
-V;IND;FUT;2;PLmutarV;IND;FUT;2;PL	mudareu
-V;SBJV;PST;2;PLdescloureV;SBJV;PST;2;PL	descloguis
-V;COND;2;PLdesaparèixerV;COND;2;PL	desapareguéssiu
-V;IND;FUT;1;PLdutxarV;IND;FUT;1;PL	dutxeu
-V;IND;PRS;3;PLdoblarV;IND;PRS;3;PL	dobles
-V;IND;PST;3;PL;PFVproduirV;IND;PST;3;PL;PFV	produïen
-V;IND;FUT;3;SGemigrarV;IND;FUT;3;SG	emigraria
-V;IND;PST;1;SG;PFVesquitxarV;IND;PST;1;SG;PFV	esqueixí
-V;SBJV;PST;3;SGdoblarV;SBJV;PST;3;SG	doblaria
-V;IND;FUT;3;SGheureV;IND;FUT;3;SG	halarà
-V;SBJV;PST;3;SGdomtarV;SBJV;PST;3;SG	domtaria
-V;IND;FUT;2;PLtraumatitzarV;IND;FUT;2;PL	traumatitzéssiu
-V;SBJV;PST;1;PLsuplantarV;SBJV;PST;1;PL	suplantem
-V;IND;PST;3;PL;IPFVxuclarV;IND;PST;3;PL;IPFV	xuclava
-V.PTCP;PST;SG;MASCembrutarV.PTCP;PST;SG;MASC	embrutats
-V;IND;PST;1;PL:PFVexhumarV;IND;PST;1;PL:PFV	exhumaren
-V;SBJV;PRS;2;PLneutralitzarV;SBJV;PRS;2;PL	neutralitzeu
-V;IND;FUT;2;PLrebel·larV;IND;FUT;2;PL	rebel·laran
-V;COND;3;SGempapussar-seV;COND;3;SG	empapussa
-V.PTCP;PST;SG;MASCtemptarV.PTCP;PST;SG;MASC	atemptats
-V;IND;PST;1;SG;IPFVdisminuirV;IND;PST;1;SG;IPFV	disminuíeu
-V;POS;IMP;3;PLsuportarV;POS;IMP;3;PL	supleixin
-V;IND;PST;3;SG;PFVdogmatitzarV;IND;PST;3;SG;PFV	dogmatitzàreu
-V;IND;PST;1;PL:IPFVamputarV;IND;PST;1;PL:IPFV	amputàrem
-V;IND;FUT;3;PLsubestimarV;IND;FUT;3;PL	subestimareu
-V;POS;IMP;2;SGacamparV;POS;IMP;2;SG	acampés
-V;IND;FUT;3;PLdivertirV;IND;FUT;3;PL	diverteixin
-V;IND;PRS;3;PLindustrialitzarV;IND;PRS;3;PL	industrialitzaran
-V;IND;PST;2;PL;PFVdenunciarV;IND;PST;2;PL;PFV	denunciem
-V;IND;PRS;2;PLmagnetitzarV;IND;PRS;2;PL	magnetitzaríeu
-V;IND;FUT;1;PLdoldreV;IND;FUT;1;PL	doldran
-V;POS;IMP;3;SGtòrcerV;POS;IMP;3;SG	torcés
-V;POS;IMP;2;SGmitigarV;POS;IMP;2;SG	mitigaràs
-V;IND;PST;2;SG;IPFVconvèncerV;IND;PST;2;SG;IPFV	convencíem
-V;SBJV;PRS;1;SGendur-seV;SBJV;PRS;1;SG	m'enduré
-V;IND;PST;2;PL;IPFVdestriparV;IND;PST;2;PL;IPFV	destripen
+VİıįalimentarVİıį	alimenti
+VĲĳıįmagnetitzarVĲĳıį	estirà magnetitzaríeu estirà
+VĬĵıĴenderrocarVĬĵıĴ	enderrocàveu
+VĬĵĶĴrecuperarVĬĵĶĴ	realitzàvem recuperi reiterareu enfocàvem
+VĲĳĮĴmotivarVĲĳĮĴ	estirà motivaràs estirà
+VĬĵıĴfumarVĬĵıĴ	fredejat
+VĲĳĮįabeurarVĲĳĮį	estirà abeuraria estirà
+V.PTCPĵsuposarV.PTCPĵ	suposis
+VĲĵĮĴdisculparVĲĵĮĴ	ens
+VİĶĴtransformarVİĶĴ	complíem transformarem distrèiem
+VĹĺĮĴmodelarVĹĺĮĴ	modela
+VĲĭĮįĻmolestarVĲĭĮįĻ	coincidiries diríem
+VĲĭĶļsegregarVĲĭĶļ	exposàvem dedicàvem
+VİĮįidentificarVİĮį	ionitzéssim
+VĲĳĶĴmalparlarVĲĳĶĴ	estirà retiràvem malparlin estirà exposàvem
+VĲĳĶįreconquerirVĲĳĶį	estirà retiràvem conquereixi estirà excedíem
+V.PTCPĭįĽdescosirV.PTCPĭįĽ	descriguérem recollint arraulírem
+V.PTCPĭĴĽcargolarV.PTCPĭĴĽ	carregàrem refinàrem
+VĲĭĶľplanificarVĲĭĶľ	comportàvem excedíem
+VĲĳĮįmaquillarVĲĳĮį	estirà maquillem estirà
+VĲĳĶĴdiferenciarVĲĳĶĴ	estirà enfocàvem estirà dedicàvem
+V.PTCPĭĴĽinspirarV.PTCPĭĴĽ	dissolguérem inspirant refinàrem
+VĲĭĶįĻplanxarVĲĭĶįĻ	retiràvem dirien planxaria independitzàvem diríem
+VİĶįparalitzarVİĶį	complíem paralitzarem conduíem
+VĲĵıįquedarVĲĵıį	queixareu
+VİĮįlexicalitzarVİĮį	lexicalitzeu
+VĲĭĶįĻinserirVĲĭĶįĻ	dedicàvem diríem comportàvem diríem
+VİĶįtractarVİĶį	dedicàvem traguéssiu dedicàvem
+VĿcontemplarVĿ	contemplarien
+VİĶĴaromarVİĶĴ	exercíem independitzàvem
+VĲĵĮįproposarVĲĵĮį	ens propaguéssiu
+VĬĭĮĴdedicarVĬĭĮĴ	dedicàveu
+VĲĭĶľdivinitzarVĲĭĶľ	independitzàvem divinitzaria exposàvem
+VİĮįfraternitzarVİĮį	frenem
+VĲĭĮĴķsepultarVĲĭĮĴķ	sepultares
+V.PTCPĭĴĽobtenirV.PTCPĭĴĽ	optàrem exposàrem
+VĲĭıĴĻsondejarVĲĭıĴĻ	diríem sondegis dirien
+VĹĺĮįconfiarVĹĺĮį	confirméssim
+VĬĵĶįtornarVĬĵĶį	dedicàvem tornem retiràvem
+VĹĺıįvolerVĹĺıį	volguéssiu
+VĬĵıįassumirVĬĵıį	assumiríeu
+VĬĭĶįsuquejarVĬĭĶį	realitzàvem sentíssiu suquejaràs realitzàvem
+VĲĵĮįantecedirVĲĵĮį	ens améssiu
+VĹĺıĴmastegarVĹĺıĴ	mastegares
+VĬĵıĴfugirVĬĵıĴ	fredejat
+VĹĺĶĴpactarVĹĺĶĴ	exercíem pactí conduíem
+VĲĭĶįķrecollirVĲĭĶįķ	conduíem exercíem
+VĬĭıĴalçarVĬĭıĴ	alçaves
+VĲĭĶľdistreureVĲĭĶľ	enfocàvem conduíem
+VĹĺıĴaglomerarVĹĺıĴ	aglomeri
+VĿdubtarVĿ	dubtaria
+VĲĭĶľtransgredirVĲĭĶľ	enfocàvem transgredida esmicolàvem
+VĬĭĶĴextingirVĬĭĶĴ	retiràvem extingim conduíem
+VİıįnarrarVİıį	narréssiu
+VĲĳıĴudolarVĲĳıĴ	estirà estirà
+VĲĳĮįmaterialitzarVĲĳĮį	estirà materialitzem estirà
+VĿendevinarVĿ	endevinaves
+VĲĭıįĻtorçarVĲĭıįĻ	coincidiries torci dirien
+V.PTCPĭįĽconcentrarV.PTCPĭįĽ	concentràrem refinàrem
+VĲĭĶįĻtenirVĲĭĶįĻ	comportàvem deliries complíem dirien
+VĬĵıĴdivulgarVĬĵıĴ	divulgaries
+VİıįcomplaureVİıį	colonitzéssiu
+VĲĳĮįfinalitzarVĲĳĮį	estirà estirà
+VĬĭıĴpermetreVĬĭıĴ	permetéssim
+VĲĭĮĴĻpenetrarVĲĭĮĴĻ	deliríeu coincidiries
+VİıĴposseirVİıĴ	posseeixis
+VĬĭĶįatraureVĬĭĶį	dedicàvem ataquen independitzàvem
+VİĶįrepartirVİĶį	exercíem repartís estimàvem
+VİĶĴruixarVİĶĴ	excedíem exposàvem
+VĹĺĶĴcuirassarVĹĺĶĴ	exercíem cuirassaries retiràvem
+VĬĭıįdialogarVĬĭıį	dialogueu
+VĲĭıįķnoureVĲĭıįķ	nogudes
+VİĮįcansarVİĮį	cantessin
+VİĮĴinaugurarVİĮĴ	inauguréssim
+VĹĺıįsubhastarVĹĺıį	subhasteu
+VĲĭĶľresultarVĲĭĶľ	dedicàvem resultarien retiràvem
+VĲĳĮĴintensificarVĲĳĮĴ	estirà intensificarem estirà
+V.PTCPĭĴĸpunirV.PTCPĭĴĸ	punida
+VĲĭĶįķpropagarVĲĭĶįķ	exercíem independitzàvem
+VĲĳĮįregistrarVĲĳĮį	estirà registrem estirà
+VĲĭĶįĻcalcificarVĲĭĶįĻ	retiràvem deliríeu calcifiqués exposàvem coincidiries
+VĬĭĮĴsuplirVĬĭĮĴ	suprimeixi
+VİĮĴrecordarVİĮĴ	recordin
+VİĶįcircumcidarVİĶį	enfocàvem circumcidés exercíem
+VĲĳĮįagonitzarVĲĳĮį	estirà estirà
+VĲĵıįportarVĲĵıį	proporcionem
+VĲĳıįionitzarVĲĳıį	estirà estirà
+VĲĵĮįmodernitzarVĲĵĮį	modernitzen ens
+VĬĭĮįestablirVĬĭĮį	establim
+VİĶįagradarVİĶį	comportàvem animem exercíem
+VĹĺĮĴdenunciarVĹĺĮĴ	denunciaria
+VĲĭıįĻrepartirVĲĭıįĻ	deliríeu repartís deliríeu
+VĹĺĮĴenterrarVĹĺĮĴ	enterrarien
+VĲĭĮįĻmillorarVĲĭĮįĻ	dirien coincidiries
+VĬĵĮįil·lustrarVĬĵĮį	il·lustraríem
+VĹĺıįabdicarVĹĺıį	abdiqueu
+VĲĭıįĻtransgredirVĲĭıįĻ	deliríeu transgredeixin diríem
+V.PTCPĭĴĽcombatreV.PTCPĭĴĽ	combatérem arraulírem
+VĬĵıįfelicitarVĬĵıį	feliciteu
+VĲĳıĴcolonitzarVĲĳıĴ	estirà estirà
+VİĶĴpegarVİĶĴ	complíem esmicolàvem
+VĲĭıĴķredactarVĲĭıĴķ	redactaries
+VĲĭıįĻjutjarVĲĭıįĻ	diríem jutgin deliríeu
+VĬĵĮĴenganyarVĬĵĮĴ	enganyaves
+VĬĵĮįcuirassarVĬĵĮį	cuirassem
+VĬĵĮįassaborirVĬĵĮį	assaboriu
+VİıĴprotagonitzarVİıĴ	protagonitzàveu
+VĲĵĶĴrosegarVĲĵĶĴ	exercíem exercíem
+VĬĭĶįenyorarVĬĭĶį	complíem distrèiem
+VĲĭĶļprivarVĲĭĶļ	exposàvem priva enfocàvem
+VĬĭĶįsonarVĬĭĶį	enfocàvem sondejareu relaciona complíem
+VĬĭĶįevitarVĬĭĶį	distrèiem evitàreu excedíem
+VĲĭĶįĻcaminarVĲĭĶįĻ	retiràvem dirien estimàvem deliríeu
+VĬĭıįreclamarVĬĭıį	reclameu
+VĹĺĮįsubministrarVĹĺĮį	subministraríem
+VĲĭıįĻcapolarVĲĭıįĻ	coincidiries deliries
+VĲĳĶĴmirarVĲĳĶĴ	estirà dedicàvem estirà enfocàvem
+VİĶĴinflarVİĶĴ	complíem inflarem distrèiem
+VĬĵĮįpersuadirVĬĵĮį	persuadirem
+VĲĵĮįempaquetarVĲĵĮį	ens empaquetaràs
+VĬĵĶĴplantarVĬĵĶĴ	exposàvem realitzàvem
+VĲĭıįĻempresonarVĲĭıįĻ	coincidiries dirien
+VĬĭĮĴcicatritzarVĬĭĮĴ	cicatritzéssim
+VĲĭĶįĻdivertirVĲĭĶįĻ	distrèiem diríem diverteix exercíem diríem
+VİĮįdibuixarVİĮį	dibuixats
+VĹĺĮĴllegarVĹĺĮĴ	llegava
+VĲĭĮĴķdesobeirVĲĭĮĴķ	desobeirà
+VĬĭĶįplantejarVĬĭĶį	exposàvem pretenguéssiu complíem
+VĲĭĶļempaquetarVĲĭĶļ	complíem empaquetés esmicolàvem
+VĲĵĶįprofessionalitzarVĲĵĶį	complíem proporcionessin independitzàvem
+VĲĳĮįsepultarVĲĳĮį	estirà sepultares estirà
+VĲĵĶĴdesaprovarVĲĵĶĴ	conduíem desaprovin complíem
+VĲĳĮįtriomfarVĲĳĮį	estirà triomfo estirà
+VİĶįdarVİĶį	complíem dansaran retiràvem
+VĬĭĮįemfatitzarVĬĭĮį	emfatitza
+VĲĵĮĴlaïcitzarVĲĵĮĴ	laïcitzarà
+VĬĭĶįdestinarVĬĭĶį	esmicolàvem desencadenéssim enfocàvem
+VĬĵĶĴxiuxiuejarVĬĵĶĴ	conduíem xiuxiuejaré comportàvem
+VĲĵĶĴhonrarVĲĵĶĴ	estimàvem hibernat distrèiem
+VĬĭıĴcoordinarVĬĭıĴ	coordinaves
+VİıįagradarVİıį	améssiu
+VĬĭıĴcorregirVĬĭıĴ	corregim
+VĬĵĶĴgratarVĬĵĶĴ	conduíem gratat realitzàvem
+VĲĭĶļtransformarVĲĭĶļ	retiràvem transformarem exercíem
+VİıįsexarVİıį	sentíssiu
+VĿfiltrarVĿ	filtrarà
+VĬĭĶįpessigarVĬĭĶį	exercíem estimàvem
+VĲĵĮįdutxarVĲĵĮį	ens direm dutxats ens
+VĲĭĶįķagradarVĲĭĶįķ	retiràvem excedíem
+VĲĳĶĴdestinarVĲĳĶĴ	estirà realitzàvem destina estirà realitzàvem
+VĲĳĶįornamentarVĲĳĶį	estirà realitzàvem ornamentis estirà exercíem
+VĹĺıĴmesurarVĹĺıĴ	mesura
+VĲĭĶļcicatritzarVĲĭĶļ	esmicolàvem cicatritzéssim dedicàvem
+VĹĺıįxiuxiuejarVĹĺıį	xiuxiuegis
+VİĶĴcorroborarVİĶĴ	exposàvem corroborava exposàvem
+VĲĳĮĴadormir-seVĲĳĮĴ	estirà estirà
+VĲĭıįķajornarVĲĭıįķ	ajornés
+VĲĭĶįĻdavallarVĲĭĶįĻ	dedicàvem dirien davallaria conduíem dirien
+VĲĳĶįrestarVĲĳĶį	estirà exercíem restareu estirà realitzàvem
+VĬĵĮĴorganitzarVĬĵĮĴ	lateralitzaràs
+VĲĭĶľpassejarVĲĭĶľ	distrèiem passegeu realitzàvem
+VĲĳĶįescalarVĲĳĶį	estirà complíem estirà exposàvem
+VĲĳĶįsospitarVĲĳĶį	estirà independitzàvem sospités estirà distrèiem
+VĲĳıįimaginarVĲĳıį	estirà imagineu estirà
+V.PTCPĵverbalitzarV.PTCPĵ	verbalitzéssiu
+VİıįxuclarVİıį	xuclem
+VİĮĴsorgirVİĮĴ	sorgeixi
+VĬĭĶįesterilitzarVĬĭĶį	dedicàvem esterilitzen retiràvem
+VĲĳĮįesbrinarVĲĳĮį	estirà estirà
+VĬĵĮĴexhibirVĬĵĮĴ	exhibiren
+VĬĭĶįaugmentarVĬĭĶį	complíem augmenteu esmicolàvem
+VĲĵĶįafegirVĲĵĶį	independitzàvem ataquen esmicolàvem
+VĬĭĶįofendreVĬĭĶį	distrèiem ocupéssiu dedicàvem
+VĬĭĶįcontemplarVĬĭĶį	exposàvem conreem estimàvem
+VĲĳıĴsabotejarVĲĳıĴ	estirà sabotegéssiu estirà
+VĲĭĮĴĻderruirVĲĭĮĴĻ	coincidiries coincidiries
+VĲĳĶĴtrigarVĲĳĶĴ	estirà distrèiem triguem estirà conduíem
+VĲĵıįasseure'sVĲĵıį	us asseureu
+VĲĳĶĴtitubejarVĲĳĶĴ	estirà dedicàvem titubeja estirà esmicolàvem
+VĲĭĶįĻconstrènyerVĲĭĶįĻ	conduíem diríem constrenyem dedicàvem deliries
+VĲĳĶįadormir-seVĲĳĶį	estirà comportàvem estirà esmicolàvem
+VĲĳĮįreinicialitzarVĲĳĮį	estirà estirà
+V.PTCPĭĴĽdogmatitzarV.PTCPĭĴĽ	diguérem exposàrem
+VİĮĴvomitarVİĮĴ	vomitats
+VĲĭıįĻabaixarVĲĭıįĻ	diríem deliríeu
+VĲĭĮĴķinsultarVĲĭĮĴķ	insultaren
+V.PTCPĭįĸcalcularV.PTCPĭįĸ	calculi legislant
+VĲĳĶĴpudirVĲĳĶĴ	estirà realitzàvem pudissis estirà exposàvem
+VĲĵĶĴatribuirVĲĵĶĴ	dedicàvem atribueixo exposàvem
+V.PTCPĵdestorbarV.PTCPĵ	destorbada
+VĲĳĮįeixugarVĲĳĮį	estirà eixugà estirà
+VĲĵıįtransfondreVĲĵıį	traureu transfonen
+VĬĭĶįdesmagnetitzarVĬĭĶį	realitzàvem desmagnetitzi complíem
+VĲĵıįfracassarVĲĵıį	florireu
+VĲĵĮĴdesodoritzarVĲĵĮĴ	desodoritzarà ens
+VĲĳĶĴenfadarVĲĳĶĴ	estirà excedíem enfadant estirà enfocàvem
+VİĶįesmenarVİĶį	excedíem excedíem
+VĲĳıĴempaquetarVĲĳıĴ	estirà empaquetés estirà
+VĲĳĶįsorprendreVĲĳĶį	estirà retiràvem estirà enfocàvem
+VĲĵĮįbarallarVĲĵĮį	baralleu ens
+VĲĳĮĴinsultarVĲĳĮĴ	estirà insultaren estirà
+VĲĵĮĴacabarVĲĵĮĴ	ens acabem
+VĲĵıįexagerarVĲĵıį	exageressin
+VĲĳıĴquedarVĲĳıĴ	estirà quedada estirà
+VĹĺĮįrecomençarVĹĺĮį	recomencem
+VĲĭĶļidolatrarVĲĭĶļ	estimàvem idolatri exposàvem
+VĬĵĶĴvigilarVĬĵĶĴ	esmicolàvem vigilarem dedicàvem
+VĲĳıįantecedirVĲĳıį	estirà estirà
+VĬĵĶįenfocarVĬĵĶį	independitzàvem distrèiem
+VİĶĴlabialitzarVİĶĴ	excedíem estimàvem
+V.PTCPĭįĽsaberV.PTCPĭįĽ	satisférem sabent refinàrem
+VĲĭıĴĻpodarVĲĭıĴĻ	dirien deliries
+VĹĺıįextrapolarVĹĺıį	extrapolaríeu
+VĲĭĶįķembolicarVĲĭĶįķ	excedíem embolicàrem estimàvem
+VĲĭĮįĻaglutinarVĲĭĮįĻ	coincidiries aglutinats dirien
+VĬĭĮĴassegurarVĬĭĮĴ	assegurés
+VĿhalarVĿ	inhalaràs
+VĿcontravenirVĿ	contraveníeu
+VĲĳĮĴadmetreVĲĳĮĴ	estirà admetent estirà
+VĹĺĮĴpublicarVĹĺĮĴ	publicat
+VİĶĴplantejarVİĶĴ	complíem plantejaren distrèiem
+VĹĺıįprotestarVĹĺıį	protesteu
+VĹĺıįtoldreVĹĺıį	toleu
+VĲĳĮĴuniformarVĲĳĮĴ	estirà estirà
+VĲĭıĴķrefusarVĲĭıĴķ	refutés
+VĬĭıįejacularVĬĭıį	ejaculareu
+VĲĳıįtronarVĲĳıį	estirà estirà
+VİĮĴreconèixerVİĮĴ	reconeguéssim
+VĲĳĮįmanumetreVĲĳĮį	estirà manumetem estirà
+VĲĭıĴĻafirmarVĲĭıĴĻ	deliríeu deliríeu
+VĲĭĶľcalcificarVĲĭĶľ	dedicàvem calcifiquis retiràvem
+VĲĵıįexcretarVĲĵıį	excreti
+VĬĵĶįesmentarVĬĵĶį	comportàvem esmicolàvem
+VĲĵĶĴcauteritzarVĲĵĶĴ	complíem cauteritza enfocàvem
+VĹĺĶĴoprimirVĹĺĶĴ	independitzàvem oprimiríem esmicolàvem
+VİĶįcol·leccionarVİĶį	complíem col·leccionen comportàvem
+VĹĺıįalliberarVĹĺıį	alliberéssiu
+VĿhaverVĿ	haurien
+VĲĭĶįķdesembocarVĲĭĶįķ	distrèiem desembocant enfocàvem
+VĲĭĶįĻcivilitzarVĲĭĶįĻ	enfocàvem deliríeu civilitzàveu dedicàvem dirien
+V.PTCPĭįĸmecanitzarV.PTCPĭįĸ	reinicialitzant
+V.PTCPĭįĽmenysvalorarV.PTCPĭįĽ	comportàrem menysvalorades refinàrem
+VĹĺıĴrenunciarVĹĺıĴ	renunciar
+VİĶĴdescloureVİĶĴ	realitzàvem descloguis retiràvem
+VĲĭĶįĻrequerirVĲĭĶįĻ	excedíem coincidiries requerirà enfocàvem coincidiries
+VĲĭıĴĻrefondreVĲĭıĴĻ	coincidiries deliríeu
+VĬĵĶįfiltrarVĬĵĶį	retiràvem infiltrarem distrèiem
+VĲĵĮįimpetrarVĲĵĮį	impetreu
+VĲĵĮįreflectirVĲĵĮį	reflectirem ens
+VĿarriscarVĿ	arrisquessin
+V.PTCPĭĴĽretornarV.PTCPĭĴĽ	recomponguérem arrapàrem
+VĬĵĮĴexplotarVĬĵĮĴ	explotaràs
+VĬĵĶĴdisculpar-seVĬĵĶĴ	exposàvem disculparà complíem
+VĲĳĮĴmultiplicarVĲĳĮĴ	estirà multipliqui estirà
+VĲĳĮĴaturarVĲĳĮĴ	estirà estirà
+VĲĳĶĴexiliarVĲĳĶĴ	estirà conduíem estirà exercíem
+VĬĭĮįempitjorarVĬĭĮį	empitjorem
+VĬĵĮįajornarVĬĵĮį	ajornés
+VĬĵĶĴdiagnosticarVĬĵĶĴ	complíem diagnosticaran esmicolàvem
+VĬĭıĴenllestirVĬĭıĴ	enllestís
+VİĮįassemblarVİĮį	assemblaràs
+VĲĵĮįacabarVĲĵĮį	ens animem ens
+VİıįinutilitzarVİıį	intentéssiu inutilitza
+VĹĺĶĴsubjectivarVĹĺĶĴ	dedicàvem subjectivava excedíem
+VĬĵĮĴofegarVĬĵĮĴ	ofegares ens
+VĹĺĶĴbaixarVĹĺĶĴ	enfocàvem conduíem
+VĬĭĶĴempapussar-seVĬĭĶĴ	distrèiem empapussada estimàvem
+VĬĭĶĴcaracteritzarVĬĭĶĴ	dedicàvem caracteritzem exercíem
+VĹĺıįdissoldreVĹĺıį	dissolgués
+VĲĭĮĴĻquedarVĲĭĮĴĻ	deliríeu quedaries deliries
+VĲĭıĴĻmoralitzarVĲĭıĴĻ	coincidiries deliríeu
+VĬĭıįcridarVĬĭıį	crideu
+VĹĺĮįviatjarVĹĺĮį	viatgéssim
+VĬĭĶĴglobalitzarVĬĭĶĴ	complíem gratat dedicàvem
+VĬĵĮĴobservarVĬĵĮĴ	observar
+VĲĳıįenfadarVĲĳıį	estirà enfadaríeu estirà
+VĲĳĮĴconcebreVĲĳĮĴ	estirà concebi estirà
+VĲĭıĴĻalimentarVĲĭıĴĻ	diríem alimenti deliries
+VİĮĴrebotreVİĮĴ	rebotràs
+VĬĭıįguiarVĬĭıį	guardeu
+VĲĭıĴķnoureVĲĭıĴķ	nogudes
+VĲĭĶļremeiarVĲĭĶļ	exposàvem comportàvem
+VĬĭıįperpetuarVĬĭıį	perpetuessin
+VĲĭĶįķalenarVĲĭĶįķ	exposàvem distrèiem
+VĬĭıĴdissuadirVĬĭıĴ	dissuadires
+VĲĵĶįtronarVĲĵĶį	estimàvem tronessin exposàvem
+VĬĵıįafavorirVĬĵıį	afavoriu
+VĬĵĶĴanalitzarVĬĵĶĴ	comportàvem complíem
+VĲĳĮĴpersonificarVĲĳĮĴ	estirà personifiques estirà
+VĬĵĶįdenominarVĬĵĶį	exposàvem dansaran excedíem
+VĲĵıĴoirVĲĵıĴ	oïm
+VĬĭıįtransferirVĬĭıį	transfereix
+VİĮĴnegociarVİĮĴ	negociaven
+VĲĭĮįĻenxamparVĲĭĮįĻ	coincidiries deliríeu
+VİĶįdistendreVİĶį	esmicolàvem conduíem
+VĬĵĶįsaquejarVĬĵĶį	estimàvem sortíssiu saquejarà estimàvem
+VĲĭĶįĻfacilitarVĲĭĶįĻ	independitzàvem deliries facilitant esmicolàvem diríem
+VĬĭĮĴacaronarVĬĭĮĴ	relacionem
+VĲĳĮįferrarVĲĳĮį	estirà estirà
+VĲĭĮĴķalliberarVĲĭĮĴķ	alliberat
+VĲĭıįķmanipularVĲĭıįķ	manipularàs
+VĬĭıįautomatitzarVĬĭıį	automatitzéssiu
+VĲĭĶįĻgaudirVĲĭĶįĻ	independitzàvem dirien gaudim estimàvem coincidiries
+VĬĭĮįfrenarVĬĭĮį	frenem
+VĲĳĮĴinaugurarVĲĳĮĴ	estirà inauguréssim estirà
+V.PTCPĭĴĽgeneralitzarV.PTCPĭĴĽ	gesticulàrem reinicialitzant exposàrem
+VĹĺıįrevenjar-seVĹĺıį	revenjares
+VĲĳĮĴmecanitzarVĲĳĮĴ	estirà estirà
+VİĶįrimarVİĶį	independitzàvem rendiu exercíem
+VĬĵĶĴrevelarVĬĵĶĴ	distrèiem esmicolàvem
+VĲĳıĴtorrarVĲĳıĴ	estirà estirà
+VĲĵıĴhibernarVĲĵıĴ	hibernat
+VĲĭıįĻaplaudirVĲĭıįĻ	coincidiries coincidiries
+VĬĵıįeructarVĬĵıį	eructaran
+VĲĵĶįraspallarVĲĵĶį	excedíem rendiu exposàvem
+VİĶĴidealitzarVİĶĴ	independitzàvem idealitzares complíem
+VİıįbufarVİıį	barregéssiu
+VĬĭıįapercebreVĬĭıį	apercebeu
+VİıĴcombatreVİıĴ	combatin
+VĬĵıĴaconseguirVĬĵıĴ	aconsegueixin
+VĬĭıĴembarrancarVĬĭıĴ	embarrancaria
+VĲĭıįĻsincronitzarVĲĭıįĻ	coincidiries sincronitzis diríem
+VĹĺĶĴllatinitzarVĹĺĶĴ	exposàvem llatinitzàveu exercíem
+VĲĵĶĴmagnetitzarVĲĵĶĴ	exercíem independitzàvem
+VĬĭĶįcapficar-seVĬĭĶį	exercíem capfiques realitzàvem
+VĲĭĶľremeiarVĲĭĶľ	exposàvem comportàvem
+VĲĭĮĴĻconfiarVĲĭĮĴĻ	dirien dirien
+V.PTCPĭįĽobliquarV.PTCPĭįĽ	sucàrem arrapàrem
+V.PTCPĭįĽvulcanitzarV.PTCPĭįĽ	valguérem reinicialitzant refinàrem
+VĬĵĶįfalsejarVĬĵĶį	conduíem falsejaran exercíem
+VİıįmerèixerVİıį	memoritzéssiu
+VĲĵıįsobreestimarVĲĵıį	sondejareu
+VĲĭĶļconfirmarVĲĭĶļ	dedicàvem distrèiem
+VĲĭĮĴķsubjectivarVĲĭĮĴķ	subjectiven
+VĲĳĶĴfixarVĲĳĶĴ	estirà excedíem fredejat estirà retiràvem
+VĬĵĶĴcostarVĬĵĶĴ	realitzàvem comportàvem
+VĬĭĮįfinançarVĬĭĮį	financem
+VĲĵĮĴfortificarVĲĵĮĴ	ens fredejat
+VĲĭıįķequivocar-seVĲĭıįķ	equivocant
+VĬĵĮįennuegarVĬĵĮį	ennuegant
+VĲĵĮĴdescobrirVĲĵĮĴ	descobria ens
+V.PTCPĭįĸfeminitzarV.PTCPĭįĸ	reinicialitzant
+VİĮĴgratularVİĮĴ	gratat
+V.PTCPĵimmunitzarV.PTCPĵ	immunitzeu
+VĬĵıĴevacuarVĬĵıĴ	evaporaria
+VĹĺıįulularVĹĺıį	ulularen
+VĲĭĮįķtardarVĲĭĮįķ	tardaria
+VĬĵıĴtricotarVĬĵıĴ	tricotaven
+VĲĵĮĴembolicarVĲĵĮĴ	ens emboliquem ens
+VĲĭıįĻmodelarVĲĭıįĻ	coincidiries modela deliries
+VĬĵĶįesperarVĬĵĶį	independitzàvem reiterareu enfocàvem
+VİıįaturarVİıį	améssiu
+VĬĵĶĴguardarVĬĵĶĴ	esmicolàvem gratat excedíem
+VĹĺĶĴxiuxiuejarVĹĺĶĴ	exercíem xiuxiuegem conduíem
+VĲĭĮĴķderivarVĲĭĮĴķ	derivés
+VĲĭĶļinhalarVĲĭĶļ	realitzàvem inhalin dedicàvem
+V.PTCPĭįĽsobreestimarV.PTCPĭįĽ	sobreescalfàrem refinàrem
+VĬĵıĴtolerarVĬĵıĴ	tolera reiterareu
+VĹĺĮįgesticularVĹĺĮį	gesticulem
+VİĮįcompondreVİĮį	colonitzéssiu
+VĲĵĶĴdatarVĲĵĶĴ	enfocàvem datin complíem
+VĲĵĶįsepararVĲĵĶį	excedíem sentíssiu estimàvem
+VĲĵĶĴdonarVĲĵĶĴ	independitzàvem esmicolàvem
+VĲĵĶĴdragarVĲĵĶĴ	complíem dragui comportàvem
+VĲĵıįdesarVĲĵıį	dansareu
+VĹĺĮįpujarVĹĺĮį	pujaria
+VĲĳĮĴeliminarVĲĳĮĴ	estirà estirà
+VİĶįpublicarVİĶį	dedicàvem pescaran publicaràs dedicàvem
+VĲĵĮĴdiversificarVĲĵĮĴ	diversifiquéssim
+VĲĭĶļesmenarVĲĭĶļ	comportàvem exercíem
+VĲĵıįcessarVĲĵıį	conreareu
+VĲĵĶĴallotjarVĲĵĶĴ	enfocàvem allotjà retiràvem
+VĬĵĮįdetenirVĬĵĮį	detinguem
+VĬĭıĴlocalitzarVĬĭıĴ	localitza
+VĹĺĶĴamagarVĹĺĶĴ	exercíem amagareu estimàvem
+VĬĭıĴdivorciarVĬĭıĴ	divorcia
+V.PTCPĭįĽdigerirV.PTCPĭįĽ	dirimírem arraulírem
+VĲĳĶįenxamparVĲĳĶį	estirà independitzàvem estirà realitzàvem
+VĬĭĶĴdesmilitaritzarVĬĭĶĴ	dedicàvem desmilitaritzi exercíem
+V.PTCPĭĴĽllavarV.PTCPĭĴĽ	llavàrem exposàrem
+VĲĭĶįķdialogarVĲĭĶįķ	enfocàvem dialogaríem estimàvem
+VİıĴtravessarVİıĴ	travessats
+VĲĭıįķevitarVĲĭıįķ	evitàveu
+VĲĳĮįmodelarVĲĳĮį	estirà modela estirà
+V.PTCPĭįĽejacularV.PTCPĭįĽ	arrapàrem ejaculada barallant exposàrem
+VĬĭĮĴhabitarVĬĭĮĴ	hibernat
+VĲĭĶľdestriparVĲĭĶľ	excedíem excedíem
+VĲĭĶļtorrarVĲĭĶļ	estimàvem comportàvem
+VĲĭĮĴķsocarrarVĲĭĮĴķ	socarrà
+VĲĵĶįdissuadirVĲĵĶį	comportàvem dissuadeixen enfocàvem
+VĬĵıįprofetitzarVĬĵıį	profetitzéssiu
+VĲĭĮįĻcabreVĲĭĮįĻ	deliries cabria deliríeu
+VİĮĴmodernitzarVİĮĴ	modernitzem
+VĲĳıĴanimarVĲĳıĴ	estirà estirà
+VĲĵĶĴmoldreVĲĵĶĴ	exercíem exercíem
+VĲĭĶļreaparèixerVĲĭĶļ	conduíem reapareixereu complíem
+VĹĺĶĴrodarVĹĺĶĴ	complíem distrèiem
+VĲĭĶįĻneutralitzarVĲĭĶįĻ	distrèiem dirien comportàvem diríem
+VĲĭĮįĻomplirVĲĭĮįĻ	deliries diríem
+VĬĵĮįvomitarVĬĵĮį	vomitem
+VĲĭĶľcontribuirVĲĭĶľ	independitzàvem contribuïts realitzàvem
+VĬĭıįdesodorarVĬĭıį	desodora
+VĬĭĶįmostrarVĬĭĶį	exposàvem monetitzen distrèiem
+VĲĳıįfregirVĲĳıį	estirà fregiu estirà
+V.PTCPĭįĽeguinarV.PTCPĭįĽ	embriagàrem arraulírem
+V.PTCPĭįĸexpel·lirV.PTCPĭįĸ	expel·liren
+VĲĭĮįķcicatritzarVĲĭĮįķ	cicatritzis
+VĬĭıįviureVĬĭıį	viatgeu
+VĬĵĮĴsimularVĬĵĮĴ	simulava
+VĲĭĮįķencapçalarVĲĭĮįķ	encapçalaríem
+VĲĳĮįjeureVĲĳĮį	estirà jauràs estirà
+V.PTCPĭĴĸeixirV.PTCPĭĴĸ	recollint
+VĲĵĶĴoriginarVĲĵĶĴ	exercíem distrèiem
+VĲĳĶįvolarVĲĳĶį	estirà esmicolàvem voltaran estirà independitzàvem
+VĬĵĶĴagradarVĬĵĶĴ	realitzàvem estimàvem
+VĲĭĶįĻorinarVĲĭĶįĻ	conduíem dirien realitzàvem deliríeu
+VĲĭıįĻcorregirVĲĭıįĻ	dirien corregeixi coincidiries
+VĬĵĮįdotorejarVĬĵĮį	dotorejareu
+VĲĳĶįeliminarVĲĳĶį	estirà exposàvem estirà exercíem
+VĿresidirVĿ	residiria
+VĲĭĶįķentrenarVĲĭĶįķ	esmicolàvem comportàvem
+VĲĭĶįķconquerirVĲĭĶįķ	independitzàvem conquereixi excedíem
+VĬĭĮįintensificarVĬĭĮį	intensificarem
+VĲĭĮįĻatrevir-seVĲĭĮįĻ	diríem atrevien coincidiries
+VĲĭıįķdilatarVĲĭıįķ	dilatàreu
+VĲĳıįorarVĲĳıį	estirà estirà
+VĹĺĶĴdansarVĹĺĶĴ	exposàvem dansàveu retiràvem
+VİıįoccirVİıį	ocupéssiu
+VĲĵıįempitjorarVĲĵıį	empitjorares
+VĲĳıĴemprarVĲĳıĴ	estirà estirà
+VĲĵĶĴcridarVĲĵĶĴ	exercíem crideu independitzàvem
+VĲĵĮįprepararVĲĵĮį	prepararem
+VĲĭĶľcorroborarVĲĭĶľ	esmicolàvem corroborava esmicolàvem
+VĲĳıĴincorporarVĲĳıĴ	estirà estirà
+VĬĵĮįhonrarVĬĵĮį	honren
+VĲĭĮįķintitularVĲĭĮįķ	intitularies
+VĲĳıįcastrarVĲĳıį	estirà castréssiu estirà
+VĲĳĮįcomandarVĲĳĮį	estirà estirà
+VĲĳĶįenfonsarVĲĳĶį	estirà comportàvem enfonsen estirà exposàvem
+VİĮĴprotegirVİĮĴ	protegida
+VĲĭıįĻbanyarVĲĭıįĻ	deliries banyarà coincidiries
+VİĶĴfinalitzarVİĶĴ	conduíem fredejat esmicolàvem
+VĲĵĶįoprimirVĲĵĶį	comportàvem origineu independitzàvem
+V.PTCPĭĴĽcatapultarV.PTCPĭĴĽ	comportàrem catapultàveu arraulírem
+VĲĳĮįferirVĲĳĮį	estirà estirà
+VİıįconfirmarVİıį	cesséssiu
+VĬĵıįossificarVĬĵıį	ossificant
+VĲĵĶįcomunicarVĲĵĶį	conduíem comuniquin realitzàvem
+VİıįdesencadenarVİıį	desitgéssiu
+VĲĭĶįķmortificarVĲĭĶįķ	realitzàvem realitzàvem
+VĲĭĶļvomitarVĲĭĶļ	estimàvem vomitats exercíem
+VĬĭĶįlimitarVĬĭĶį	exposàvem liberalitzessin distrèiem
+V.PTCPĵbeatificarV.PTCPĵ	beatificar
+VĬĵĶįcargolarVĬĵĶį	excedíem carreguéssiu cargolareu excedíem
+VĬĵĶįesternudarVĬĵĶį	dedicàvem esternudarem comportàvem
+VĲĭĮįĻatendreVĲĭĮįĻ	coincidiries diríem
+VĬĭĮĴdevorarVĬĭĮĴ	devoréssiu
+VĬĵĶĴsenyalarVĬĵĶĴ	enfocàvem distrèiem
+VĲĳıįrebutjarVĲĳıį	estirà rebutgem estirà
+VİĮĴelegirVİĮĴ	elegiu
+VĿorganitzarVĿ	organitzàreu
+V.PTCPĭįĸfamiliaritzarV.PTCPĭįĸ	familiaritzaran reinicialitzant
+VĬĭıĴajudarVĬĭıĴ	ajudaves
+VĹĺĮįdistribuirVĹĺĮį	distribuís
+VĲĭĶįĻmorirVĲĭĶįĻ	dedicàvem diríem comportàvem deliríeu
+VĲĭĮįĻcomptarVĲĭĮįĻ	coincidiries coincidiries
+VĲĭĮĴĻvalerVĲĭĮĴĻ	diríem valgués dirien
+VĬĵĮĴfluctuarVĬĵĮĴ	fredejat
+VĬĵĮĴenregistrarVĬĵĮĴ	enregistra
+VĿassenyalarVĿ	assenyalaves
+VĬĭĶįreaccionarVĬĭĶį	independitzàvem relaciona exercíem
+VĬĵĮįavançarVĬĵĮį	avançaríem
+VİĶįdesamortitzarVİĶį	retiràvem desamortitzem complíem
+VĹĺĮĴrecompondreVĹĺĮĴ	compongui
+VĲĵıįguanyarVĲĵıį	gaudireu guanyis
+VĲĳĮĴofendreVĲĳĮĴ	estirà ofendràs estirà
+V.PTCPĭĴĸestereotiparV.PTCPĭĴĸ	estereotiparà
+VĹĺĮįconsagrarVĹĺĮį	consagraríem
+VĬĵıĴdescansarVĬĵıĴ	descansàreu
+VĬĵĶįapel·larVĬĵĶį	esmicolàvem apel·lareu distrèiem
+VĬĵıįservirVĬĵıį	servireu
+VĲĵĮįpararVĲĵĮį	paralitzarem
+VĬĭĮįtossirVĬĭĮį	tossim
+VĬĵĶįsumarVĬĵĶį	dedicàvem saltem dedicàvem
+VĲĭĮĴĻmantenirVĲĭĮĴĻ	diríem mantinguem deliries
+VĲĭĶļembrutarVĲĭĶļ	complíem embrutava enfocàvem
+VĬĭıĴinclinarVĬĭıĴ	inclinaven
+VĲĵĮįextingirVĲĵĮį	extingíreu ens
+VĲĭĶįĻincorporarVĲĭĶįĻ	complíem diríem distrèiem diríem
+VİıįbelarVİıį	barregéssiu
+VĲĭĮįķefectuarVĲĭĮįķ	efectuessin
+VĬĵĶĴrebotreVĬĵĶĴ	independitzàvem rebotràs conduíem
+VĬĭĮĴanunciarVĬĭĮĴ	anunciàreu
+VİĶįsalarVİĶį	dedicàvem saltem distrèiem
+VĹĺıĴsuquejarVĹĺıĴ	suquejà
+VĬĵıįraonarVĬĵıį	raonéssiu
+V.PTCPĵmarxarV.PTCPĵ	marxeu
+VĲĳıĴrespirarVĲĳıĴ	estirà estirà
+VĬĵıįmaterialitzarVĬĵıį	materialitzeu
+VİĮįconsistirVİĮį	conreem
+VĲĭıĴķaguaitarVĲĭıĴķ	aguaità
+VİıĴconjuntarVİıĴ	conjuntessis
+VĲĵĮįacceptarVĲĵĮį	acceptaríeu
+VĲĳıįconfeccionarVĲĳıį	estirà estirà
+VĲĳĶįvomitarVĲĳĶį	estirà exposàvem ventilareu estirà excedíem
+VĲĳıĴpol·linitzarVĲĳıĴ	estirà pol·linitzi estirà
+VĲĭĮįĻelegirVĲĭĮįĻ	deliries elegeixen diríem
+VĲĳĮĴhomenatjarVĲĳĮĴ	estirà hibernat estirà
+VĲĵĮįzigzaguejarVĲĵĮį	ens zigzaguejà
+VĲĭıįĻbombardejarVĲĭıįĻ	deliríeu bombardegem deliríeu
+VİıĴdivertirVİıĴ	diverteix
+VİĮįofegarVİĮį	omplíssim
+VĲĭĶľeguinarVĲĭĶľ	comportàvem eguinés enfocàvem
+VĲĳĮĴveureVĲĳĮĴ	estirà estirà
+VĬĭĶįperillarVĬĭĶį	dedicàvem comportàvem
+VĬĭĶĴrebutjarVĬĭĶĴ	dedicàvem rebutgem independitzàvem
+VĲĳĮįperpetuarVĲĳĮį	estirà perpetuéssim estirà
+VĬĭıĴarrossegarVĬĭıĴ	arrossegaven
+VĲĭıįĻconquerirVĲĭıįĻ	deliries conquereixi diríem
+VĲĳıĴestiuarVĲĳıĴ	estirà estirà
+VĲĵıįdefinirVĲĵıį	dansareu
+VĲĭĶľdormirVĲĭĶľ	esmicolàvem exercíem
+V.PTCPĵsoterrarV.PTCPĵ	soterri
+VĲĭıĴĻvulcanitzarVĲĭıĴĻ	deliries vulcanitzi deliríeu
+VİĮįdiferenciarVİĮį	desencadenéssim
+VĹĺĮįdibuixarVĹĺĮį	dibuixats
+VĬĭĮĴescórrerVĬĭĮĴ	escórrer
+V.PTCPĭĴĽavantatjarV.PTCPĭĴĽ	aplaudírem avantatjades arrapàrem
+VİĶĴelevarVİĶĴ	excedíem exercíem
+VĲĭıįĻnecessitarVĲĭıįĻ	diríem deliríeu
+VĲĭıįķsubjugarVĲĭıįķ	subjuga
+VĲĵĮĴagafar-seVĲĵĮĴ	agafeu
+VĬĭĶĴrefrescarVĬĭĶĴ	retiràvem refresquem enfocàvem
+VĲĭĶļprotestarVĲĭĶļ	conduíem protestin exposàvem
+VĹĺĶĴdavallarVĹĺĶĴ	exercíem davallà realitzàvem
+VĲĭıĴĻcontagiarVĲĭıĴĻ	dirien contagiés deliríeu
+VĬĭĮįurbanitzarVĬĭĮį	urbanitzaria
+VĲĳıĴobrirVĲĳıĴ	estirà estirà
+VĲĭĮįĻésserVĲĭĮįĻ	dirien sigues diríem
+VĲĵĶįparlarVĲĵĶį	retiràvem paralitzeu enfocàvem
+VĲĳĮįdestriparVĲĳĮį	estirà estirà
+VĬĭĶĴsolucionarVĬĭĶĴ	exposàvem relacionem distrèiem
+VİĮĴfugirVİĮĴ	fredejat
+VİĶĴcancel·larVİĶĴ	excedíem cancel·laria independitzàvem
+VĲĭĮĴķinterpretarVĲĭĮĴķ	interpretaria
+VĲĭĮįĻlegalitzarVĲĭĮįĻ	deliríeu deliries
+VİĶįconrearVİĶį	conduíem conreem dedicàvem
+VĲĭĶļfalsejarVĲĭĶļ	comportàvem falsegi complíem
+VĬĭĮįsodomitzarVĬĭĮį	sodomitzaríem
+VĬĭĮįclamarVĬĭĮį	clamem
+VĲĭĮĴĻarraulirVĲĭĮĴĻ	deliríeu diríem
+VĲĭıĴķeclipsarVĲĭıĴķ	eclipsa
+VĲĳĮįvehicularVĲĳĮį	estirà vehiculem estirà
+VĲĵıįtremolarVĲĵıį	traureu
+V.PTCPĭĴĽcontractarV.PTCPĭĴĽ	compràrem arrapàrem
+VĬĵĶĴdesignarVĬĵĶĴ	comportàvem designés esmicolàvem
+VĲĭıĴĻentrevistarVĲĭıĴĻ	deliries entrevistem deliríeu
+VĲĵĶĴllevar-seVĲĵĶĴ	retiràvem llevi distrèiem
+VĹĺĶĴsoterrarVĹĺĶĴ	dedicàvem soterraríeu enfocàvem
+VĲĳıĴdissoldreVĲĳıĴ	estirà estirà
+VĲĭĶįķsomiarVĲĭĶįķ	comportàvem realitzàvem
+VĬĵĮĴmitigarVĬĵĮĴ	mitigaria
+VĹĺĮĴmudarVĹĺĮĴ	mudi
+VĲĳĶįresistirVĲĳĶį	estirà realitzàvem restareu estirà estimàvem
+VĬĭĶįestiuejarVĬĭĶį	esmicolàvem independitzàvem
+VĲĭĮįķentretenir-seVĲĭĮįķ	us entretinguéssiu
+VĬĵıįassegurarVĬĵıį	assegureu
+VĬĵĮįploureVĬĵĮį	ploguéssim
+VİĮįmercantilitzarVİĮį	mercantilitzem
+VĲĭıįķsuplicarVĲĭıįķ	supliqueu
+VİĮįdiscriminarVİĮį	desencadenéssim
+VĲĵĮįatemptarVĲĵĮį	ens atemptàveu ens
+VĹĺĮĴentretenir-seVĹĺĮĴ	us entretinguéssiu
+VİĶĴdissoldreVİĶĴ	retiràvem excedíem
+VİĮįfaltarVİĮį	falsegin
+VİĮĴreconquerirVİĮĴ	conquereixi
+VĹĺĮĴabolirVĹĺĮĴ	abolies
+VĲĭĮĴĻassumirVĲĭĮĴĻ	diríem deliríeu
+VĲĭıįĻpreveureVĲĭıįĻ	deliries coincidiries
+VĲĭĮįķfumarVĲĭĮįķ	fumeu
+VĲĵıĴfotosintetitzarVĲĵıĴ	fredejat
+VĬĵĮįrellegirVĬĵĮį	rellegiran
+VĲĵıįinaugurarVĲĵıį	inaugurant
+VĹĺĶĴtornarVĹĺĶĴ	distrèiem exercíem
+VĬĭıĴexigirVĬĭıĴ	exigiria
+VĹĺĮįcontenirVĹĺĮį	continguem
+VĲĳĶįorbitarVĲĳĶį	estirà excedíem origineu estirà exposàvem
+VĬĵĶĴseguirVĬĵĶĴ	exposàvem comportàvem
+VĲĳĮįparèixerVĲĳĮį	estirà pareguem estirà
+VĲĵĶĴestirarVĲĵĶĴ	estimàvem comportàvem
+V.PTCPĵapologitzarV.PTCPĵ	apologitzaré
+VĬĭıĴqüestionarVĬĭıĴ	qüestionaria
+VĲĳĮĴpatirVĲĳĮĴ	estirà estirà
+VĬĭĮĴsotmetreVĬĭĮĴ	sotmetia
+VĬĵıĴequivocar-seVĬĵıĴ	equivocarien
+VĲĭĮĴĻterminarVĲĭĮĴĻ	deliríeu coincidiries
+VĹĺıįcometreVĹĺıį	cometeu
+VĬĵĶįentregarVĬĵĶį	exposàvem entregaràs excedíem
+VİĮįmerèixerVİĮį	militaritzéssim
+VĲĵĮįsolucionarVĲĵĮį	sentirem
+VĲĳĮįaprovarVĲĳĮį	estirà aprofitem estirà
+VĬĭĶįentusiasmarVĬĭĶį	dedicàvem comportàvem
+VİĶįcasar-seVİĶį	independitzàvem cantem comportàvem
+VİĮĴimmunitzarVİĮĴ	immunitzaven
+VĲĭıįķoirVĲĭıįķ	oíssiu
+VĲĳĮĴcomptarVĲĳĮĴ	estirà estirà
+VĲĭıĴķadmetreVĲĭıĴķ	admetent
+VİĶĴsilenciarVİĶĴ	independitzàvem realitzàvem
+VĲĳıĴcasarVĲĳıĴ	estirà estirà
+VİĶĴestrenarVİĶĴ	independitzàvem comportàvem
+VĬĵĮįaconseguirVĬĵĮį	aconseguirem
+VĲĭĮĴĻeixugarVĲĭĮĴĻ	coincidiries eixugaria dirien
+VİĶįdecretarVİĶį	conduíem danseu enfocàvem
+VĲĭıįĻcol·locarVĲĭıįĻ	deliríeu col·loquem dirien
+VĲĭıĴķcircularVĲĭıĴķ	circuli
+V.PTCPĭįĽimpetrarV.PTCPĭįĽ	articulàrem impetri exposàrem
+VĲĵĶįpreocupar-seVĲĵĶį	exercíem precisaran exercíem
+VĲĵıįagruparVĲĵıį	agrupaven
+VİıįfirmarVİıį	fraternitzéssiu
+VĬĵĶĴassolirVĬĵĶĴ	exposàvem assolirà exposàvem
+VĹĺĶĴtirotejarVĹĺĶĴ	realitzàvem tirotegi complíem
+VĲĵıĴfalsejarVĲĵıĴ	fredejat
+VĲĭĮĴĻanticiparVĲĭĮĴĻ	diríem dirien
+VĲĳıįlligarVĲĳıį	estirà estirà
+VĲĭĮĴĻreclamarVĲĭĮĴĻ	dirien coincidiries
+VĬĵĮįnominarVĬĵĮį	nomenem
+VĲĭĶįĻcastrarVĲĭĶįĻ	distrèiem deliríeu conduíem deliríeu
+VĲĵĶįsofrirVĲĵĶį	enfocàvem saltem sofrint realitzàvem
+VĲĳĮįperdreVĲĳĮį	estirà perdreu estirà
+VĲĵıĴtemptarVĲĵıĴ	atemptàveu
+VĲĭıįĻsegellarVĲĭıįĻ	deliríeu segellat coincidiries
+VĲĭĶļdejunarVĲĭĶļ	estimàvem dejuno enfocàvem
+VĲĳĮįutilitzarVĲĳĮį	estirà utilitzéssim estirà
+VĲĳıĴguardarVĲĳıĴ	estirà gratat estirà
+VĲĵıįevolucionarVĲĵıį	evolucionada
+VĬĵĮįarrendarVĬĵĮį	arrendéssim
+VĲĳĮįnasalitzarVĲĳĮį	estirà estirà
+VĿvacil·larVĿ	vacil·larien
+VĲĵıĴinflarVĲĵıĴ	inflaran
+VĹĺıĴcapturarVĹĺıĴ	capturem
+VĲĳĶĴfolrarVĲĳĶĴ	estirà esmicolàvem fredejat estirà independitzàvem
+VĲĭĮĴĻarxivarVĲĭĮĴĻ	dirien arxivat coincidiries
+VĲĵĮĴtastarVĲĵĮĴ	tastessin
+VĲĭĮĴĻruixarVĲĭĮĴĻ	diríem coincidiries
+VİıĴeclipsarVİıĴ	eclipsa
+VĲĵĶĴanunciarVĲĵĶĴ	retiràvem estimàvem
+VĹĺıĴassumirVĹĺıĴ	assumiríeu
+VĲĭĶľunificarVĲĭĶľ	enfocàvem dedicàvem
+VİıįbarallarVİıį	barregéssiu
+VĲĳĶĴcorrespondreVĲĳĶĴ	estirà distrèiem correspondrà estirà esmicolàvem
+VĲĭĶļcontravenirVĲĭĶļ	estimàvem contravinguessin dedicàvem
+VĬĭĶįoscil·larVĬĭĶį	exposàvem oscil·lem excedíem
+VĹĺĶĴdeureVĹĺĶĴ	retiràvem estimàvem
+VİıįremarVİıį	ronquessin
+VĲĭĮĴĻimprimirVĲĭĮĴĻ	diríem imprimeixi coincidiries
+V.PTCPĭįĽocupar-seV.PTCPĭįĽ	occírem exposàrem
+VĲĵĮĴtriomfarVĲĵĮĴ	triomfat ens
+VĬĭĮįescaramussarVĬĭĮį	escaramussem
+VĬĵıĴmerceritzarVĬĵıĴ	merceritzés
+VİĮĴrestringirVİĮĴ	restringiran
+VĹĺĮįestovarVĹĺĮį	estovaves
+VĲĵĮĴmirarVĲĵĮĴ	ens
+VĲĳĮįdatarVĲĳĮį	estirà estirà
+VĬĭıįveure'sVĬĭıį	vegin-se
+VĬĵĶįgravarVĬĵĶį	esmicolàvem graten distrèiem
+VĲĭĶįķmilitaritzarVĲĭĶįķ	estimàvem complíem
+VĲĵĶĴdivinitzarVĲĵĶĴ	independitzàvem divinitzaria exposàvem
+VĲĭĶįĻvotarVĲĭĶįĻ	retiràvem deliries estimàvem dirien
+VĬĵıĴcontribuirVĬĵıĴ	contribuireu
+VĿalleugerarVĿ	alleugerés
+VĲĵĶįculminarVĲĵĶį	exposàvem cerquéssiu retiràvem
+VĲĳĮĴrentarVĲĳĮĴ	estirà estirà
+VĲĭĮĴĻbarallarVĲĭĮĴĻ	coincidiries deliries
+VİĮįconceptualitzarVİĮį	conceptualitza
+VİĶįsexarVİĶį	exercíem sondejareu retiràvem
+VĲĭıįĻcascarVĲĭıįĻ	dirien deliríeu
+VĲĭĶľdramatitzarVĲĭĶľ	complíem dramatitzarem excedíem
+VĹĺĮĴresultarVĹĺĮĴ	resultarien
+VĲĭıįķfumarVĲĭıįķ	fumeu
+VİıįdecebreVİıį	decebré
+VĲĭĶįĻlaïcitzarVĲĭĶįĻ	dedicàvem dirien laïcitzessin dedicàvem dirien
+VĲĳĮįcorprendreVĲĳĮį	estirà corprèn estirà
+VİĶįmarxarVİĶį	enfocàvem marxéssiu estimàvem
+VĬĭĶĴcategoritzarVĬĭĶĴ	independitzàvem conduíem
+VĬĵıĴreeixirVĬĵıĴ	reeixiràs
+VĲĭĶľlletrejarVĲĭĶľ	retiràvem lletrejàveu esmicolàvem
+VĲĵıĴmalparlarVĲĵıĴ	malparlin
+V.PTCPĭįĸornamentarV.PTCPĭįĸ	ornamentis
+VĲĭĶįĻalterarVĲĭĶįĻ	realitzàvem coincidiries esmicolàvem diríem
+VĲĵĶĴhospitalitzarVĲĵĶĴ	esmicolàvem hibernat exposàvem
+V.PTCPĵposposarV.PTCPĵ	posposin
+VĲĳıĴadaptarVĲĳıĴ	estirà adaptava estirà
+VĲĭıĴĻenfondreVĲĭıĴĻ	deliríeu deliries
+VĬĵĮįtrinxarVĬĵĮį	trinxaran
+VĬĭıĴexercirVĬĭıĴ	exercís
+VĬĵıįcastrarVĬĵıį	cascareu
+VĹĺıįaccelerarVĹĺıį	accelerés
+VĲĭĮĴĻdedicarVĲĭĮĴĻ	deliries deliríeu
+VĬĭĶĴrobarVĬĭĶĴ	realitzàvem conduíem
+VĲĳĶĴveureVĲĳĶĴ	estirà exercíem estirà comportàvem
+VĲĳĶįencallar-seVĲĳĶį	estirà realitzàvem encallessin estirà esmicolàvem
+VĲĳĶĴemanciparVĲĳĶĴ	estirà excedíem estirà exercíem
+VĲĳıįmoldreVĲĳıį	estirà estirà
+V.PTCPĭįĽdutxarV.PTCPĭįĽ	descentralitzàrem dutxats arrapàrem
+VĲĳĶįprocedirVĲĳĶį	estirà exposàvem proporcionessin estirà comportàvem
+VĲĵĮįenvairVĲĵĮį	envaeixen ens
+VĲĳĮĴmerceritzarVĲĳĮĴ	estirà merceritzés estirà
+VİĶĴmoureVİĶĴ	esmicolàvem esmicolàvem
+VİĶĴmaquillar-seVİĶĴ	exposàvem maquilleu dedicàvem
+VĬĭĮįinventarVĬĭĮį	inventem
+V.PTCPĭįĽenfondreV.PTCPĭįĽ	encantàrem exposàrem
+VĬĭıįcomprovarVĬĭıį	comproveu
+VĲĵıĴnéixerVĲĵıĴ	naixessis
+VĲĵĶĴteoritzarVĲĵĶĴ	enfocàvem retiràvem
+VĹĺıįalarmarVĹĺıį	alarméssiu
+VĲĳĶĴconstituirVĲĳĶĴ	estirà distrèiem constitueixi estirà retiràvem
+VĲĭıĴĻfotreVĲĭıĴĻ	deliríeu diríem
+VĲĳĶĴfugirVĲĳĶĴ	estirà independitzàvem fredejat estirà estimàvem
+VĬĭĮįcircularVĬĭĮį	circuli
+V.PTCPĭĴĸcollirV.PTCPĭĴĸ	recollint
+VĲĭĶľsuplirVĲĭĶľ	esmicolàvem suprimeixi esmicolàvem
+VĲĳıįassumirVĲĳıį	estirà assumiríeu estirà
+VĲĭĮĴĻarreglarVĲĭĮĴĻ	dirien arreglaven diríem
+VĲĭıįķelegirVĲĭıįķ	reelegeixin
+VĲĭıĴķdescobrirVĲĭıĴķ	descobrí
+VĿpertànyerVĿ	pertanyeria
+VĲĭĶįķdetenirVĲĭĶįķ	dedicàvem comportàvem
+VĲĳıįvincularVĲĳıį	estirà vinculi estirà
+VĿrestaurarVĿ	restaurares
+VĿdibuixarVĿ	dibuixàveu
+VĲĵĶĴeludirVĲĵĶĴ	dedicàvem eludeixo enfocàvem
+VĲĳĮįrevistarVĲĳĮį	estirà reviscolem estirà
+VĲĭĮįĻposarVĲĭĮįĻ	coincidiries dirien
+VĲĳĮįfondreVĲĳĮį	estirà estirà
+VĬĭĮįnominalitzarVĬĭĮį	nomenem
+V.PTCPĭĴĸsepultarV.PTCPĭĴĸ	sepultares
+VĬĭĶĴferirVĬĭĶĴ	exercíem fredejat dedicàvem
+VĬĭĮĴdemostrarVĬĭĮĴ	demostri
+VĬĵĶįmaterialitzarVĬĵĶį	comportàvem masteguessin lateralitzaràs exercíem
+VĬĭĶĴpal·liarVĬĭĶĴ	dedicàvem estimàvem
+VĲĳĶĴvelaritzarVĲĳĶĴ	estirà excedíem estirà distrèiem
+V.PTCPĭįĽcaracteritzarV.PTCPĭįĽ	estiuejàrem caracteritzant reinicialitzant refinàrem
+VĲĭıĴĻelevarVĲĭıĴĻ	deliries diríem
+VĬĵĮĴintervenirVĬĵĮĴ	intervingui
+VĲĭĶįĻaconseguirVĲĭĶįĻ	retiràvem coincidiries aconsegueixes complíem dirien
+VĲĭĮįķdissenyarVĲĭĮįķ	dissenyareu
+VİıįiniciarVİıį	inicialitzéssiu
+V.PTCPĵjubilarV.PTCPĵ	jubilés
+V.PTCPĭįĸlabialitzarV.PTCPĭįĸ	labialitzat reinicialitzant
+VĲĭıįķinfiltrarVĲĭıįķ	infiltrareu
+VĬĭĶįaconsellarVĬĭĶį	exposàvem exposàvem
+VİĮįamputarVİĮį	ameu amputar
+VĲĭĶļdatarVĲĭĶļ	enfocàvem datin complíem
+VĲĵĶĴimmigrarVĲĵĶĴ	conduíem immigraren comportàvem
+VĲĵĶĴrentarVĲĵĶĴ	enfocàvem estimàvem
+VĲĭĮĴĻremoldreVĲĭĮĴĻ	deliríeu dirien
+VĬĭĮĴsimbolitzarVĬĭĮĴ	simbolitzaràs
+VİĶįinfiltrarVİĶį	exercíem infiltrarem esmicolàvem
+VĲĭĶįķsituarVĲĭĶįķ	comportàvem situés estimàvem
+V.PTCPĭĴĽinhumarV.PTCPĭĴĽ	exposàrem inhumades refinàrem
+VİĶĴpenjarVİĶĴ	retiràvem pengi enfocàvem
+VĹĺıĴpunirVĹĺıĴ	punia
+VĲĵĮįbufarVĲĵĮį	balcanitzarem
+VĬĵĶĴpenjarVĬĵĶĴ	realitzàvem distrèiem
+VİıĴacompanyarVİıĴ	acompanyeu
+VĲĳĶįvocalitzarVĲĳĶį	estirà estimàvem variaran estirà exercíem
+VĲĭĶľadobarVĲĭĶľ	estimàvem adobares independitzàvem
+VĬĭĮįcalmarVĬĭĮį	calmem
+VĲĵĮĴatenuarVĲĵĮĴ	ens atenuï ens
+VĬĵıįencunyarVĬĵıį	encunyéssiu
+VĲĳıĴmutarVĲĳıĴ	estirà muti estirà
+VĬĭıĴdescloureVĬĭıĴ	desclou
+VİıĴdesaparèixerVİıĴ	desapareguem
+VĲĳĶĴdutxarVĲĳĶĴ	estirà esmicolàvem dutxava estirà estimàvem
+VĲĵĮĴdoblarVĲĵĮĴ	doblaríeu ens
+VĲĭĶįķmocar-seVĲĭĶįķ	conduíem independitzàvem
+VĲĭĶľromandreVĲĭĶľ	comportàvem realitzàvem
+VĲĭĮĴĻproduirVĲĭĮĴĻ	deliries produïu deliríeu
+VĲĵĮįsubornarVĲĵĮį	sentirem subornem
+VĲĳĮįemigrarVĲĳĮį	estirà estirà
+VĲĭĶįĻesquitxarVĲĭĶįĻ	conduíem deliries esquitxis exposàvem coincidiries
+VĬĭĮįdoblarVĬĭĮį	dobles
+V.PTCPĭįĽcoordinarV.PTCPĭįĽ	codificàrem coordinaríeu arrapàrem
+VĲĳĮįheureVĲĳĮį	estirà heretem estirà
+VĬĭĮįdomtarVĬĭĮį	domtem
+VĲĳıĴtraumatitzarVĲĳıĴ	estirà traumatitzessis estirà
+VĬĭĶĴsuplantarVĬĭĶĴ	distrèiem suplantem comportàvem
+VĲĭĮĴķxuclarVĲĭĮĴķ	xuclava
+V.PTCPĭįĽembrutarV.PTCPĭįĽ	embriagàrem embrutava arrapàrem
+VĲĭĶļvelaritzarVĲĭĶļ	esmicolàvem independitzàvem
+VĲĭĶľexhumarVĲĭĶľ	retiràvem exhumessis exercíem
+VĬĵıĴneutralitzarVĬĵıĴ	lateralitzaràs
+VĲĳıĴrebel·larVĲĳıĴ	estirà rebel·làvem estirà
+VĲĵĶįdecidirVĲĵĶį	exposàvem us exercíem
+VĬĭĶįpatirVĬĭĶį	excedíem pentinaran estimàvem
+VĲĳıįdesprendreVĲĳıį	estirà estirà
+VİĮįempapussar-seVİĮį	empapussada
+V.PTCPĭįĽtemptarV.PTCPĭįĽ	teixírem refinàrem
+VĲĭĶįķdisminuirVĲĭĶįķ	exposàvem disminueixin esmicolàvem
+VĹĺĮĴsuportarVĹĺĮĴ	suposava importava
+VĲĭĮįĻdogmatitzarVĲĭĮįĻ	diríem dogmatitzen deliries
+VĲĭĶļamputarVĲĭĶļ	exercíem amputar dedicàvem
+VĲĳĮĴsubestimarVĲĳĮĴ	estirà subestiméssiu estirà
+VĬĵĮĴapunyalarVĬĵĮĴ	apunyalades
+VĹĺıįacamparVĹĺıį	acampés
+VĲĳĮĴdivertirVĲĳĮĴ	estirà diverteix estirà
+VĲĵĮĴindustrialitzarVĲĵĮĴ	industrialitzaran
+VĲĭıĴĻdenunciarVĲĭıĴĻ	coincidiries denunciarien coincidiries
+VĲĭıįĻcondicionarVĲĭıįĻ	coincidiries coincidiries
+VĲĳĶĴdoldreVĲĳĶĴ	estirà retiràvem estirà excedíem
+VĹĺĮįtòrcerVĹĺĮį	torcem
+VİĮĴejacularVİĮĴ	ejaculada
+VĹĺıįmitigarVĹĺıį	mitigaria
+V.PTCPĭįĽvexarV.PTCPĭįĽ	viatjàrem arraulírem
+VĲĭıįķconvèncerVĲĭıįķ	convenci
+V.PTCPĵespecialitzarV.PTCPĵ	especialitzi
+VĬĵĶįendur-seVĬĵĶį	comportàvem t'enduràs exposàvem
+VĲĵĮįagitarVĲĵĮį	ens animem ens

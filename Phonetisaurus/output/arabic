@@ -1,655 +1,621 @@
-N;SG;NDEF;NOMكِيلُومِتْرٌN;SG;NDEF;NOM	كِيلُومِتْرَات
-ADJ;PL;MASC;NDEF;ACCالْعَمِيقADJ;PL;MASC;NDEF;ACC	الْعَمِيقَةَ
-N;PL;NDEF;ACCمِعًىN;PL;NDEF;ACC	الْمِعَى
-N;PL;DEF;GENرَمَادٌN;PL;DEF;GEN	الْأَرْمِدَةُ
-V;3;PL;MASC;IPFV;IND;ACTضَاعَV;3;PL;MASC;IPFV;IND;ACT	تَضِيعَانِ
-ADJ;SG;MASC;DEF;INFMالْمِسْكِينADJ;SG;MASC;DEF;INFM	الْمِسْكِينُ
-ADJ;DU;MASC;NDEF;ACCالسُّوفْيَاتِيADJ;DU;MASC;NDEF;ACC	السُّوفْيَاتِيَّات
-N;SG;NDEF;ACCمَارْتِينِيN;SG;NDEF;ACC	اللَّاتِينِيَّةُ
-ADJ;SG;MASC;DEF;ACCالْجَاهِلADJ;SG;MASC;DEF;ACC	الْجَاهِلَةَ
-V;2;SG;MASC;IPFV;IND;PASSآثَرَV;2;SG;MASC;IPFV;IND;PASS	يُؤْثَرُونَ
-V;2;PL;MASC;PST;PRF;IND;ACTصَارَعَV;2;PL;MASC;PST;PRF;IND;ACT	صَارَعْتُ
-V;2;PL;FEM;LGSPEC1;PASSنَسَّىV;2;PL;FEM;LGSPEC1;PASS	تُنَسَّيَا
-N;DU;DEF;ACCرُخْصَةٌN;DU;DEF;ACC	الرُّخْصَةَ
-N;PL;DEF;GENخُضْرَةٌN;PL;DEF;GEN	الْخُضَرُ
-N;SG;NDEF;ACCتَاجٌN;SG;NDEF;ACC	تَاج
-V;2;PL;MASC;PST;PRF;IND;ACTكَاثَرَV;2;PL;MASC;PST;PRF;IND;ACT	نُكَاثِرْ
-N;PL;NDEF;ACCمُلْحِدٌN;PL;NDEF;ACC	الْمُلْحِدُونَ
-N;SG;NDEF;GENأَتَانٌN;SG;NDEF;GEN	آتُن
-ADJ;PL;MASC;NDEF;NOMالدَّنِيءADJ;PL;MASC;NDEF;NOM	الْأَدْنِيَاءُ
-V;2;PL;MASC;SBJV;ACTجَدَّدَV;2;PL;MASC;SBJV;ACT	يُجَدِّدَ
-N;SG;DEF;NOMتَبْرُوكٌN;SG;DEF;NOM	بُرُوكُ
-N;PL;PSSD;NOMصِنَاعَةٌN;PL;PSSD;NOM	صِنَاعَة
-V;3;DU;MASC;IPFV;IND;PASSطَاوَعَV;3;DU;MASC;IPFV;IND;PASS	تُطَاوَلَانِ
-N;SG;PSSD;NOMوَصْفَةٌN;SG;PSSD;NOM	وَصْفَةٌ
-ADJ;SG;FEM;DEF;GENالْأَمْهَرِيADJ;SG;FEM;DEF;GEN	الْأَمْهَرِيَّةَ
-ADJ;SG;FEM;NDEF;GENالْمُسْتَحِيلADJ;SG;FEM;NDEF;GEN	مُسْتَحِيلٍ
-V;3;PL;FEM;PST;PRF;IND;ACTاِصْطَلَىV;3;PL;FEM;PST;PRF;IND;ACT	تَصْطَلِينَ
-ADJ;SG;FEM;DEF;ACCالْوَطِيءADJ;SG;FEM;DEF;ACC	الْوَطِيئَيْنِ
-N;PL;DEF;INFMهِوَايَةٌN;PL;DEF;INFM	هِوَايَات
-N;SG;PSSD;INFMمَنَاقِيشُN;SG;PSSD;INFM	الشُّجَاعُ
-V;2;SG;FEM;SBJV;PASSرَبَّبَV;2;SG;FEM;SBJV;PASS	يُرَبَّبُو
-V;3;DU;FEM;LGSPEC1;ACTصَحَّحَV;3;DU;FEM;LGSPEC1;ACT	يُصَحِّحْنَ
-N;SG;DEF;ACCتَرْشِيدٌN;SG;DEF;ACC	تَرْشِيدًا
-V;3;SG;FEM;PST;PRF;IND;PASSطَاوَلَV;3;SG;FEM;PST;PRF;IND;PASS	طُووِلُوا
-ADJ;SG;FEM;NDEF;ACCالْعَاشِرADJ;SG;FEM;NDEF;ACC	الْعَاشِرَيْنِ
-N;SG;DEF;ACCمُصَارَعَةٌN;SG;DEF;ACC	الْمُصَارَعَةُ
-V;2;SG;FEM;SBJV;PASSبَاسَV;2;SG;FEM;SBJV;PASS	تُبَاشَرْنَ
-ADJ;DU;MASC;NDEF;ACCالْمُتَقَدِّمADJ;DU;MASC;NDEF;ACC	الْمُتَقَدِّمَيْنِ
-V;3;DU;FEM;SBJV;ACTعَقَّمَV;3;DU;FEM;SBJV;ACT	تُعَقِّمَ
-V;1;PL;LGSPEC1;PASSدَاوَرَV;1;PL;LGSPEC1;PASS	تُدَاوَرْ
-N;SG;NDEF;GENعَلَاءٌN;SG;NDEF;GEN	عَلَاء
-N;DU;NDEF;GENنَشْوَةٌN;DU;NDEF;GEN	النَّشْوَةِ
-N;SG;NDEF;INFMجَوْرَبٌN;SG;NDEF;INFM	جَوْرَبَيْ
-V;3;PL;MASC;LGSPEC1;ACTاِفْتَقَرَV;3;PL;MASC;LGSPEC1;ACT	مُفْتَقِر
-N;PL;NDEF;GENإِلِكْتْرُونٌN;PL;NDEF;GEN	إِلِكْتْرُونَيْنِ
-V;3;SG;MASC;IPFV;IND;PASSقَاوَمَV;3;SG;MASC;IPFV;IND;PASS	تُقَاوَمُ
-V;1;PL;IPFV;IND;ACTعَلَاV;1;PL;IPFV;IND;ACT	يَعْلُو
-N;DU;DEF;GENبَرْنَامَجٌN;DU;DEF;GEN	بَرْنَامَجَيْ
-ADJ;PL;FEM;NDEF;NOMالْأَغْلَىADJ;PL;FEM;NDEF;NOM	الْأَغْلَيَانِ
-V;1;SG;PST;PRF;IND;ACTاِبْيَضَّV;1;SG;PST;PRF;IND;ACT	أَبْيَضُّ
-V;2;SG;FEM;LGSPEC1;ACTأَنَارَV;2;SG;FEM;LGSPEC1;ACT	أَنَرْتُمَا
-ADJ;DU;MASC;NDEF;INFMالْعَلِيمADJ;DU;MASC;NDEF;INFM	الْعَلِيمَتَيْنِ
-ADJ;DU;FEM;DEF;NOMالْقُزِيمِيADJ;DU;FEM;DEF;NOM	الْقُزِيمِيُّونَ
-N;SG;DEF;GENتَنْقِيلٌN;SG;DEF;GEN	تَنْقِيل
-N;SG;DEF;INFMرَاهِبٌN;SG;DEF;INFM	رَاهِبًا
-N;PL;DEF;INFMزُنْبُورٌN;PL;DEF;INFM	زَنَابِير
-N;SG;NDEF;INFMإِسَاءَةٌN;SG;NDEF;INFM	إِسَاءَةً
-V;2;SG;MASC;LGSPEC1;ACTتَشَاءَمَV;2;SG;MASC;LGSPEC1;ACT	يَتَشَاءَمَا
-N;SG;DEF;NOMصُرُوحَةٌN;SG;DEF;NOM	صُرَّةُ
-N;PL;NDEF;NOMسَاحِرَةٌN;PL;NDEF;NOM	سَاحِرَتَانِ
-V;3;SG;FEM;PST;PRF;IND;ACTاِبْرَغَشَّV;3;SG;FEM;PST;PRF;IND;ACT	تَبْرَغِشُّ
-V;3;SG;MASC;IPFV;IND;ACTصَاحَV;3;SG;MASC;IPFV;IND;ACT	تَصِيحَانِ
-N;SG;PSSD;NOMإِيقَاظٌN;SG;PSSD;NOM	إِيقَاعَاتُ اِسْتِيقَاظَ
-N;PL;DEF;NOMحِذَاءٌN;PL;DEF;NOM	الْأَحْقَافُ
-N;SG;PSSD;INFMعَنْكَبُوتٌ ذِئْبِيٌّN;SG;PSSD;INFM	عَنْكَبُوتَيْنِ الْمُذَاكَرَاتِ
-N;SG;DEF;GENحَسَّاسَةٌN;SG;DEF;GEN	حَسَّاسَتَيْن
-N;SG;NDEF;NOMخَيَّاطٌN;SG;NDEF;NOM	خَيَّاطًا
-N;SG;DEF;GENطِوَاعٌN;SG;DEF;GEN	الطِّفْلَيْنِ
-ADJ;SG;FEM;DEF;NOMالسَّامِيADJ;SG;FEM;DEF;NOM	سَامِيَةٌ
-N;PL;PSSD;NOMشِهَابٌN;PL;PSSD;NOM	شِهَابُ
-V;3;SG;MASC;PST;PRF;IND;PASSجَاوَرَV;3;SG;MASC;PST;PRF;IND;PASS	جُووِرْتُ
-V;2;PL;MASC;PST;PRF;IND;PASSخَوَّشَV;2;PL;MASC;PST;PRF;IND;PASS	خُوِّشْتِ
-V;3;DU;FEM;PST;PRF;IND;ACTحَمَىV;3;DU;FEM;PST;PRF;IND;ACT	حَمَيْتُ
-N;SG;DEF;GENزَبَّالٌN;SG;DEF;GEN	الزِّيَارَاتِ
-ADJ;DU;MASC;NDEF;NOMالثَّالِثADJ;DU;MASC;NDEF;NOM	ثَالِثَتَانِ
-V;2;PL;FEM;PST;PRF;IND;ACTآثَرَV;2;PL;FEM;PST;PRF;IND;ACT	تُؤْثِرِينَ
-V;3;SG;FEM;PST;PRF;IND;ACTاِسْتَحْيَاV;3;SG;FEM;PST;PRF;IND;ACT	يَسْتَحْيِيَانِ
-V;3;SG;MASC;PST;PRF;IND;ACTعَقَّمَV;3;SG;MASC;PST;PRF;IND;ACT	يُعَقِّمُونَ
-N;DU;PSSD;NOMأُسْبُوعٌN;DU;PSSD;NOM	الْأُسْبُوعُ
-V;3;SG;MASC;IPFV;IND;ACTصَادَرَV;3;SG;MASC;IPFV;IND;ACT	صَادَرَ
-V;3;DU;MASC;IPFV;IND;ACTاِنْتَفَخَV;3;DU;MASC;IPFV;IND;ACT	يَنْتَفِخَا
-N;PL;DEF;ACCمُوَظَّفٌN;PL;DEF;ACC	مُوَظَّفِين
-N;DU;DEF;INFMضَحِيَّةٌN;DU;DEF;INFM	الضَّابِطَتَيْن
-N;PL;NDEF;INFMشَرْمُوطَةٌN;PL;NDEF;INFM	الشَّرَامِيط
-N;SG;PSSD;INFMجِسْمٌN;SG;PSSD;INFM	جِلْدَيْ
-V;3;SG;MASC;IPFV;IND;ACTأَذَاعَV;3;SG;MASC;IPFV;IND;ACT	يُذِيعَانِ
-N;PL;DEF;NOMجَاكِيتٌN;PL;DEF;NOM	جَاكِيتَاتُ
-V;1;SG;SBJV;ACTاِسْتَرَدَّV;1;SG;SBJV;ACT	يَسْتَرِدَّ
-V;2;PL;FEM;IPFV;IND;ACTآثَرَV;2;PL;FEM;IPFV;IND;ACT	تُؤْثِرِينَ
-N;SG;NDEF;NOMإِرْزَازٌN;SG;NDEF;NOM	إِرْزَازٍ
-V;3;PL;MASC;IPFV;IND;ACTدَحَاV;3;PL;MASC;IPFV;IND;ACT	تَدْحُوَا
-V;1;PL;SBJV;PASSجَهَّزَV;1;PL;SBJV;PASS	تُجَهَّزُ
-ADJ;SG;MASC;DEF;GENالْأَدَقّADJ;SG;MASC;DEF;GEN	أَدَقَّ
-ADJ;SG;FEM;NDEF;INFMالْمَاطِرADJ;SG;FEM;NDEF;INFM	الْمَاطِرُ
-V;3;DU;MASC;LGSPEC1;PASSأَعَارَV;3;DU;MASC;LGSPEC1;PASS	تُعَارُ
-N;PL;NDEF;NOMجَبَلُ نَارٍN;PL;NDEF;NOM	سَفَر
-V;2;SG;FEM;LGSPEC1;ACTلَاقَىV;2;SG;FEM;LGSPEC1;ACT	يُلَاقِينَ
-N;SG;PSSD;INFMمَاكْيَاجٌN;SG;PSSD;INFM	مَاكْيَاج
-N;SG;PSSD;ACCكَيْكٌN;SG;PSSD;ACC	كَيْنُونَةٍ
-ADJ;SG;MASC;NDEF;NOMالدَّفِيءADJ;SG;MASC;NDEF;NOM	الرَّدِيء
-ADJ;DU;FEM;DEF;ACCالتَّشْرِيعِيADJ;DU;FEM;DEF;ACC	تَشْرِيعِيَّةً
-V;1;SG;PST;PRF;IND;ACTمَاثَلَV;1;SG;PST;PRF;IND;ACT	تُمَاثِلَا
-V;2;PL;FEM;IPFV;IND;ACTحَوَىV;2;PL;FEM;IPFV;IND;ACT	يَحْوِي
-V;2;DU;SBJV;PASSبَاسَV;2;DU;SBJV;PASS	بُسْتُمْ
-N;DU;PSSD;GENجَبَلُ جَلِيدٍN;DU;PSSD;GEN	جَلِيدٍ
-V;2;PL;MASC;IPFV;IND;PASSطَاعَV;2;PL;MASC;IPFV;IND;PASS	تُطَاعُ
-N;SG;NDEF;INFMتَسْوِيقٌN;SG;NDEF;INFM	التَّسْوِيقَ
-N;DU;NDEF;ACCوَاعِظٌN;DU;NDEF;ACC	الْوُعَّاظَ
-N;SG;DEF;INFMثَعْلَبَةٌN;SG;DEF;INFM	ثَعْلَبَة
-ADJ;DU;FEM;DEF;GENالِاثْنَا عَشَرِيADJ;DU;FEM;DEF;GEN	الِاثْنَا
-N;SG;PSSD;GENاِنْتِقَامٌN;SG;PSSD;GEN	اِنْتِقَامَ
-N;SG;PSSD;INFMتَاكْسِيN;SG;PSSD;INFM	تَاكْسِي
-V;2;PL;FEM;IMP;ACTخَوَّشَV;2;PL;FEM;IMP;ACT	خَوِّلَا
-N;SG;PSSD;ACCتَخْجِيلٌN;SG;PSSD;ACC	تَخْجِيلٌ
-V;2;PL;FEM;SBJV;PASSشَاقَV;2;PL;FEM;SBJV;PASS	تُشَارَكَ
-V;2;DU;SBJV;PASSخَرِئَV;2;DU;SBJV;PASS	تُخْرَآنِ
-N;SG;DEF;ACCكِتَابَةٌ لَاتِينِيَّةٌN;SG;DEF;ACC	لَاتِينِيَّة
-V;1;SG;LGSPEC1;PASSضَاعَV;1;SG;LGSPEC1;PASS	تُضَايَقُو
-V;3;PL;MASC;LGSPEC1;ACTقَاءَV;3;PL;MASC;LGSPEC1;ACT	تَقِئْنَ
-V;1;SG;IPFV;IND;ACTاِشْمَأَزَّV;1;SG;IPFV;IND;ACT	نَشْمَئِزُّ
-V;2;SG;FEM;SBJV;ACTنَجَاV;2;SG;FEM;SBJV;ACT	تَنْجُونَ
-ADJ;DU;MASC;DEF;NOMالْمُنَاسِبADJ;DU;MASC;DEF;NOM	الْمُنَاسِبَاتِ
-V;2;SG;FEM;LGSPEC1;PASSدَفَّأَV;2;SG;FEM;LGSPEC1;PASS	يُدَفَّأْنَ
-V;2;PL;MASC;IMP;ACTاِخْشَوْشَبَV;2;PL;MASC;IMP;ACT	اِخْشَوْشِبَا
-N;SG;NDEF;INFMاِمْتِدَادٌN;SG;NDEF;INFM	الِامْتِحَان
-N;SG;NDEF;ACCإِصْبَاحٌN;SG;NDEF;ACC	إِصْبَاحٌ
-ADJ;SG;MASC;NDEF;NOMالْأُنْثَوِيADJ;SG;MASC;NDEF;NOM	أُنْثَوِيَّيْن
-V;2;SG;FEM;LGSPEC1;ACTاِعْتَمَلَV;2;SG;FEM;LGSPEC1;ACT	تَعْتَمِلَا
-V;3;PL;MASC;IPFV;IND;PASSوَالَىV;3;PL;MASC;IPFV;IND;PASS	وُولِيَ
-N;SG;DEF;INFMحِزَامٌN;SG;DEF;INFM	الْحِدَاد
-N;DU;DEF;ACCاِسْتِخْدَامٌN;DU;DEF;ACC	الِاسْتِخْدَامَاتِ
-V;3;DU;MASC;IPFV;IND;PASSفَلْسَفَV;3;DU;MASC;IPFV;IND;PASS	تُفَلْسَفِينَ
-N;DU;DEF;GENكَلَكٌN;DU;DEF;GEN	الْكَلَكَاتِ
-N;SG;NDEF;GENجَرِيمَةٌN;SG;NDEF;GEN	الْجَرَائِمِ
-N;SG;PSSD;INFMقِمَّةٌN;SG;PSSD;INFM	قِطَار
-V;3;SG;MASC;LGSPEC1;PASSطَهَّرَV;3;SG;MASC;LGSPEC1;PASS	أُطَهَّرْ
-N;SG;DEF;NOMمِفْتَاحٌN;SG;DEF;NOM	مَفَاتِيحُ
-V;2;PL;FEM;PST;PRF;IND;PASSأَحْوَجَV;2;PL;FEM;PST;PRF;IND;PASS	تُحْوَجْنَ
-N;SG;NDEF;ACCاِضْمِحْلَالٌN;SG;NDEF;ACC	الِاضْطِرَابَ
-N;PL;DEF;ACCحَاسُوبٌN;PL;DEF;ACC	حَاسُوبَيْنِ
-ADJ;PL;FEM;DEF;GENالْأَنْقَىADJ;PL;FEM;DEF;GEN	الْأَنْقَاةِ
-ADJ;SG;MASC;NDEF;NOMالْمُعَطَّلADJ;SG;MASC;NDEF;NOM	مُعَطَّلَتَانِ
-N;PL;PSSD;GENخَوَارِزْمِيَّةٌN;PL;PSSD;GEN	الْخَوَارِزْمِيَّتَيْنِ
-V;3;DU;FEM;LGSPEC1;PASSاِسْتَصْدَرَV;3;DU;FEM;LGSPEC1;PASS	اُسْتُصْدِرُوا
-ADJ;SG;MASC;DEF;GENالْمُضِيءADJ;SG;MASC;DEF;GEN	الْمُضِيئَتَيْنِ
-ADJ;PL;MASC;NDEF;ACCالشَّفَهِيADJ;PL;MASC;NDEF;ACC	الشَّفَّافَ
-N;PL;PSSD;INFMفَأْسٌN;PL;PSSD;INFM	الْفُؤُوسِ
-ADJ;SG;FEM;NDEF;NOMالْفَصِيحADJ;SG;FEM;NDEF;NOM	فِصَاحٌ
-N;PL;DEF;NOMحَدِيقَةٌN;PL;DEF;NOM	الْحَدِيدَةُ
-N;SG;PSSD;NOMسَاقِطَةٌN;SG;PSSD;NOM	سَاقِطَتَا
-N;SG;PSSD;INFMإِفْلَاحٌN;SG;PSSD;INFM	الْإِصْلَاحِ
-N;PL;PSSD;ACCخِيفَةٌN;PL;PSSD;ACC	خِيفَةً
-N;SG;PSSD;NOMسُجُودٌN;SG;PSSD;NOM	سُكْنَى
-N;DU;DEF;GENخَرُوفٌN;DU;DEF;GEN	الْخِرْفَان
-N;DU;DEF;NOMإِدْحِيٌّN;DU;DEF;NOM	إِدْحِيُّ
-ADJ;DU;MASC;DEF;INFMالْمُشْمَئِزّADJ;DU;MASC;DEF;INFM	مُشْمَئِزَّتَيْن
-N;DU;DEF;INFMبُنْدُقِيَّةٌN;DU;DEF;INFM	الْبَنَادِقِ
-ADJ;SG;MASC;NDEF;NOMالصَّافِيADJ;SG;MASC;NDEF;NOM	صَافِيَيْنِ
-V;1;SG;IPFV;IND;ACTنَافَسَV;1;SG;IPFV;IND;ACT	نُنَافِرُ
-ADJ;SG;MASC;DEF;NOMالْمُشِعّADJ;SG;MASC;DEF;NOM	مُشِعَّاتٍ
-ADJ;PL;FEM;DEF;GENالْأَصَمّADJ;PL;FEM;DEF;GEN	صُمّ
-ADJ;DU;FEM;NDEF;NOMالْمُكَلَّفADJ;DU;FEM;NDEF;NOM	مُكَلَّفًا
-N;PL;DEF;GENعُنْوَانٌN;PL;DEF;GEN	عَنَاوِينَ
-V;3;PL;MASC;IPFV;IND;PASSقَايَسَV;3;PL;MASC;IPFV;IND;PASS	يُقَايَسُ
-N;PL;NDEF;GENغَدِيرٌN;PL;NDEF;GEN	غَدِيرَيْ
-V;1;SG;SBJV;PASSكَاثَرَV;1;SG;SBJV;PASS	تُكَاثَرَا
-V;1;SG;SBJV;ACTحَرَّرَV;1;SG;SBJV;ACT	تُحَرِّرَا
-N;PL;PSSD;INFMزَاوِيَةٌN;PL;PSSD;INFM	زَاوِيَتَيْ
-ADJ;DU;FEM;DEF;INFMالْمُمِلّADJ;DU;FEM;DEF;INFM	مُمِلَّتَيْن
-ADJ;PL;MASC;NDEF;ACCالتَّحْسِينِيADJ;PL;MASC;NDEF;ACC	تَحْسِينِيًّا
-ADJ;DU;MASC;NDEF;ACCالْمُسْتَقِلّADJ;DU;MASC;NDEF;ACC	مُسْتَقِلَّتَيْنِ
-V;3;SG;MASC;IPFV;IND;ACTدَرَىV;3;SG;MASC;IPFV;IND;ACT	يَدْرُونَ
-N;SG;NDEF;INFMفِعْلٌ مُعْتَلٌّN;SG;NDEF;INFM	الْمُعْتَلَّ
-V;2;DU;IPFV;IND;PASSضَيَّعَV;2;DU;IPFV;IND;PASS	تُضَيَّعْنَ
-N;SG;NDEF;ACCبَرْبَخٌN;SG;NDEF;ACC	بَرَابِخَ
-V;2;PL;MASC;IMP;ACTشَكَاV;2;PL;MASC;IMP;ACT	يَشْكُونَ
-N;PL;NDEF;INFMبَخِيلَةٌN;PL;NDEF;INFM	بَخِيلَة
-V;3;PL;MASC;SBJV;ACTبَصَّرَV;3;PL;MASC;SBJV;ACT	نُبَصِّرْ
-ADJ;PL;FEM;NDEF;NOMالْمُسْتَعِدّADJ;PL;FEM;NDEF;NOM	مُسْتَعِدَّةٌ
-V;2;SG;FEM;IMP;ACTاِنْسَحَبَV;2;SG;FEM;IMP;ACT	تَنْسَحِبَا
-ADJ;SG;FEM;NDEF;NOMالرَّهِيفADJ;SG;FEM;NDEF;NOM	الرَّهِفَتَيْنِ
-V;1;SG;IPFV;IND;PASSدَمَّمَV;1;SG;IPFV;IND;PASS	دُمِّمْنَا
-N;SG;PSSD;GENإِيَابٌN;SG;PSSD;GEN	إِيثَارِ
-ADJ;SG;FEM;NDEF;GENالْمُسِنّADJ;SG;FEM;NDEF;GEN	مُسِنًّا
-ADJ;DU;MASC;DEF;INFMالْمُسْتَحِيلADJ;DU;MASC;DEF;INFM	الْمُسْتَحِيلَات
-V;V.MSDRأَذْنَبَV;V.MSDR	إِلْحَاق
-N;SG;NDEF;NOMمُخَاطٌN;SG;NDEF;NOM	مُخَاطٍ
-V;2;PL;FEM;LGSPEC1;PASSسَاءَلَV;2;PL;FEM;LGSPEC1;PASS	تُسَاءَلُونَ
-V;2;PL;MASC;LGSPEC1;PASSجَاوَزَV;2;PL;MASC;LGSPEC1;PASS	تُجَاوَزَا
-N;SG;NDEF;ACCتَثْقِيلٌN;SG;NDEF;ACC	تَثْقِيل
-V;2;PL;MASC;IMP;ACTذَرَاV;2;PL;MASC;IMP;ACT	تَذْرِينَ
-V;3;DU;MASC;LGSPEC1;PASSاِسْتَوْفَىV;3;DU;MASC;LGSPEC1;PASS	تُسْتَوْفَوْا
-ADJ;SG;FEM;DEF;GENالْأَحْرَصADJ;SG;FEM;DEF;GEN	الْأَحَارِصُ
-N;SG;PSSD;INFMمِحْرَابٌN;SG;PSSD;INFM	مِحْرَابُ
-V;3;SG;FEM;LGSPEC1;ACTقَاوَمَV;3;SG;FEM;LGSPEC1;ACT	تُقَاوِمُو
-N;DU;DEF;ACCقُنْفُذٌN;DU;DEF;ACC	قُنْعَانًا الْفَخِذَيْنِ
-V;2;SG;FEM;SBJV;PASSكَفَىV;2;SG;FEM;SBJV;PASS	تُكْفَى
-V;3;SG;MASC;LGSPEC1;ACTثَابَرَV;3;SG;MASC;LGSPEC1;ACT	تُثَابِرِي
-V;3;DU;MASC;SBJV;PASSنَاقَشَV;3;DU;MASC;SBJV;PASS	يُنَاكَا
-V;3;SG;MASC;PST;PRF;IND;ACTاِضْطَرَبَV;3;SG;MASC;PST;PRF;IND;ACT	اِضْطَرَبَتَا
-N;SG;DEF;NOMأُهُولٌN;SG;DEF;NOM	أُهُولٌ
-ADJ;SG;FEM;NDEF;ACCالدَّفِيءADJ;SG;FEM;NDEF;ACC	الرَّدِيء
-ADJ;DU;MASC;DEF;INFMالرَّتِيبADJ;DU;MASC;DEF;INFM	الرَّتِيب
-V;2;DU;LGSPEC1;PASSكَافَأَV;2;DU;LGSPEC1;PASS	يُكَافَأُو
-V;3;DU;FEM;LGSPEC1;ACTفَازَV;3;DU;FEM;LGSPEC1;ACT	فَازَا
-V;3;DU;MASC;LGSPEC1;PASSفَتَّشَV;3;DU;MASC;LGSPEC1;PASS	تُفَتَّشِي
-V;3;DU;MASC;PST;PRF;IND;ACTاِخْرَوَّطَV;3;DU;MASC;PST;PRF;IND;ACT	تَخْرَوِّطِي
-N;DU;PSSD;ACCضَرْبَةٌN;DU;PSSD;ACC	الضَّرْبَةَ
-N;SG;NDEF;GENبَيَّاعٌN;SG;NDEF;GEN	بَيَّاعًا
-N;SG;DEF;NOMأَنَانَاسٌN;SG;DEF;NOM	النَّاسَ
-V;3;SG;MASC;SBJV;ACTبَئِسَV;3;SG;MASC;SBJV;ACT	يَبْأَسُو
-N;SG;NDEF;NOMاِرْثِعْنَانٌN;SG;NDEF;NOM	الِارْثِعْنَانَ
-V;3;PL;FEM;PST;PRF;IND;PASSخَطِئَV;3;PL;FEM;PST;PRF;IND;PASS	خُطِئُوا
-V;3;PL;MASC;SBJV;ACTعَقَّمَV;3;PL;MASC;SBJV;ACT	يُعَقِّمَ
-ADJ;DU;MASC;DEF;GENالنَّفِيسADJ;DU;MASC;DEF;GEN	النَّفِيسِ
-V;2;SG;MASC;PST;PRF;IND;ACTتَوَكَّأَV;2;SG;MASC;PST;PRF;IND;ACT	تَتَوَكَّئِينَ
-V;2;SG;FEM;PST;PRF;IND;ACTاِسْتَطَالَV;2;SG;FEM;PST;PRF;IND;ACT	تَسْتَطِيلَانِ
-ADJ;PL;MASC;DEF;INFMالْخَيَالِيADJ;PL;MASC;DEF;INFM	خَيَالِيَّات
-V;3;DU;MASC;IPFV;IND;ACTحَلَّلَV;3;DU;MASC;IPFV;IND;ACT	تُحَنِّئَانِ
-N;DU;PSSD;NOMسِرْبٌN;DU;PSSD;NOM	سِرْدَابُ
-ADJ;DU;FEM;DEF;ACCالتَّلْمُودِيADJ;DU;FEM;DEF;ACC	التَّلْمُودِيِّينَ
-V;2;SG;FEM;SBJV;PASSقَرَّرَV;2;SG;FEM;SBJV;PASS	نُقَرَّرَ
-N;DU;DEF;NOMوِقِيَّةٌN;DU;DEF;NOM	وِقِيَّاتُ
-V;2;PL;FEM;PST;PRF;IND;ACTاِسْتَحْيَاV;2;PL;FEM;PST;PRF;IND;ACT	يَسْتَحْيِيَانِ
-V;3;SG;FEM;PST;PRF;IND;ACTغَابَV;3;SG;FEM;PST;PRF;IND;ACT	غَابُوا
-ADJ;SG;FEM;NDEF;GENالْأَجَفّADJ;SG;FEM;NDEF;GEN	الْجُفّى
-N;SG;DEF;NOMمِرْحَاضٌN;SG;DEF;NOM	مَرَاحِيض
-V;3;PL;MASC;PST;PRF;IND;ACTخَطِئَV;3;PL;MASC;PST;PRF;IND;ACT	خَطِئْتُ
-V;1;PL;IPFV;IND;ACTاِجْلَعَدَّV;1;PL;IPFV;IND;ACT	تَجْلَعِدَّ
-N;PL;PSSD;INFMضِرْسٌN;PL;PSSD;INFM	ضَرُورَة
-ADJ;DU;FEM;NDEF;ACCالْقُزِيمِيADJ;DU;FEM;NDEF;ACC	الْقُزِيمِيُّونَ
-N;SG;DEF;GENمَوْهِبَةٌN;SG;DEF;GEN	الرَّاهِبَةِ
-N;SG;DEF;GENسَذَاجَةٌN;SG;DEF;GEN	سَذَاجَةٌ
-N;DU;NDEF;GENصُحُفِيَّةٌN;DU;NDEF;GEN	الصُّحُفِيَّتَيْنِ
-V;2;SG;FEM;SBJV;ACTضَاعَV;2;SG;FEM;SBJV;ACT	تَضِيعَا
-N;SG;NDEF;INFMحَيَاءٌN;SG;NDEF;INFM	حَيَّات
-V;3;DU;MASC;SBJV;ACTاِسْتَرَدَّV;3;DU;MASC;SBJV;ACT	يَسْتَرِدَّ
-N;SG;DEF;GENاِحْتِوَاءٌN;SG;DEF;GEN	اِسْتِوَاءٌ
-N;DU;NDEF;INFMفَاشِيَّةٌN;DU;NDEF;INFM	فَاشِيَّات
-V;3;DU;FEM;IPFV;IND;ACTجَاعَV;3;DU;FEM;IPFV;IND;ACT	تَجُعْنَ
-ADJ;SG;FEM;DEF;NOMالْحَقِيرADJ;SG;FEM;DEF;NOM	حُقَرَاءُ
-ADJ;SG;FEM;DEF;INFMالْجُزَيْئِيADJ;SG;FEM;DEF;INFM	جُزَيْئِيَّة
-V;2;SG;MASC;LGSPEC1;PASSاِسْتَوْفَىV;2;SG;MASC;LGSPEC1;PASS	تُسْتَوْفَوْا
-ADJ;DU;MASC;DEF;ACCالْفَرِغADJ;DU;MASC;DEF;ACC	الْفَرِغَاتِ
-N;DU;DEF;INFMضَابِطٌN;DU;DEF;INFM	ضَابِطًا
-V;2;PL;MASC;LGSPEC1;ACTاِنْكَفَّV;2;PL;MASC;LGSPEC1;ACT	نَنْكَفَّ
-N;PL;NDEF;NOMمَبْدَأٌN;PL;NDEF;NOM	مَبْدَأَيْ
-N;SG;NDEF;NOMغَدِيرٌN;SG;NDEF;NOM	أَغْدِيَةٌ
-N;SG;NDEF;NOMكَاتِدْرَائِيَّةٌN;SG;NDEF;NOM	كَاتِدْرَائِيَّتَا
-N;SG;DEF;NOMحُفُوفٌN;SG;DEF;NOM	حُفْرَةُ
-ADJ;DU;MASC;DEF;GENالطَّازَجADJ;DU;MASC;DEF;GEN	الطَّازَجَيْن
-N;SG;DEF;GENمَائِدَةٌN;SG;DEF;GEN	الْمَائِدَتَيْنِ
-V;1;SG;SBJV;PASSشَفَىV;1;SG;SBJV;PASS	تُشْفَيَا
-V;1;SG;PST;PRF;IND;PASSحَوْقَلَV;1;SG;PST;PRF;IND;PASS	حُوقِلْتَ
-V;3;DU;MASC;IPFV;IND;ACTمَضَىV;3;DU;MASC;IPFV;IND;ACT	يَمْضِي
-N;SG;PSSD;NOMرِدَادٌN;SG;PSSD;NOM	رِسَالَتَا
-V;3;PL;FEM;IPFV;IND;ACTجَرُؤَV;3;PL;FEM;IPFV;IND;ACT	جَرُؤَ
-V;3;PL;MASC;LGSPEC1;ACTاِسْتَمْنَىV;3;PL;MASC;LGSPEC1;ACT	يَسْتَمْنِ
-V;1;PL;SBJV;PASSذَاقَV;1;PL;SBJV;PASS	يُذَاقَا
-N;SG;NDEF;ACCاِتِّسَاخٌN;SG;NDEF;ACC	الِاتِّسَاخُ
-V;3;PL;MASC;PST;PRF;IND;ACTاِنْتَفَخَV;3;PL;MASC;PST;PRF;IND;ACT	يَنْتَفِخَا
-N;PL;NDEF;INFMاِفْتِتَاحٌN;PL;NDEF;INFM	اِفْتِتَاحَاتٍ
-ADJ;PL;FEM;NDEF;INFMالْكَامِلADJ;PL;FEM;NDEF;INFM	كَامِلَتَيْنِ
-N;SG;DEF;ACCاِخْضِيرَارٌN;SG;DEF;ACC	اِخْضِيضَارُ
-N;SG;PSSD;GENثُمُولٌN;SG;PSSD;GEN	الثُّقْبِ
-N;SG;DEF;GENسِيَاحَةٌN;SG;DEF;GEN	السِّيَاقَةِ
-N;SG;PSSD;NOMخِزَانَةٌN;SG;PSSD;NOM	خِزَانَةَ
-N;SG;DEF;NOMإِقْلِيمٌN;SG;DEF;NOM	إِقْلِيمَانِ
-V;2;SG;MASC;SBJV;PASSأَفَادَV;2;SG;MASC;SBJV;PASS	يُفَادَا
-N;DU;PSSD;NOMأُغْنِيَّةٌN;DU;PSSD;NOM	أُغْنِيَّاتٌ
-N;DU;NDEF;INFMقِطَّةٌN;DU;NDEF;INFM	الْقِطَط
-N;DU;DEF;NOMرَاعٍN;DU;DEF;NOM	الرَّاعِي
-ADJ;PL;FEM;DEF;GENالْأَجْسَمADJ;PL;FEM;DEF;GEN	جُرْدٍ
-N;SG;DEF;ACCبَدَاءَةٌN;SG;DEF;ACC	بَدَاءَة
-V;V.MSDRقَاسَV;V.MSDR	مُقَامَرَة
-N;SG;PSSD;NOMشِغَالٌN;SG;PSSD;NOM	شِعَارُ
-ADJ;SG;FEM;NDEF;ACCالْوَحِيدADJ;SG;FEM;NDEF;ACC	وَصْفِيَّيْنِ
-ADJ;SG;MASC;NDEF;ACCالْبَاطِنِيADJ;SG;MASC;NDEF;ACC	الْبَاطِنَ
-N;SG;DEF;ACCإِرْوَاحٌN;SG;DEF;ACC	إِرْوَاح
-V;1;SG;SBJV;PASSصَارَعَV;1;SG;SBJV;PASS	تُصَابَحَ
-V;2;DU;IMP;ACTصَادَرَV;2;DU;IMP;ACT	صُمْنَ
-N;SG;PSSD;GENاِتِّقَاءٌN;SG;PSSD;GEN	اِتِّقَاءٍ
-ADJ;DU;MASC;DEF;NOMالْأَرْطَبADJ;DU;MASC;DEF;NOM	الْأَرْطَبُ
-ADJ;SG;FEM;DEF;ACCالْمُشْمِسADJ;SG;FEM;DEF;ACC	الْمُشْمِسَاتِ
-N;SG;DEF;INFMتَعْيِيدٌN;SG;DEF;INFM	تَعْيِين
-ADJ;DU;MASC;NDEF;INFMالْأَشَدّADJ;DU;MASC;NDEF;INFM	الْأَشَدَّيْنِ
-N;SG;DEF;NOMمُحَامَاةٌN;SG;DEF;NOM	مُحَامِيَاتِ
-V;1;PL;IPFV;IND;PASSسَقَىV;1;PL;IPFV;IND;PASS	تُسْقَيْ
-ADJ;DU;FEM;DEF;NOMالنَّظِيفADJ;DU;FEM;DEF;NOM	النُّظَرَاءُ
-ADJ;DU;MASC;NDEF;ACCالْأَنِيقADJ;DU;MASC;NDEF;ACC	أَنِيقَيْنِ
-ADJ;SG;FEM;NDEF;GENالْمَشْهُودADJ;SG;FEM;NDEF;GEN	الْمَشْهُودَة
-ADJ;SG;MASC;DEF;GENالْفَظِيعADJ;SG;MASC;DEF;GEN	الْفَظِيعَتَيْنِ
-N;PL;NDEF;NOMطِحَالٌN;PL;NDEF;NOM	الطِّحَالَاتُ
-N;SG;DEF;NOMتَسْجِيلٌN;SG;DEF;NOM	تَسْجِيلُ
-V;3;PL;FEM;LGSPEC1;PASSوَالَىV;3;PL;FEM;LGSPEC1;PASS	يُوَالَ
-ADJ;PL;MASC;DEF;GENالْأَعْظَمADJ;PL;MASC;DEF;GEN	عُظْمَيَيْنِ
-ADJ;SG;FEM;NDEF;NOMالْأَبْرَأADJ;SG;FEM;NDEF;NOM	الْأَبْرَأ
-N;SG;DEF;NOMاِسْتِكْتَابٌN;SG;DEF;NOM	اِسْتِكْتَابًا
-N;SG;PSSD;NOMمَهْلِكَةٌN;SG;PSSD;NOM	مَهْلِكَة
-ADJ;PL;MASC;NDEF;GENالْبُرْتُقَانِيADJ;PL;MASC;NDEF;GEN	الْبُرْتُقَانِيَّاتِ
-ADJ;DU;MASC;NDEF;ACCالْقَضِيبِيADJ;DU;MASC;NDEF;ACC	قَضِيبِيَّةٌ
-ADJ;SG;MASC;DEF;NOMالْأَغْلَظADJ;SG;MASC;DEF;NOM	أَغْلَظَيْنِ
-ADJ;PL;MASC;DEF;GENالْإِبْلِيسِيADJ;PL;MASC;DEF;GEN	الْإِبْلِيسِيِّ
-ADJ;PL;FEM;NDEF;INFMالْخَلِيقADJ;PL;FEM;NDEF;INFM	الْخَلِيقَ
-V;3;DU;FEM;LGSPEC1;ACTحَكَىV;3;DU;FEM;LGSPEC1;ACT	يَحْكِ
-N;SG;PSSD;GENلِفَافَةٌN;SG;PSSD;GEN	لَفَائِفَ
-N;SG;NDEF;GENإِلٰهٌN;SG;NDEF;GEN	الْإِلٰهِ
-N;DU;PSSD;INFMشِرْيَانٌN;DU;PSSD;INFM	شِرْيَان
-N;DU;DEF;ACCغَابَةٌN;DU;DEF;ACC	الْغَالِبَتَيْنِ
-N;DU;NDEF;GENوَتِينٌN;DU;NDEF;GEN	وُتُنِ
-N;DU;DEF;ACCمُمَثِّلَةٌN;DU;DEF;ACC	الْمُمَثِّلَةَ
-N;SG;NDEF;ACCرَحِيقٌN;SG;NDEF;ACC	رَحِيقَ
-ADJ;SG;FEM;NDEF;NOMالْبَاطِنِيADJ;SG;FEM;NDEF;NOM	بَاطِنِيَّتَانِ
-N;SG;PSSD;GENحِمَاءٌN;SG;PSSD;GEN	الْحِمَاءَ
-ADJ;DU;FEM;NDEF;ACCالْمُسْتَدِيرADJ;DU;FEM;NDEF;ACC	الْمُسْتَدِيرَةَ
-N;PL;NDEF;NOMمَلْعَبٌN;PL;NDEF;NOM	مَلْعَبٌ
-V;3;PL;MASC;PST;PRF;IND;PASSنَادَىV;3;PL;MASC;PST;PRF;IND;PASS	تُنَادَى
-ADJ;SG;FEM;NDEF;INFMالْمُسْتَثْنَىADJ;SG;FEM;NDEF;INFM	الْمُسْتَثْنَاة
-V;2;SG;MASC;SBJV;ACTاِسْتَجَارَV;2;SG;MASC;SBJV;ACT	تَسْتَجِيرُ
-V;3;SG;MASC;LGSPEC1;ACTاِحْتَاطَV;3;SG;MASC;LGSPEC1;ACT	يَحْتَاطَا
-V;2;DU;SBJV;PASSاِعْتَزَمَV;2;DU;SBJV;PASS	تُعْتَزَمُو
-N;SG;PSSD;INFMتَغْرِيبٌN;SG;PSSD;INFM	تَغْطِيَة
-N;SG;NDEF;NOMشِبِتٌّN;SG;NDEF;NOM	الشِّبِتِّ
-N;PL;PSSD;ACCأَيْرٌN;PL;PSSD;ACC	الْأُيُورَ
-V;V.PTCP;ACTاِسْتَحْيَاV;V.PTCP;ACT	يَسْتَحْيِيَانِ
-ADJ;SG;MASC;NDEF;ACCالْمُمْتِعADJ;SG;MASC;NDEF;ACC	الْمُمْتِعَتَيْن
-ADJ;SG;FEM;DEF;INFMالْأَشَفّADJ;SG;FEM;DEF;INFM	أَشَفَّ
-N;PL;DEF;GENكَارِثَةٌN;PL;DEF;GEN	الْكَارِثَتَيْنِ
-N;DU;PSSD;INFMاِتِّحَادٌN;DU;PSSD;INFM	اِتِّحَادَانِ
-N;PL;PSSD;ACCخَرَّاطٌN;PL;PSSD;ACC	الْخَرَاءَ رَاطِبَانِ
-N;SG;NDEF;GENعِوَانٌN;SG;NDEF;GEN	الْعِوَانُ
-N;SG;DEF;GENجِنَاسٌN;SG;DEF;GEN	الْجِسْمَيْنِ النَّاسَ
-N;SG;NDEF;ACCتُهْلُوكٌN;SG;NDEF;ACC	تِيُوتُونِيِّينَ
-N;SG;NDEF;GENبَوْلٌN;SG;NDEF;GEN	الْبَوْلَيْنِ
-V;1;PL;SBJV;ACTقَمْقَمَV;1;PL;SBJV;ACT	يُقَمْقِمْنَ
-N;PL;PSSD;ACCمَيْدَانٌN;PL;PSSD;ACC	مَيْدَانَ
-V;1;PL;PST;PRF;IND;PASSأَبَىV;1;PL;PST;PRF;IND;PASS	تُؤْبَى
-ADJ;DU;FEM;NDEF;ACCاللُّبْنَانِيADJ;DU;FEM;NDEF;ACC	لُبْنَانِيًّا
-N;DU;DEF;GENمِرْآةٌN;DU;DEF;GEN	الْمِرْآةِ
-N;DU;DEF;GENوَرِيدٌN;DU;DEF;GEN	وَرِيدٍ
-ADJ;PL;FEM;DEF;NOMالسَّلِسADJ;PL;FEM;DEF;NOM	سَلِسَات
-V;1;PL;LGSPEC1;PASSرَغِبَV;1;PL;LGSPEC1;PASS	يُرْغَبْ
-V;V.PTCP;ACTأَثَارَV;V.PTCP;ACT	تُثِيرَانِ
-V;2;SG;MASC;LGSPEC1;PASSاِسْتَقَالَV;2;SG;MASC;LGSPEC1;PASS	يُسْتَقَالَا
-N;DU;DEF;NOMتَأْشِيرَةٌN;DU;DEF;NOM	التَّأْشِيرَاتِ
-V;1;SG;PST;PRF;IND;PASSرَبَّىV;1;SG;PST;PRF;IND;PASS	تُرَبَّيْنَ
-N;SG;DEF;INFMفِلْفِلٌ أَسْوَدُN;SG;DEF;INFM	فَلَافِل
-ADJ;PL;MASC;NDEF;GENالْمُسِنّADJ;PL;MASC;NDEF;GEN	مُسِنَّاتٌ
-N;DU;NDEF;GENفِيلٌN;DU;NDEF;GEN	فِيَلَةٍ
-V;2;DU;SBJV;PASSاِسْتَرَدَّV;2;DU;SBJV;PASS	تُسْتَرَدِّي
-N;SG;DEF;GENاِسْتِقْتَالٌN;SG;DEF;GEN	اِسْتِقْتَالِ
-V;3;PL;FEM;IPFV;IND;PASSأَشَاعَV;3;PL;FEM;IPFV;IND;PASS	نُشَاعُ
-V;2;SG;FEM;IMP;ACTاِخْشَوْشَبَV;2;SG;FEM;IMP;ACT	اِخْشَوْشِبَا
-V;1;SG;PST;PRF;IND;ACTاِسْتَوَىV;1;SG;PST;PRF;IND;ACT	نَسْتَوِي
-V;3;PL;MASC;IPFV;IND;ACTقَامَV;3;PL;MASC;IPFV;IND;ACT	تَقُومَانِ
-V;3;PL;FEM;SBJV;PASSخَوَّلَV;3;PL;FEM;SBJV;PASS	تُخَوَّلَا
-ADJ;SG;FEM;NDEF;NOMالْمُمْكِنADJ;SG;FEM;NDEF;NOM	الْمُمْكِنَ
-V;2;SG;MASC;IMP;ACTضَيَّعَV;2;SG;MASC;IMP;ACT	ضَيِّعْنَ
-N;PL;PSSD;ACCقَفَّالٌN;PL;PSSD;ACC	قَفَّالَيْ
-V;3;PL;MASC;LGSPEC1;ACTتَحَاشَىV;3;PL;MASC;LGSPEC1;ACT	يَتَحَاشَيْنَ
-V;2;PL;FEM;SBJV;ACTدَمَّمَV;2;PL;FEM;SBJV;ACT	يُدَمِّمَ
-ADJ;SG;FEM;DEF;ACCالْمَنْصُوبADJ;SG;FEM;DEF;ACC	مَنْصُوبَةٍ
-N;DU;DEF;INFMتَرْتِيبٌN;DU;DEF;INFM	تَرْتِيبَيْن
-V;3;SG;FEM;SBJV;ACTبَادَلَV;3;SG;FEM;SBJV;ACT	تُبَادِلْنَ
-V;3;DU;FEM;SBJV;ACTثَارَV;3;DU;FEM;SBJV;ACT	يَثُرْنَ
-V;3;SG;MASC;PST;PRF;IND;ACTنَاوَلَV;3;SG;MASC;PST;PRF;IND;ACT	نَاوَلْتُمَا
-V;1;PL;IPFV;IND;PASSوَاصَلَV;1;PL;IPFV;IND;PASS	يُوَاصَلُ
-N;SG;NDEF;INFMشِغَالٌN;SG;NDEF;INFM	شِدَّة
-V;2;PL;FEM;LGSPEC1;PASSهَاجَمَV;2;PL;FEM;LGSPEC1;PASS	يُهَاجَمْ
-N;SG;PSSD;NOMلَبُؤَةٌN;SG;PSSD;NOM	لَبُؤَةٌ
-N;DU;NDEF;INFMفَائِدَةٌN;DU;NDEF;INFM	الْفَائِدَتَانِ
-N;PL;PSSD;GENتَقْدِيمٌN;PL;PSSD;GEN	تَقْدِيمَات
-V;2;SG;MASC;IMP;ACTتَسَلَّىV;2;SG;MASC;IMP;ACT	تَتَسَلَّوْنَ
-ADJ;DU;MASC;DEF;NOMالْجَافّADJ;DU;MASC;DEF;NOM	جَافَّانِ
-V;3;DU;FEM;PST;PRF;IND;PASSحَاوَلَV;3;DU;FEM;PST;PRF;IND;PASS	حُووِطَتْ
-V;V.MSDRاِذْلَوْلَىV;V.MSDR	اِذْلَوْلَيَا
-V;3;PL;FEM;SBJV;ACTجَامَلَV;3;PL;FEM;SBJV;ACT	تُجَاوِرَا
-N;DU;NDEF;ACCرُتْبَةٌN;DU;NDEF;ACC	رُتْبَةً
-ADJ;DU;MASC;DEF;NOMالْأَجْدَرADJ;DU;MASC;DEF;NOM	الْأَجَادِرُ
-V;3;PL;FEM;PST;PRF;IND;ACTجَانَسَV;3;PL;FEM;PST;PRF;IND;ACT	جَانَسَتَا
-N;PL;DEF;GENمُحَاوَلَةٌN;PL;DEF;GEN	مُحَاوَلَتَا
-N;DU;PSSD;GENخَزِينَةٌN;DU;PSSD;GEN	الْخَزَائِنِ
-V;3;SG;MASC;SBJV;PASSتَحَاشَىV;3;SG;MASC;SBJV;PASS	تُتَحَاشَوْا
-V;2;DU;LGSPEC1;PASSقَالَV;2;DU;LGSPEC1;PASS	يُقَلْنَ
-V;3;DU;FEM;IPFV;IND;ACTاِفْتَقَرَV;3;DU;FEM;IPFV;IND;ACT	اِفْتَقَرْتُمَا
-N;PL;PSSD;NOMرَاعِيَةٌN;PL;PSSD;NOM	رَاعِيَاتٌ
-V;3;DU;MASC;IPFV;IND;PASSلَوَّثَV;3;DU;MASC;IPFV;IND;PASS	لُوِّثَتْ
-N;DU;PSSD;GENزَعِيمٌN;DU;PSSD;GEN	زُعَمَاءِ
-V;1;PL;SBJV;ACTشَارَكَV;1;PL;SBJV;ACT	تُشَارِكِي
-ADJ;PL;MASC;DEF;NOMالرُّجُولِيADJ;PL;MASC;DEF;NOM	الرُّجُولِيَّةَ
-ADJ;SG;MASC;NDEF;INFMالصَّادِقADJ;SG;MASC;NDEF;INFM	صَادِقٍ
-N;SG;PSSD;INFMتَكْتِيبٌN;SG;PSSD;INFM	التَّكْحِيل
-N;DU;DEF;GENمَاشِيَةٌN;DU;DEF;GEN	مَاشِيَةِ
-V;2;PL;MASC;SBJV;PASSدَعَاV;2;PL;MASC;SBJV;PASS	يُدْحَوْا
-V;3;DU;FEM;IPFV;IND;ACTأَقَامَV;3;DU;FEM;IPFV;IND;ACT	تُقِيمُ
-V;3;PL;MASC;LGSPEC1;PASSاِزْدَرَدَV;3;PL;MASC;LGSPEC1;PASS	اُزْدُرِدَا
-N;SG;NDEF;NOMزُوَارَةٌN;SG;NDEF;NOM	زُوَارَة
-V;2;SG;MASC;SBJV;PASSنَاقَشَV;2;SG;MASC;SBJV;PASS	يُنَاكَا
-V;3;DU;FEM;LGSPEC1;PASSوَاتَرَV;3;DU;FEM;LGSPEC1;PASS	تُوَاتَرَانِ
-N;PL;NDEF;INFMنَائِبٌN;PL;NDEF;INFM	النُّوَّابِ
-ADJ;DU;MASC;NDEF;INFMالْأَلْيَنADJ;DU;MASC;NDEF;INFM	الْأَلْيَن
-ADJ;PL;FEM;NDEF;NOMالزَّائِفADJ;PL;FEM;NDEF;NOM	الزَّائِف
-V;2;PL;FEM;SBJV;ACTنَكَحَV;2;PL;FEM;SBJV;ACT	نَكَحْتُمَا
-V;1;PL;LGSPEC1;ACTاِثْنَوْنَىV;1;PL;LGSPEC1;ACT	اِثْنَوْنَيْتُمَا
-ADJ;SG;MASC;DEF;NOMالْوَاسِعADJ;SG;MASC;DEF;NOM	وَاسِعَاتٌ
-V;3;SG;FEM;LGSPEC1;PASSرَبَّبَV;3;SG;FEM;LGSPEC1;PASS	يُرَبَّبُو
-V;2;PL;FEM;IMP;ACTقَارَضَV;2;PL;FEM;IMP;ACT	قَارَضَا
-V;2;PL;FEM;LGSPEC1;PASSهَدْرَجَV;2;PL;FEM;LGSPEC1;PASS	يُهَدْرَجْنَ
-V;2;PL;MASC;SBJV;ACTاِتَّفَقَV;2;PL;MASC;SBJV;ACT	يَتَّفِقُو
-V;1;SG;PST;PRF;IND;ACTصَحَاV;1;SG;PST;PRF;IND;ACT	صَحَتْ
-N;SG;DEF;INFMتَفْقِيرٌN;SG;DEF;INFM	تَفْقِيرُ
-N;SG;DEF;ACCقَصَادَةٌN;SG;DEF;ACC	قَصَادَةٌ
-ADJ;SG;MASC;NDEF;NOMالسَّرِيعADJ;SG;MASC;NDEF;NOM	السَّرِيعُ
-N;DU;PSSD;NOMبِيئَةٌN;DU;PSSD;NOM	بِيئَتَانِ
-V;2;PL;FEM;LGSPEC1;ACTثَرْثَرَV;2;PL;FEM;LGSPEC1;ACT	يُثَرْثِرْنَ
-N;SG;DEF;NOMسِيَاقٌN;SG;DEF;NOM	سِيَاقٌ
-V;2;SG;FEM;PST;PRF;IND;ACTقَامَرَV;2;SG;FEM;PST;PRF;IND;ACT	قَامَرْتُمَا
-N;SG;PSSD;ACCضَلَاعَةٌN;SG;PSSD;ACC	ضَلَاعَةُ
-ADJ;SG;FEM;NDEF;ACCالْمُبْتَذَلADJ;SG;FEM;NDEF;ACC	مُبْتَذَلَتَيْنِ
-N;PL;PSSD;GENدِيَانَةٌN;PL;PSSD;GEN	دِيَانَتَيْ
-N;SG;DEF;NOMتَأْذِينٌN;SG;DEF;NOM	التَّأْكِيدُ التَّجْذِيرِ
-N;PL;PSSD;NOMإِمْبَرَاطُورِيَّةٌN;PL;PSSD;NOM	إِمْبَرَاطُورِيَّتَانِ
-V;3;SG;MASC;SBJV;PASSاِسْتَطَاعَV;3;SG;MASC;SBJV;PASS	يُسْتَطَعْنَ
-N;SG;PSSD;ACCإِكْسِيرٌN;SG;PSSD;ACC	إِكْسِيرِ
-N;PL;PSSD;NOMسِكِّينٌN;PL;PSSD;NOM	السِّكِّينُ
-V;3;DU;FEM;SBJV;PASSحَاطَV;3;DU;FEM;SBJV;PASS	تُحَاطُو
-ADJ;SG;FEM;NDEF;NOMالْأَزَبّADJ;SG;FEM;NDEF;NOM	الْأَزَبّ
-V;3;DU;FEM;LGSPEC1;ACTبَاسَV;3;DU;FEM;LGSPEC1;ACT	تَبُحْ
-ADJ;SG;MASC;DEF;ACCالطَّرِيADJ;SG;MASC;DEF;ACC	طَرِيَّةً
-ADJ;PL;MASC;DEF;ACCالْخُصُوصِيADJ;PL;MASC;DEF;ACC	الْخُصُوصِيُّونَ
-ADJ;SG;FEM;NDEF;NOMالنَّبِيهADJ;SG;FEM;NDEF;NOM	النَّبِيهَتَانِ
-N;DU;NDEF;INFMسَطْرٌN;DU;NDEF;INFM	السَّطْرَيْنِ
-N;PL;PSSD;GENمَذْبَحَةٌN;PL;PSSD;GEN	الْمَذَابِحِ
-N;PL;NDEF;INFMضَفِيرَةٌN;PL;NDEF;INFM	ضَرُورَة
-ADJ;DU;MASC;NDEF;ACCالْمَلَائِكِيADJ;DU;MASC;NDEF;ACC	مَلَائِكِيِّينَ
-V;3;SG;MASC;LGSPEC1;ACTذَرَاV;3;SG;MASC;LGSPEC1;ACT	يَذْرُوا
-N;DU;NDEF;INFMخُرْطُومٌN;DU;NDEF;INFM	خُرْشُوف
-N;SG;PSSD;INFMشُوكُولَاتَةٌN;SG;PSSD;INFM	شُرْفَات الْكُوكَا
-V;2;SG;MASC;IPFV;IND;ACTفَازَV;2;SG;MASC;IPFV;IND;ACT	تَفُوزَانِ
-N;SG;PSSD;GENغَبِيَّةٌN;SG;PSSD;GEN	غَبِيَّتَيْ
-V;V.PTCP;ACTشَكَاV;V.PTCP;ACT	يَشْكُونَ
-V;2;SG;FEM;PST;PRF;IND;ACTشَفَىV;2;SG;FEM;PST;PRF;IND;ACT	تَشْفِي
-V;2;SG;FEM;LGSPEC1;ACTظَاهَرَV;2;SG;FEM;LGSPEC1;ACT	يُظَاهِرَا
-V;2;SG;MASC;IPFV;IND;ACTطَاوَعَV;2;SG;MASC;IPFV;IND;ACT	يُطَاوِعْنَ
-N;DU;PSSD;NOMمُسَاعَدَةٌN;DU;PSSD;NOM	الْمُسَافَرَةُ
-V;1;SG;IPFV;IND;ACTطَارَV;1;SG;IPFV;IND;ACT	تُطَارِحُ
-ADJ;SG;FEM;DEF;GENالْفَانِيADJ;SG;FEM;DEF;GEN	فَانِيَةٍ
-N;SG;PSSD;NOMنَهَارٌN;SG;PSSD;NOM	الْأَنْهُرُ
-V;1;PL;IPFV;IND;ACTنَافَسَV;1;PL;IPFV;IND;ACT	نُنَافِرُ
-V;V.PTCP;ACTاِجْلَعَدَّV;V.PTCP;ACT	تَجْلَعِدَّ
-ADJ;DU;MASC;NDEF;NOMالْمُتَدَاوَلADJ;DU;MASC;NDEF;NOM	الْمُتَدَاوَلَانِ
-V;3;DU;FEM;SBJV;PASSصَارَعَV;3;DU;FEM;SBJV;PASS	تُصَابَحَ
-V;2;PL;FEM;IPFV;IND;ACTقَامَرَV;2;PL;FEM;IPFV;IND;ACT	نُقَامِرُ
-N;PL;DEF;INFMسِرْبٌN;PL;DEF;INFM	السِّرْدَاب
-V;2;SG;FEM;SBJV;ACTقَاءَV;2;SG;FEM;SBJV;ACT	قِيئِي
-N;PL;PSSD;GENتَوْقِيعٌN;PL;PSSD;GEN	الْقَطِيعَ
-ADJ;DU;MASC;NDEF;NOMالْمُضِرّADJ;DU;MASC;NDEF;NOM	مُضِرُّونَ
-ADJ;PL;FEM;NDEF;INFMالْفَرِغADJ;PL;FEM;NDEF;INFM	الْفَرِغَاتِ
-V;3;DU;FEM;PST;PRF;IND;ACTأَيَّدَV;3;DU;FEM;PST;PRF;IND;ACT	أَيَّدْتُمَا
-N;DU;NDEF;NOMصَلَاةٌN;DU;NDEF;NOM	الصَّلَاتَانِ
-N;PL;DEF;GENنِضَالٌN;PL;DEF;GEN	إِخْضَالٍ
-N;SG;NDEF;NOMتَقْلِيدٌN;SG;NDEF;NOM	تَقْلِيدًا
-N;SG;PSSD;INFMفُسْفُورٌN;SG;PSSD;INFM	فَسَاتِينَ
-ADJ;SG;FEM;DEF;GENالْإِرَادِيADJ;SG;FEM;DEF;GEN	إِرَادِيَّاتٍ
-N;DU;NDEF;ACCقَصِيرَةٌN;DU;NDEF;ACC	قَصِيرَاتِ
-N;DU;NDEF;NOMطَرْبُوشٌN;DU;NDEF;NOM	طَرْبُوشٌ
-V;1;SG;LGSPEC1;ACTبَطُؤَV;1;SG;LGSPEC1;ACT	يَبْطُؤُو
-N;DU;DEF;GENمَرْكَزٌN;DU;DEF;GEN	مَرْكَزٍ
-ADJ;DU;MASC;NDEF;ACCالْأَجْذَبADJ;DU;MASC;NDEF;ACC	جُذْبى
-N;SG;NDEF;NOMقَوْلٌN;SG;NDEF;NOM	أَقْوَالٌ
-V;V.MSDRتَوَكَّأَV;V.MSDR	تَلْفَنَة تَتَوَكَّئِي
-V;1;SG;SBJV;PASSشَارَكَV;1;SG;SBJV;PASS	تُشَارَكُو
-ADJ;PL;MASC;DEF;INFMالشَّيْطَانِيADJ;PL;MASC;DEF;INFM	شَيْطَانِي
-ADJ;SG;MASC;DEF;NOMالْمُنْدَثِرADJ;SG;MASC;DEF;NOM	الْمُنْدَثِرَتَيْنِ
-N;DU;NDEF;INFMيَمٌّN;DU;NDEF;INFM	يَمَّيْ
-N;PL;NDEF;NOMمُشْتَرٍN;PL;NDEF;NOM	الْمُشْتَرِيَانِ
-V;3;SG;FEM;LGSPEC1;ACTاِنْكَفَّV;3;SG;FEM;LGSPEC1;ACT	يَنْكَفِفْنَ
-V;3;PL;FEM;LGSPEC1;ACTاِخْرَنْمَسَV;3;PL;FEM;LGSPEC1;ACT	تَخْرَنْمِسْ
-N;SG;NDEF;ACCلَبُؤَةٌN;SG;NDEF;ACC	لَبُؤَةٌ
-ADJ;SG;FEM;DEF;NOMالتَّوْأَمADJ;SG;FEM;DEF;NOM	التَّوْأَمَ
-V;2;PL;MASC;IPFV;IND;PASSاِسْتَرَدَّV;2;PL;MASC;IPFV;IND;PASS	تُسْتَرَدِّي
-N;SG;NDEF;ACCأُسَامَةُN;SG;NDEF;ACC	الْأُسَامَة
-N;SG;NDEF;INFMتَسِرَّةٌN;SG;NDEF;INFM	التَّسِرَّةُ
-N;SG;PSSD;INFMزِحَامٌN;SG;PSSD;INFM	زِحَامٌ
-V;3;DU;FEM;LGSPEC1;PASSخَلَّىV;3;DU;FEM;LGSPEC1;PASS	يُخْرَقْنَ
-V;3;SG;FEM;LGSPEC1;PASSأَلْهَمَV;3;SG;FEM;LGSPEC1;PASS	يُلْهَمْنَ
-ADJ;SG;MASC;DEF;NOMالتَّرْتِيبِيADJ;SG;MASC;DEF;NOM	تَرْتِيبِيَّتَيْن
-N;DU;NDEF;INFMوَاسِطَةٌN;DU;NDEF;INFM	وَاسِطَتَيْ
-V;3;PL;FEM;SBJV;PASSسَوَّفَV;3;PL;FEM;SBJV;PASS	نُسَوَّفَ
-N;PL;NDEF;GENوَاجِهَةُ بَرْمَجَةِ تَطْبِيقَاتٍN;PL;NDEF;GEN	بَرْمَجَة التَّطْبِيقَات
-V;3;SG;MASC;LGSPEC1;ACTاِنْقَضَىV;3;SG;MASC;LGSPEC1;ACT	تَنْقَضِيَا
-V;3;SG;MASC;SBJV;PASSصَامَV;3;SG;MASC;SBJV;PASS	يُصَابَحَا
-N;PL;PSSD;ACCاِسْتِرَاحَةٌN;PL;PSSD;ACC	الِاسْتِرَاحَاتِ
-V;3;PL;MASC;PST;PRF;IND;PASSسَوَّفَV;3;PL;MASC;PST;PRF;IND;PASS	سُوِّفَا
-ADJ;PL;FEM;NDEF;INFMالْقُرَيْشِيADJ;PL;FEM;NDEF;INFM	الْقُرَيْشِيَّات
-N;SG;PSSD;GENفِنْطَاسٌN;SG;PSSD;GEN	فِلْمِ الْفِنْطَاس
-N;SG;PSSD;NOMتَوْجِيهٌN;SG;PSSD;NOM	الْوَجِيهَيْنِ
-V;2;PL;FEM;SBJV;ACTجَامَلَV;2;PL;FEM;SBJV;ACT	تُجَاوِرَا
-V;3;SG;MASC;IPFV;IND;PASSعَاوَنَV;3;SG;MASC;IPFV;IND;PASS	يُعَاوَنُونَ
-ADJ;DU;MASC;NDEF;ACCالْمُتَوَاضِعADJ;DU;MASC;NDEF;ACC	مُتَوَاضِعَتَانِ
-ADJ;DU;MASC;DEF;ACCالْأُولِمْبِيADJ;DU;MASC;DEF;ACC	أُولِمْبِيَّاتٌ
-N;SG;PSSD;NOMمِزْمَارٌN;SG;PSSD;NOM	الْمَزَامِيرُ
-V;3;DU;FEM;LGSPEC1;ACTتَبَاءَسَV;3;DU;FEM;LGSPEC1;ACT	تَتَبَاءَسِي
-N;PL;NDEF;ACCعَارِفَةٌN;PL;NDEF;ACC	الْعَارِفَةُ
-ADJ;PL;MASC;DEF;ACCالْعِرَاقِيADJ;PL;MASC;DEF;ACC	عِرَاقِيَّةٍ
-V;3;DU;FEM;LGSPEC1;PASSشَفَىV;3;DU;FEM;LGSPEC1;PASS	تُشْكَيَا
-V;1;PL;SBJV;PASSرَمَىV;1;PL;SBJV;PASS	تُرْمَيَانِ
-ADJ;DU;MASC;NDEF;GENالْأَمَامِيADJ;DU;MASC;NDEF;GEN	الْأَمَامِيَّاتِ
-V;3;PL;MASC;LGSPEC1;PASSثَبَّطَV;3;PL;MASC;LGSPEC1;PASS	يُثَبَّطْنَ
-N;DU;NDEF;ACCقَفَّالٌN;DU;NDEF;ACC	قَفَّالَيْ
-V;3;PL;FEM;IPFV;IND;PASSدَاوَرَV;3;PL;FEM;IPFV;IND;PASS	تُدَاوَرُ
-V;2;PL;FEM;IMP;ACTاِكْتَرَبَV;2;PL;FEM;IMP;ACT	اِكْتَرِبِي
-ADJ;PL;FEM;NDEF;NOMالدَّفِيءADJ;PL;FEM;NDEF;NOM	مُضِيئَات
-V;3;DU;MASC;PST;PRF;IND;ACTسَخَّرَV;3;DU;MASC;PST;PRF;IND;ACT	سَخَّرْتُمْ
-ADJ;DU;MASC;NDEF;INFMالْأَسْخَنADJ;DU;MASC;NDEF;INFM	الْأَسْخَن
-ADJ;DU;FEM;DEF;ACCالْخَلِيقADJ;DU;FEM;DEF;ACC	الْخَلِيقَ
-V;3;DU;FEM;PST;PRF;IND;PASSبَادَلَV;3;DU;FEM;PST;PRF;IND;PASS	بُودِلَا
-N;SG;PSSD;ACCحِيلَةٌN;SG;PSSD;ACC	الْحِيلَةَ
-V;2;PL;FEM;PST;PRF;IND;ACTأَمَاتَV;2;PL;FEM;PST;PRF;IND;ACT	أَمَتَّ
-V;3;PL;MASC;IPFV;IND;ACTاِحْمَرَّV;3;PL;MASC;IPFV;IND;ACT	تَحْمَرَّانِ
-V;3;DU;MASC;PST;PRF;IND;PASSنَفَاV;3;DU;MASC;PST;PRF;IND;PASS	نُفِيتُنَّ
-N;SG;DEF;ACCبَطَاطَةٌN;SG;DEF;ACC	بَطَاطَا
-V;2;DU;IPFV;IND;ACTجَدَّدَV;2;DU;IPFV;IND;ACT	جَدَّدَتْ
-V;3;DU;MASC;PST;PRF;IND;PASSأَفْنَىV;3;DU;MASC;PST;PRF;IND;PASS	أُفْلِحَ
-N;SG;NDEF;NOMمُجَاوَزَةٌN;SG;NDEF;NOM	مُجَاوَزَةُ
-ADJ;DU;MASC;DEF;GENالْبَاطِنِيADJ;DU;MASC;DEF;GEN	الْبَاطِنِيَّاتِ
-V;2;SG;FEM;LGSPEC1;PASSنَفَاV;2;SG;FEM;LGSPEC1;PASS	نُنْفَ
-N;SG;PSSD;ACCكُوَارْكٌ قَعْرِيٌّN;SG;PSSD;ACC	الْكُوَارْكَيْنِ
-ADJ;SG;FEM;NDEF;ACCالْعَامِرADJ;SG;FEM;NDEF;ACC	عَامِرَاتٍ
-V;1;SG;SBJV;PASSخَوَّشَV;1;SG;SBJV;PASS	تُخَوَّلَا
-V;3;SG;MASC;PST;PRF;IND;PASSمَاثَلَV;3;SG;MASC;PST;PRF;IND;PASS	نُمَاثَلُ
-N;SG;DEF;GENصُدَاعٌN;SG;DEF;GEN	الصُّنْدُوقِ
-V;2;DU;PST;PRF;IND;ACTجَاعَV;2;DU;PST;PRF;IND;ACT	تَجُعْنَ
-V;1;SG;SBJV;ACTفَقَّطَV;1;SG;SBJV;ACT	يُفَقِّطْنَ
-V;1;PL;IPFV;IND;PASSجَهَّزَV;1;PL;IPFV;IND;PASS	تُجَهَّزُ
-N;SG;NDEF;ACCحَالِمٌN;SG;NDEF;ACC	الْحَالِمَيْنِ
-V;2;PL;FEM;PST;PRF;IND;ACTلَاحَظَV;2;PL;FEM;PST;PRF;IND;ACT	تُلَاحِظْنَ
-ADJ;SG;MASC;NDEF;INFMالْفَاخِرADJ;SG;MASC;NDEF;INFM	فَاخِرٌ
-N;PL;PSSD;NOMعَذْرَاءُN;PL;PSSD;NOM	عَذَارَى
-N;SG;DEF;NOMشَطَطٌN;SG;DEF;NOM	الشَّطَطِ
-N;SG;PSSD;ACCتَكْسِيرٌN;SG;PSSD;ACC	التَّكْسِي
-V;2;PL;MASC;PST;PRF;IND;PASSرَاجَعَV;2;PL;MASC;PST;PRF;IND;PASS	رُوجِعْتَ
-N;SG;PSSD;ACCتَظْلِيلٌN;SG;PSSD;ACC	تَظْلِيلًا
-ADJ;PL;FEM;NDEF;INFMالْبَئِيسADJ;PL;FEM;NDEF;INFM	بَئِيسَاتٍ
-V;2;PL;MASC;PST;PRF;IND;PASSضَايَقَV;2;PL;MASC;PST;PRF;IND;PASS	يُضَايَقُ
-ADJ;SG;FEM;DEF;NOMالْمُضَارِعADJ;SG;FEM;DEF;NOM	الْمُضَارِعَةَ
-V;2;PL;FEM;LGSPEC1;ACTضَيَّعَV;2;PL;FEM;LGSPEC1;ACT	ضَيِّعْنَ
-ADJ;SG;FEM;NDEF;ACCالْمَوْضُوعِيADJ;SG;FEM;NDEF;ACC	الْمَوْضُوعِيَّ
-ADJ;SG;MASC;NDEF;INFMالْجَزَائِرِيADJ;SG;MASC;NDEF;INFM	الْجَزَائِرِي
-ADJ;DU;MASC;DEF;INFMالْمُعَطَّلADJ;DU;MASC;DEF;INFM	الْمُعَطَّلَة
-ADJ;PL;FEM;NDEF;GENالْأَقْصَىADJ;PL;FEM;NDEF;GEN	أَقَاصٍ
-N;DU;DEF;GENمَطْبَخٌN;DU;DEF;GEN	الْمَطْبَخَانِ
-N;PL;NDEF;GENأُوقِيَّةٌN;PL;NDEF;GEN	أُوقِيَّتَيْ
-ADJ;DU;MASC;DEF;NOMالْوَافِرADJ;DU;MASC;DEF;NOM	وَافَيْتُنَّ
-N;PL;PSSD;NOMمَجَلَّةٌN;PL;PSSD;NOM	مَجَلَّتَيْنِ
-V;3;SG;MASC;IPFV;IND;ACTأَضَاعَV;3;SG;MASC;IPFV;IND;ACT	أَضَعْنَ
-N;PL;PSSD;NOMشَاحِنَةٌN;PL;PSSD;NOM	الشَّاحِنَاتُ
-V;2;PL;FEM;LGSPEC1;ACTوَافَقَV;2;PL;FEM;LGSPEC1;ACT	تُوَافِقُو
-V;3;SG;FEM;IPFV;IND;ACTاِنْكَفَّV;3;SG;FEM;IPFV;IND;ACT	تَنْكَفَّانِ
-N;SG;PSSD;INFMآلَةٌN;SG;PSSD;INFM	آفَتَيْ
-ADJ;SG;MASC;DEF;ACCالْمُتَرَبِّيADJ;SG;MASC;DEF;ACC	الْمُتَرَبِّيَانِ
-N;DU;PSSD;NOMمُحَرِّكٌN;DU;PSSD;NOM	مُحَرِّكًا
-ADJ;PL;FEM;DEF;NOMالْهَاشِمِيADJ;PL;FEM;DEF;NOM	الْهَاشِمِيَّة
-ADJ;SG;MASC;NDEF;INFMالْبَحْرَيْنِيADJ;SG;MASC;NDEF;INFM	بَحْرَيْنِيَّة
-N;SG;DEF;ACCوَحْشٌN;SG;DEF;ACC	الْوُحُوشِ
-V;3;DU;MASC;PST;PRF;IND;ACTغَرَّV;3;DU;MASC;PST;PRF;IND;ACT	غَرَّتَا
-N;DU;DEF;ACCقَاعِدَةٌN;DU;DEF;ACC	قَوَاعِدَ
-N;SG;NDEF;INFMطَابِقٌN;SG;NDEF;INFM	طَوَابِقَ
-N;DU;NDEF;NOMعَصًاN;DU;NDEF;NOM	عَصًا
-N;SG;PSSD;ACCإِنْجَازٌN;SG;PSSD;ACC	إِنْجَاز
-N;DU;NDEF;ACCبِسَاطٌN;DU;NDEF;ACC	الْبِسَاطَيْنِ
-V;2;PL;FEM;PST;PRF;IND;ACTاِمْتَازَV;2;PL;FEM;PST;PRF;IND;ACT	تَمْتَزْنَ
-N;SG;NDEF;INFMمُثَابَرَةٌN;SG;NDEF;INFM	مُثَابَرَةٍ
-ADJ;DU;MASC;DEF;GENالشَّامِيADJ;DU;MASC;DEF;GEN	الشَّامِي
-V;2;SG;MASC;LGSPEC1;PASSدَبَّبَV;2;SG;MASC;LGSPEC1;PASS	تُدَبَّبَ
-V;3;SG;MASC;LGSPEC1;ACTصَحَّحَV;3;SG;MASC;LGSPEC1;ACT	تُصَحِّحْ
-N;SG;PSSD;NOMاِسْتِدْفَاءٌN;SG;PSSD;NOM	اِسْتِدْفَاء
-V;1;PL;SBJV;ACTأَوَىV;1;PL;SBJV;ACT	تَأْوُوا
-V;2;DU;IMP;ACTاِبْرَغَشَّV;2;DU;IMP;ACT	تَبْرَغِشُّ
-V;V.PTCP;PASSشَكَاV;V.PTCP;PASS	تُشْكَيَا
-V;3;PL;FEM;LGSPEC1;PASSرَافَقَV;3;PL;FEM;LGSPEC1;PASS	أُرَافَقْ
-N;SG;DEF;INFMجُسَيْمٌ مُضَادٌّN;SG;DEF;INFM	جُسَيْم الْحَرِيم
-N;PL;PSSD;GENكُورِيَّةٌN;PL;PSSD;GEN	كُوبِ
-V;3;PL;FEM;PST;PRF;IND;PASSعَذَّبَV;3;PL;FEM;PST;PRF;IND;PASS	عُذِّبَ
-V;3;PL;MASC;LGSPEC1;ACTأَرَاحَV;3;PL;MASC;LGSPEC1;ACT	يُرِيحُونَ
-ADJ;DU;MASC;DEF;ACCالْمُزْدَوِجADJ;DU;MASC;DEF;ACC	الْمُزْدَوِجَةَ
-N;SG;PSSD;NOMمُخَاطٌN;SG;PSSD;NOM	مُخَاطَ
-N;DU;PSSD;ACCحِذَاءٌN;DU;PSSD;ACC	الْأَحْذِيَةَ
-N;PL;NDEF;GENاِمْتِحَانٌN;PL;NDEF;GEN	الِامْتِحَان
-V;2;DU;LGSPEC1;PASSطَالَV;2;DU;LGSPEC1;PASS	تُطَاعَا
-V;3;DU;MASC;LGSPEC1;ACTصَوَّبَV;3;DU;MASC;LGSPEC1;ACT	تُصَوِّبَا
-V;2;DU;PST;PRF;IND;PASSجَابَV;2;DU;PST;PRF;IND;PASS	جِيبُوا
-N;SG;DEF;ACCإِحْكَاكٌN;SG;DEF;ACC	إِحْكَاكَ
-V;2;SG;FEM;LGSPEC1;ACTبَاعَV;2;SG;FEM;LGSPEC1;ACT	تَبِعْ
-V;1;SG;SBJV;ACTجَامَلَV;1;SG;SBJV;ACT	تُجَاوِرَا
-V;2;DU;SBJV;ACTهَاجَمَV;2;DU;SBJV;ACT	تُهَاجِمَ
-V;V.MSDRاِنْشَغَلَV;V.MSDR	اِنْشَغَلْنَا
-V;3;DU;MASC;LGSPEC1;ACTتَاهَV;3;DU;MASC;LGSPEC1;ACT	يَتُوهَانِ
-V;3;PL;MASC;SBJV;ACTأَيَّدَV;3;PL;MASC;SBJV;ACT	يُؤَيِّدْنَ
-N;SG;PSSD;GENرَسْمِيَّةٌN;SG;PSSD;GEN	رَسْمِيَّتَيْ
-N;PL;DEF;INFMمَرْكَزٌN;PL;DEF;INFM	مَرَاكِزَ
-ADJ;PL;FEM;DEF;INFMالرَّدِيءADJ;PL;FEM;DEF;INFM	رَدِيئَات
-V;V.MSDRتَمَنَّىV;V.MSDR	تَلْفَنَة
-V;1;PL;IPFV;IND;ACTرَكَّزَV;1;PL;IPFV;IND;ACT	تُرَكِّزُ
-N;PL;NDEF;GENكَأْسٌN;PL;NDEF;GEN	كُؤُوسٌ
-V;2;DU;IPFV;IND;ACTأَشَاعَV;2;DU;IPFV;IND;ACT	أَشِيعِي
-V;3;SG;FEM;SBJV;ACTصَوَّبَV;3;SG;FEM;SBJV;ACT	تُصَحِّحَا
-N;PL;DEF;ACCعَاتِقٌN;PL;DEF;ACC	الْعَاتِقَ
-ADJ;SG;MASC;NDEF;NOMالْإِرَادِيADJ;SG;MASC;NDEF;NOM	إِرَادِيَّاتٍ
-N;SG;PSSD;NOMبُلُوغٌN;SG;PSSD;NOM	بُلُوغٍ
-N;DU;NDEF;GENرَاشِدَةٌN;DU;NDEF;GEN	رَاشِدَتَيْ
-V;3;SG;FEM;LGSPEC1;ACTثَارَV;3;SG;FEM;LGSPEC1;ACT	تَثُورَا
-V;2;SG;MASC;SBJV;ACTلَامَسَV;2;SG;MASC;SBJV;ACT	لَامَسَا
-ADJ;SG;FEM;DEF;INFMالْمُبْتَذَلADJ;SG;FEM;DEF;INFM	مُبْتَذَلِين
-V;3;DU;MASC;PST;PRF;IND;ACTصَامَV;3;DU;MASC;PST;PRF;IND;ACT	صُمْنَ
-N;SG;NDEF;INFMوَاسِطَةٌN;SG;NDEF;INFM	وَاسِطَات
-V;2;SG;MASC;LGSPEC1;ACTجَهَّزَV;2;SG;MASC;LGSPEC1;ACT	جَهَّزْتِ
-N;PL;NDEF;NOMرَأْسُ مَالٍN;PL;NDEF;NOM	الْمَالِ
-V;2;SG;FEM;LGSPEC1;PASSغَرَّV;2;SG;FEM;LGSPEC1;PASS	يُغْرَرْنَ
-V;2;PL;MASC;LGSPEC1;ACTاِسْتَوَىV;2;PL;MASC;LGSPEC1;ACT	تَسْتَوِيَا
-N;SG;DEF;GENمَغْلَبٌN;SG;DEF;GEN	مَغْلَب
-N;SG;PSSD;GENمُسَاءَلَةٌN;SG;PSSD;GEN	الْمُسَاءَلَة
-ADJ;SG;MASC;DEF;GENالْأُنْثَوِيADJ;SG;MASC;DEF;GEN	أُنْثَوِيَّيْن
-ADJ;DU;MASC;DEF;INFMالْعَبَّاسADJ;DU;MASC;DEF;INFM	الْعَبَّاسَتَيْنِ
-N;SG;PSSD;INFMتَجْنِيسٌN;SG;PSSD;INFM	الْكَنِيسُ
-V;3;PL;MASC;IPFV;IND;PASSسَوَّفَV;3;PL;MASC;IPFV;IND;PASS	نُسَوَّفَ
-ADJ;SG;FEM;DEF;GENالْوَاضِحADJ;SG;FEM;DEF;GEN	الْوَاضِحَةَ
-ADJ;DU;FEM;NDEF;ACCالْإِبْلِيسِيADJ;DU;FEM;NDEF;ACC	إِبْلِيسِيَّاتٍ
-N;SG;PSSD;ACCفُسُوقٌN;SG;PSSD;ACC	فُسُوقُ
-V;2;PL;FEM;SBJV;ACTقَامَرَV;2;PL;FEM;SBJV;ACT	يُقَامِرَ
-V;3;SG;FEM;SBJV;ACTأَدَارَV;3;SG;FEM;SBJV;ACT	تُدِيرَ
-V;3;DU;FEM;SBJV;PASSأَعْطَىV;3;DU;FEM;SBJV;PASS	يُعْطَ
-V;3;SG;FEM;SBJV;ACTغَابَV;3;SG;FEM;SBJV;ACT	تَغِبْنَ
-ADJ;PL;MASC;DEF;GENالْمُعَطَّلADJ;PL;MASC;DEF;GEN	الْمُعَطَّلَيْنِ
-V;3;PL;MASC;PST;PRF;IND;ACTاِحْوَلَّV;3;PL;MASC;PST;PRF;IND;ACT	اِحْوَلَّتَا
-N;SG;NDEF;GENتَثَاؤُبٌN;SG;NDEF;GEN	التَّثَاؤُبِ
-V;V.MSDRصَحَّحَV;V.MSDR	تَصْوِيب
-N;SG;DEF;INFMسَارِقَةٌN;SG;DEF;INFM	سَارِقَتَيْ
-V;3;PL;FEM;LGSPEC1;ACTجَاوَزَV;3;PL;FEM;LGSPEC1;ACT	تُجَاوِرَا
-N;SG;NDEF;GENوَادٍN;SG;NDEF;GEN	الْأَوْدِيَةِ
-N;DU;NDEF;NOMنِيشَانٌN;DU;NDEF;NOM	النِّيشَانَانِ
-N;DU;PSSD;INFMشَرِيطٌN;DU;PSSD;INFM	شَرَائِت
-N;SG;NDEF;INFMجُولْفٌN;SG;NDEF;INFM	الْجُولْفُ
-N;DU;NDEF;ACCزِيَارَةٌN;DU;NDEF;ACC	زِينَاتٍ
-ADJ;PL;FEM;DEF;ACCالْمُتَزَمِّتADJ;PL;FEM;DEF;ACC	الْمُتَزَمِّتَانِ
-N;SG;NDEF;INFMقَصِيرَةٌN;SG;NDEF;INFM	قَصِيرَاتٌ
-N;SG;PSSD;GENإِجْهَاضٌN;SG;PSSD;GEN	إِجْهَاضٍ
-V;3;DU;FEM;LGSPEC1;ACTرَمَىV;3;DU;FEM;LGSPEC1;ACT	تَرْمِينَ
-N;DU;NDEF;GENمِينَةٌN;DU;NDEF;GEN	الْمَوَانِي
-ADJ;DU;MASC;NDEF;INFMالْقَضِيبِيADJ;DU;MASC;NDEF;INFM	قَضِيبِيَّةٌ
-N;SG;NDEF;GENزَوَالٌN;SG;NDEF;GEN	الزَّوَالِ
-N;SG;PSSD;ACCحَشِيشٌN;SG;PSSD;ACC	حَشِيشًا
-N;DU;PSSD;INFMمُرَشَّحٌN;DU;PSSD;INFM	الْمُرَشَّحُ
-N;DU;NDEF;ACCتَحْلِيلٌ مُخْتَبَرِيٌّN;DU;NDEF;ACC	الْمُخْتَبَرِيَّةِ
-V;3;PL;FEM;PST;PRF;IND;PASSفَلْسَفَV;3;PL;FEM;PST;PRF;IND;PASS	تُفَلْسَفِينَ
+VĬĭĮįİıاِسْتَصْدَرَVĬĭĮįİı	تُسْتَنَّا اُسْتُصْدِرُوا نَاوَلْتُمَا
+NĲĳĴكِيلُومِتْرٌNĲĳĴ	كِيلُومِتْرَات
+ADJĭĵĳĶالْعَمِيقADJĭĵĳĶ	الْعَمِيقَةَ
+NĲķĶاِسْتِقَامَةٌNĲķĶ	اِسْتِقَامَة
+NĲķĸفِكْرَةٌNĲķĸ	الْفِكَرَ
+NĭĳĶمِعًىNĭĳĶ	الْمِعَى
+NĭķĹرَمَادٌNĭķĹ	الْأَرْمِدَةُ
+ADJĻĮķĸالسُّفْلِيADJĻĮķĸ	سُفْلِيَّةً
+ADJĲĵķĸالْمِسْكِينADJĲĵķĸ	الْمِسْكِينَةُ
+NĭķĶدَوْلَةٌNĭķĶ	الدَّوْلَةَ
+ADJĻĵĳĶالسُّوفْيَاتِيADJĻĵĳĶ	السُّوفْيَاتِي
+NĭķĴسِلَاحٌ نَوَوِيٌّNĭķĴ	الْأَسْلِحَةَ النَّوَوِيَّةَ
+NĲĳĶمَارْتِينِيNĲĳĶ	اللَّاتِينِيَّةُ
+VĬĻľĿİıاِسْتَحَمَّVĬĻľĿİı	تُهَاجَمَا أَسْتَحِمَّ تُنَاسِبَا
+ADJĲĵķĶالْجَاهِلADJĲĵķĶ	الْجَاهِلَةَ
+VĬĲĵįİŀآثَرَVĬĲĵįİŀ	أُوثِرَا
+VĬĭĵľĿİıصَارَعَVĬĭĵľĿİı	تُمَازِحَا
+VĬĭĮŁŀنَسَّىVĬĭĮŁŀ	اُسْتُكْفِفْتُمَا تَسْتَرِيحَا
+NĻķĶرُخْصَةٌNĻķĶ	الرُّخْصَةَ
+NĭķĹخُضْرَةٌNĭķĹ	الْخُضَرُ
+NĲĳĶتَاجٌNĲĳĶ	تَاج
+VĬĭĵľĿİıكَاثَرَVĬĭĵľĿİı	مُحِيتُمَا تُكَاثَرَا تُمَازِحَا
+NĭĳĶمُلْحِدٌNĭĳĶ	الْمُلْحِدُونَ
+NĲĳĹأَتَانٌNĲĳĹ	آتُن
+ADJĭĵĳĴالدَّنِيءADJĭĵĳĴ	دَنِيئًا
+VĬĭĵļıجَدَّدَVĬĭĵļı	قَامَرْتُمَا تَدْحُوَا
+NĲķĴتَبْرُوكٌNĲķĴ	بُرُوكُ
+NĭĽĴصِنَاعَةٌNĭĽĴ	تُصَانِينَ
+VĬĻļıاِعْتَرَفَVĬĻļı	أَنَرْتُمَا طَفَوْتُمَا
+NĲĳĸخُصْيَةٌNĲĳĸ	الْخُصْيَةُ
+NĲĽĴوَصْفَةٌNĲĽĴ	تُوَاتَرَانِ وَصْفَةٌ
+ADJĲĮķĹالْأَمْهَرِيADJĲĮķĹ	أَمْهَرِيٌّ
+ADJĲĮĳĹالْمُسْتَحِيلADJĲĮĳĹ	الْمُسْتَحِيلَات
+NĭķĶمِقْدَارٌNĭķĶ	الْمِقْدَارَانِ
+ADJĲĮķĶالْوَطِيءADJĲĮķĶ	الْوَطِيئَةِ
+NĭķĸهِوَايَةٌNĭķĸ	هِوَايَات
+NĲĽĸمَنَاقِيشُNĲĽĸ	شُرْغُوفِ
+VĬĲĵľĿİıاِسْتَقْرَضَVĬĲĵľĿİı	تُسْتَقْرَضِي
+NĲķĶتَرْشِيدٌNĲķĶ	تَرْشِيدًا
+NĲĽĶقُنْفُذٌNĲĽĶ	الْقُنْبُلَةُ أَفْخَاذِ
+ADJĲĮĳĶالْعَاشِرADJĲĮĳĶ	الْعَاشِرَيْنِ
+ADJĻĵĳĶالْمُتَقَدِّمADJĻĵĳĶ	الْمُتَقَدِّمَيْنِ
+NĲĳĹعَلَاءٌNĲĳĹ	عَلَاء
+NĻĳĹنَشْوَةٌNĻĳĹ	النَّشْوَةِ
+NĲĳĸجَوْرَبٌNĲĳĸ	الْجَوَارِبِ
+VĬĻįİıاِحْتَرَمَVĬĻįİı	تَسْتَمِيتَا أَيَّدْتُمَا
+NĭĳĹإِلِكْتْرُونٌNĭĳĹ	إِلِكْتْرُونَات
+NĻķĹبَرْنَامَجٌNĻķĹ	الْبَرْنَامَجَ
+NĻķĶسِكَّةٌNĻķĶ	سِكَّتَا
+NĲĳĴدَقِيقَةٌNĲĳĴ	دَقَائِقَ
+VĬĭĵľĿİŀاِسْتَحْمَلَVĬĭĵľĿİŀ	تَسْتَرِيحَا تُشَاعَا
+ADJĭĮĳĴالْأَغْلَىADJĭĮĳĴ	الْأَغْلَاتَيْن
+ADJĻĵĳĸالْعَلِيمADJĻĵĳĸ	الْعَلِيمَتَيْنِ
+ADJĻĮķĴالْقُزِيمِيADJĻĮķĴ	الْقُزِيمِيُّونَ
+NĲķĹتَنْقِيلٌNĲķĹ	تَنْقِيل
+NĲķĸرَاهِبٌNĲķĸ	الرُّهْبَانِ
+NĻķĸاِتِّفَاقٌNĻķĸ	الِاتِّفَاقَاتُ
+NĭķĸزُنْبُورٌNĭķĸ	زَنَابِير
+NĲĳĸإِسَاءَةٌNĲĳĸ	إِسَاءَةً
+VĬĲĵŁıتَشَاءَمَVĬĲĵŁı	تَشَاءَمْتُنَّ
+VĬĭĵľĿİıاِسْتَمْتَعَVĬĭĵľĿİı	تُعَاقِبَا تُشَاعَا
+NĲķĴصُرُوحَةٌNĲķĴ	صُنْدُوقَا
+NĭĳĴسَاحِرَةٌNĭĳĴ	سَاحِرَاتِ
+VĬĭĮľĿİıأَعْجَمَVĬĭĮľĿİı	تُشْكَيَا تُعَاقِبَا
+VĺĲĮľĿİıاِبْرَغَشَّVĺĲĮľĿİı	تَبْرَغِشُّ
+NĲķĴمَازِجٌNĲķĴ	اللَّازِمَتَيْنِ مَزَاجٍ
+NĲĽĴإِيقَاظٌNĲĽĴ	إِيرَانِيَّتَيْن اِسْتِيقَاظ
+NĭķĴحِذَاءٌNĭķĴ	الْأَحْذِيَةَ
+NĲĽĸعَنْكَبُوتٌ ذِئْبِيٌّNĲĽĸ	ذِئْبَانِ نَبِيٌّ
+NĲķĹحَسَّاسَةٌNĲķĹ	حَسَّاسَتَانِ
+NĲĳĴخَيَّاطٌNĲĳĴ	الْخَيَّاطِ
+NĲķĹطِوَاعٌNĲķĹ	طِوَاعُ
+NĲķĹإِبِلٌNĲķĹ	إِبِلٌ
+ADJĲĮķĴالسَّامِيADJĲĮķĴ	السَّامِيَاتِ
+NĭĽĴشِهَابٌNĭĽĴ	يُشَاهَرُ لَانِهَايَتَيْ
+NĲķĶبِرْمِيلٌNĲķĶ	الْبَرَامِيلِ
+VĬĭĵľĿİŀخَوَّشَVĬĭĵľĿİŀ	تُنَاوَلَا تَسْتَقِيلَا
+NĲķĹزَبَّالٌNĲķĹ	زَبَّالُ
+ADJĻĵĳĴالثَّالِثADJĻĵĳĴ	ثَالِثَاتٍ
+VĬĭĮľĿİıآثَرَVĬĭĮľĿİı	يُؤْثِرَا تُسْتَعَدَّا
+VĬĻŁŀاِسْتَنْفَرَVĬĻŁŀ	تَهُودَا مَحَوْتُمَا
+NĻĽĴأُسْبُوعٌNĻĽĴ	أَسَابِيعَ
+NĲĽĶاِحْقِيقَافٌNĲĽĶ	قَاف
+NĲķĶقَوْمَةٌNĲķĶ	قَوْمَةٍ
+VĺĻĵįİıاِنْتَفَخَVĺĻĵįİı	يَنْتَفِخَا
+NĭķĶمُوَظَّفٌNĭķĶ	الْمُوَظَّفَيْن
+NĭĳĸشَرْمُوطَةٌNĭĳĸ	الشَّرَامِيط
+NĲĽĸجِسْمٌNĲĽĸ	الْأَجْسَامَ
+NĲķĶاِسْتِنْسَابٌNĲķĶ	اِحْتِسَابَ
+VĺĲĵįİıأَذَاعَVĺĲĵįİı	يُذَاعَانِ
+NĭķĴجَاكِيتٌNĭķĴ	يُجَانَسُ
+VĬĭĮįİıآثَرَVĬĭĮįİı	تُشْكَيَا أُوثِرَا تُسَمَّمَا
+NĲĳĴإِرْزَازٌNĲĳĴ	إِرْزَازٍ
+NĲĽĶاِخْتِيَارٌNĲĽĶ	كَافْيَارٍ
+ADJĲĵķĹالْأَدَقّADJĲĵķĹ	أَدَقَّ
+ADJĲĮĳĸالْمَاطِرADJĲĮĳĸ	الْمَاطِرَتَيْنِ
+NĭĳĴجَبَلُ نَارٍNĭĳĴ	الْمُشْتَرِيَانِ
+NĲĽĸمَاكْيَاجٌNĲĽĸ	الْمَاكْيَاجُ
+VĬĻįİıاِقْتَبَلَVĬĻįİı	تَسْتَقِرَّا
+NĲĽĶكَيْكٌNĲĽĶ	الِارْتِبَاكِ
+ADJĲĵĳĴالدَّفِيءADJĲĵĳĴ	جَرِيئَات
+NĲķĸلُقَيْمَةٌNĲķĸ	لُقَيْمَةٍ
+ADJĻĮķĶالتَّشْرِيعِيADJĻĮķĶ	تَشْرِيعِيَّةً
+VĬĭĮįİıحَوَىVĬĭĮįİı	تُرَاجَعَا تُطَاعَا
+VĬĻļŀبَاسَVĬĻļŀ	دُحِيتُمَا تَرْتَاحَا
+NĻĽĹجَبَلُ جَلِيدٍNĻĽĹ	جَلِيد
+VĬĭĵįİŀطَاعَVĬĭĵįİŀ	تُفْسَيَا تَسْتَكِفَّا
+NĲĳĸتَسْوِيقٌNĲĳĸ	التَّسْوِيقَ
+NĻĳĶوَاعِظٌNĻĳĶ	الْوُعَّاظَ
+NĻķĶمَصْنَعٌNĻķĶ	مَصْنَعٌ
+NĲķĸثَعْلَبَةٌNĲķĸ	ثَعْلَبَات
+ADJĻĮķĹالِاثْنَا عَشَرِيADJĻĮķĹ	الِاثْنَا
+NĲĽĹاِنْتِقَامٌNĲĽĹ	اِنْتِقَامَ
+NĲĽĸتَاكْسِيNĲĽĸ	تَاكْسِي
+VĬĭĮŃıخَوَّشَVĬĭĮŃı	تُحَارِبَا تَسْتَكِفَّا
+NĲĳĴحَبِيبَةٌNĲĳĴ	حَبِيبَة
+NĲĽĶتَخْجِيلٌNĲĽĶ	تَخْجِيلٌ
+VĬĭĮļŀشَاقَVĬĭĮļŀ	تُفْسَيَا تُدْعَيَا
+NĲĽĸزِيَارَةٌNĲĽĸ	الزِّيَارَاتِ
+VĬĻļŀخَرِئَVĬĻļŀ	اِحْتَلَلْتُمَا نُخْرَأُ تُمَازِحَا
+NĲķĶكِتَابَةٌ لَاتِينِيَّةٌNĲķĶ	اللَّاتِينِيَّةُ
+ADJĻĵķĴالْمُنَاسِبADJĻĵķĴ	الْمُنَاسِبَاتِ
+ADJĲĮķĸالْعَقْلِيADJĲĮķĸ	الْعَقْلِيَّتَيْنِ
+VĬĭĵŃıاِخْشَوْشَبَVĬĭĵŃı	تُوَكَّدَا تَخْشَوْشِبَا تَسْتَقِرَّا
+VĬĭĵľĿİıغَنَّىVĬĭĵľĿİı	تُبَادَلَا
+NĲĳĸاِمْتِدَادٌNĲĳĸ	اِسْتِعْدَادَ
+NĲĳĶإِصْبَاحٌNĲĳĶ	إِصْبَاحٌ
+VĬĭĵįİıاِسْتَقْبَحَVĬĭĵįİı	نَاوَلْتُمَا اِسْتَقَلْتُمَا
+ADJĲĵĳĴالْأُنْثَوِيADJĲĵĳĴ	أُنْثَوِيَّيْن
+NĲķĸحِزَامٌNĲķĸ	الْحِزَامَاتِ
+NĲĽĶقَاعٌNĲĽĶ	الْقِيعَ
+NĻķĶاِسْتِخْدَامٌNĻķĶ	الِاسْتِخْدَامَاتِ
+NĻķĹكَلَكٌNĻķĹ	الْكَلَكَاتِ
+NĲĳĶجِهَةٌNĲĳĶ	الْجِهَاتُ
+NĲĽĸقِمَّةٌNĲĽĸ	الْقِمَّتَانِ
+NĲķĴمِفْتَاحٌNĲķĴ	مَفَاتِيحُ
+VĬĭĮľĿİŀأَحْوَجَVĬĭĮľĿİŀ	مَحَوْتُمَا فَارَقْتُمَا
+NĲĳĶاِضْمِحْلَالٌNĲĳĶ	اِضْطِرَار
+NĭķĶحَاسُوبٌNĭķĶ	الْحَاسُوبَ
+ADJĭĮķĹالْأَنْقَىADJĭĮķĹ	الْأَنْقَاةِ
+ADJĲĵĳĴالْمُعَطَّلADJĲĵĳĴ	الْمُعَطَّلَيْنِ
+NĭĽĹخَوَارِزْمِيَّةٌNĭĽĹ	الْخَوَارِزْمِيَّات
+VĺĻĮŁŀاِسْتَصْدَرَVĺĻĮŁŀ	اُسْتُصْدِرُوا
+ADJĲĵķĹالْمُضِيءADJĲĵķĹ	مُضِيئِينَ
+VĺĻĮįİıاِعْتَزَمَVĺĻĮįİı	تُعْتَزَمُو
+VĬĻŃıاِسْتَلْقَىVĬĻŃı	تَدُلَّا حُطْتُمَا
+ADJĭĵĳĶالشَّفَهِيADJĭĵĳĶ	الشَّفَهِيَّانِ
+NĭĽĸفَأْسٌNĭĽĸ	الْفُؤُوسِ
+ADJĲĮĳĴالْفَصِيحADJĲĮĳĴ	الْفَصِيحَيْنِ
+NĭķĴحَدِيقَةٌNĭķĴ	تُحَارَبْنَ
+VĬĭĮŃıاِسْتَسْقَىVĬĭĮŃı	تُسْتَرَدَّا تُسَمَّمَا
+NĲĽĴسَاقِطَةٌNĲĽĴ	تُسَاوَى
+NĲĽĸإِفْلَاحٌNĲĽĸ	الْأَسْلِحَةَ
+NĻķĹخَرُوفٌNĻķĹ	الْخَرُوفَ
+NĻķĴإِدْحِيٌّNĻķĴ	إِدْحِيَّ
+ADJĻĵķĸالْمُشْمَئِزّADJĻĵķĸ	الْمُشْمَئِزِّينَ
+ADJĻĵĳĴالْمُزْدَحِمADJĻĵĳĴ	الْمُزْدَحِمَاتِ
+NĻķĸبُنْدُقِيَّةٌNĻķĸ	الْبَنَادِقِ
+ADJĲĵĳĴالصَّافِيADJĲĵĳĴ	صَافِيَيْنِ
+VĺĭĮįİıاِسْتَحَمَّVĺĭĮįİı	أَسْتَحِمَّ
+NĲĽĴقَفَزَانٌNĲĽĴ	تُقَايَسُ
+ADJĲĵķĴالْمُشِعّADJĲĵķĴ	مُشِعَّتَيْنِ
+VĬĻŃıاِسْتَقْرَضَVĬĻŃı	حُطْتُمَا تُسْتَقْرَضُو تَدُلَّا
+ADJĭĮķĹالْأَصَمّADJĭĮķĹ	أَصَمُّ
+ADJĻĮĳĴالْمُكَلَّفADJĻĮĳĴ	مُكَلَّفًا
+VĬĭĵįİıاِشْتَهَرَVĬĭĵįİı	حَدَّدْتُمَا اِحْتَلَلْتُمَا
+NĭĳĹغَدِيرٌNĭĳĹ	الْغَدِيرَ
+VłĲļŀكَاثَرَVłĲļŀ	تُكَاثَرَا
+NĭĽĸزَاوِيَةٌNĭĽĸ	زَاوِيَتَيْ
+ADJĻĮķĸالْمُمِلّADJĻĮķĸ	الْمُمِلَّة
+VĬĭĵļıاِسْتَعْرَضَVĬĭĵļı	تُهَاجِمَا تُعَاقِبَا
+NĭĳĹنُسْخَةٌNĭĳĹ	النُّسْخَتَيْن
+ADJĭĵĳĶالتَّحْسِينِيADJĭĵĳĶ	التَّحْسِينِيَّيْنِ
+NĲĽĸبَيْنُونَةٌNĲĽĸ	كَيْنُونَةٍ
+ADJĻĵĳĶالْمُسْتَقِلّADJĻĵĳĶ	مُسْتَقِلٍّ
+NĲĳĸفِعْلٌ مُعْتَلٌّNĲĳĸ	الْمُعْتَلَّ
+NĲķĴعُطُولٌNĲķĴ	يُعَاكَسْنَ قُطُوبَ
+VĬĻįİŀضَيَّعَVĬĻįİŀ	نَاوَلْتُمَا تَسْتَمِيتَا
+NĲĳĶبَرْبَخٌNĲĳĶ	الْبَرْبَخَيْنِ
+VĬĭĵŃıشَكَاVĬĭĵŃı	تَسْتَدِيرَا قَامَرْتُمَا
+NĭĳĸبَخِيلَةٌNĭĳĸ	بَخِيلَة
+ADJĭĮĳĴالْمُسْتَعِدّADJĭĮĳĴ	الْمُسْتَعِدَّيْنِ
+ADJĲĮĳĴالرَّهِيفADJĲĮĳĴ	اِسْتِيفَاء
+VĬĻŃıلَعِقَVĬĻŃı	تُسَمَّمَا تَرْتَاحَا
+NĲķĹقِرْفَةٌNĲķĹ	قِرْفَةُ
+NĲĽĹإِيَابٌNĲĽĹ	إِيَابُ
+ADJĲĮĳĹالْمُسِنّADJĲĮĳĹ	مُسِنَّتَيْنِ
+VĬĭĵŁıاِسْتَأْمَنَVĬĭĵŁı	قَامَرْتُمَا تُسْتَنَّا
+VĬĻŁıتَعَشَّىVĬĻŁı	تُسَانِدَا تُسْتَرَدَّا
+ADJĻĵķĸالْمُسْتَحِيلADJĻĵķĸ	الْمُسْتَحِيلَات
+VŅأَذْنَبَVŅ	أُذْنِبَ
+NĲĳĴمُخَاطٌNĲĳĴ	الْمُخَاطَ
+VĬĭĮŁŀسَاءَلَVĬĭĮŁŀ	أَيَّدْتُمَا الْمُسَاءَلَة رَشَوْتُمَا
+VĬĭĵŁŀجَاوَزَVĬĭĵŁŀ	تَرْتَاحَا تُدْعَيَا
+NĲĳĶتَثْقِيلٌNĲĳĶ	التَّثْقِيل
+VĬĭĵľĿİŀاِسْتَقْطَبَVĬĭĵľĿİŀ	تُجَانِسَا تُسْتَعَدَّا
+VĬĭĵŃıذَرَاVĬĭĵŃı	تُنَاقَشَا تَذْرِينَ تُهَاجِمَا
+ADJĲĮķĹالْأَحْرَصADJĲĮķĹ	الْأَحَارِصُ
+NĲĳĹكَمِّيَّةٌNĲĳĹ	كَمِّيَّات
+NĲĽĸمِحْرَابٌNĲĽĸ	مِحْرَابَ
+NĻķĶقُنْفُذٌNĻķĶ	قُنْبُلَتَيْنِ أَفْخَاذِ
+NĲĳĸرَدْهَةٌNĲĳĸ	رَدْهَةَ
+NĭķĹنَصْرَانِيَّةٌNĭķĹ	نَصْرَانِيَّاتُ
+VĺĲĵľĿİıاِضْطَرَبَVĺĲĵľĿİı	يَضْطَرِرْنَ
+NĲķĴأُهُولٌNĲķĴ	أُهُولٌ
+ADJĲĮĳĶالدَّفِيءADJĲĮĳĶ	الرَّدِيئَتَيْنِ
+ADJĻĵķĸالرَّتِيبADJĻĵķĸ	الرَّتِيبَة
+VĬĻŁŀكَافَأَVĬĻŁŀ	تَدْحُوَا تَسْتَرِيحَا
+VĬĭĮįİıاِسْتَذْنَبَVĬĭĮįİı	أُيِّدْتُمَا نَاوَلْتُمَا
+VĺĻĵľĿİıاِخْرَوَّطَVĺĻĵľĿİı	تَخْرَوِّطِي
+NĻĽĶضَرْبَةٌNĻĽĶ	الضَّرْبَةَ
+NĲĳĹبَيَّاعٌNĲĳĹ	الْبَيَّاعَيْنِ
+NĲķĴأَنَانَاسٌNĲķĴ	النَّاس
+VĺĲĵļıبَئِسَVĺĲĵļı	تَبْأَسَانِ
+NĲĳĴاِرْثِعْنَانٌNĲĳĴ	الِارْثِعْنَانَ
+VĺĭĮľĿİŀخَطِئَVĺĭĮľĿİŀ	خُطِئُوا
+ADJĻĵķĹالنَّفِيسADJĻĵķĹ	النَّفِيسِ
+ADJĭĵķĸالْخَيَالِيADJĭĵķĸ	خَيَالِيَّةً
+NĻĽĴسِرْبٌNĻĽĴ	السِّرْبَ
+ADJĻĮķĶالتَّلْمُودِيADJĻĮķĶ	التَّلْمُودِيَّتَيْنِ
+NĻķĴوِقِيَّةٌNĻķĴ	تُوَافَقِينَ وِقِيَّاتُ
+VĬĭĮľĿİıاِسْتَحْيَاVĬĭĮľĿİı	اُسْتُكْفِفْتُمَا تَسْتَقِرَّا
+ADJĲĮĳĹالْأَجَفّADJĲĮĳĹ	أَجَفُّ
+VĬĭĵŃıاِزْدَحَمَVĬĭĵŃı	رَافَقْتُمَا تُسَمَّمَا
+NĲķĴمِرْحَاضٌNĲķĴ	مَرَاحِيض
+VĺĭĵľĿİıخَطِئَVĺĭĵľĿİı	خُطِئُوا
+NĭĽĸضِرْسٌNĭĽĸ	ضِرْسًا
+VĺĭĮŁıاِسْتَقْرَضَVĺĭĮŁı	تُسْتَقْرَضْنَ
+VĬĻįİŀأَرَاحَVĬĻįİŀ	تَسْتَكِفَّا فَارَقْتُمَا
+ADJĻĮĳĶالْقُزِيمِيADJĻĮĳĶ	الْقُزِيمِيُّونَ
+VńıاِعْتَزَمَVńı	تُعْتَزَمُو
+NĲķĹمَوْهِبَةٌNĲķĹ	الرَّاهِبَةِ
+NĲĳĶبِشَارَةٌNĲĳĶ	الْبِشَارَةِ
+NĲĳĶطَاَنَانٌNĲĳĶ	إِسْنَانٍ
+NĲķĹسَذَاجَةٌNĲķĹ	سَذَاجَةٌ
+NĻĳĹصُحُفِيَّةٌNĻĳĹ	الصُّحُفِيَّتَيْنِ
+NĲķĹاِحْتِوَاءٌNĲķĹ	اِسْتِوَاءٌ
+NĻĳĸفَاشِيَّةٌNĻĳĸ	فَاشِيَّات
+ADJĲĮķĸالْجُزَيْئِيADJĲĮķĸ	جُزَيْئِيَّات
+ADJĻĵķĶالْفَرِغADJĻĵķĶ	الْفَرِغَاتِ
+NĻķĸضَابِطٌNĻķĸ	ضَابِطًا
+VĬĭĵŁıاِنْكَفَّVĬĭĵŁı	تُنَاقَشَا نَنْكَفَّ تَسْتَرِيحَا
+NĭĳĴمَبْدَأٌNĭĳĴ	مَبْدَأَيْ
+NĲĽĶإِبِلٌNĲĽĶ	إِبِلٌ
+NĲĳĴغَدِيرٌNĲĳĴ	الْغَدِيرَ
+VĬĲĵļıاِجْتَهَدَVĬĲĵļı	اِجْتِهَاد
+NĲĳĴكَاتِدْرَائِيَّةٌNĲĳĴ	كَاتِدْرَائِيَّتَا
+NĲķĴحُفُوفٌNĲķĴ	تُحَاوَلْنَ دُفُوقٌ
+ADJĻĵķĹالطَّازَجADJĻĵķĹ	الطَّازَجَ
+NĲķĹمَائِدَةٌNĲķĹ	الْمَائِدَتَيْنِ
+NĲĽĴرِدَادٌNĲĽĴ	إِمْدَادٌ
+VĬĭĮįİıفَلْسَفَVĬĭĮįİı	تُنَاقَشَا رُوفِقْتُمَا
+VĺĭĮįİıجَرُؤَVĺĭĮįİı	تَجْرُؤُو
+NĲĳĶاِتِّسَاخٌNĲĳĶ	الِاتِّسَاخُ
+VĺĭĵľĿİıاِنْتَفَخَVĺĭĵľĿİı	يَنْتَفِخَا
+NĲķĴتَدْمِيمٌNĲķĴ	تَدْمِيم
+NĭĳĸاِفْتِتَاحٌNĭĳĸ	اِفْتِتَاح
+ADJĭĮĳĸالْكَامِلADJĭĮĳĸ	كَامِلَتَيْنِ
+NĲķĶاِخْضِيرَارٌNĲķĶ	قَرَارًا
+NĲĽĹثُمُولٌNĲĽĹ	الثُّقْبِ
+VĬĻŁıاِسْتَحْفَظَVĬĻŁı	تُنَاسِبَا تُفَادَا
+NĲĽĴخِزَانَةٌNĲĽĴ	تُخَالَطُ الْخَوَارِزْمِيَّتَيْنِ
+NĲķĴإِقْلِيمٌNĲķĴ	إِقْلِيمَ
+NĻĽĴأُغْنِيَّةٌNĻĽĴ	أُغْنِيَّاتٌ
+NĻĳĸقِطَّةٌNĻĳĸ	الْقِطَط
+NĻķĴرَاعٍNĻķĴ	رَاعِيَيْن
+ADJĭĮķĹالْأَجْسَمADJĭĮķĹ	غَائِمَيْن
+NĲķĶبَدَاءَةٌNĲķĶ	بَدَاءَة
+NĻĽĹقَرْيَةٌNĻĽĹ	قَرْيَةٍ
+NĲĳĶمَعْرَكَةٌNĲĳĶ	الْمَعْرَكَةِ
+NĲĽĴشِغَالٌNĲĽĴ	اِنْشِغَالٍ
+ADJĲĮĳĶالْوَحِيدADJĲĮĳĶ	وَحِيدٌ
+ADJĲĵĳĶالْبَاطِنِيADJĲĵĳĶ	الْبَاطِنِيَّةِ
+NĲķĶإِرْوَاحٌNĲķĶ	إِرْوَاح
+VĬĻŃıصَادَرَVĬĻŃı	مَحَوْتُمَا تُشَاعَا
+NĲĽĹاِتِّقَاءٌNĲĽĹ	اِتِّقَاءً
+ADJĻĵķĴالْأَرْطَبADJĻĵķĴ	أَرْطَبُ
+ADJĲĮķĶالْمُشْمِسADJĲĮķĶ	مُشْمِسَتَيْن
+NĲĽĸخُصْلَةٌNĲĽĸ	الْخُصْلَة
+NĲķĸتَعْيِيدٌNĲķĸ	تَعْيِين
+ADJĻĵĳĸالْأَشَدّADJĻĵĳĸ	الْأَشَدَّيْنِ
+VĺĻĮįİıسَقَطَVĺĻĮįİı	تَسْقُطُو
+VłĭįİŀسَقَىVłĭįİŀ	تُسْقَيْ
+ADJĻĮķĴالنَّظِيفADJĻĮķĴ	النَّظِيف
+ADJĻĵĳĶالْأَنِيقADJĻĵĳĶ	أَنِيقَيْنِ
+ADJĲĮĳĹالْمَشْهُودADJĲĮĳĹ	الْمَشْهُودَة
+ADJĲĵķĹالْفَظِيعADJĲĵķĹ	الْفَظِيعَةُ
+VĬĭĵļıاِسْتَعْلَمَVĬĭĵļı	تُفَارَقَا تُطَارِحَا
+NĭĳĴطِحَالٌNĭĳĴ	الطِّحَالَاتُ
+NĲķĴتَسْجِيلٌNĲķĴ	التَّسْجِيل
+ADJĭĵķĹالْأَعْظَمADJĭĵķĹ	عُظْمَى
+ADJĲĮĳĴالْأَبْرَأADJĲĮĳĴ	أَبْرَأَيْنِ
+NĲķĴاِسْتِكْتَابٌNĲķĴ	اِسْتِكْتَابًا
+NĲĽĴمَهْلِكَةٌNĲĽĴ	مَهْلِكَة
+ADJĭĵĳĹالْبُرْتُقَانِيADJĭĵĳĹ	بُرْتُقَانِيَّانِ
+ADJĻĵĳĶالْقَضِيبِيADJĻĵĳĶ	قَضِيبِيَّةٌ
+ADJĲĵķĴالْأَغْلَظADJĲĵķĴ	أَغْلَظَيْنِ
+ADJĭĵķĹالْإِبْلِيسِيADJĭĵķĹ	إِبْلِيسِيَّةً
+ADJĭĮĳĸالْخَلِيقADJĭĮĳĸ	خَلِيقَتَيْنِ
+VĺĻĮŁıحَكَىVĺĻĮŁı	يَحْكِي
+NĲĽĹلِفَافَةٌNĲĽĹ	لَفَائِفَ
+NĲĳĹإِلٰهٌNĲĳĹ	إِلٰهَيْ
+NĲķĹتَهْلُكَةٌNĲķĹ	تَهْلُكَةً
+NĻĽĸشِرْيَانٌNĻĽĸ	الشِّرْيَانَانِ
+NĻĳĹوَتِينٌNĻĳĹ	وَتِينَيْ
+NĻķĶمُمَثِّلَةٌNĻķĶ	الْمُمَثِّلَةَ
+NĲĳĶرَحِيقٌNĲĳĶ	رَحِيقَ
+ADJĲĮĳĴالْبَاطِنِيADJĲĮĳĴ	الْبَاطِنِيَّاتِ
+NĲĽĹحِمَاءٌNĲĽĹ	الْحِمَاءَ
+ADJĻĮĳĶالْمُسْتَدِيرADJĻĮĳĶ	مُسْتَدِيرَاتٍ
+NĭĳĴمَلْعَبٌNĭĳĴ	مَلْعَبَيْ
+ADJĲĮĳĸالْمُسْتَثْنَىADJĲĮĳĸ	مُسْتَثْنَيَيْنِ
+NĻķĹهَرَمٌNĻķĹ	الْأَهْرام
+NĲĳĴعَوْرَةٌNĲĳĴ	عَوْرَاتٍ
+VĬĻļŀاِعْتَزَمَVĬĻļŀ	فَارَقْتُمَا تُعْتَزَمُو فَارَقْتُمَا
+NĲĽĸتَغْرِيبٌNĲĽĸ	التَّقْرِيبُ
+NĲĳĴشِبِتٌّNĲĳĴ	الشِّبِتِّ
+NĭĽĶأَيْرٌNĭĽĶ	أَيْرَيْ
+NĲĽĴوَسْوَسَةٌNĲĽĴ	يُوَاصَلُ
+VĬĻľĿİŀلَعِقَVĬĻľĿİŀ	تُبَادَلَا قَامَرْتُمَا
+ADJĲĵĳĶالْمُمْتِعADJĲĵĳĶ	الْمُمْتِعَتَيْن
+ADJĲĮķĸالْأَشَفّADJĲĮķĸ	أَشَفَّ
+NĭķĹكَارِثَةٌNĭķĹ	الْكَارِثَتَيْنِ
+NĻĽĸاِتِّحَادٌNĻĽĸ	اِتِّحَادَاتُ
+VĬĻŃıأَدَارَVĬĻŃı	قَامَرْتُمَا تُحَارِبَا
+NĭĽĶخَرَّاطٌNĭĽĶ	الْخَيَّاطِ
+NĲĳĹعِوَانٌNĲĳĹ	الْعِوَانُ حَيَوَانَاتِ
+NĲķĹجِنَاسٌNĲķĹ	النَّاس
+NĲĳĶتُهْلُوكٌNĲĳĶ	هُلُوكٍ
+NĲĳĹبَوْلٌNĲĳĹ	الْبَوْلَانِ
+NĭĽĶمَيْدَانٌNĭĽĶ	الْمَيَادِينَ
+ADJĻĵĳĸالْفَاسِدADJĻĵĳĸ	فَاسِدًا
+NĲĽĹلُوبِيَاءٌNĲĽĹ	لُوبِيَا
+ADJĻĮĳĶاللُّبْنَانِيADJĻĮĳĶ	لُبْنَانِيًّا
+NĻķĹمِرْآةٌNĻķĹ	الْمَرَائِي
+NĻķĹوَرِيدٌNĻķĹ	وَرِيدٍ
+VĬĭĮľĿİıاِسْتَرَاحَVĬĭĮľĿİı	تَسْتَقِيلَا اِحْتَلَلْتُمَا
+ADJĭĮķĴالسَّلِسADJĭĮķĴ	السَّلِسَة
+NĲĳĸأَجْنَبِيَّةٌNĲĳĸ	أَجْنَبِيَّاتٌ
+NĻķĴتَأْشِيرَةٌNĻķĴ	التَّأْشِيرَاتِ
+NĭĽĸعَقِبٌNĭĽĸ	أَعْقَابَ
+NĲķĸفِلْفِلٌ أَسْوَدُNĲķĸ	فَلَافِل أَسْوَدَيْن
+ADJĭĵĳĹالْمُسِنّADJĭĵĳĹ	مُسِنَّتَيْنِ
+VĬĻļŀاِسْتَرَدَّVĬĻļŀ	تَرْتَاحَا تَسْتَقِيلَا
+NĲķĴلُوبِيَاءٌNĲķĴ	مُلَاقًى
+NĲķĹاِسْتِقْتَالٌNĲķĹ	اِسْتِقْتَالِ
+VĬĲĮŃıاِخْشَوْشَبَVĬĲĮŃı	تَخْشَوْشِبَا
+VłĲľĿİıاِسْتَوَىVłĲľĿİı	تُسْتَوَوْا
+ADJĲĮĳĴالْمُمْكِنADJĲĮĳĴ	الْمُمْكِنَ
+NĭĽĶقَفَّالٌNĭĽĶ	قَفَّالَيْ
+VĬĭĮļıدَمَّمَVĬĭĮļı	اُسْتُكْفِفْتُمَا اِحْتَلَلْتُمَا
+ADJĲĮķĶالْمَنْصُوبADJĲĮķĶ	الْمَنْصُوبَتَانِ
+NĻķĸتَرْتِيبٌNĻķĸ	تَرْتِيبَيْن
+NĲĳĸشِغَالٌNĲĳĸ	اِنْشِغَالٍ
+VĬĭĮŁŀهَاجَمَVĬĭĮŁŀ	تُطَاعَا وُكِّدْتُمَا
+NĲĽĴلَبُؤَةٌNĲĽĴ	مُلَاقًى لَبُؤَةٌ
+NĻĳĸفَائِدَةٌNĻĳĸ	الْفَائِدَتَانِ
+NĲĽĴتَنْمِيَةٌNĲĽĴ	تَنْمِيَةً
+NĭĽĹتَقْدِيمٌNĭĽĹ	تَقْدِيمَ
+ADJĻĵķĴالْجَافّADJĻĵķĴ	الْجَافَّتَيْن
+NĲĳĹتَنْزِيلٌNĲĳĹ	التَّنْزِيلَ
+NĻķĸبَرْزَخٌNĻķĸ	بَرَازِخُ
+VŅاِذْلَوْلَىVŅ	اِذْلَوْلَيْنَا
+NĻĳĶرُتْبَةٌNĻĳĶ	الرُّتْبَةِ
+ADJĻĵķĴالْأَجْدَرADJĻĵķĴ	أَجْدَرَ
+VĬĭĮŃıأَنَارَVĬĭĮŃı	تَرْتَاحَا تُرَاجِعَا
+VĬĻļıاِنْشَغَفَVĬĻļı	قَامَرْتُمَا تُمَازِحَا
+VĺĭĮľĿİıسَقَطَVĺĭĮľĿİı	تَسْقُطُو
+ADJĭĵĳĶالْفَلَكِيADJĭĵĳĶ	فَلَكِيَّتَيْنِ
+VĬĻįİıاِخْضَارَّVĬĻįİı	وُوفِقْتُمَا نَحْمَارَّ مَحَوْتُمَا
+NĻĽĹخَزِينَةٌNĻĽĹ	الْخَزِينَةُ
+VĬĻŁŀقَالَVĬĻŁŀ	تَهُودَا قَامَرْتُمَا
+NĭĽĴرَاعِيَةٌNĭĽĴ	رَاعِيَاتٌ
+VĺĻĵįİŀلَوَّثَVĺĻĵįİŀ	تُلَوِّثُ
+NĻĽĹزَعِيمٌNĻĽĹ	زَعِيمَ
+VĬĭĵļıأَرْسَلَVĬĭĵļı	وُوفِقْتُمَا تُشْكَيَا
+ADJĭĵķĴالرُّجُولِيADJĭĵķĴ	الرُّجُولِيَّةَ
+ADJĲĵĳĸالصَّادِقADJĲĵĳĸ	صَادِقٍ
+NĻķĹمَاشِيَةٌNĻķĹ	مَاشِيَة
+VĬĭĵļŀدَعَاVĬĭĵļŀ	تُبَادَلَا دَاعٍ وُوفِقْتُمَا
+NĭķĹسُتْرَةٌNĭķĹ	سُتْرَتَيْ
+NĲĳĴزُوَارَةٌNĲĳĴ	زُوَارَة
+NĲķĸاِخْتِرَاقٌNĲķĸ	اِحْتِرَاق
+NĻĽĶمِنْبَرٌNĻĽĶ	عَنْبَر
+NĭĳĸنَائِبٌNĭĳĸ	النَّائِبَيْنِ
+ADJĻĵĳĸالْأَلْيَنADJĻĵĳĸ	الْأَلْيَن
+ADJĭĮĳĴالزَّائِفADJĭĮĳĴ	الزَّائِف
+VĬĭĵľĿİıاِخْتَرَقَVĬĭĵľĿİı	تُنَاقَشَا تُحَارِبَا
+VĬĭĮļıنَكَحَVĬĭĮļı	تُحَارِبَا تُنْكَحْنَ اِسْتَقَلْتُمَا
+VłĭŁıاِثْنَوْنَىVłĭŁı	اِثْنَوْنَيْتُمَا
+ADJĲĵķĴالْوَاسِعADJĲĵķĴ	الْوَاسِعَةِ
+VĬĭĮŃıقَارَضَVĬĭĮŃı	تُشَاعَا قَارَضَا تُفَادَا
+VĬĭĮŁŀهَدْرَجَVĬĭĮŁŀ	تَسْتَرِيحَا تُشْكَيَا
+VĬĭĵļıاِتَّفَقَVĬĭĵļı	تُطَارِحَا وُوفِقْتُمَا
+NĲķĶقَصَادَةٌNĲķĶ	قَصَادَةٌ
+ADJĲĵĳĴالسَّرِيعADJĲĵĳĴ	سَرِيعَاتٍ
+NĻĽĴبِيئَةٌNĻĽĴ	تُبَارَوْنَ بِيئَات
+VĬĭĮŁıثَرْثَرَVĬĭĮŁı	تُدْعَيَا تُسَمَّمَا
+NĲķĴسِيَاقٌNĲķĴ	تُسَاوَى السِّيَاقَ
+ADJĲĮĳĶالْمُبْتَذَلADJĲĮĳĶ	الْمُبْتَذَلَيْنِ
+NĲķĴتَأْذِينٌNĲķĴ	التَّجْذِيرِ
+NĭĽĴإِمْبَرَاطُورِيَّةٌNĭĽĴ	إِمْبَرَاطُورِيَّة
+NĲĽĶإِكْسِيرٌNĲĽĶ	إِكْسِيرِ
+NĭĽĴسِكِّينٌNĭĽĴ	سِكِّين
+ADJĲĮĳĴالْأَزَبّADJĲĮĳĴ	الْأَزَبّ
+VĬĭĵįİıاِسْتَقْطَرَVĬĭĵįİı	تُرَاجَعَا تُجَانِسَا
+ADJĲĵķĶالطَّرِيADJĲĵķĶ	طَرِيَّات
+ADJĭĵķĶالْخُصُوصِيADJĭĵķĶ	خُصُوصِيٌّ
+ADJĲĮĳĴالنَّبِيهADJĲĮĳĴ	النَّبِيهَاتِ
+NĻĳĸسَطْرٌNĻĳĸ	السَّطْرَيْنِ
+NĭĽĹمَذْبَحَةٌNĭĽĹ	الْمَذَابِحَ
+NĭĳĸضَفِيرَةٌNĭĳĸ	الضَّفِيرَةَ
+ADJĻĵĳĶالْمَلَائِكِيADJĻĵĳĶ	الْمَلَائِكِيَّيْنِ
+VĺĲĵŁıذَرَاVĺĲĵŁı	تَذْرِينَ
+NĻĳĸخُرْطُومٌNĻĳĸ	الْخَرَاشِيف
+NĲĽĹغَبِيَّةٌNĲĽĹ	غَبِيَّتَيْ
+VĺĭĵįİŀهَنْدَسَVĺĭĵįİŀ	تُهَنْدِسْنَ
+VĬĲĮŁıظَاهَرَVĬĲĮŁı	مُظَاهَرَةٌ
+ADJĲĮķĹالْفَانِيADJĲĮķĹ	فَانِيَةٍ
+NĲĽĴنَهَارٌNĲĽĴ	تُنَافَسِينَ
+NĲĳĴخَنْجَرٌNĲĳĴ	الْأَنْجَر
+ADJĻĵĳĴالْمُتَدَاوَلADJĻĵĳĴ	الْمُتَدَاوَلَاتِ
+VĬĭĮįİıقَامَرَVĬĭĮįİı	تُنَاسِبَا تُسْتَعَدَّا
+NĭķĸسِرْبٌNĭķĸ	السِّرْبَ
+NĭĽĹتَوْقِيعٌNĭĽĹ	تَوْقِيفًا
+NĻĳĴأَيُونٌNĻĳĴ	أَيُونَ
+ADJĻĵĳĴالْمُضِرّADJĻĵĳĴ	الْمُضِرّ
+ADJĭĮĳĸالْفَرِغADJĭĮĳĸ	الْفَرِغَاتِ
+ADJĲĮķĹاللِّيبِرَالِيADJĲĮķĹ	لِيبِرَالِيٌّ
+NĲĳĴتَقْلِيدٌNĲĳĴ	تَقْلِيدًا
+NĲĽĸفُسْفُورٌNĲĽĸ	فَسَاتِينَ
+ADJĲĮķĹالْإِرَادِيADJĲĮķĹ	إِرَادِيَّاتٍ
+NĻĳĶقَصِيرَةٌNĻĳĶ	قَصِيرَاتٌ
+NĻĳĴطَرْبُوشٌNĻĳĴ	طَرَابِيش
+VłĲŁıبَطُؤَVłĲŁı	اُبْطُؤْ
+NĭĽĶمَكْتَبٌNĭĽĶ	مَكاتِبُ
+NĻķĹمَرْكَزٌNĻķĹ	مَرَاكِزَ
+ADJĻĵĳĶالْأَجْذَبADJĻĵĳĶ	جُذْبى
+NĲķĴتَغْنِيَةٌNĲķĴ	التَّغْنِيَة
+NĲĳĴقَوْلٌNĲĳĴ	أَقْوَالٌ
+NĭĽĴجُنْدٌNĭĽĴ	الْجُنُودُ
+ADJĭĵķĸالشَّيْطَانِيADJĭĵķĸ	الشَّيْطَانِيِّينَ
+ADJĲĵķĴالْمُنْدَثِرADJĲĵķĴ	الْمُنْدَثِرَتَيْنِ
+NĻĳĸيَمٌّNĻĳĸ	يَمَّيْ
+NĲķĶخَبَّازَةٌNĲķĶ	الْخَبَّازَات
+NĭĳĴمُشْتَرٍNĭĳĴ	مُشْتَرٍ
+VĺĲĮŁıاِنْكَفَّVĺĲĮŁı	نَنْكَفَّ
+NĲĳĶلَبُؤَةٌNĲĳĶ	لَبُؤَةٌ
+ADJĲĮķĴالتَّوْأَمADJĲĮķĴ	التَّوْأَمَ
+VĬĭĵįİŀاِسْتَرَدَّVĬĭĵįİŀ	تُدْعَيَا تَسْتَدِيرَا
+NĲĳĶأُسَامَةُNĲĳĶ	الْأُسَامَة
+NĲĳĸتَسِرَّةٌNĲĳĸ	التَّسِرَّةُ
+NĲĽĸزِحَامٌNĲĽĸ	زِحَامٌ
+NĲķĶجَوْرَبٌNĲķĶ	الْجَوَارِبِ
+ADJĲĵķĴالتَّرْتِيبِيADJĲĵķĴ	تَرْتِيبِيَّتَيْن
+NĲĳĴتَعْدِيدٌNĲĳĴ	تَحْدِيد
+NĻĳĸوَاسِطَةٌNĻĳĸ	الْوَاسِطَةَ
+NĭĳĹوَاجِهَةُ بَرْمَجَةِ تَطْبِيقَاتٍNĭĳĹ	حَفْلَةِ وَاجِهَتَيْ تَطْبِيقَات
+ADJĭĮĳĸالْقُرَيْشِيADJĭĮĳĸ	قُرَيْشِيٍّ
+NĲĽĹفِنْطَاسٌNĲĽĹ	الْفِنْطَاس
+NĲĽĴتَوْجِيهٌNĲĽĴ	الْوَجِيهَيْنِ
+VĬĭĮļıجَامَلَVĬĭĮļı	تَسْتَقِيلَا تُنَاوَلَا
+ADJĻĵĳĶالْمُتَوَاضِعADJĻĵĳĶ	مُتَوَاضِعَتَانِ
+ADJĻĵķĶالْأُولِمْبِيADJĻĵķĶ	أُولِمْبِيَّاتٌ
+NĲĽĴمِزْمَارٌNĲĽĴ	الْمَزَامِيرُ اِيتِمَارٍ
+NĲĽĴعُزْبَةٌNĲĽĴ	يُعَاكَسُ الْقُزِيمِيُّونَ
+NĭĳĶعَارِفَةٌNĭĳĶ	الْعَارِفَةُ
+ADJĭĵķĶالْعِرَاقِيADJĭĵķĶ	عِرَاقِيَّةٍ
+NĲĳĹاِمْتِدَادٌNĲĳĹ	اِسْتِعْدَادَ
+ADJĻĵĳĹالْأَمَامِيADJĻĵĳĹ	الْأَمَامِيَّةُ
+VĺĭĵŁŀثَبَّطَVĺĭĵŁŀ	تُثَبَّطِينَ
+NĻĳĶقَفَّالٌNĻĳĶ	قَفَّالَيْ
+NĭĽĶمَسْلَكٌNĭĽĶ	مَسْلَكٍ
+VĬĭĮŃıاِكْتَرَبَVĬĭĮŃı	رَافَقْتُمَا تُهَاجَمَا
+ADJĭĮĳĴالدَّفِيءADJĭĮĳĴ	الْأَدْنِيَاءُ
+NĲĳĹإِطْرَابٌNĲĳĹ	اِحْتِرَابَ
+NĲĽĹإِرْضَاءٌNĲĽĹ	قَضَاءَ
+ADJĻĵĳĸالْأَسْخَنADJĻĵĳĸ	الْأَسْخَن
+ADJĻĮķĶالْخَلِيقADJĻĮķĶ	الْخَلِيقَ
+VĬĭĮľĿİıأَمَاتَVĬĭĮľĿİı	تُلَامِسَا تُرَاجِعَا
+NĭķĴطَبَّاخٌNĭķĴ	يُطَاعُ الِاتِّسَاخِ
+VĺĻĵľĿİŀنَفَاVĺĻĵľĿİŀ	مَنْفُوّ
+NĲĽĸإِرَاءٌNĲĽĸ	خَرَاء
+NĲķĶبَطَاطَةٌNĲķĶ	بَطَاطَة
+VĬĻįİıجَدَّدَVĬĻįİı	تُنَاوَلَا تُسْتَرَدَّا
+NĲĳĴمُجَاوَزَةٌNĲĳĴ	مُجَاوَزَةُ
+VĬĭĮįİıاِزْدَانَVĬĭĮįİı	تَسْتَقِيلَا اِسْتَقَلْتُمَا
+ADJĻĵķĹالْبَاطِنِيADJĻĵķĹ	الْبَاطِنِيَّةِ
+VĬĲĮŁŀنَفَاVĬĲĮŁŀ	مَنْفُوّ
+NĲĽĶكُوَارْكٌ قَعْرِيٌّNĲĽĶ	الْكُوَارْكَانِ الْمُخْتَبَرِيَّةِ
+ADJĲĮĳĶالْعَامِرADJĲĮĳĶ	عَامِرَاتٍ
+NĲķĴاِنْصِرَافٌNĲķĴ	الِاعْتِرَافَاتِ
+VĬĭĮļŀاِسْتَحْسَنَVĬĭĮļŀ	وُكِّدْتُمَا وُوفِقْتُمَا
+NĲķĹصُدَاعٌNĲķĹ	صُدَاعًا
+VĬĻľĿİıجَاعَVĬĻľĿİı	اِحْتَلَلْتُمَا تَسْتَقِيلَا
+NĻķĴلَوْنٌNĻķĴ	مُلَاقًى لَوْنَانِ
+NĲĳĶحَالِمٌNĲĳĶ	الْحَالِمَيْنِ
+VĬĭĮľĿİıلَاحَظَVĬĭĮľĿİı	تُفْسَيَا مُلَاحِظ تُسْتَنَّا
+ADJĲĵĳĸالْفَاخِرADJĲĵĳĸ	الْفَاخِرَيْنِ
+NĭĽĴعَذْرَاءُNĭĽĴ	يُعَاكَسُ عَذْرَاء
+VĬĻļıاِنْكَشَفَVĬĻļı	تُطَاعَا رَشَوْتُمَا
+NĲķĴشَطَطٌNĲķĴ	يُشَاهَرُونَ الشَّطَطِ
+VĬĻŃıحَيَّاVĬĻŃı	وُكِّدْتُمَا حُيِّيتُنَّ اُسْتُكْفِفْتُمَا
+NĲĽĶتَكْسِيرٌNĲĽĶ	تَكْسِيرِ
+VĬĭĵľĿİŀرَاجَعَVĬĭĵľĿİŀ	تُجَانِسَا تَسْتَرِيحَا
+NĲĽĶتَظْلِيلٌNĲĽĶ	تَظْلِيل
+ADJĭĮĳĸالْبَئِيسADJĭĮĳĸ	الْبَئِيسَةَ
+VĬĭĵľĿİŀضَايَقَVĬĭĵľĿİŀ	قَامَرْتُمَا تُنَاقَشَا
+ADJĲĮķĴالْمُضَارِعADJĲĮķĴ	الْمُضَارِعَتَيْنِ
+VĬĭĮŁıضَيَّعَVĬĭĮŁı	تُوَكَّدَا اُسْتُكْفِفْتُمَا
+ADJĲĮĳĶالْمَوْضُوعِيADJĲĮĳĶ	الْمَوْضُوعِيَّ
+NĭĽĹبَظْرٌNĭĽĹ	بَظْرَيْ
+ADJĲĵĳĸالْجَزَائِرِيADJĲĵĳĸ	جَزَائِرِيَّاتٍ
+ADJĻĵķĸالْمُعَطَّلADJĻĵķĸ	الْمُعَطَّلَة
+ADJĭĮĳĹالْأَقْصَىADJĭĮĳĹ	أَقَاصٍ
+NĻķĹمَطْبَخٌNĻķĹ	الْمَطْبَخ
+NĭĳĹأُوقِيَّةٌNĭĳĹ	أُوقِيَّتَيْ
+NĭĽĴمَجَلَّةٌNĭĽĴ	مَجَلَّتَيْنِ
+NĭĽĴشَاحِنَةٌNĭĽĴ	يُشَاغَلُونَ الشَّاحِنَاتِ
+VĬĭĮŁıوَافَقَVĬĭĮŁı	تُدْعَيَا حُطْتُمَا
+VĺĲĮįİıاِنْكَفَّVĺĲĮįİı	نَنْكَفَّ
+NĲĽĸآلَةٌNĲĽĸ	آلَةٍ
+ADJĲĵķĶالْمُتَرَبِّيADJĲĵķĶ	الْمُتَرَبِّيَانِ
+NĻĽĴمُحَرِّكٌNĻĽĴ	مُحَرِّكَاتٍ
+ADJĭĮķĴالْهَاشِمِيADJĭĮķĴ	الْهَاشِمِيَّة
+ADJĲĵĳĸالْبَحْرَيْنِيADJĲĵĳĸ	الْبَحْرَيْنِيَّةِ
+NĲķĶوَحْشٌNĲķĶ	الْوُحُوشِ
+VĺĻĵľĿİıغَرَّVĺĻĵľĿİı	نَغُرَّ
+NĻķĶقَاعِدَةٌNĻķĶ	قَاعِدَتَانِ
+NĲĳĸطَابِقٌNĲĳĸ	طَوَابِقَ
+NĻĳĴعَصًاNĻĳĴ	عَصًا
+NĲĽĶإِنْجَازٌNĲĽĶ	إِنْجَاز
+NĻĳĶبِسَاطٌNĻĳĶ	الْبُسُط
+VĬĭĮľĿİıاِمْتَازَVĬĭĮľĿİı	تَهُودَا تُفَادَا
+NĻķĶتُرَابٌNĻķĶ	أَتْرِبَة
+VĬĭĵľĿİıحَوْقَلَVĬĭĵľĿİı	تَسْتَقِيلَا اُسْتُكْفِفْتُمَا
+NĲĽĹتَحْبِيلٌNĲĽĹ	تَحْبِيبُ
+NĭĽĹكَلَكٌNĭĽĹ	الْكَلَكَاتِ
+NĲĽĴاِسْتِدْفَاءٌNĲĽĴ	اِسْتِدْفَاء
+VłĭļıأَوَىVłĭļı	تَأْوُوا
+VĬĻŃıاِبْرَغَشَّVĬĻŃı	تُنَاقَشَا تَبْرَغِشُّ اِسْتَقَلْتُمَا
+NĭķĸمَيْدَانٌNĭķĸ	الْمَيَادِينَ
+NĲķĸجُسَيْمٌ مُضَادٌّNĲķĸ	جُسَيْم
+VĺĭĮľĿİŀعَذَّبَVĺĭĮľĿİŀ	نُعَذَّبَ
+ADJĻĵķĶالْمُزْدَوِجADJĻĵķĶ	مُزْدَوِجَيْن
+NĲĽĴمُخَاطٌNĲĽĴ	مُخَاطٍ
+NĻĽĶحِذَاءٌNĻĽĶ	الْأَحْذِيَةَ
+VĬĻŁŀطَالَVĬĻŁŀ	تُسَمَّمَا تُفَارَقَا
+NĲĳĹاِخْتِتَانٌNĲĳĹ	آتُن
+NĲĳĶإِنْهَاءٌNĲĳĶ	اِنْتِهَاءً
+VĬĭĵįİıاِعْتَقَدَVĬĭĵįİı	مَحَوْتُمَا تَفْسُوَا
+VĬĻľĿİŀجَابَVĬĻľĿİŀ	تَرْتَاحَا تَسْتَقِرَّا
+NĲķĶإِحْكَاكٌNĲķĶ	إِحْكَاك
+NĲĳĶمَعْدِنٌNĲĳĶ	مَعَادِنُ
+VĬĻļıهَاجَمَVĬĻļı	تُنَاسِبَا تَسْتَكِفَّا
+VĬĲĮŁıاِتَّكَأَVĬĲĮŁı	اِتَّكَأْتُنَّ
+VĬĭĵľĿİıاِلْتَمَسَVĬĭĵľĿİı	تُدَبِّبَا تَدْحُوَا
+NĲĽĹرَسْمِيَّةٌNĲĽĹ	رَسْمِيَّات
+NĭķĸمَرْكَزٌNĭķĸ	مَرَاكِزَ
+VĬĲĵįİıهَنَّأَVĬĲĵįİı	مُهَنَّأ
+ADJĭĮķĸالرَّدِيءADJĭĮķĸ	رَدِيئَات
+VĬĻįİıمَلَأَVĬĻįİı	تُهَاجَمَا تُهَاجِمَا
+VŅاِسْتَعْرَضَVŅ	اِنْقِرَاض
+VŅتَمَنَّىVŅ	يُتَمَنَّوْا
+NĲĳĹاِذْلِعْبَابٌNĲĳĹ	أَذْلَوْلِيَ اِسْتِحْبَابِ
+VłĭįİıرَكَّزَVłĭįİı	تُرَكِّزُ
+NĭĳĹكَأْسٌNĭĳĹ	الْكَأْسَ
+VĬĻįİıأَشَاعَVĬĻįİı	تُسْتَعَدَّا فَارَقْتُمَا
+NĭķĶعَاتِقٌNĭķĶ	الْعَاتِقَ
+ADJĲĵĳĴالْإِرَادِيADJĲĵĳĴ	إِرَادِيَّاتٍ
+NĭĳĸمَقَالٌNĭĳĸ	الْمَقَالَاتِ
+NĻĳĶبَرْلَمَانٌNĻĳĶ	الْبَرْلَمَانَيْن
+NĲĽĴبُلُوغٌNĲĽĴ	بُلُوغٍ
+NĻĳĹرَاشِدَةٌNĻĳĹ	الرَّاشِدَتَانِ
+ADJĲĮķĸالْمُبْتَذَلADJĲĮķĸ	الْمُبْتَذَلَيْنِ
+NĲĳĸوَاسِطَةٌNĲĳĸ	الْوَاسِطَةَ
+NĭĳĴرَأْسُ مَالٍNĭĳĴ	اِسْتِقْبَالٍ
+VĬĲĮŁŀغَرَّVĬĲĮŁŀ	نَغُرَّ
+VńıاِسْتَنَّVńı	اِسْتَنَّتْ
+VĬĭĵŁıاِسْتَوَىVĬĭĵŁı	تَهُودَا تُسَمَّمَا
+NĭķĴعَسْكَرٌNĭķĴ	تُعَاوَنِينَ الْمُعَسْكَرَاتِ
+NĲķĹمَغْلَبٌNĲķĹ	مَغْلَب
+NĲĽĹمُسَاءَلَةٌNĲĽĹ	الْمُسَاءَلَة
+ADJĲĵķĹالْأُنْثَوِيADJĲĵķĹ	أُنْثَوِيَّيْن
+ADJĻĵķĸالْعَبَّاسADJĻĵķĸ	الْعَبَّاسَتَيْنِ
+NĲĽĸإِرْهَابِيَّةٌNĲĽĸ	إِرْهَابِيَّاتُ
+NĲĽĸتَجْنِيسٌNĲĽĸ	الْكَنِيسُ
+VĬĭĮŁıخَرَقَVĬĭĮŁı	تَسْتَقِيلَا تُدَبِّبَا
+ADJĲĵĳĶالْأَفْسَدADJĲĵĳĶ	جُودَيَيْنِ
+VĬĭĵŁıاِسْتَنَدَVĬĭĵŁı	تُرَاجَعَا رَافَقْتُمَا
+NĲĽĸعَوْرَةٌNĲĽĸ	عَوْرَاتُ
+ADJĲĮķĹالْوَاضِحADJĲĮķĹ	الْوَاضِحَةَ
+ADJĻĮĳĶالْإِبْلِيسِيADJĻĮĳĶ	إِبْلِيسِيَّةً
+NĲĳĴخَلِيفٌNĲĳĴ	التَّكْلِيفِ
+NĲĽĶفُسُوقٌNĲĽĶ	فُسُوقُ
+VĬĭĮļıقَامَرَVĬĭĮļı	وُوفِقْتُمَا وُوفِقْتُمَا
+NĻĳĹفِرْقَةٌNĻĳĹ	الْفِرْقَةَ
+NĲĽĶاِسْتِلْقَاءٌNĲĽĶ	إِلْقَاءُ
+ADJĭĵķĹالْمُعَطَّلADJĭĵķĹ	الْمُعَطَّلَة
+VĺĭĵľĿİıاِحْوَلَّVĺĭĵľĿİı	اِحْوَلَلْتِ
+NĲĳĹتَثَاؤُبٌNĲĳĹ	التَّثَاؤُبِ
+VŅصَحَّحَVŅ	تَصْوِيب
+NĲķĸسَارِقَةٌNĲķĸ	سَارِقَتَيْ
+NĭĳĹرَغْبَةٌNĭĳĹ	رَغَبَاتٌ
+NĲĳĹوَادٍNĲĳĹ	أَوْدِيَة
+NĻĳĴنِيشَانٌNĻĳĴ	النِّيشَانَانِ
+NĻĽĸشَرِيطٌNĻĽĸ	شَرَائِت
+NĲĳĸجُولْفٌNĲĳĸ	الْجُولْفُ
+NĻĳĶزِيَارَةٌNĻĳĶ	الزِّيَارَاتِ
+ADJĭĮķĶالْمُتَزَمِّتADJĭĮķĶ	الْمُتَزَمِّتَانِ
+NĲĳĸقَصِيرَةٌNĲĳĸ	قَصِيرَاتٌ
+NĲķĸأَلْبَانِيَّةٌNĲķĸ	أَلْبَانِيَّاتٌ
+NĲĽĹإِجْهَاضٌNĲĽĹ	إِجْهَاضٍ
+ADJĻĵĳĸالْقَضِيبِيADJĻĵĳĸ	قَضِيبِيَّةٌ
+NĲĳĹزَوَالٌNĲĳĹ	الزَّوَالَ
+NĲĽĶحَشِيشٌNĲĽĶ	حَشِيشًا
+NĻķĹإِصْبَعٌNĻķĹ	إِصْبَعٍ
+NĻĽĸمُرَشَّحٌNĻĽĸ	الْمُرَشَّحُ
+NĻĳĶتَحْلِيلٌ مُخْتَبَرِيٌّNĻĳĶ	الْمُخْتَبَرِيَّةِ
+VĬĭĮľĿİıتَفَرْنَسَVĬĭĮľĿİı	تُنَاقَشَا أَنَرْتُمَا
+VĬĻļıاِسْتَكَفَّVĬĻļı	طَفَوْتُمَا مُسْتَكَفّ تُفَارَقَا

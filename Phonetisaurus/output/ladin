@@ -1,93 +1,94 @@
-V;1;SG;IND;FUTstipulerV;1;SG;IND;FUT	stipularà
-V;NFIN;LGSPEC2cundanerV;NFIN;LGSPEC2	cundaneia
-V;3;PL;SBJV;PST;IPFVudirV;3;PL;SBJV;PST;IPFV	udissa
-V;1;PL;SBJV;PRSperdeV;1;PL;SBJV;PRS	perde
-V;1;SG;SBJV;PRS;LGSPEC1giudicherV;1;SG;SBJV;PRS;LGSPEC1	giudiches
-V;IND;PRS;1;PLtramuderV;IND;PRS;1;PL	tramudeis
-V;1;PL;SBJV;PST;IPFVadaterV;1;PL;SBJV;PST;IPFV	adatassa
-V;IND;PRS;3;PL;LGSPEC2aproerV;IND;PRS;3;PL;LGSPEC2	aproeies
-V;2;SG;NFIN;LGSPEC2ndicherV;2;SG;NFIN;LGSPEC2	ndicheies
-V;NFIN;LGSPEC2seuranderV;NFIN;LGSPEC2	seurandeia
-V;2;SG;SBJV;PRS;LGSPEC1arbitrerV;2;SG;SBJV;PRS;LGSPEC1	arbitre
-V;IND;PST;3;PL;IPFVreurganiserV;IND;PST;3;PL;IPFV	reurganisovais
-V;3;PL;SBJV;PRSratificherV;3;PL;SBJV;PRS	ratificheis
-V;3;SG;IND;FUTremplazerV;3;SG;IND;FUT	remplazarà
-V;IND;PRS;3;SG;LGSPEC2aproerV;IND;PRS;3;SG;LGSPEC2	aproeies
-V;3;SG;SBJV;PRS;LGSPEC1scurterV;3;SG;SBJV;PRS;LGSPEC1	scurte
-V;2;SG;NFIN;LGSPEC2mpartirV;2;SG;NFIN;LGSPEC2	mpartesces
-V;1;PL;IND;FUTdejeujerV;1;PL;IND;FUT	dejëujarà
-V;IND;PRS;1;SG;LGSPEC1eserziterV;IND;PRS;1;SG;LGSPEC1	eserzites
-V;3;SG;SBJV;PRS;LGSPEC1danejerV;3;SG;SBJV;PRS;LGSPEC1	daneje
-V.PTCP;PSTcianterV.PTCP;PST	ciantan
-V;IND;PRS;1;PLaresterV;IND;PRS;1;PL	aresteis
-V;2;SG;SBJV;PST;IPFVscriverV;2;SG;SBJV;PST;IPFV	scrivessa
-V;IND;PRS;2;PLacrediterV;IND;PRS;2;PL	acrediton
-V;IND;PRS;2;SG;LGSPEC1resulterV;IND;PRS;2;SG;LGSPEC1	resulta
-V;IND;PST;3;PL;IPFVcapirV;IND;PST;3;PL;IPFV	capivais
-V;1;PL;IND;FUTresulterV;1;PL;IND;FUT	resultarà
-V;IND;PST;2;PL;IPFVaresterV;IND;PST;2;PL;IPFV	arestova
-V;IND;PRS;2;PLurganiserV;IND;PRS;2;PL	urganison
-V;IND;PRS;2;SG;LGSPEC1cognerV;IND;PRS;2;SG;LGSPEC1	cogna
-V;IND;PRS;3;SG;LGSPEC1stabilirV;IND;PRS;3;SG;LGSPEC1	stabiles
-V;2;SG;SBJV;PST;IPFVtradujerV;2;SG;SBJV;PST;IPFV	tradujessa
-V;2;SG;NFIN;LGSPEC1capirV;2;SG;NFIN;LGSPEC1	capes
-V;3;SG;SBJV;PRS;LGSPEC2emanerV;3;SG;SBJV;PRS;LGSPEC2	emaneies
-V;3;SG;SBJV;PST;IPFVcianterV;3;SG;SBJV;PST;IPFV	ciantassa
-V;IND;PST;1;PL;IPFVatuerV;IND;PST;1;PL;IPFV	atuova
-V;IND;PST;1;SG;IPFVressolverV;IND;PST;1;SG;IPFV	ressolvova
-V;NFIN;LGSPEC1aplicherV;NFIN;LGSPEC1	aplicha
-V;3;SG;IND;FUTalesirerV;3;SG;IND;FUT	alesirarà
-V;3;PL;SBJV;PST;IPFVdeterminerV;3;PL;SBJV;PST;IPFV	determinassa
-V;IND;PRS;1;SG;LGSPEC1trasferirV;IND;PRS;1;SG;LGSPEC1	trasferes
-V;1;SG;SBJV;PST;IPFVesterV;1;SG;SBJV;PST;IPFV	fossan
-V;3;SG;SBJV;PRSstorjerV;3;SG;SBJV;PRS	storje
-V;IND;PRS;3;SG;LGSPEC2eserziterV;IND;PRS;3;SG;LGSPEC2	eserziteies
-V;2;SG;SBJV;PST;IPFVcruzierV;2;SG;SBJV;PST;IPFV	cruziassa
-V;IND;PRS;2;PLregistrerV;IND;PRS;2;PL	registron
-V;1;SG;SBJV;PST;IPFVcunferirV;1;SG;SBJV;PST;IPFV	cunferissa
-V;2;PL;NFINsaveiV;2;PL;NFIN	sà
-V;2;PL;SBJV;PST;IPFVrespuenderV;2;PL;SBJV;PST;IPFV	respuendassa
-V;IND;PST;2;SG;IPFVgoderV;IND;PST;2;SG;IPFV	godova
-V;IND;PRS;2;SG;LGSPEC1danejerV;IND;PRS;2;SG;LGSPEC1	daneje
-V;3;PL;IND;FUTeducherV;3;PL;IND;FUT	educharà
-V;3;SG;SBJV;PRS;LGSPEC2coordinerV;3;SG;SBJV;PRS;LGSPEC2	coordineie
-V.PTCP;PST;LGSPEC2ploveiV.PTCP;PST;LGSPEC2	piever
-V;IND;PRS;1;SGvedeiV;IND;PRS;1;SG	veid
-V;IND;PST;1;PL;IPFVmeterV;IND;PST;1;PL;IPFV	metova
-V;IND;PST;2;SG;IPFVentenjerV;IND;PST;2;SG;IPFV	entenjova
-V;IND;PRS;1;SG;LGSPEC2pruibirV;IND;PRS;1;SG;LGSPEC2	pruibesces
-V;1;SG;SBJV;PRSromperV;1;SG;SBJV;PRS	rompe
-V;IND;PRS;3;PL;LGSPEC2dejeujerV;IND;PRS;3;PL;LGSPEC2	dejëujeia
-V;3;SG;SBJV;PRS;LGSPEC2ressolverV;3;SG;SBJV;PRS;LGSPEC2	ressolveie
-V.CVB;PRSarjonjerV.CVB;PRS	arjonje
-V;3;SG;IND;FUTseuranderV;3;SG;IND;FUT	seurandarà
-V;2;SG;NFINscriverV;2;SG;NFIN	scrivede
-V;3;PL;SBJV;PRS;LGSPEC1unirV;3;PL;SBJV;PRS;LGSPEC1	une
-V;2;PL;IND;FUTpasserV;2;PL;IND;FUT	passarà
-V;2;SG;SBJV;PST;IPFVudirV;2;SG;SBJV;PST;IPFV	udissais
-V;IND;PRS;1;SG;LGSPEC1deslierV;IND;PRS;1;SG;LGSPEC1	deslia
-V;IND;PST;3;PL;IPFVviverV;IND;PST;3;PL;IPFV	vivovais
-V;1;SG;SBJV;PRS;LGSPEC1gaujerV;1;SG;SBJV;PRS;LGSPEC1	gaujes
-V;IND;PRS;2;PLdamanderV;IND;PRS;2;PL	damandon
-V;3;PL;IND;FUTjonjerV;3;PL;IND;FUT	jonjarà
-V;1;SG;SBJV;PST;IPFVpodeiV;1;SG;SBJV;PST;IPFV	podessan
-V;2;PL;SBJV;PST;IPFVurganiserV;2;PL;SBJV;PST;IPFV	urganisassa
-V.CVB;PRSmpartirV.CVB;PRS	mpartion
-V;2;PL;IND;FUTatribuirV;2;PL;IND;FUT	atribuirà
-V;IND;PRS;3;SG;LGSPEC3determinerV;IND;PRS;3;SG;LGSPEC3	determinon
-V;3;SG;SBJV;PST;IPFVafermerV;3;SG;SBJV;PST;IPFV	afermassa
-V;2;SG;SBJV;PRS;LGSPEC1respuenderV;2;SG;SBJV;PRS;LGSPEC1	respuende
-V;IND;PRS;1;SGsotscriverV;IND;PRS;1;SG	sotscriv
-V;1;PL;SBJV;PST;IPFValesirerV;1;PL;SBJV;PST;IPFV	alesirasse
-V;3;SG;SBJV;PRS;LGSPEC1emanerV;3;SG;SBJV;PRS;LGSPEC1	emane
-V;IND;PRS;1;SG;LGSPEC2urganiserV;IND;PRS;1;SG;LGSPEC2	urganiseia
-V;3;PL;SBJV;PST;IPFV;LGSPEC2doveiV;3;PL;SBJV;PST;IPFV;LGSPEC2	dovessan
-V;1;PL;SBJV;PST;IPFVnjinierV;1;PL;SBJV;PST;IPFV	njiniassa
-V;IND;PRS;2;SG;LGSPEC1aplicherV;IND;PRS;2;SG;LGSPEC1	aplicha
-V;1;PL;SBJV;PRSscuterV;1;PL;SBJV;PRS	scuteis
-V;IND;PRS;2;SG;LGSPEC2spieterV;IND;PRS;2;SG;LGSPEC2	spieteia
-V;1;PL;SBJV;PRSgarantirV;1;PL;SBJV;PRS	garantieis
-V;3;SG;SBJV;PRS;LGSPEC2pronunzierV;3;SG;SBJV;PRS;LGSPEC2	pronunzieie
-V;2;SG;NFIN;LGSPEC2prejenterV;2;SG;NFIN;LGSPEC2	prejenteies
-V;IND;PST;2;PL;IPFV;LGSPEC2doveiV;IND;PST;2;PL;IPFV;LGSPEC2	dessova
-V;IND;PRS;3;SG;LGSPEC3resulterV;IND;PRS;3;SG;LGSPEC3	resulton
+VĬĭĮįstipulerVĬĭĮį	strenje
+VĲĳĴĵĶudirVĲĳĴĵĶ	conduj udì
+VĬĳĴķperdeVĬĳĴķ	veides perdova vedeis
+VĬĭĴķĸgiudicherVĬĭĴķĸ	erjes giudichova vedeis
+VĮķĬĳtramuderVĮķĬĳ	tramudarà
+VĬĳĴĵĶadaterVĬĳĴĵĶ	conduj adaté
+VĮķĲĳıaproerVĮķĲĳı	aproeie
+VĹĭİındicherVĹĭİı	messei
+VĹĭĴķĸarbitrerVĹĭĴķĸ	erjon arbitreies messei vedeis
+VĮĵĲĳĶreurganiserVĮĵĲĳĶ	reurganison
+VĲĳĴķratificherVĲĳĴķ	veides ratifiché erjon
+VĲĭĮįremplazerVĲĭĮį	restovan remplazé restovan
+VĮķĲĭıaproerVĮķĲĭı	restovais aproeie ndichovais
+VĲĭĴķĸscurterVĲĭĴķĸ	erjeis scurté erjon
+VĹĭİımpartirVĹĭİı	mpartion messei
+VĬĳĮįdejeujerVĬĳĮį	conduje
+VĮķĬĭĸeserziterVĮķĬĭĸ	fat eserziteie jù
+VĲĭĴķĸdanejerVĲĭĴķĸ	erjon daneja vedeis
+VĮķĲĳarjonjerVĮķĲĳ	arestaron arjonjaron
+V.PTCPĵcianterV.PTCPĵ	cianteies
+VĮķĬĳaresterVĮķĬĳ	aresteie
+VĹĭĴĵĶscriverVĹĭĴĵĶ	scriv messei conduj
+VĮķĹĳacrediterVĮķĹĳ	arestaré cruzieia cunzedede
+VĮķĹĭĸresulterVĮķĹĭĸ	jù resulteie plovù
+VĮĵĲĳĶcapirVĮĵĲĳĶ	capion
+VĬĳĮįresulterVĬĳĮį	resulté conduje
+VĮĵĹĳĶaresterVĮĵĹĳĶ	aresteies
+VĮķĹĳurganiserVĮķĹĳ	usservaras reurganisaré
+VĮķĹĭĸcognerVĮķĹĭĸ	plovù cogneie plovù
+VĮķĲĭĸstabilirVĮķĲĭĸ	plovù stabilion nevù
+VĹĭĴĵĶtradujerVĹĭĴĵĶ	traduje messei
+VĹĭİĸcapirVĹĭİĸ	capion messei
+VĲĭĴķıemanerVĲĭĴķı	veides emaneies erjon
+VĲĭĴĵĶcianterVĲĭĴĵĶ	conduj cianteis
+VĮĵĬĳĶatuerVĮĵĬĳĶ	atueis
+VĮĵĬĭĶressolverVĮĵĬĭĶ	jus ressolvon jus
+VİĸaplicherVİĸ	apliché
+VĲĭĮįalesirerVĲĭĮį	alesiré
+VĲĳĴĵĶdeterminerVĲĳĴĵĶ	determinon
+VĮķĬĭĸtrasferirVĮķĬĭĸ	fat trasferion nevù
+VĹĳİndicherVĹĳİ	messei
+VĬĭĴĵĶesterVĬĭĴĵĶ	educheia
+VĲĭĴķstorjerVĲĭĴķ	veides erjon
+VĮķĲĭıeserziterVĮķĲĭı	eserziteie restovais
+VĹĭĴĵĶcruzierVĹĭĴĵĶ	cruzieies messei
+VĮķĹĳregistrerVĮķĹĳ	registron
+VĬĭĴĵĶcunferirVĬĭĴĵĶ	cunferiva
+VĹĳİsaveiVĹĳİ	savon
+VĹĳĴĵĶrespuenderVĹĳĴĵĶ	conduj respuendé messei
+VĮĵĹĭĶgoderVĮĵĹĭĶ	nevus godon nevus
+VĮķĹĭĸdanejerVĮķĹĭĸ	plovù danejeie plovù
+V.PTCPĵejaminerV.PTCPĵ	ejamines
+VĲĳĮįeducherVĲĳĮį	educheies conduje
+VĲĭĴķıcoordinerVĲĭĴķı	erjes coordiné erjon
+VĮķĬĭvedeiVĮķĬĭ	viulé cunzedesses
+VĮĵĹĭĶentenjerVĮĵĹĭĶ	nevus entenjes jus
+VĮķĬĭıpruibirVĮķĬĭı	pruibion restoves
+VĬĭĴķromperVĬĭĴķ	veides rompova erjes
+VĮķĲĳıdejeujerVĮķĲĳı	dejëujon
+VĲĭĴķıressolverVĲĭĴķı	erjes ressolves erjon
+V.CVBķarjonjerV.CVBķ	arjonjes
+VĲĭĮįseuranderVĲĭĮį	ndichovan restove
+VĹĭİscriverVĹĭİ	scrivessa messei
+VĲĳĴķĸunirVĲĳĴķĸ	erjon unir erjes
+VĹĳĮįpasserVĹĳĮį	passeie messei conduje
+VĹĭĴĵĶudirVĹĭĴĵĶ	udì messei
+VĮķĬĭĸdeslierVĮķĬĭĸ	nevù deslieie nevù
+VĮĵĲĳĶviverVĮĵĲĳĶ	viulé
+VĬĭĴķĸgaujerVĬĭĴķĸ	erjeis gaujer vedeis
+VĮķĹĳdamanderVĮķĹĳ	dormiras
+VĲĳĮįjonjerVĲĳĮį	arjonjù conduje
+VĬĭĴĵĶpodeiVĬĭĴĵĶ	conduj pò
+VĹĳĴĵĶurganiserVĹĳĴĵĶ	urganiseies messei conduj
+V.CVBķmpartirV.CVBķ	mparte
+VĹĳĮįatribuirVĹĳĮį	atribuesc messei conduje
+VĮķĲĭĺdeterminerVĮķĲĭĺ	fata determinon deda
+VĲĭĴĵĶafermerVĲĭĴĵĶ	afermé
+VĹĭĴķĸrespuenderVĹĭĴķĸ	vedeis respuender messei erjes
+VĮķĬĭsotscriverVĮķĬĭ	sotscrit
+VĬĳĴĵĶalesirerVĬĳĴĵĶ	conduj alesiré
+VĲĭĴķĸemanerVĲĭĴķĸ	erjon emaner veides
+VĮķĬĭıurganiserVĮķĬĭı	restovais urganison restovais
+VĲĳĴĵĶıdoveiVĲĳĴĵĶı	desseis conduj
+VĬĳĴĵĶnjinierVĬĳĴĵĶ	njinié conduj
+VĮķĹĭĸaplicherVĮķĹĭĸ	jù aplichon fat
+VĬĳĴķscuterVĬĳĴķ	vedeis scouteia vedeis
+VĮķĹĭıspieterVĮķĹĭı	spieton restovais
+VĬĳĴķgarantirVĬĳĴķ	veides garantes veides
+VĲĭĴķıpronunzierVĲĭĴķı	vedeis erjeis
+VĹĭİıprejenterVĹĭİı	prejenté messei
+VĹĭİcondujerVĹĭİ	condujessa messei
+VĮĵĹĳĶıdoveiVĮĵĹĳĶı	desson
+VĮķĲĭĺaplicherVĮķĲĭĺ	aplichon plovuda
+VĮķĲĭĺresulterVĮķĲĭĺ	deda resulteie deda

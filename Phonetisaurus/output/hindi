@@ -1,996 +1,997 @@
-V;2;PL;PROG;PRS;MASCपानाV;2;PL;PROG;PRS;MASC	रहे हो
-V;3;PL;HAB;LGSPEC3;MASCचुरानाV;3;PL;HAB;LGSPEC3;MASC	चुराे होंगे
-V;1;PL;PRF;LGSPEC4;FEMलड़नाV;1;PL;PRF;LGSPEC4;FEM	लड़ होती
-V;2;PL;PROG;LGSPEC3;FEMपिघलनाV;2;PL;PROG;LGSPEC3;FEM	पिघल रही होंगी
-V;1;PL;HAB;PRS;FEMचढ़नाV;1;PL;HAB;PRS;FEM	चढ़ती हैं
-V;3;PL;PROG;PRS;FEMआरम्भ करनाV;3;PL;PROG;PRS;FEM	आरम्भ कर रही हैं
-V;3;PL;PROG;LGSPEC4;FEMबननाV;3;PL;PROG;LGSPEC4;FEM	बनती रही होती
-V;1;SG;HAB;LGSPEC4;FEMभेजनाV;1;SG;HAB;LGSPEC4;FEM	भेजती होती
-V;2;SG;PRF;SBJV;FEMजगनाV;2;SG;PRF;SBJV;FEM	जगी हो
-V;3;SG;PRF;LGSPEC3;MASCसहमनाV;3;SG;PRF;LGSPEC3;MASC	सहम होगा
-V;2;SG;PRF;LGSPEC4;FEMउड़ानाV;2;SG;PRF;LGSPEC4;FEM	उड़ाई होती
-V;2;SG;PROG;PRS;FEMसंभोग करनाV;2;SG;PROG;PRS;FEM	संभोग कर रही है
-V;3;PL;SBJVफँसनाV;3;PL;SBJV	ये फँसे
-V;2;PL;PROG;LGSPEC4;FEMचबानाV;2;PL;PROG;LGSPEC4;FEM	चबाई रही होती
-V;1;SG;HAB;PST;MASCमाफ़ करनाV;1;SG;HAB;PST;MASC	माफ़ करता था
-V;1;SG;PRF;PRS;FEMठीक होनाV;1;SG;PRF;PRS;FEM	ठीक होया हूँ
-V;2;PL;PRF;LGSPEC4;MASCपिघलनाV;2;PL;PRF;LGSPEC4;MASC	पिघलते होते
-V;1;PL;SBJVसड़नाV;1;PL;SBJV	हम
-V;2;SG;SBJV;FEMअध्ययन करनाV;2;SG;SBJV;FEM	तू अध्ययन करेगी
-V;V.PTCP;MASC;PL;IPFVस्वप्न देखनाV;V.PTCP;MASC;PL;IPFV	स्वप्न देखते
-V;2;PL;SBJV;MASCबननाV;2;PL;SBJV;MASC	तुम
-V;3;PL;SBJVखोलनाV;3;PL;SBJV	ये खोलते
-V;1;PL;PROG;SBJV;FEMउड़ानाV;1;PL;PROG;SBJV;FEM	उड़ाती रही हों
-V;1;SG;HAB;LGSPEC4;FEMप्रयत्न करनाV;1;SG;HAB;LGSPEC4;FEM	प्रयत्न करती होती
-V;3;PL;PROG;LGSPEC3;FEMबेचनाV;3;PL;PROG;LGSPEC3;FEM	बेची रही होंगी
-V;3;PL;PROG;PRS;FEMझूमनाV;3;PL;PROG;PRS;FEM	झूम रही हैं
-V;2;SG;SBJV;FEMछिपानाV;2;SG;SBJV;FEM	तू छिपाओगी
-V;1;PL;SBJVटेंटुआ दबानाV;1;PL;SBJV	हम टेंटुआ दबाएंगी
-V;2;SG;HAB;LGSPEC4;MASCबचनाV;2;SG;HAB;LGSPEC4;MASC	बचे होता
-V;2;PL;PROG;LGSPEC3;FEMबेचनाV;2;PL;PROG;LGSPEC3;FEM	बेच रही होंगी
-V;1;SG;HAB;LGSPEC3;FEMबननाV;1;SG;HAB;LGSPEC3;FEM	बन हूँगी
-V;3;SG;PROG;LGSPEC3;MASCनहानाV;3;SG;PROG;LGSPEC3;MASC	नहाते रहा होगा
-V;3;PL;PROG;LGSPEC4;FEMछुटनाV;3;PL;PROG;LGSPEC4;FEM	छुटी रही होती
-V;2;PL;HAB;LGSPEC4;MASCमस्ती करनाV;2;PL;HAB;LGSPEC4;MASC	मस्ती करते होते
-V;3;SG;PRF;LGSPEC3;MASCप्रवेश करनाV;3;SG;PRF;LGSPEC3;MASC	प्रवेश किया होगा
-V;3;SG;SBJV;FEMस्वप्न देखनाV;3;SG;SBJV;FEM	यह स्वप्न देखेगी
-V;1;PL;PROG;PRS;FEMछींकनाV;1;PL;PROG;PRS;FEM	छींक रही हैं
-V;3;PL;HAB;SBJV;FEMना करनाV;3;PL;HAB;SBJV;FEM	करते हों
-V;3;SG;SBJVअपना पालक पनीर देखनाV;3;SG;SBJV	यह अपनाए पनीर देखेगी
-V;2;PL;SBJV;MASCजपनाV;2;PL;SBJV;MASC	तुम जपे
-V;3;PL;PRF;PST;MASCहगनाV;3;PL;PRF;PST;MASC	थे
-V;3;PL;PRF;PST;MASCबनानाV;3;PL;PRF;PST;MASC	बनाए थे
-V;3;PL;PROG;PRS;MASCबोलनाV;3;PL;PROG;PRS;MASC	बोल रहे हैं
-V;3;PL;SBJV;MASCबेचनाV;3;PL;SBJV;MASC	ये बेच
-V;2;SG;HAB;LGSPEC3;MASCबैठनाV;2;SG;HAB;LGSPEC3;MASC	बैठा होगा
-V;3;SG;HAB;SBJV;MASCछीलनाV;3;SG;HAB;SBJV;MASC	छीला हो
-V;1;SG;PRF;LGSPEC4;MASCसेक्स करनाV;1;SG;PRF;LGSPEC4;MASC	सेक्स किया होता
-V;3;PL;HAB;SBJV;FEMबोलनाV;3;PL;HAB;SBJV;FEM	बोलती हों
-V;1;PL;PRF;SBJV;FEMमतलब होनाV;1;PL;PRF;SBJV;FEM	मतलब होएंगे हों
-V;1;PL;PROG;LGSPEC4;FEMउलटी करनाV;1;PL;PROG;LGSPEC4;FEM	उलटी कर रही होती
-V;3;SG;PRF;LGSPEC4;MASCऐश करनाV;3;SG;PRF;LGSPEC4;MASC	ऐश किया होता
-V;1;PL;PROG;PRS;FEMसहमानाV;1;PL;PROG;PRS;FEM	सहमा रही हैं
-V;3;SG;PRF;SBJV;MASCखोलनाV;3;SG;PRF;SBJV;MASC	खोले हो
-V;NFIN;LGSPEC2उतरनाV;NFIN;LGSPEC2	उतरती करने
-V;NFIN;LGSPEC2कुरेदनाV;NFIN;LGSPEC2	कुरेदी करने
-V;1;SG;PRF;SBJV;MASCघुसनाV;1;SG;PRF;SBJV;MASC	घुस हूँ
-V;3;PL;HAB;SBJV;MASCझाड़नाV;3;PL;HAB;SBJV;MASC	झाड़ता हों
-V;2;PL;HAB;LGSPEC3;MASCलिखनाV;2;PL;HAB;LGSPEC3;MASC	लिखा होगे
-V;2;PL;PRF;SBJV;MASCकूटनाV;2;PL;PRF;SBJV;MASC	कूटते हो
-V;2;PL;PROG;SBJV;MASCमोड़नाV;2;PL;PROG;SBJV;MASC	मोड़े रहे हो
-V;3;PL;PRF;LGSPEC4;FEMअंछर मारनाV;3;PL;PRF;LGSPEC4;FEM	अंछर मारया होती
-V;3;PL;PROG;SBJV;FEMपहननाV;3;PL;PROG;SBJV;FEM	पहन रही हों
-V;2;PL;PRF;LGSPEC4;FEMरचनाV;2;PL;PRF;LGSPEC4;FEM	रचती होती
-V;1;SG;PRF;LGSPEC3;FEMझाड़नाV;1;SG;PRF;LGSPEC3;FEM	झाड़ी हूँगी
-V;3;PL;PROG;SBJV;FEMछुटनाV;3;PL;PROG;SBJV;FEM	छुटी रही हों
-V;2;SG;PRF;LGSPEC4;FEMचुसनाV;2;SG;PRF;LGSPEC4;FEM	चुसी होती
-V;1;PL;PRF;LGSPEC4;FEMठगनाV;1;PL;PRF;LGSPEC4;FEM	ठगी होती
-V;1;PL;HAB;PST;FEMमनानाV;1;PL;HAB;PST;FEM	मनाती थीं
-V;3;SG;SBJVभेजनाV;3;SG;SBJV	यह भेजा
-V;2;PL;HAB;PRS;MASCनहानाV;2;PL;HAB;PRS;MASC	नहाता हो
-V;3;PL;PRF;LGSPEC3;MASCअंछर मारनाV;3;PL;PRF;LGSPEC3;MASC	अंछर मारया होंगे
-V;2;SG;PRF;LGSPEC4;MASCत्यागनाV;2;SG;PRF;LGSPEC4;MASC	त्यागा होता
-V;1;SG;HAB;LGSPEC3;MASCगुणा करनाV;1;SG;HAB;LGSPEC3;MASC	गुणा करती हूँगा
-V;1;SG;SBJV;FEMसाफ़ करनाV;1;SG;SBJV;FEM	मैं साफ़ करूं
-V;3;SG;HAB;LGSPEC4;MASCउड़नाV;3;SG;HAB;LGSPEC4;MASC	उड़ता होता
-V;1;PL;PROG;PST;FEMगुणा करनाV;1;PL;PROG;PST;FEM	गुणा कर रही थीं
-V;2;SG;PRF;PST;MASCबर्दाश्त करनाV;2;SG;PRF;PST;MASC	बर्दाश्त किया था
-V;3;PL;SBJVपहननाV;3;PL;SBJV	ये पहनी
-V;1;SG;PRF;PRS;FEMपड़नाV;1;SG;PRF;PRS;FEM	पड़ी हूँ
-V;2;SG;PROG;PST;MASCइलाज करनाV;2;SG;PROG;PST;MASC	इलाज कर रहा था
-V;3;PL;PROG;PST;MASCमिलानाV;3;PL;PROG;PST;MASC	मिला रहे थे
-V;1;SG;PROG;PST;MASCसमझनाV;1;SG;PROG;PST;MASC	समझ रहा था
-V;3;SG;PRF;PST;FEMबर्दाश्त करनाV;3;SG;PRF;PST;FEM	बर्दाश्त किया थी
-V;3;SG;PROG;LGSPEC4;MASCचाटनाV;3;SG;PROG;LGSPEC4;MASC	चाट रहा होता
-V;3;SG;PROG;LGSPEC3;FEMदोहरानाV;3;SG;PROG;LGSPEC3;FEM	दोहरा रही होगी
-V;1;PL;PROG;LGSPEC3;MASCस्वप्न देखनाV;1;PL;PROG;LGSPEC3;MASC	स्वप्न देखूँगी रहे होंगे
-V;2;SG;PROG;LGSPEC3;FEMसुधारनाV;2;SG;PROG;LGSPEC3;FEM	सुधार रही होगी
-V;3;SG;PRF;LGSPEC3;FEMलौटनाV;3;SG;PRF;LGSPEC3;FEM	लौट होगी
-V;3;PL;SBJV;FEMपूजा करनाV;3;PL;SBJV;FEM	ये पूजा करेंगी
-V;3;SG;PROG;LGSPEC4;MASCचुकनाV;3;SG;PROG;LGSPEC4;MASC	चुके रहा होता
-V;3;PL;HAB;SBJV;FEMसूंघनाV;3;PL;HAB;SBJV;FEM	सूंघी हों
-V;2;SG;HAB;PST;FEMनहानाV;2;SG;HAB;PST;FEM	नहाती थी
-V;3;PL;HAB;PRS;FEMसोचनाV;3;PL;HAB;PRS;FEM	सोचती हैं
-V;1;PL;PROG;PST;MASCपिटनाV;1;PL;PROG;PST;MASC	पिट रहे थे
-V;1;SG;PRF;PRS;MASCपीनाV;1;SG;PRF;PRS;MASC	पीए हूँ
-V;2;SG;PRF;LGSPEC3;MASCहस्तमैथुन करनाV;2;SG;PRF;LGSPEC3;MASC	हस्तमैथुन किया होगा
-V;2;SG;HAB;LGSPEC3;MASCगिरफ़्तार करनाV;2;SG;HAB;LGSPEC3;MASC	गिरफ़्तार करता होगा
-V;1;PL;PROG;SBJV;FEMबननाV;1;PL;PROG;SBJV;FEM	बनी रही हों
-V;3;PL;HAB;SBJV;MASCझूमनाV;3;PL;HAB;SBJV;MASC	झूमे हों
-V;2;PL;PRF;PST;MASCझगड़नाV;2;PL;PRF;PST;MASC	थे
-V;1;PL;PRF;PRS;MASCभूलनाV;1;PL;PRF;PRS;MASC	भूल हैं
-V;3;PL;PROG;LGSPEC3;MASCसुनानाV;3;PL;PROG;LGSPEC3;MASC	सुना रहे होंगे
-V;3;PL;HAB;LGSPEC3;MASCप्रेम करनाV;3;PL;HAB;LGSPEC3;MASC	करते होंगे
-V;2;PL;PRF;LGSPEC3;MASCजोड़नाV;2;PL;PRF;LGSPEC3;MASC	होगे
-V;2;PL;SBJVनहानाV;2;PL;SBJV	तुम नहाते
-V;2;PL;SBJVछोड़नाV;2;PL;SBJV	तुम
-V;2;SG;PRF;PRS;MASCसाफ़ करनाV;2;SG;PRF;PRS;MASC	साफ़ किया है
-V;2;PL;PROG;LGSPEC4;FEMउबलनाV;2;PL;PROG;LGSPEC4;FEM	उबल रही होती
-V;2;SG;PROG;LGSPEC4;MASCयाद करनाV;2;SG;PROG;LGSPEC4;MASC	कर रहा होता
-V;1;SG;PROG;SBJV;MASCबात करनाV;1;SG;PROG;SBJV;MASC	बात कर रहा हूँ
-V;2;PL;PROG;PST;MASCचढ़ानाV;2;PL;PROG;PST;MASC	चढ़ा रहे थे
-V;1;SG;PRF;SBJV;MASCबैठनाV;1;SG;PRF;SBJV;MASC	बैठे हूँ
-V;2;SG;PRF;PST;MASCजगनाV;2;SG;PRF;PST;MASC	जगता था
-V;2;PL;PRF;PRS;FEMबजानाV;2;PL;PRF;PRS;FEM	बजाई हो
-V;1;SG;HAB;PRS;FEMमतलब होनाV;1;SG;HAB;PRS;FEM	मतलब होती हूँ
-V;2;SG;HAB;PST;FEMलटकनाV;2;SG;HAB;PST;FEM	लटकती थी
-V;3;SG;SBJV;MASCहटनाV;3;SG;SBJV;MASC	यह
-V;3;PL;PROG;PRS;FEMनफ़रत करनाV;3;PL;PROG;PRS;FEM	नफ़रत कर रही हैं
-V;2;PL;HAB;PRS;MASCनिकलनाV;2;PL;HAB;PRS;MASC	निकलता हो
-V;V.PTCP;FEM;SG;IPFVरखनाV;V.PTCP;FEM;SG;IPFV	रखती
-V;3;PL;PROG;LGSPEC3;FEMसेक्स करनाV;3;PL;PROG;LGSPEC3;FEM	सेक्स कर रही होंगी
-V;3;PL;HAB;SBJV;MASCसहमनाV;3;PL;HAB;SBJV;MASC	सहमते हों
-V;1;SG;PROG;PST;FEMकुरेदनाV;1;SG;PROG;PST;FEM	कुरेद रही थी
-V;2;SG;PROG;LGSPEC3;FEMबर्दाश्त करनाV;2;SG;PROG;LGSPEC3;FEM	बर्दाश्त कर रही होगी
-V;3;PL;HAB;LGSPEC4;FEMबोलनाV;3;PL;HAB;LGSPEC4;FEM	बोलती होती
-V;2;SG;SBJV;FEMजागनाV;2;SG;SBJV;FEM	तू जाग
-V;2;PL;PROG;SBJV;MASCछेड़नाV;2;PL;PROG;SBJV;MASC	छेड़ रहे हो
-V;1;PL;PROG;LGSPEC3;FEMछापनाV;1;PL;PROG;LGSPEC3;FEM	छाप रही होंगी
-V;1;SG;PROG;SBJV;FEMअंगारे बरसनाV;1;SG;PROG;SBJV;FEM	बरस रही हूँ
-V;1;SG;HAB;LGSPEC3;MASCआदर करनाV;1;SG;HAB;LGSPEC3;MASC	आदर करती हूँगा
-V;2;PL;PRF;PST;MASCभागनाV;2;PL;PRF;PST;MASC	भाग थे
-V;V.PTCP;MASC;SG;IPFVसहमानाV;V.PTCP;MASC;SG;IPFV	सहमाऊंगी
-V;1;PL;PRF;SBJV;MASCबाटनाV;1;PL;PRF;SBJV;MASC	बाटएंगे हों
-V;1;SG;PROG;PST;MASCचोदनाV;1;SG;PROG;PST;MASC	चोद रहा था
-V;1;PL;PRF;LGSPEC3;FEMसोचनाV;1;PL;PRF;LGSPEC3;FEM	सोचती होंगी
-V;2;PL;IMP;FORMदोहरानाV;2;PL;IMP;FORM	दोहरा
-V;3;SG;PROG;LGSPEC3;FEMबिखरनाV;3;SG;PROG;LGSPEC3;FEM	बिखरी रही होगी
-V;2;SG;PRF;LGSPEC4;MASCभुननाV;2;SG;PRF;LGSPEC4;MASC	भुन होता
-V;3;PL;PROG;PST;MASCडरनाV;3;PL;PROG;PST;MASC	डरे रहे थे
-V;3;SG;HAB;PRS;FEMआग्रह करनाV;3;SG;HAB;PRS;FEM	आग्रह करता है
-V;3;SG;PRF;PST;FEMहिलनाV;3;SG;PRF;PST;FEM	हिल थी
-V;V.PTCP;MASC;SG;IPFVहल चलानाV;V.PTCP;MASC;SG;IPFV	हल चलाती
-V;1;SG;PRF;LGSPEC3;MASCकुरेदनाV;1;SG;PRF;LGSPEC3;MASC	कुरेद हूँगा
-V;3;SG;HAB;LGSPEC4;FEMडलवानाV;3;SG;HAB;LGSPEC4;FEM	डलवाती होती
-V;2;PL;PRF;SBJV;FEMनशा करनाV;2;PL;PRF;SBJV;FEM	नशा कियी हो
-V;3;SG;HAB;LGSPEC4;FEMबटोरनाV;3;SG;HAB;LGSPEC4;FEM	बटोरी होती
-V;1;PL;PRF;LGSPEC3;MASCचोट करनाV;1;PL;PRF;LGSPEC3;MASC	चोरी किये होंगे
-V;3;SG;HAB;SBJV;FEMछींकनाV;3;SG;HAB;SBJV;FEM	छींकती हो
-V;2;PL;HAB;LGSPEC3;FEMअंगारा होनाV;2;PL;HAB;LGSPEC3;FEM	अंगारा होती होगी
-V;3;SG;PRF;SBJV;FEMपहुँचनाV;3;SG;PRF;SBJV;FEM	पहुँचती हो
-V;3;SG;SBJVसड़नाV;3;SG;SBJV	यह
-V;3;PL;PRF;LGSPEC4;FEMअंगारे बरसनाV;3;PL;PRF;LGSPEC4;FEM	बरसे होती
-V;1;PL;PRF;LGSPEC3;MASCसहमानाV;1;PL;PRF;LGSPEC3;MASC	सहमाते होंगे
-V;3;PL;HAB;PST;FEMलौटनाV;3;PL;HAB;PST;FEM	लौटती थीं
-V;1;PL;HAB;PST;MASCझगड़नाV;1;PL;HAB;PST;MASC	थे
-V;1;PL;HAB;PRS;FEMठगनाV;1;PL;HAB;PRS;FEM	ठग हैं
-V;2;SG;HAB;PST;FEMशुक्रिया करनाV;2;SG;HAB;PST;FEM	शुक्रिया करता थी
-V;1;SG;HAB;LGSPEC4;MASCतैरानाV;1;SG;HAB;LGSPEC4;MASC	तैरा होता
-V;1;PL;PROG;LGSPEC4;FEMठगनाV;1;PL;PROG;LGSPEC4;FEM	ठग रही होती
-V;2;PL;IMP;FORMटपकनाV;2;PL;IMP;FORM	टपको
-V;3;SG;PROG;PST;MASCग़लत करनाV;3;SG;PROG;PST;MASC	ग़लत कर रहा था
-V;3;PL;HAB;PST;FEMगिरफ़्तार करनाV;3;PL;HAB;PST;FEM	गिरफ़्तार करते थीं
-V;2;SG;PRF;LGSPEC3;FEMभौंह चढ़ानाV;2;SG;PRF;LGSPEC3;FEM	भौंह चढ़ाती होगी
-V;3;PL;PRF;SBJV;MASCनिर्माण करनाV;3;PL;PRF;SBJV;MASC	किये हों
-V;1;PL;PROG;PRS;FEMजलानाV;1;PL;PROG;PRS;FEM	जला रही हैं
-V;3;SG;SBJV;FEMतौबा करनाV;3;SG;SBJV;FEM	यह तौबा करेगी
-V;3;SG;PRF;PST;FEMचूमनाV;3;SG;PRF;PST;FEM	चूमी थी
-V;2;PL;PRF;PRS;MASCकुरेदनाV;2;PL;PRF;PRS;MASC	कुरेदे हो
-V;1;PL;PRF;PST;MASCपीनाV;1;PL;PRF;PST;MASC	पीए थे
-V;1;PL;PRF;LGSPEC4;FEMघृणा करनाV;1;PL;PRF;LGSPEC4;FEM	घृणा किये होती
-V;1;PL;SBJV;FEMपसीजनाV;1;PL;SBJV;FEM	हम पसीजती
-V;3;SG;HAB;PRS;FEMचलनाV;3;SG;HAB;PRS;FEM	चली है
-V;3;SG;PROG;SBJV;MASCथामनाV;3;SG;PROG;SBJV;MASC	थामा रहा हो
-V;1;PL;PROG;LGSPEC3;MASCझूठ बोलनाV;1;PL;PROG;LGSPEC3;MASC	झूल बोल रहे होंगे
-V;3;SG;PROG;LGSPEC4;FEMपानाV;3;SG;PROG;LGSPEC4;FEM	पाती रही होती
-V;2;SG;SBJV;MASCदबानाV;2;SG;SBJV;MASC	तू दबा
-V;1;PL;PROG;SBJV;MASCसहमानाV;1;PL;PROG;SBJV;MASC	सहमाते रहे हों
-V;V.PTCP;MASC;SG;PFVसहायता करनाV;V.PTCP;MASC;SG;PFV	सहायता करते
-V;1;PL;SBJV;FEMटपकनाV;1;PL;SBJV;FEM	हम टपकी
-V;1;PL;HAB;PRS;FEMअंगारे बरसनाV;1;PL;HAB;PRS;FEM	बरसते हैं
-V;1;PL;PRF;LGSPEC3;FEMसूखनाV;1;PL;PRF;LGSPEC3;FEM	सूखी होंगी
-V;1;SG;PROG;PRS;FEMनहानाV;1;SG;PROG;PRS;FEM	नहा रही हूँ
-V;1;SG;PRF;LGSPEC3;FEMपानाV;1;SG;PRF;LGSPEC3;FEM	हूँगी
-V;1;SG;PROG;SBJV;FEMग़लत करनाV;1;SG;PROG;SBJV;FEM	ग़लत कर रही हूँ
-V;1;SG;PRF;LGSPEC3;MASCबनानाV;1;SG;PRF;LGSPEC3;MASC	हूँगा
-V;2;PL;PRF;LGSPEC3;MASCइस्तेमाल करनाV;2;PL;PRF;LGSPEC3;MASC	इस्तेमाल होगे
-V;1;PL;SBJVचोट करनाV;1;PL;SBJV	हम करें
-V;1;SG;HAB;PST;FEMलौटनाV;1;SG;HAB;PST;FEM	लौटती थी
-V;3;PL;PROG;SBJV;FEMमनानाV;3;PL;PROG;SBJV;FEM	मना रही हों
-V;3;PL;PRF;SBJV;FEMझूमनाV;3;PL;PRF;SBJV;FEM	झूमी हों
-V;2;PL;PRF;LGSPEC4;FEMमाफ़ करनाV;2;PL;PRF;LGSPEC4;FEM	माफ़ कियी होती
-V;2;PL;HAB;PRS;MASCरौशन करनाV;2;PL;HAB;PRS;MASC	रौशन करते हो
-V;1;SG;PROG;SBJV;FEMमिलानाV;1;SG;PROG;SBJV;FEM	मिला रही हूँ
-V;1;SG;PRF;PST;MASCखेलनाV;1;SG;PRF;PST;MASC	खेले था
-V;3;PL;HAB;PRS;MASCदोहरानाV;3;PL;HAB;PRS;MASC	दोहराते हैं
-V;1;SG;PROG;LGSPEC4;MASCलू करनाV;1;SG;PROG;LGSPEC4;MASC	कर रहा होता
-V;NFIN;LGSPEC2सहमानाV;NFIN;LGSPEC2	सहमाऊंगी करने
-V;2;SG;PRF;PST;FEMबर्दाश्त करनाV;2;SG;PRF;PST;FEM	बर्दाश्त किया थी
-V;1;PL;PROG;SBJV;FEMपड़नाV;1;PL;PROG;SBJV;FEM	पड़ती रही हों
-V;1;PL;PRF;LGSPEC3;FEMजमा करनाV;1;PL;PRF;LGSPEC3;FEM	जमा किये होंगी
-V;3;PL;SBJV;FEMडलवानाV;3;PL;SBJV;FEM	ये डलवा
-V;1;SG;PRF;PST;FEMभौंह चढ़ानाV;1;SG;PRF;PST;FEM	भौंह चढ़ा थी
-V;1;PL;PROG;LGSPEC4;MASCकसनाV;1;PL;PROG;LGSPEC4;MASC	रहे होते
-V;3;PL;SBJV;FEMबिकनाV;3;PL;SBJV;FEM	ये बिकी
-V;3;PL;PROG;LGSPEC4;MASCदौड़नाV;3;PL;PROG;LGSPEC4;MASC	दौड़ रहे होते
-V;1;SG;HAB;LGSPEC3;FEMझाँकनाV;1;SG;HAB;LGSPEC3;FEM	झाँक हूँगी
-V;1;SG;SBJV;MASCनिखारनाV;1;SG;SBJV;MASC	मैं निखारे
-V;2;SG;PROG;SBJV;MASCभेजनाV;2;SG;PROG;SBJV;MASC	भेज रहा हो
-V;NFIN;LGSPEC1बिलबिलानाV;NFIN;LGSPEC1	बिलबिलाएगा
-V;3;SG;SBJV;FEMकोशिश करनाV;3;SG;SBJV;FEM	यह कोशिश करेगी
-V;2;PL;PRF;LGSPEC3;MASCबिलबिलानाV;2;PL;PRF;LGSPEC3;MASC	बिलबिला होगे
-V;1;SG;PROG;SBJV;MASCपिटनाV;1;SG;PROG;SBJV;MASC	पिट रहा हूँ
-V;2;SG;IMP;FORMकोशिश करनाV;2;SG;IMP;FORM	कोशिश करो
-V;3;SG;HAB;SBJV;MASCसामने आनाV;3;SG;HAB;SBJV;MASC	सामने हो
-V;3;PL;HAB;PRS;MASCरोकनाV;3;PL;HAB;PRS;MASC	रोके हैं
-V;3;SG;PROG;LGSPEC3;MASCआरम्भ करनाV;3;SG;PROG;LGSPEC3;MASC	आरम्भ कर रहा होगा
-V;3;PL;PROG;PRS;FEMकोशिश करनाV;3;PL;PROG;PRS;FEM	कोशिश कर रही हैं
-V;3;PL;PRF;LGSPEC4;FEMटेंटुआ दबानाV;3;PL;PRF;LGSPEC4;FEM	टेंटुआ दबाती दबाई होती
-V;2;SG;HAB;LGSPEC4;FEMस्थापित करनाV;2;SG;HAB;LGSPEC4;FEM	स्थापित करता होती
-V;3;SG;HAB;PST;MASCस्थापित करनाV;3;SG;HAB;PST;MASC	स्थापित करता था
-V;2;SG;SBJV;FEMबांधनाV;2;SG;SBJV;FEM	तू बांधती
-V;2;PL;SBJVखड़ा करनाV;2;PL;SBJV	तुम खड़ा करो
-V;2;PL;PRF;PRS;MASCनापनाV;2;PL;PRF;PRS;MASC	नापता हो
-V;2;PL;PROG;PST;MASCअंछर मारनाV;2;PL;PROG;PST;MASC	अंछर मारओ रहे थे
-V;1;SG;HAB;PRS;FEMकसनाV;1;SG;HAB;PRS;FEM	कसी हूँ
-V;3;SG;SBJVडाउनलोड करनाV;3;SG;SBJV	यह डाउनलोड करेगी
-V;2;PL;HAB;LGSPEC3;FEMचूसनाV;2;PL;HAB;LGSPEC3;FEM	चूसती होगी
-V;2;SG;PRF;PRS;MASCफूँकनाV;2;SG;PRF;PRS;MASC	है
-V;2;PL;PRF;LGSPEC4;FEMचमकनाV;2;PL;PRF;LGSPEC4;FEM	चमकी होती
-V;3;PL;HAB;PRS;FEMचोरी करनाV;3;PL;HAB;PRS;FEM	चोरी करते हैं
-V;1;SG;PROG;PRS;FEMपकानाV;1;SG;PROG;PRS;FEM	पका रही हूँ
-V;1;PL;PROG;LGSPEC3;FEMदोहरानाV;1;PL;PROG;LGSPEC3;FEM	दोहरा रही होंगी
-V;3;PL;PRF;LGSPEC4;FEMतैरनाV;3;PL;PRF;LGSPEC4;FEM	तैर होती
-V;3;PL;PRF;PST;FEMउठानाV;3;PL;PRF;PST;FEM	उठाी थीं
-V;3;SG;HAB;LGSPEC3;FEMसहमानाV;3;SG;HAB;LGSPEC3;FEM	सहमाती होगी
-V;2;SG;PRF;SBJV;MASCसुधार करनाV;2;SG;PRF;SBJV;MASC	सुधार किया हो
-V;3;SG;PRF;LGSPEC4;FEMनिभानाV;3;SG;PRF;LGSPEC4;FEM	निभाई होती
-V;1;PL;HAB;LGSPEC3;FEMउबलनाV;1;PL;HAB;LGSPEC3;FEM	उबलती होंगी
-V;3;PL;SBJV;FEMबननाV;3;PL;SBJV;FEM	ये
-V;1;PL;PRF;LGSPEC4;MASCचुसनाV;1;PL;PRF;LGSPEC4;MASC	चुसते होते
-V;1;PL;HAB;LGSPEC3;FEMहटनाV;1;PL;HAB;LGSPEC3;FEM	हटती होंगी
-V;2;PL;PRF;SBJV;MASCडलवानाV;2;PL;PRF;SBJV;MASC	डलवाया हो
-V;1;SG;PROG;PRS;FEMहगनाV;1;SG;PROG;PRS;FEM	हग रही हूँ
-V;1;PL;PROG;PRS;FEMमरोड़नाV;1;PL;PROG;PRS;FEM	मरोड़ रही हैं
-V;2;SG;PROG;SBJV;FEMअंगारा बननाV;2;SG;PROG;SBJV;FEM	अंगारा बन रही हो
-V;1;PL;PROG;PRS;MASCभुननाV;1;PL;PROG;PRS;MASC	भुन रहे हैं
-V;1;SG;HAB;PRS;MASCबैठनाV;1;SG;HAB;PRS;MASC	बैठे हूँ
-V;2;PL;PRF;LGSPEC4;MASCभुननाV;2;PL;PRF;LGSPEC4;MASC	भुनते होते
-V;1;PL;HAB;SBJV;FEMमरनाV;1;PL;HAB;SBJV;FEM	मर हों
-V;2;PL;PROG;PST;MASCघृणा करनाV;2;PL;PROG;PST;MASC	घृणा कर रहे थे
-V;1;PL;PRF;SBJV;FEMचलानाV;1;PL;PRF;SBJV;FEM	चलाई हों
-V;2;SG;IMP;FORMसुनानाV;2;SG;IMP;FORM	सुनाएगा
-V;3;SG;HAB;LGSPEC4;FEMआराम करनाV;3;SG;HAB;LGSPEC4;FEM	आराम करता होती
-V;1;SG;PRF;PST;MASCझाँकनाV;1;SG;PRF;PST;MASC	झाँका था
-V;V.PTCP;MASC;PL;PFVचुरानाV;V.PTCP;MASC;PL;PFV	चुराता
-V;3;SG;PRF;SBJV;MASCउलटी करनाV;3;SG;PRF;SBJV;MASC	उलटी कियी हो
-V;1;SG;HAB;PRS;FEMघूमनाV;1;SG;HAB;PRS;FEM	घूम हूँ
-V;2;PL;PRF;LGSPEC3;FEMविश्लेषण करनाV;2;PL;PRF;LGSPEC3;FEM	विश्लेषण कियी होगी
-V;1;PL;HAB;LGSPEC4;MASCयाद करनाV;1;PL;HAB;LGSPEC4;MASC	करते होते
-V;2;PL;PROG;LGSPEC4;FEMसहमानाV;2;PL;PROG;LGSPEC4;FEM	सहमा रही होती
-V;3;PL;PRF;SBJV;MASCसाफ़ करनाV;3;PL;PRF;SBJV;MASC	साफ़ किये हों
-V;2;PL;PRF;PRS;FEMरोनाV;2;PL;PRF;PRS;FEM	रोती हो
-V;2;PL;HAB;LGSPEC3;FEMलानाV;2;PL;HAB;LGSPEC3;FEM	लाती होगी
-V;2;PL;PROG;LGSPEC3;FEMअपलोड करनाV;2;PL;PROG;LGSPEC3;FEM	अपलोड कर रही होंगी
-V;1;SG;HAB;LGSPEC4;FEMतौबा करनाV;1;SG;HAB;LGSPEC4;FEM	तौबा करती होती
-V;2;PL;PRF;LGSPEC4;FEMदोहरानाV;2;PL;PRF;LGSPEC4;FEM	दोहराई होती
-V;1;SG;PROG;LGSPEC3;FEMपहननाV;1;SG;PROG;LGSPEC3;FEM	पहनी रही होगी
-V;2;PL;PROG;LGSPEC3;FEMघुसनाV;2;PL;PROG;LGSPEC3;FEM	घुसी रही होंगी
-V;1;SG;PRF;SBJV;FEMआराम करनाV;1;SG;PRF;SBJV;FEM	आराम किया हूँ
-V;3;PL;HAB;LGSPEC3;MASCफिसलनाV;3;PL;HAB;LGSPEC3;MASC	होंगे
-V;3;SG;PRF;PST;FEMलौटनाV;3;SG;PRF;PST;FEM	लौटी थी
-V;V.PTCP;FEM;SG;PFVगान करनाV;V.PTCP;FEM;SG;PFV	गान करती
-V;2;SG;HAB;LGSPEC3;FEMखाँसनाV;2;SG;HAB;LGSPEC3;FEM	खाँसती होगी
-V;1;PL;PROG;PRS;MASCमरनाV;1;PL;PROG;PRS;MASC	मर रहे हैं
-V;NFIN;LGSPEC1पूछनाV;NFIN;LGSPEC1	पूछे
-V;3;SG;PROG;LGSPEC3;MASCनशा करनाV;3;SG;PROG;LGSPEC3;MASC	नशा कर रहा होगा
-V;2;SG;PROG;LGSPEC3;FEMसामने आनाV;2;SG;PROG;LGSPEC3;FEM	सामने रही होगी
-V;2;PL;PRF;LGSPEC4;FEMझूठ बोलनाV;2;PL;PRF;LGSPEC4;FEM	झूली बोल होती
-V;1;SG;PROG;PST;FEMसहमानाV;1;SG;PROG;PST;FEM	सहमाई रही थी
-V;3;PL;PRF;PRS;MASCफूटनाV;3;PL;PRF;PRS;MASC	फूटे हैं
-V;2;SG;PROG;LGSPEC3;FEMखोनाV;2;SG;PROG;LGSPEC3;FEM	खो रही होगी
-V;3;PL;SBJV;FEMना करनाV;3;PL;SBJV;FEM	ये करेंगी
-V;2;SG;PROG;LGSPEC3;MASCपानाV;2;SG;PROG;LGSPEC3;MASC	पा रहा होगा
-V;1;PL;HAB;LGSPEC4;MASCडूबनाV;1;PL;HAB;LGSPEC4;MASC	डूबता होते
-V;1;PL;PROG;LGSPEC4;FEMटेंटुआ दबानाV;1;PL;PROG;LGSPEC4;FEM	टेंटुआ दबाती दबाएंगी रही होती
-V;3;PL;PROG;PST;MASCउलटी करनाV;3;PL;PROG;PST;MASC	उलटी कर रहे थे
-V;1;SG;PRF;PRS;MASCफूटनाV;1;SG;PRF;PRS;MASC	फूटे हूँ
-V;1;PL;PRF;LGSPEC4;FEMझाँकनाV;1;PL;PRF;LGSPEC4;FEM	झाँक होती
-V;1;SG;SBJV;MASCउछलनाV;1;SG;SBJV;MASC	मैं उछला
-V;1;PL;PROG;SBJV;FEMअंछर मारनाV;1;PL;PROG;SBJV;FEM	अंछर मारए रही हों
-V;3;SG;PROG;PST;MASCसुधारनाV;3;SG;PROG;PST;MASC	सुधार रहा था
-V;2;SG;PRF;PRS;MASCजाननाV;2;SG;PRF;PRS;MASC	जाना है
-V;3;PL;PROG;PST;FEMख़रीदनाV;3;PL;PROG;PST;FEM	ख़रीद रही थीं
-V;1;SG;HAB;PRS;MASCमरोड़नाV;1;SG;HAB;PRS;MASC	मरोड़ हूँ
-V;1;SG;PROG;SBJV;MASCउठनाV;1;SG;PROG;SBJV;MASC	उठा रहा हूँ
-V;3;PL;PROG;LGSPEC4;MASCबचानाV;3;PL;PROG;LGSPEC4;MASC	बचाए रहे होते
-V;2;PL;PROG;LGSPEC3;MASCफैलनाV;2;PL;PROG;LGSPEC3;MASC	फैलते रहे होंगे
-V;2;PL;HAB;SBJV;MASCखड़ा करनाV;2;PL;HAB;SBJV;MASC	खड़ा करते हो
-V;3;PL;HAB;SBJV;MASCडाउनलोड करनाV;3;PL;HAB;SBJV;MASC	डाउनलोड करते हों
-V;V.PTCP;MASC;SG;PFVचूसनाV;V.PTCP;MASC;SG;PFV	चूसता
-V;1;SG;PROG;PRS;FEMकहनाV;1;SG;PROG;PRS;FEM	कह रही हूँ
-V;2;PL;PRF;LGSPEC3;FEMसिखानाV;2;PL;PRF;LGSPEC3;FEM	सिखाई होगी
-V;NFIN;LGSPEC2आग्रह करनाV;NFIN;LGSPEC2	आग्रह करने
-V;1;SG;PROG;SBJV;MASCडाउनलोड करनाV;1;SG;PROG;SBJV;MASC	डाउनलोड कर रहा हूँ
-V;3;SG;PROG;SBJV;MASCसुधार करनाV;3;SG;PROG;SBJV;MASC	सुधार कर रहा हो
-V;3;SG;HAB;PRS;FEMचलानाV;3;SG;HAB;PRS;FEM	चला है
-V;3;PL;SBJVछोड़नाV;3;PL;SBJV	ये
-V;1;SG;PROG;LGSPEC4;FEMबनानाV;1;SG;PROG;LGSPEC4;FEM	बना रही होती
-V;2;SG;SBJV;FEMपिटनाV;2;SG;SBJV;FEM	तू पिटती
-V;2;SG;IMP;INFMबर्दाश्त करनाV;2;SG;IMP;INFM	बर्दाश्त करो
-V;2;PL;SBJVभौंकनाV;2;PL;SBJV	मैं भौंकूँ
-V;1;PL;PROG;LGSPEC3;FEMअपना पालक पनीर देखनाV;1;PL;PROG;LGSPEC3;FEM	अपना पनीर देखूँगी रही होंगी
-V;2;PL;HAB;PRS;FEMघुस करनाV;2;PL;HAB;PRS;FEM	घुसती करते हो
-V;2;PL;HAB;PST;FEMख़तना करनाV;2;PL;HAB;PST;FEM	ख़तना करते थीं
-V;2;SG;PROG;LGSPEC3;FEMइलाज करनाV;2;SG;PROG;LGSPEC3;FEM	इलाज कर रही होगी
-V;1;PL;PRF;PST;FEMडाउनलोड करनाV;1;PL;PRF;PST;FEM	डाउनलोड किये थीं
-V;1;PL;PRF;LGSPEC4;FEMगान करनाV;1;PL;PRF;LGSPEC4;FEM	गान किये होती
-V;2;PL;PRF;LGSPEC4;FEMरहनाV;2;PL;PRF;LGSPEC4;FEM	रहती होती
-V;2;PL;PROG;PRS;MASCसुनानाV;2;PL;PROG;PRS;MASC	सुनाता रहे हो
-V;3;PL;PROG;PST;FEMछुड़ानाV;3;PL;PROG;PST;FEM	छुड़ाई रही थीं
-V;1;SG;HAB;PST;FEMअपलोड करनाV;1;SG;HAB;PST;FEM	अपलोड करता थी
-V;3;SG;SBJVचूमनाV;3;SG;SBJV	यह चूमेगा
-V;1;PL;HAB;LGSPEC3;MASCछोड़नाV;1;PL;HAB;LGSPEC3;MASC	छोड़ होंगे
-V;NFIN;LGSPEC2उड़नाV;NFIN;LGSPEC2	उड़ा करने
-V;2;PL;HAB;SBJV;FEMउड़नाV;2;PL;HAB;SBJV;FEM	उड़ी हो
-V;3;SG;PROG;SBJV;FEMथामनाV;3;SG;PROG;SBJV;FEM	थाम रही हो
-V;2;PL;PRF;SBJV;FEMबीतनाV;2;PL;PRF;SBJV;FEM	बीती हो
-V;1;SG;HAB;PRS;MASCबिखरनाV;1;SG;HAB;PRS;MASC	बिखरता हूँ
-V;1;SG;PRF;LGSPEC3;MASCकसनाV;1;SG;PRF;LGSPEC3;MASC	कस हूँगा
-V;1;PL;HAB;SBJV;FEMतरसनाV;1;PL;HAB;SBJV;FEM	तरस हों
-V;3;PL;PROG;LGSPEC4;MASCछोड़नाV;3;PL;PROG;LGSPEC4;MASC	छोड़े रहे होते
-V;2;PL;PROG;PRS;MASCकहनाV;2;PL;PROG;PRS;MASC	कह रहे हो
-V;2;SG;IMP;FORMसूखनाV;2;SG;IMP;FORM	सूंघो
-V;1;SG;HAB;SBJV;MASCचोट करनाV;1;SG;HAB;SBJV;MASC	करता हूँ
-V;3;PL;HAB;PRS;MASCपढ़ानाV;3;PL;HAB;PRS;MASC	पढ़ाता हैं
-V;2;PL;PRF;PRS;MASCआश्चर्य करनाV;2;PL;PRF;PRS;MASC	आश्चर्य कियी हो
-V;1;SG;PROG;PST;FEMछोड़नाV;1;SG;PROG;PST;FEM	छोड़ी रही थी
-V;3;SG;HAB;LGSPEC3;MASCखाँसनाV;3;SG;HAB;LGSPEC3;MASC	होगा
-V;1;PL;SBJV;FEMछापनाV;1;PL;SBJV;FEM	हम छापती
-V;1;PL;HAB;LGSPEC3;MASCउछलनाV;1;PL;HAB;LGSPEC3;MASC	उछलता होंगे
-V;2;SG;PROG;SBJV;MASCफूँकनाV;2;SG;PROG;SBJV;MASC	फूँक रहा हो
-V;2;PL;PRF;PST;FEMअंछर मारनाV;2;PL;PRF;PST;FEM	अंछर मारए थीं
-V;1;SG;PRF;LGSPEC3;MASCमरोड़नाV;1;SG;PRF;LGSPEC3;MASC	मरोड़ हूँगा
-V;2;PL;PRF;PRS;MASCइलाज करनाV;2;PL;PRF;PRS;MASC	इलाज कियी हो
-V;2;PL;PRF;LGSPEC4;MASCकूटनाV;2;PL;PRF;LGSPEC4;MASC	कूटे होते
-V;1;SG;PRF;SBJV;FEMबचनाV;1;SG;PRF;SBJV;FEM	बचती हूँ
-V;3;SG;PROG;PRS;FEMआग्रह करनाV;3;SG;PROG;PRS;FEM	आग्रह कर रही है
-V;2;PL;HAB;PST;MASCप्रेम करनाV;2;PL;HAB;PST;MASC	करते थे
-V;2;SG;PROG;PST;MASCउड़ानाV;2;SG;PROG;PST;MASC	उड़ा रहा था
-V;3;SG;PRF;LGSPEC3;MASCपकनाV;3;SG;PRF;LGSPEC3;MASC	पकता होगा
-V;3;PL;PRF;LGSPEC4;FEMनहानाV;3;PL;PRF;LGSPEC4;FEM	नहा होती
-V;2;SG;PROG;LGSPEC4;MASCउड़नाV;2;SG;PROG;LGSPEC4;MASC	उड़ा रहा होता
-V;1;SG;PROG;PST;MASCपिटनाV;1;SG;PROG;PST;MASC	पिट रहा था
-V;2;PL;PROG;SBJV;MASCरोनाV;2;PL;PROG;SBJV;MASC	रोता रहे हो
-V;2;PL;PRF;LGSPEC3;FEMपकनाV;2;PL;PRF;LGSPEC3;FEM	पक होगी
-V;1;SG;SBJVछीननाV;1;SG;SBJV	मैं छीनता
-V;2;PL;PRF;SBJV;MASCउतारनाV;2;PL;PRF;SBJV;MASC	उतारा हो
-V;1;PL;PRF;PST;MASCचुम्बन करनाV;1;PL;PRF;PST;MASC	चुम्बन किये थे
-V;2;PL;SBJV;FEMलू करनाV;2;PL;SBJV;FEM	तुम करो
-V;1;SG;PROG;SBJV;FEMपलटनाV;1;SG;PROG;SBJV;FEM	पलट रही हूँ
-V;1;PL;HAB;LGSPEC3;FEMघुस करनाV;1;PL;HAB;LGSPEC3;FEM	घुस करते होंगी
-V;3;PL;PRF;LGSPEC4;MASCभौंह चढ़ानाV;3;PL;PRF;LGSPEC4;MASC	भौंह चढ़ा होते
-V;3;PL;SBJVबांधनाV;3;PL;SBJV	ये बांधएंगे
-V;1;PL;PRF;SBJV;MASCपड़नाV;1;PL;PRF;SBJV;MASC	पड़े हों
-V;3;PL;PROG;PST;MASCनफ़रत करनाV;3;PL;PROG;PST;MASC	नफ़रत कर रहे थे
-V;3;PL;SBJV;FEMमिटनाV;3;PL;SBJV;FEM	ये मिटती
-V;1;SG;PROG;LGSPEC4;MASCगिरफ़्तार करनाV;1;SG;PROG;LGSPEC4;MASC	गिरफ़्तार कर रहा होता
-V;2;SG;PRF;PST;FEMख़रीदनाV;2;SG;PRF;PST;FEM	ख़रीदी थी
-V;1;SG;PRF;SBJV;FEMबिलबिलानाV;1;SG;PRF;SBJV;FEM	बिलबिलाई हूँ
-V;3;PL;PRF;PRS;MASCअंगारे उगलनाV;3;PL;PRF;PRS;MASC	उगलए हैं
-V;3;SG;HAB;LGSPEC3;MASCसुस्तानाV;3;SG;HAB;LGSPEC3;MASC	सुस्ता होगा
-V;1;PL;PRF;SBJV;FEMअंगारा होनाV;1;PL;PRF;SBJV;FEM	अंगारा होएंगे हों
-V;2;PL;PROG;LGSPEC3;MASCछोड़नाV;2;PL;PROG;LGSPEC3;MASC	छोड़े रहे होंगे
-V;1;SG;PROG;LGSPEC4;MASCकहनाV;1;SG;PROG;LGSPEC4;MASC	रहा होता
-V;3;SG;PROG;PRS;FEMपकनाV;3;SG;PROG;PRS;FEM	पक रही है
-V;3;PL;SBJVसहमानाV;3;PL;SBJV	ये सहमाया
-V;3;PL;PROG;SBJV;FEMबिकनाV;3;PL;PROG;SBJV;FEM	बिकी रही हों
-V;3;PL;PRF;PST;FEMझूमनाV;3;PL;PRF;PST;FEM	झूमी थीं
-V;2;SG;HAB;LGSPEC3;FEMबिखरनाV;2;SG;HAB;LGSPEC3;FEM	बिखर होगी
-V;3;SG;PRF;LGSPEC4;FEMजानाV;3;SG;PRF;LGSPEC4;FEM	जा होती
-V;1;SG;PROG;PST;FEMतरसनाV;1;SG;PROG;PST;FEM	तरस रही थी
-V;V.PTCP;MASC;SG;IPFVपढ़ानाV;V.PTCP;MASC;SG;IPFV	पढ़ाती
-V;1;PL;HAB;LGSPEC3;MASCतैरनाV;1;PL;HAB;LGSPEC3;MASC	तैर होंगे
-V;3;SG;PRF;PRS;MASCआरम्भ करनाV;3;SG;PRF;PRS;MASC	आरम्भ किया है
-V;3;PL;HAB;LGSPEC3;FEMहिलनाV;3;PL;HAB;LGSPEC3;FEM	हिल होंगी
-V;1;PL;HAB;LGSPEC4;MASCइनकार करनाV;1;PL;HAB;LGSPEC4;MASC	इनकार करते होते
-V;2;PL;HAB;LGSPEC4;FEMचाटनाV;2;PL;HAB;LGSPEC4;FEM	चाटी होती
-V;2;SG;PROG;SBJV;FEMपिटनाV;2;SG;PROG;SBJV;FEM	पिट रही हो
-V;NFIN;LGSPEC2अंगारा बननाV;NFIN;LGSPEC2	अंगारा करने
-V;1;PL;HAB;LGSPEC3;MASCहिलनाV;1;PL;HAB;LGSPEC3;MASC	हिले होंगे
-V;2;PL;HAB;SBJV;MASCझाँकनाV;2;PL;HAB;SBJV;MASC	झाँक हो
-V;2;SG;HAB;LGSPEC4;MASCचूसनाV;2;SG;HAB;LGSPEC4;MASC	चूस होता
-V;2;SG;PROG;PRS;MASCरहनाV;2;SG;PROG;PRS;MASC	रह रहा है
-V;1;PL;PRF;PRS;FEMइंतज़ार करनाV;1;PL;PRF;PRS;FEM	इंतज़ार किये हैं
-V;3;SG;HAB;PRS;MASCइंतज़ार करनाV;3;SG;HAB;PRS;MASC	इंतज़ार करता है
-V;1;PL;PROG;LGSPEC3;FEMठीक करनाV;1;PL;PROG;LGSPEC3;FEM	ठीक कर रही होंगी
-V;2;PL;PRF;LGSPEC3;FEMहस्तमैथुन करनाV;2;PL;PRF;LGSPEC3;FEM	हस्तमैथुन कियी होगी
-V;1;PL;SBJVचुसनाV;1;PL;SBJV	हम चुसते
-V;2;PL;PROG;PRS;MASCफैलनाV;2;PL;PROG;PRS;MASC	फैल रहे हो
-V;1;PL;PROG;PST;MASCटपकनाV;1;PL;PROG;PST;MASC	टपके रहे थे
-V;2;SG;PRF;PST;MASCपढ़नाV;2;SG;PRF;PST;MASC	पढ़ता था
-V;3;SG;PROG;LGSPEC3;FEMबर्दाश्त करनाV;3;SG;PROG;LGSPEC3;FEM	बर्दाश्त कर रही होगी
-V;2;SG;SBJV;FEMचुननाV;2;SG;SBJV;FEM	तू चुनोगी
-V;1;PL;PRF;LGSPEC4;FEMऐश करनाV;1;PL;PRF;LGSPEC4;FEM	ऐश किये होती
-V;1;SG;HAB;LGSPEC3;MASCलौटनाV;1;SG;HAB;LGSPEC3;MASC	लौटता हूँगा
-V;3;SG;HAB;LGSPEC4;MASCबिकनाV;3;SG;HAB;LGSPEC4;MASC	बिक होता
-V;1;SG;HAB;LGSPEC3;FEMकाटनाV;1;SG;HAB;LGSPEC3;FEM	काटी हूँगी
-V;2;PL;PROG;PST;MASCउठानाV;2;PL;PROG;PST;MASC	उठाे रहे थे
-V;1;PL;PROG;LGSPEC3;MASCत्यागनाV;1;PL;PROG;LGSPEC3;MASC	त्याग रहे होंगे
-V;2;SG;HAB;PST;FEMबाँधनाV;2;SG;HAB;PST;FEM	बाँधती थी
-V;1;PL;SBJV;MASCअपलोड करनाV;1;PL;SBJV;MASC	हम अपलोड करेंगी
-V;1;SG;SBJV;FEMखोलनाV;1;SG;SBJV;FEM	मैं खोल
-V;3;SG;SBJVतरसनाV;3;SG;SBJV	यह तरसा
-V;2;SG;PRF;LGSPEC4;FEMप्राप्त करनाV;2;SG;PRF;LGSPEC4;FEM	प्राप्त किया होती
-V;1;SG;HAB;SBJV;MASCछीपनाV;1;SG;HAB;SBJV;MASC	छीपते हूँ
-V;2;SG;HAB;PRS;MASCअंगारा हो जानाV;2;SG;HAB;PRS;MASC	अंगारा जाती है
-V;1;SG;PROG;SBJV;MASCपूछनाV;1;SG;PROG;SBJV;MASC	पूछ रहा हूँ
-V;3;SG;PROG;PRS;FEMछिपानाV;3;SG;PROG;PRS;FEM	छिपा रही है
-V;1;SG;PROG;SBJV;FEMपीनाV;1;SG;PROG;SBJV;FEM	पी रही हूँ
-V;1;SG;PRF;PST;MASCरुकनाV;1;SG;PRF;PST;MASC	रुकया था
-V;1;PL;HAB;LGSPEC3;FEMसड़नाV;1;PL;HAB;LGSPEC3;FEM	सड़ होंगी
-V;3;SG;PROG;LGSPEC4;FEMसहमानाV;3;SG;PROG;LGSPEC4;FEM	सहमा रही होती
-V;3;SG;PRF;LGSPEC4;FEMजमनाV;3;SG;PRF;LGSPEC4;FEM	जम होती
-V;2;SG;HAB;PRS;MASCइलाज करनाV;2;SG;HAB;PRS;MASC	इलाज करता है
-V;2;SG;PROG;SBJV;FEMछीलनाV;2;SG;PROG;SBJV;FEM	छील रही हो
-V;2;SG;PROG;SBJV;FEMरौशन करनाV;2;SG;PROG;SBJV;FEM	रौशन कर रही हो
-V;2;SG;HAB;LGSPEC3;MASCचलनाV;2;SG;HAB;LGSPEC3;MASC	होगा
-V;2;SG;IMP;INFMपहुँचनाV;2;SG;IMP;INFM	पहुँचो
-V;3;SG;HAB;LGSPEC3;MASCडूबनाV;3;SG;HAB;LGSPEC3;MASC	डूबता होगा
-V;1;PL;HAB;PST;MASCछींकनाV;1;PL;HAB;PST;MASC	थे
-V;2;PL;PRF;LGSPEC4;FEMजोड़नाV;2;PL;PRF;LGSPEC4;FEM	जोड़ई होती
-V;2;SG;PRF;LGSPEC4;FEMदिलानाV;2;SG;PRF;LGSPEC4;FEM	दिला होती
-V;1;PL;HAB;PST;FEMखोलनाV;1;PL;HAB;PST;FEM	खोलती थीं
-V;2;PL;PRF;PST;FEMछीपनाV;2;PL;PRF;PST;FEM	छीपी थीं
-V;1;SG;PRF;PRS;MASCचोरी करनाV;1;SG;PRF;PRS;MASC	चोरी किया हूँ
-V;1;SG;PROG;LGSPEC3;FEMबन्द करनाV;1;SG;PROG;LGSPEC3;FEM	बन्द कर रही होगी
-V;V.PTCP;MASC;PL;IPFVखोजनाV;V.PTCP;MASC;PL;IPFV	खोजा
-V;3;SG;HAB;SBJV;FEMउड़नाV;3;SG;HAB;SBJV;FEM	उड़ी हो
-V;3;SG;HAB;PST;MASCरोकनाV;3;SG;HAB;PST;MASC	रोके था
-V;3;PL;SBJV;MASCसेक्स करनाV;3;PL;SBJV;MASC	ये सेक्स करेंगी
-V;3;PL;PROG;LGSPEC3;MASCहंसनाV;3;PL;PROG;LGSPEC3;MASC	हंस रहे होंगे
-V;1;PL;PROG;PRS;MASCपहुँचनाV;1;PL;PROG;PRS;MASC	पहुँच रहे हैं
-V;3;SG;PROG;LGSPEC3;MASCभेजनाV;3;SG;PROG;LGSPEC3;MASC	भेजे रहा होगा
-V;1;PL;PRF;PRS;MASCचुननाV;1;PL;PRF;PRS;MASC	चुन हैं
-V;2;SG;HAB;LGSPEC4;FEMपलटनाV;2;SG;HAB;LGSPEC4;FEM	पलट होती
-V;2;SG;HAB;PST;MASCनशा करनाV;2;SG;HAB;PST;MASC	नशा करता था
-V;3;SG;PRF;SBJV;MASCपिघलनाV;3;SG;PRF;SBJV;MASC	पिघले हो
-V;2;SG;HAB;SBJV;MASCभूलनाV;2;SG;HAB;SBJV;MASC	भूलते हो
-V;1;SG;PROG;LGSPEC4;MASCअंगारा होनाV;1;SG;PROG;LGSPEC4;MASC	अंगारा होऊंगा रहा होता
-V;3;PL;HAB;LGSPEC3;FEMजलानाV;3;PL;HAB;LGSPEC3;FEM	जलाती होंगी
-V;2;SG;HAB;LGSPEC4;FEMलड़नाV;2;SG;HAB;LGSPEC4;FEM	लड़ती होती
-V;3;PL;PROG;PRS;MASCयाद करनाV;3;PL;PROG;PRS;MASC	कर रहे हैं
-V;1;SG;HAB;SBJV;FEMकमानाV;1;SG;HAB;SBJV;FEM	कमाती हूँ
-V;2;PL;PRF;PST;MASCसाफ़ करनाV;2;PL;PRF;PST;MASC	साफ़ कियी थे
-V;1;SG;PROG;PST;MASCमिलानाV;1;SG;PROG;PST;MASC	मिला रहा था
-V;2;SG;HAB;SBJV;FEMपढ़नाV;2;SG;HAB;SBJV;FEM	पढ़ेगी हो
-V;3;PL;HAB;LGSPEC4;FEMप्रारम्भ करनाV;3;PL;HAB;LGSPEC4;FEM	करते होती
-V;3;SG;PRF;PRS;FEMबटोरनाV;3;SG;PRF;PRS;FEM	बटोरती है
-V;2;PL;PRF;PST;FEMभागनाV;2;PL;PRF;PST;FEM	भागई थीं
-V;2;SG;PROG;LGSPEC3;FEMअंगारा होनाV;2;SG;PROG;LGSPEC3;FEM	अंगारा होओ रही होगी
-V;2;SG;SBJV;FEMझांकनाV;2;SG;SBJV;FEM	तू झांकती
-V;1;SG;HAB;PRS;MASCदिलानाV;1;SG;HAB;PRS;MASC	दिलाया हूँ
-V;3;SG;HAB;LGSPEC3;MASCसड़नाV;3;SG;HAB;LGSPEC3;MASC	सड़े होगा
-V;2;SG;HAB;PST;FEMनफ़रत करनाV;2;SG;HAB;PST;FEM	नफ़रत करता थी
-V;NFIN;LGSPEC2रोनाV;NFIN;LGSPEC2	रोना करने
-V;2;SG;HAB;LGSPEC3;FEMजमा करनाV;2;SG;HAB;LGSPEC3;FEM	जमा करता होगी
-V;1;PL;PRF;LGSPEC3;FEMबकनाV;1;PL;PRF;LGSPEC3;FEM	बकई होंगी
-V;2;PL;HAB;LGSPEC4;MASCचूसनाV;2;PL;HAB;LGSPEC4;MASC	चूस होते
-V;2;PL;HAB;SBJV;FEMअपना पालक पनीर देखनाV;2;PL;HAB;SBJV;FEM	अपनाती पनीर देखते हो
-V;2;PL;PROG;LGSPEC3;MASCसूजनाV;2;PL;PROG;LGSPEC3;MASC	सूजता रहे होंगे
-V;1;PL;PRF;LGSPEC3;FEMहटनाV;1;PL;PRF;LGSPEC3;FEM	हट होंगी
-V;1;SG;PROG;SBJV;MASCशुक्रिया करनाV;1;SG;PROG;SBJV;MASC	शुक्रिया कर रहा हूँ
-V;2;SG;HAB;SBJV;MASCचमकनाV;2;SG;HAB;SBJV;MASC	चमकता हो
-V;2;PL;PROG;PRS;FEMचोदनाV;2;PL;PROG;PRS;FEM	चोद रही हो
-V;3;SG;HAB;PST;MASCनिखारनाV;3;SG;HAB;PST;MASC	निखार था
-V;3;PL;PROG;PST;MASCहगनाV;3;PL;PROG;PST;MASC	रहे थे
-V;2;SG;HAB;SBJV;FEMभौंकनाV;2;SG;HAB;SBJV;FEM	भौंकती हो
-V;2;PL;SBJV;FEMछींकनाV;2;PL;SBJV;FEM	तुम छींकएंगी
-V;1;SG;PRF;PST;FEMसंभोग करनाV;1;SG;PRF;PST;FEM	संभोग किया थी
-V;3;SG;PROG;PRS;MASCइस्तेमाल करनाV;3;SG;PROG;PRS;MASC	इस्तेमाल रहा है
-V;2;SG;PROG;PRS;FEMलटकनाV;2;SG;PROG;PRS;FEM	लटक रही है
-V;2;PL;HAB;SBJV;FEMभौंह चढ़ानाV;2;PL;HAB;SBJV;FEM	भौंह चढ़ाती हो
-V;3;SG;PRF;LGSPEC3;FEMगुणा करनाV;3;SG;PRF;LGSPEC3;FEM	गुणा किया होगी
-V;1;PL;HAB;PRS;MASCख़रीदनाV;1;PL;HAB;PRS;MASC	ख़रीद हैं
-V;1;SG;PROG;LGSPEC3;MASCउबलनाV;1;SG;PROG;LGSPEC3;MASC	उबल रहा होगा
-V;1;SG;PRF;PRS;MASCउलटी करनाV;1;SG;PRF;PRS;MASC	उलटी किया हूँ
-V;2;SG;HAB;LGSPEC3;MASCआराम करनाV;2;SG;HAB;LGSPEC3;MASC	आराम करता होगा
-V;3;SG;PRF;PST;MASCपिघलनाV;3;SG;PRF;PST;MASC	पिघला था
-V;2;SG;PROG;PRS;FEMपीटनाV;2;SG;PROG;PRS;FEM	पीट रही है
-V;2;SG;HAB;PST;MASCलूटनाV;2;SG;HAB;PST;MASC	लूटते था
-V;2;SG;SBJV;FEMप्यार करनाV;2;SG;SBJV;FEM	तू प्यार करेगी
-V;1;PL;HAB;LGSPEC3;MASCबजानाV;1;PL;HAB;LGSPEC3;MASC	बजाए होंगे
-V;3;SG;HAB;LGSPEC4;FEMप्रारम्भ करनाV;3;SG;HAB;LGSPEC4;FEM	करता होती
-V;3;SG;PROG;SBJV;FEMबांधनाV;3;SG;PROG;SBJV;FEM	बांध रही हो
-V;2;PL;PRF;LGSPEC4;FEMहंसनाV;2;PL;PRF;LGSPEC4;FEM	हंसी होती
-V;3;SG;PRF;PRS;MASCतौबा करनाV;3;SG;PRF;PRS;MASC	तौबा किया है
-V;2;SG;HAB;PRS;MASCबोलनाV;2;SG;HAB;PRS;MASC	बोलता है
-V;3;SG;HAB;PRS;MASCउबलनाV;3;SG;HAB;PRS;MASC	उबलता है
-V;3;SG;PROG;PST;MASCपिघलनाV;3;SG;PROG;PST;MASC	पिघला रहा था
-V;3;SG;PRF;PST;MASCछापनाV;3;SG;PRF;PST;MASC	छापते था
-V;3;PL;PROG;LGSPEC3;FEMहल चलानाV;3;PL;PROG;LGSPEC3;FEM	हल चलाए रही होंगी
-V;3;SG;PRF;LGSPEC4;MASCबनानाV;3;SG;PRF;LGSPEC4;MASC	बनाता होता
-V;3;PL;PRF;PRS;FEMभौंह चढ़ानाV;3;PL;PRF;PRS;FEM	भौंह चढ़ा हैं
-V;1;PL;PROG;PST;MASCछीपनाV;1;PL;PROG;PST;MASC	छीप रहे थे
-V;1;PL;PRF;PST;FEMलूटनाV;1;PL;PRF;PST;FEM	लूट थीं
-V;V.PTCP;MASC;SG;IPFVतरसनाV;V.PTCP;MASC;SG;IPFV	तरसती
-V;3;PL;SBJVटूटनाV;3;PL;SBJV	ये टूटा
-V;2;PL;PROG;PST;MASCडलवानाV;2;PL;PROG;PST;MASC	डलवा रहे थे
-V;2;SG;PROG;PST;MASCप्यार करनाV;2;SG;PROG;PST;MASC	प्यार कर रहा था
-V;3;SG;SBJVछीलनाV;3;SG;SBJV	यह छींकए
-V;1;PL;SBJVरुकनाV;1;PL;SBJV	हम रुकए
-V;3;PL;SBJVडाउनलोड करनाV;3;PL;SBJV	ये डाउनलोड करें
-V;1;PL;HAB;PRS;MASCखड़ा करनाV;1;PL;HAB;PRS;MASC	खड़ा करते हैं
-V;1;SG;PROG;PRS;MASCपकनाV;1;SG;PROG;PRS;MASC	पकता रहा हूँ
-V;3;PL;SBJV;FEMछुड़ानाV;3;PL;SBJV;FEM	ये छुड़ाएं
-V;1;SG;PRF;PST;FEMपिघलनाV;1;SG;PRF;PST;FEM	पिघली थी
-V;1;PL;PRF;PRS;FEMसुनानाV;1;PL;PRF;PRS;FEM	सुनाती हैं
-V;2;SG;PRF;SBJV;MASCबाटनाV;2;SG;PRF;SBJV;MASC	बाट हो
-V;2;SG;HAB;PST;FEMसूंघनाV;2;SG;HAB;PST;FEM	सूंघती थी
-V;2;SG;HAB;SBJV;MASCपकानाV;2;SG;HAB;SBJV;MASC	पका हो
-V;1;PL;HAB;PST;FEMलगनाV;1;PL;HAB;PST;FEM	लगी थीं
-V;1;SG;PRF;LGSPEC3;MASCजमनाV;1;SG;PRF;LGSPEC3;MASC	जमा हूँगा
-V;3;SG;PROG;LGSPEC4;FEMबकनाV;3;SG;PROG;LGSPEC4;FEM	बक रही होती
-V;3;PL;HAB;PRS;FEMखोजनाV;3;PL;HAB;PRS;FEM	खोजी हैं
-V;2;SG;PRF;LGSPEC3;FEMशिकार करनाV;2;SG;PRF;LGSPEC3;FEM	शिकार किया होगी
-V;2;PL;HAB;LGSPEC4;MASCचुसनाV;2;PL;HAB;LGSPEC4;MASC	चुसते होते
-V;2;SG;PRF;SBJV;MASCआदर करनाV;2;SG;PRF;SBJV;MASC	आदर किया हो
-V;NFIN;LGSPEC1रखनाV;NFIN;LGSPEC1	रख
-V;2;SG;IMP;FORMप्रारम्भ करनाV;2;SG;IMP;FORM	करो
-V;3;PL;HAB;PRS;MASCहगनाV;3;PL;HAB;PRS;MASC	हैं
-V;1;PL;PROG;SBJV;MASCबेचनाV;1;PL;PROG;SBJV;MASC	बेच रहे हों
-V;2;SG;HAB;PST;FEMजानाV;2;SG;HAB;PST;FEM	जाती थी
-V;1;SG;PROG;LGSPEC3;MASCख़रीदनाV;1;SG;PROG;LGSPEC3;MASC	ख़रीद रहा होगा
-V;1;SG;HAB;PRS;FEMघुमानाV;1;SG;HAB;PRS;FEM	घुमा हूँ
-V;3;PL;PRF;LGSPEC3;FEMपढ़ानाV;3;PL;PRF;LGSPEC3;FEM	पढ़ाई होंगी
-V;2;PL;PRF;PST;FEMघुस करनाV;2;PL;PRF;PST;FEM	घुस कियी थीं
-V;2;PL;PROG;LGSPEC3;MASCछेड़नाV;2;PL;PROG;LGSPEC3;MASC	छेड़ रहे होंगे
-V;2;PL;PROG;PRS;FEMझगड़नाV;2;PL;PROG;PRS;FEM	झगड़ी रही हो
-V;3;SG;PRF;LGSPEC3;MASCठगनाV;3;SG;PRF;LGSPEC3;MASC	ठग होगा
-V;2;PL;PROG;LGSPEC4;MASCबाटनाV;2;PL;PROG;LGSPEC4;MASC	बाट रहे होते
-V;V.PTCP;MASC;SG;IPFVअंगारा हो जानाV;V.PTCP;MASC;SG;IPFV	अंगारा होयी गए
-V;2;SG;PRF;LGSPEC3;FEMविश्लेषण करनाV;2;SG;PRF;LGSPEC3;FEM	विश्लेषण किया होगी
-V;2;PL;HAB;LGSPEC4;FEMखोनाV;2;PL;HAB;LGSPEC4;FEM	खो होती
-V;1;SG;HAB;PRS;FEMबननाV;1;SG;HAB;PRS;FEM	बनती हूँ
-V;1;SG;HAB;LGSPEC3;FEMचमकनाV;1;SG;HAB;LGSPEC3;FEM	चमकी हूँगी
-V;2;PL;HAB;PST;MASCबचानाV;2;PL;HAB;PST;MASC	बचाए थे
-V;2;PL;HAB;LGSPEC3;MASCकुरेदनाV;2;PL;HAB;LGSPEC3;MASC	कुरेद होगे
-V;3;PL;HAB;PST;FEMझूठ बोलनाV;3;PL;HAB;PST;FEM	झूमती बोलती थीं
-V;3;SG;PRF;LGSPEC4;FEMनागरिक बनानाV;3;SG;PRF;LGSPEC4;FEM	नागरिक बनाती होती
-V;3;PL;PRF;LGSPEC3;FEMमुड़नाV;3;PL;PRF;LGSPEC3;FEM	मुड़ी होंगी
-V;2;PL;HAB;LGSPEC3;MASCपसीजनाV;2;PL;HAB;LGSPEC3;MASC	होगे
-V;1;PL;HAB;LGSPEC4;FEMमक्खन लगानाV;1;PL;HAB;LGSPEC4;FEM	मक्खन लगाई होती
-V;2;PL;HAB;SBJV;MASCप्यार करनाV;2;PL;HAB;SBJV;MASC	प्यार करते हो
-V;1;SG;PROG;PST;FEMबाटनाV;1;SG;PROG;PST;FEM	बाट रही थी
-V;2;SG;PROG;PST;FEMजाननाV;2;SG;PROG;PST;FEM	जानती रही थी
-V;2;PL;PRF;LGSPEC4;MASCअंगारा होनाV;2;PL;PRF;LGSPEC4;MASC	अंगारा होई होते
-V;2;SG;PROG;PST;FEMदोहरानाV;2;SG;PROG;PST;FEM	दोहरा रही थी
-V;1;PL;HAB;LGSPEC3;FEMभूलनाV;1;PL;HAB;LGSPEC3;FEM	भूलती होंगी
-V;2;SG;PRF;LGSPEC4;FEMलूटनाV;2;SG;PRF;LGSPEC4;FEM	लूट होती
-V;2;PL;SBJV;FEMबनानाV;2;PL;SBJV;FEM	तुम
-V;1;PL;PRF;PRS;MASCठीक करनाV;1;PL;PRF;PRS;MASC	ठीक किये हैं
-V;2;PL;HAB;PRS;FEMखोनाV;2;PL;HAB;PRS;FEM	खो हो
-V;3;SG;PRF;PST;FEMलगनाV;3;SG;PRF;PST;FEM	लगी थी
-V;2;PL;PRF;PST;FEMचिल्लानाV;2;PL;PRF;PST;FEM	चिल्लाती थीं
-V;2;SG;HAB;PST;FEMमिटनाV;2;SG;HAB;PST;FEM	मिटती थी
-V;3;SG;HAB;PST;MASCसुस्तानाV;3;SG;HAB;PST;MASC	सुस्ताते था
-V;2;SG;HAB;PST;FEMनशा करनाV;2;SG;HAB;PST;FEM	नशा करता थी
-V;1;PL;PRF;LGSPEC3;MASCचुकनाV;1;PL;PRF;LGSPEC3;MASC	चुक होंगे
-V;3;SG;PRF;LGSPEC3;FEMबजानाV;3;SG;PRF;LGSPEC3;FEM	बजाई होगी
-V;3;SG;PRF;PST;FEMपूछनाV;3;SG;PRF;PST;FEM	पूछी थी
-V;3;PL;HAB;LGSPEC4;FEMनागरिक बनानाV;3;PL;HAB;LGSPEC4;FEM	नागरिक बनाती बनाए होती
-V;1;PL;HAB;SBJV;FEMस्वप्न देखनाV;1;PL;HAB;SBJV;FEM	स्वप्न देखूँगी हों
-V;2;SG;PROG;LGSPEC4;MASCप्रारम्भ करनाV;2;SG;PROG;LGSPEC4;MASC	कर रहा होता
-V;1;SG;PRF;LGSPEC4;FEMपलटनाV;1;SG;PRF;LGSPEC4;FEM	पलट होती
-V;3;PL;HAB;SBJV;MASCबाँधनाV;3;PL;HAB;SBJV;MASC	बाँधा हों
-V;1;PL;PROG;LGSPEC4;MASCसीखनाV;1;PL;PROG;LGSPEC4;MASC	सीख रहे होते
-V;1;PL;PROG;LGSPEC3;MASCचूसनाV;1;PL;PROG;LGSPEC3;MASC	चूसा रहे होंगे
-V;3;SG;PRF;PRS;FEMझाँकनाV;3;SG;PRF;PRS;FEM	झाँक है
-V;1;PL;HAB;PRS;FEMपीनाV;1;PL;HAB;PRS;FEM	पीती हैं
-V;3;SG;HAB;PST;FEMगिरफ़्तार करनाV;3;SG;HAB;PST;FEM	गिरफ़्तार करता थी
-V;2;SG;PROG;PRS;FEMमतलब होनाV;2;SG;PROG;PRS;FEM	मतलब होओ रही है
-V;3;SG;PROG;SBJV;FEMइंतज़ार करनाV;3;SG;PROG;SBJV;FEM	इंतज़ार कर रही हो
-V;3;PL;PROG;PST;FEMतैयार करनाV;3;PL;PROG;PST;FEM	तैयार कर रही थीं
-V;3;SG;SBJVफिसलनाV;3;SG;SBJV	ये फिसलें
-V;3;PL;HAB;PST;MASCपढ़ानाV;3;PL;HAB;PST;MASC	पढ़ाते थे
-V;1;SG;PROG;SBJV;FEMझुकनाV;1;SG;PROG;SBJV;FEM	झुक रही हूँ
-V;1;PL;PRF;PRS;MASCपहचाननाV;1;PL;PRF;PRS;MASC	पहचाना हैं
-V;3;PL;PROG;SBJV;FEMप्राप्त करनाV;3;PL;PROG;SBJV;FEM	प्राप्त कर रही हों
-V;3;SG;HAB;PST;MASCपढ़नाV;3;SG;HAB;PST;MASC	पढ़ते था
-V;2;PL;PRF;PST;FEMलटकनाV;2;PL;PRF;PST;FEM	लटकी थीं
-V;1;SG;HAB;PST;MASCखड़ा करनाV;1;SG;HAB;PST;MASC	खड़ा करता था
-V;2;PL;PROG;PST;MASCख़तना करनाV;2;PL;PROG;PST;MASC	ख़तना कर रहे थे
-V;1;SG;PROG;LGSPEC4;MASCनिकलनाV;1;SG;PROG;LGSPEC4;MASC	निकल रहा होता
-V;3;PL;HAB;LGSPEC4;MASCतैरानाV;3;PL;HAB;LGSPEC4;MASC	तैरा होते
-V;2;SG;HAB;PRS;FEMछोड़नाV;2;SG;HAB;PRS;FEM	छोड़ती है
-V;1;SG;PROG;PRS;FEMदोहरानाV;1;SG;PROG;PRS;FEM	दोहरा रही हूँ
-V;1;PL;PROG;LGSPEC3;FEMइंतज़ार करनाV;1;PL;PROG;LGSPEC3;FEM	इंतज़ार कर रही होंगी
-V;2;SG;HAB;LGSPEC3;MASCरौशन करनाV;2;SG;HAB;LGSPEC3;MASC	रौशन करता होगा
-V;V.PTCP;FEM;PL;PFVखेलनाV;V.PTCP;FEM;PL;PFV	खेला
-V;3;SG;PROG;SBJV;FEMबचानाV;3;SG;PROG;SBJV;FEM	बचा रही हो
-V;2;PL;PROG;LGSPEC3;MASCत्यागनाV;2;PL;PROG;LGSPEC3;MASC	त्याग रहे होंगे
-V;2;SG;HAB;LGSPEC3;MASCटेंटुआ दबानाV;2;SG;HAB;LGSPEC3;MASC	टेंटुआ दबा होगा
-V;3;PL;SBJV;FEMसीखनाV;3;PL;SBJV;FEM	ये सीख
-V;2;SG;HAB;PST;FEMकहनाV;2;SG;HAB;PST;FEM	कहती थी
-V;1;SG;HAB;SBJV;FEMअंगारे उगलनाV;1;SG;HAB;SBJV;FEM	उगलता हूँ
-V;1;SG;HAB;LGSPEC3;MASCदबानाV;1;SG;HAB;LGSPEC3;MASC	दबा हूँगा
-V;3;PL;PRF;SBJV;FEMतैरानाV;3;PL;PRF;SBJV;FEM	तैराई हों
-V;3;SG;PROG;PST;FEMबेचनाV;3;SG;PROG;PST;FEM	बेच रही थी
-V;2;PL;PRF;SBJV;FEMतैरनाV;2;PL;PRF;SBJV;FEM	तैरी हो
-V;NFIN;LGSPEC2मरोड़नाV;NFIN;LGSPEC2	मरोड़ता करने
-V;3;SG;SBJVठगनाV;3;SG;SBJV	यह ठगती
-V;1;SG;PRF;SBJV;MASCरखनाV;1;SG;PRF;SBJV;MASC	रखेंगे हूँ
-V;2;SG;PROG;PST;MASCलौटनाV;2;SG;PROG;PST;MASC	लौट रहा था
-V;2;SG;HAB;LGSPEC4;FEMरुकनाV;2;SG;HAB;LGSPEC4;FEM	रुकई होती
-V;2;PL;HAB;LGSPEC3;MASCरहनाV;2;PL;HAB;LGSPEC3;MASC	रह होगे
-V;2;PL;SBJV;FEMबिखरनाV;2;PL;SBJV;FEM	तुम बिखर
-V;3;PL;PRF;LGSPEC3;FEMहारनाV;3;PL;PRF;LGSPEC3;FEM	हारती होंगी
-V;3;PL;PRF;LGSPEC3;MASCआग्रह करनाV;3;PL;PRF;LGSPEC3;MASC	आग्रह किये होंगे
-V;3;SG;HAB;LGSPEC4;FEMटेंटुआ दबानाV;3;SG;HAB;LGSPEC4;FEM	टेंटुआ दबाती दबा होती
-V;1;PL;HAB;LGSPEC3;MASCअपना पालक पनीर देखनाV;1;PL;HAB;LGSPEC3;MASC	अपनाते पनीर देखते होंगे
-V;V.PTCP;FEM;PL;PFVधड़कनाV;V.PTCP;FEM;PL;PFV	धड़का
-V;1;PL;HAB;LGSPEC4;MASCउलटी करनाV;1;PL;HAB;LGSPEC4;MASC	उलटी करते होते
-V;1;PL;PRF;LGSPEC4;FEMटेंटुआ दबानाV;1;PL;PRF;LGSPEC4;FEM	टेंटुआ दबाती दबाई होती
-V;2;PL;PROG;PRS;MASCछोड़नाV;2;PL;PROG;PRS;MASC	छोड़े रहे हो
-V;1;PL;PRF;LGSPEC3;MASCअंछर मारनाV;1;PL;PRF;LGSPEC3;MASC	अंछर मारए होंगे
-V;3;PL;HAB;SBJV;MASCबचानाV;3;PL;HAB;SBJV;MASC	बचाते हों
-V;2;SG;PROG;LGSPEC4;MASCउतरनाV;2;SG;PROG;LGSPEC4;MASC	उतर रहा होता
-V;3;SG;PRF;PST;MASCजमनाV;3;SG;PRF;PST;MASC	जम था
-V;3;PL;HAB;PRS;MASCग़लत करनाV;3;PL;HAB;PRS;MASC	ग़लत करते हैं
-V;1;PL;HAB;SBJV;FEMसामने आनाV;1;PL;HAB;SBJV;FEM	सामने हों
-V;1;PL;PROG;PST;FEMग़लत करनाV;1;PL;PROG;PST;FEM	ग़लत कर रही थीं
-V;3;PL;HAB;LGSPEC3;FEMअंगारा होनाV;3;PL;HAB;LGSPEC3;FEM	अंगारा होते होंगी
-V;2;SG;PRF;SBJV;MASCजलानाV;2;SG;PRF;SBJV;MASC	जला हो
-V;3;PL;PRF;LGSPEC3;FEMकूटनाV;3;PL;PRF;LGSPEC3;FEM	कूट होंगी
-V;1;SG;PROG;LGSPEC3;FEMना करनाV;1;SG;PROG;LGSPEC3;FEM	कर रही होगी
-V;1;PL;PROG;PRS;FEMनिकलनाV;1;PL;PROG;PRS;FEM	निकलती रही हैं
-V;3;SG;PRF;PRS;FEMखेलनाV;3;SG;PRF;PRS;FEM	खेल है
-V;3;SG;SBJV;MASCसुधार करनाV;3;SG;SBJV;MASC	यह सुधार करेगी
-V;3;SG;HAB;LGSPEC3;MASCबर्दाश्त करनाV;3;SG;HAB;LGSPEC3;MASC	बर्दाश्त करता होगा
-V;1;PL;PRF;PRS;FEMसमझनाV;1;PL;PRF;PRS;FEM	समझ हैं
-V;2;PL;PROG;SBJV;MASCमाफ़ करनाV;2;PL;PROG;SBJV;MASC	माफ़ कर रहे हो
-V;2;SG;HAB;SBJV;MASCसड़नाV;2;SG;HAB;SBJV;MASC	सड़ते हो
-V;1;PL;PRF;PRS;FEMबात करनाV;1;PL;PRF;PRS;FEM	बात किये हैं
-V;2;PL;SBJV;MASCविश्लेषण करनाV;2;PL;SBJV;MASC	तुम विश्लेषण करो
-V;3;SG;HAB;SBJV;FEMमनानाV;3;SG;HAB;SBJV;FEM	मनाती हो
-V;2;PL;PROG;PRS;FEMबहनाV;2;PL;PROG;PRS;FEM	बहती रही हो
-V;2;SG;PROG;LGSPEC4;MASCचोरी करनाV;2;SG;PROG;LGSPEC4;MASC	चोरी कर रहा होता
-V;2;PL;HAB;SBJV;MASCकंघी करनाV;2;PL;HAB;SBJV;MASC	कंघी करते हो
-V;3;SG;SBJVमक्खन लगानाV;3;SG;SBJV	यह मक्खन लगाता
-V;1;SG;HAB;LGSPEC4;FEMअंगारों पर पैर रखनाV;1;SG;HAB;LGSPEC4;FEM	अंगारों पैर रखऊंगा होती
-V;2;SG;HAB;LGSPEC3;FEMडाउनलोड करनाV;2;SG;HAB;LGSPEC3;FEM	डाउनलोड करता होगी
-V;2;SG;HAB;LGSPEC4;MASCगान करनाV;2;SG;HAB;LGSPEC4;MASC	गान करता होता
-V;1;SG;HAB;LGSPEC4;FEMझूलनाV;1;SG;HAB;LGSPEC4;FEM	झूलती होती
-V;1;PL;PRF;PRS;MASCहंसनाV;1;PL;PRF;PRS;MASC	हंसे हैं
-V;3;PL;HAB;PST;MASCरखनाV;3;PL;HAB;PST;MASC	रखते थे
-V;3;PL;PROG;LGSPEC4;MASCपानाV;3;PL;PROG;LGSPEC4;MASC	पा रहे होते
-V;2;PL;SBJV;FEMमिलानाV;2;PL;SBJV;FEM	तुम मिलाएगी
-V;3;SG;PRF;PRS;FEMचढ़ानाV;3;SG;PRF;PRS;FEM	चढ़ाई है
-V;3;SG;PRF;SBJV;MASCतैयार करनाV;3;SG;PRF;SBJV;MASC	तैयार कियी हो
-V;2;PL;SBJVमक्खन लगानाV;2;PL;SBJV	तुम मक्खन लगाएं
-V;V.PTCP;MASC;SG;PFVउड़ानाV;V.PTCP;MASC;SG;PFV	उड़ी
-V;2;PL;PROG;SBJV;FEMसहायता करनाV;2;PL;PROG;SBJV;FEM	सहायता कर रही हो
-V;1;SG;PROG;SBJV;FEMखेलनाV;1;SG;PROG;SBJV;FEM	खेलती रही हूँ
-V;1;PL;HAB;PST;FEMझूमनाV;1;PL;HAB;PST;FEM	झूमती थीं
-V;3;SG;PROG;LGSPEC4;FEMनफ़रत करनाV;3;SG;PROG;LGSPEC4;FEM	नफ़रत कर रही होती
-V;1;PL;PRF;PRS;FEMदबानाV;1;PL;PRF;PRS;FEM	दबाई हैं
-V;3;PL;HAB;LGSPEC4;MASCप्रेम करनाV;3;PL;HAB;LGSPEC4;MASC	करते होते
-V;1;SG;PROG;PST;FEMयाद करनाV;1;SG;PROG;PST;FEM	कर रही थी
-V;2;SG;PRF;SBJV;FEMजानाV;2;SG;PRF;SBJV;FEM	जाई हो
-V;3;PL;SBJVरचनाV;3;PL;SBJV	ये रचती
-V;3;SG;PRF;PRS;MASCरोकनाV;3;SG;PRF;PRS;MASC	रोका है
-V;2;SG;HAB;PST;MASCबहनाV;2;SG;HAB;PST;MASC	बहता था
-V;3;SG;PROG;LGSPEC3;FEMसुधार करनाV;3;SG;PROG;LGSPEC3;FEM	सुधार कर रही होगी
-V;2;PL;PRF;PST;FEMचुसनाV;2;PL;PRF;PST;FEM	चुसती थीं
-V;1;SG;HAB;PRS;MASCलू करनाV;1;SG;HAB;PRS;MASC	करता हूँ
-V;1;PL;PROG;LGSPEC3;MASCखड़ा करनाV;1;PL;PROG;LGSPEC3;MASC	खड़ा कर रहे होंगे
-V;1;SG;PRF;LGSPEC3;FEMदिलानाV;1;SG;PRF;LGSPEC3;FEM	दिला हूँगी
-V;1;PL;HAB;PST;FEMठीक करनाV;1;PL;HAB;PST;FEM	ठीक करते थीं
-V;1;PL;PROG;SBJV;FEMपलटनाV;1;PL;PROG;SBJV;FEM	पलट रही हों
-V;3;PL;PROG;PST;MASCआरम्भ करनाV;3;PL;PROG;PST;MASC	आरम्भ कर रहे थे
-V;1;PL;HAB;SBJV;MASCऐसी तैसी करनाV;1;PL;HAB;SBJV;MASC	ऐसी तैयार पसीजोगी करते हों
-V;1;PL;PROG;LGSPEC3;FEMगिरफ़्तार करनाV;1;PL;PROG;LGSPEC3;FEM	गिरफ़्तार कर रही होंगी
-V;3;PL;PROG;PST;FEMसुधार करनाV;3;PL;PROG;PST;FEM	सुधार कर रही थीं
-V;1;SG;PRF;SBJV;FEMचोट करनाV;1;SG;PRF;SBJV;FEM	चोरी किया हूँ
-V;3;SG;HAB;LGSPEC4;FEMपिघलनाV;3;SG;HAB;LGSPEC4;FEM	पिघलती होती
-V;1;PL;PROG;LGSPEC4;FEMफैलनाV;1;PL;PROG;LGSPEC4;FEM	फैली रही होती
-V;2;SG;PRF;PST;MASCझूठ बोलनाV;2;SG;PRF;PST;MASC	झूमे बोलती था
-V;3;PL;PROG;LGSPEC3;MASCनशा करनाV;3;PL;PROG;LGSPEC3;MASC	नशा कर रहे होंगे
-V;2;SG;PROG;PRS;FEMनिर्माण करनाV;2;SG;PROG;PRS;FEM	कर रही है
-V;1;PL;PROG;SBJV;MASCचाहनाV;1;PL;PROG;SBJV;MASC	चाह रहे हों
-V;2;PL;PRF;PST;FEMमिटनाV;2;PL;PRF;PST;FEM	मिटी थीं
-V;3;SG;PROG;PRS;MASCमिलानाV;3;SG;PROG;PRS;MASC	मिला रहा है
-V;1;SG;HAB;LGSPEC3;FEMमनानाV;1;SG;HAB;LGSPEC3;FEM	मनाती हूँगी
-V;1;PL;PRF;LGSPEC4;MASCअंगारों पर पैर रखनाV;1;PL;PRF;LGSPEC4;MASC	अंगारों पैर रख होते
-V;1;SG;PRF;LGSPEC3;MASCहिलनाV;1;SG;PRF;LGSPEC3;MASC	हिल हूँगा
-V;2;SG;HAB;PRS;MASCप्रयत्न करनाV;2;SG;HAB;PRS;MASC	प्रयत्न करता है
-V;2;PL;HAB;SBJV;FEMउबलनाV;2;PL;HAB;SBJV;FEM	उबलती हो
-V;2;SG;PRF;LGSPEC3;FEMरोकनाV;2;SG;PRF;LGSPEC3;FEM	रोकी होगी
-V;3;PL;HAB;PRS;MASCनिभानाV;3;PL;HAB;PRS;MASC	निभाए हैं
-V;1;SG;PROG;LGSPEC4;MASCबात करनाV;1;SG;PROG;LGSPEC4;MASC	कर रहा होता
-V;3;PL;PRF;LGSPEC3;FEMस्थापित करनाV;3;PL;PRF;LGSPEC3;FEM	स्थापित किये होंगी
-V;1;PL;HAB;PRS;FEMगुणा करनाV;1;PL;HAB;PRS;FEM	गुणा करते हैं
-V;2;SG;PROG;LGSPEC3;FEMभागनाV;2;SG;PROG;LGSPEC3;FEM	भाग रही होगी
-V;3;SG;SBJV;FEMआग्रह करनाV;3;SG;SBJV;FEM	यह आग्रह करेगी
-V;2;PL;PROG;PST;MASCनापनाV;2;PL;PROG;PST;MASC	नापता रहे थे
-V;NFIN;LGSPEC1चढ़नाV;NFIN;LGSPEC1	चढ़ूँगी
-V;1;SG;PROG;LGSPEC4;MASCहस्तमैथुन करनाV;1;SG;PROG;LGSPEC4;MASC	हस्तमैथुन कर रहा होता
-V;2;SG;HAB;LGSPEC3;FEMझूठ बोलनाV;2;SG;HAB;LGSPEC3;FEM	झूलती बोलती होगी
-V;2;PL;PRF;LGSPEC3;FEMबहनाV;2;PL;PRF;LGSPEC3;FEM	बही होगी
-V;1;SG;PRF;LGSPEC3;FEMचुननाV;1;SG;PRF;LGSPEC3;FEM	चुन हूँगी
-V;3;SG;HAB;PRS;FEMसुधार करनाV;3;SG;HAB;PRS;FEM	सुधार करता है
-V;3;PL;PRF;LGSPEC4;FEMटूटनाV;3;PL;PRF;LGSPEC4;FEM	टूटी होती
-V;2;SG;HAB;PRS;MASCडाउनलोड करनाV;2;SG;HAB;PRS;MASC	डाउनलोड करता है
-V;2;PL;PROG;SBJV;MASCजानाV;2;PL;PROG;SBJV;MASC	जान रहे हो
-V;3;SG;PRF;PST;MASCग़लत करनाV;3;SG;PRF;PST;MASC	ग़लत किया था
-V;2;PL;HAB;PST;MASCजाननाV;2;PL;HAB;PST;MASC	जानता थे
-V;1;SG;PRF;LGSPEC4;MASCनफ़रत करनाV;1;SG;PRF;LGSPEC4;MASC	नफ़रत किया होता
-V;2;SG;PROG;LGSPEC3;MASCअपनानाV;2;SG;PROG;LGSPEC3;MASC	अपना रहा होगा
-V;3;PL;HAB;PRS;MASCभुननाV;3;PL;HAB;PRS;MASC	भुनता हैं
-V;2;PL;HAB;LGSPEC4;FEMटेंटुआ दबानाV;2;PL;HAB;LGSPEC4;FEM	टेंटुआ दबाती दबा होती
-V;3;PL;PROG;LGSPEC4;MASCबन्द करनाV;3;PL;PROG;LGSPEC4;MASC	बन्द कर रहे होते
-V;3;SG;HAB;PRS;FEMचूसनाV;3;SG;HAB;PRS;FEM	चूसती है
-V;2;SG;PRF;PST;FEMकमानाV;2;SG;PRF;PST;FEM	कमा थी
-V;2;SG;PROG;LGSPEC3;MASCअंगारा हो जानाV;2;SG;PROG;LGSPEC3;MASC	अंगारा होओ जाता रहा होगा
-V;1;SG;PRF;LGSPEC4;FEMकसनाV;1;SG;PRF;LGSPEC4;FEM	कसी होती
-V;2;PL;HAB;PST;MASCकसनाV;2;PL;HAB;PST;MASC	कसे थे
-V;2;SG;HAB;LGSPEC3;MASCख़रीदनाV;2;SG;HAB;LGSPEC3;MASC	ख़रीदा होगा
-V;2;PL;HAB;LGSPEC4;FEMडाउनलोड करनाV;2;PL;HAB;LGSPEC4;FEM	डाउनलोड करते होती
-V;V.PTCP;MASC;SG;PFVजलानाV;V.PTCP;MASC;SG;PFV	जलाते
-V;1;PL;PRF;LGSPEC4;MASCदिलानाV;1;PL;PRF;LGSPEC4;MASC	दिलाए होते
-V;3;SG;PRF;LGSPEC4;FEMकोशिश करनाV;3;SG;PRF;LGSPEC4;FEM	कोशिश किया होती
-V;2;SG;HAB;LGSPEC4;FEMतैरनाV;2;SG;HAB;LGSPEC4;FEM	तैरी होती
-V;3;SG;HAB;PST;MASCइंतज़ार करनाV;3;SG;HAB;PST;MASC	इंतज़ार करता था
-V;3;PL;PROG;LGSPEC4;MASCआरम्भ करनाV;3;PL;PROG;LGSPEC4;MASC	आरम्भ कर रहे होते
-V;1;SG;PRF;SBJV;MASCप्राप्त करनाV;1;SG;PRF;SBJV;MASC	प्राप्त किया हूँ
-V;1;SG;PRF;SBJV;MASCउलटी करनाV;1;SG;PRF;SBJV;MASC	उलटी किया हूँ
-V;2;PL;PROG;LGSPEC4;MASCपकानाV;2;PL;PROG;LGSPEC4;MASC	पका रहे होते
-V;2;SG;PRF;LGSPEC3;FEMचोरी करनाV;2;SG;PRF;LGSPEC3;FEM	चोरी किया होगी
-V;2;PL;HAB;PRS;MASCउबलनाV;2;PL;HAB;PRS;MASC	उबलता हो
-V;2;PL;HAB;LGSPEC4;FEMबचनाV;2;PL;HAB;LGSPEC4;FEM	बची होती
-V;3;SG;PRF;SBJV;MASCअपलोड करनाV;3;SG;PRF;SBJV;MASC	अपलोड कियी हो
-V;2;PL;PROG;LGSPEC4;FEMघृणा करनाV;2;PL;PROG;LGSPEC4;FEM	घृणा कर रही होती
-V;2;PL;PROG;PST;MASCसूखनाV;2;PL;PROG;PST;MASC	सूख रहे थे
-V;2;SG;PROG;PST;FEMमरोड़नाV;2;SG;PROG;PST;FEM	मरोड़ी रही थी
-V;3;PL;PRF;LGSPEC4;FEMसूंघनाV;3;PL;PRF;LGSPEC4;FEM	सूंघी होती
-V;1;PL;HAB;SBJV;FEMख़ून करनाV;1;PL;HAB;SBJV;FEM	ख़ून करते हों
-V;1;SG;PRF;LGSPEC3;MASCझगड़नाV;1;SG;PRF;LGSPEC3;MASC	झगड़ा हूँगा
-V;2;SG;HAB;LGSPEC4;FEMफैलनाV;2;SG;HAB;LGSPEC4;FEM	फैली होती
-V;3;SG;PRF;PST;MASCउछलनाV;3;SG;PRF;PST;MASC	उछलता था
-V;2;SG;PRF;SBJV;MASCकूटनाV;2;SG;PRF;SBJV;MASC	कूटता हो
-V;2;SG;PROG;SBJV;FEMउछलनाV;2;SG;PROG;SBJV;FEM	उछली रही हो
-V;2;SG;PRF;LGSPEC4;MASCहटनाV;2;SG;PRF;LGSPEC4;MASC	हट होता
-V;1;SG;PRF;LGSPEC3;MASCघूमनाV;1;SG;PRF;LGSPEC3;MASC	घूमा हूँगा
-V;3;PL;HAB;SBJV;FEMछिपानाV;3;PL;HAB;SBJV;FEM	छिपाती हों
-V;1;PL;PROG;LGSPEC4;MASCतुलानाV;1;PL;PROG;LGSPEC4;MASC	तुलाते रहे होते
-V;1;PL;HAB;PRS;FEMपीटनाV;1;PL;HAB;PRS;FEM	पीटती हैं
-V;3;PL;PROG;LGSPEC3;FEMचूमनाV;3;PL;PROG;LGSPEC3;FEM	चूम रही होंगी
-V;3;PL;PRF;SBJV;FEMशिकार करनाV;3;PL;PRF;SBJV;FEM	शिकार किये हों
-V;2;SG;IMP;INFMपढ़नाV;2;SG;IMP;INFM	पढ़ो
-V;2;SG;HAB;PST;FEMबाटनाV;2;SG;HAB;PST;FEM	बाटती थी
-V;1;PL;PRF;LGSPEC4;FEMउतरनाV;1;PL;PRF;LGSPEC4;FEM	उतरी होती
-V;3;SG;SBJV;MASCदबानाV;3;SG;SBJV;MASC	यह दबाया
-V;1;SG;PROG;LGSPEC4;FEMनिभानाV;1;SG;PROG;LGSPEC4;FEM	निभा रही होती
-V;1;PL;PRF;SBJV;FEMछीपनाV;1;PL;PRF;SBJV;FEM	छीपती हों
-V;1;PL;PROG;LGSPEC3;MASCउलटी करनाV;1;PL;PROG;LGSPEC3;MASC	उलटी कर रहे होंगे
-V;1;PL;SBJV;MASCतौबा करनाV;1;PL;SBJV;MASC	हम तौबा करेंगी
-V;1;SG;PRF;LGSPEC4;MASCशुक्रिया करनाV;1;SG;PRF;LGSPEC4;MASC	शुक्रिया किया होता
-V;3;PL;PRF;LGSPEC4;FEMजगनाV;3;PL;PRF;LGSPEC4;FEM	जगी होती
-V;2;SG;PROG;LGSPEC3;FEMखोलनाV;2;SG;PROG;LGSPEC3;FEM	खोल रही होगी
-V;2;PL;HAB;PST;FEMअपलोड करनाV;2;PL;HAB;PST;FEM	अपलोड करते थीं
-V;3;PL;HAB;PRS;MASCलगनाV;3;PL;HAB;PRS;MASC	लगता हैं
-V;2;SG;PRF;PRS;FEMमुड़नाV;2;SG;PRF;PRS;FEM	मुड़ी है
-V;2;PL;PRF;SBJV;FEMबन्द करनाV;2;PL;PRF;SBJV;FEM	बन्द कियी हो
-V;3;SG;HAB;LGSPEC4;FEMनापनाV;3;SG;HAB;LGSPEC4;FEM	नापती होती
-V;1;PL;HAB;SBJV;MASCपढ़ानाV;1;PL;HAB;SBJV;MASC	पढ़ाते हों
-V;3;PL;SBJVदबानाV;3;PL;SBJV	ये दबाएं
-V;1;SG;PROG;PRS;MASCरखनाV;1;SG;PROG;PRS;MASC	रख रहा हूँ
-V;2;PL;PROG;LGSPEC4;FEMनिर्माण करनाV;2;PL;PROG;LGSPEC4;FEM	कर रही होती
-V;3;PL;PRF;PST;MASCभुननाV;3;PL;PRF;PST;MASC	भुन थे
-V;2;PL;IMP;FORMडाउनलोड करनाV;2;PL;IMP;FORM	डाउनलोड
-V;3;SG;PROG;SBJV;MASCत्यागनाV;3;SG;PROG;SBJV;MASC	त्यागते रहा हो
-V;1;PL;PROG;PRS;MASCजगनाV;1;PL;PROG;PRS;MASC	जग रहे हैं
-V;3;PL;PROG;LGSPEC3;FEMकहनाV;3;PL;PROG;LGSPEC3;FEM	कह रही होंगी
-V;1;SG;PRF;LGSPEC3;FEMइनकार करनाV;1;SG;PRF;LGSPEC3;FEM	इनकार किया हूँगी
-V;2;PL;HAB;PST;FEMस्वप्न देखनाV;2;PL;HAB;PST;FEM	स्वप्न देखते थीं
-V;3;SG;HAB;SBJV;FEMछीपनाV;3;SG;HAB;SBJV;FEM	छीपती हो
-V;2;PL;PRF;PST;MASCले जानाV;2;PL;PRF;PST;MASC	ले जाए थे
-V;1;PL;PRF;LGSPEC4;FEMरखनाV;1;PL;PRF;LGSPEC4;FEM	रख होती
-V;3;SG;PRF;LGSPEC4;FEMहस्तमैथुन करनाV;3;SG;PRF;LGSPEC4;FEM	हस्तमैथुन किया होती
-V;3;SG;PRF;PST;FEMख़तना करनाV;3;SG;PRF;PST;FEM	ख़तना किया थी
-V;3;SG;PRF;PRS;FEMख़ून करनाV;3;SG;PRF;PRS;FEM	ख़ून किया है
-V;1;PL;HAB;LGSPEC4;FEMहस्तमैथुन करनाV;1;PL;HAB;LGSPEC4;FEM	हस्तमैथुन करते होती
-V;2;PL;PRF;LGSPEC4;MASCभागनाV;2;PL;PRF;LGSPEC4;MASC	भाग होते
-V;1;SG;PRF;PST;FEMबिकनाV;1;SG;PRF;PST;FEM	बिकती थी
-V;2;SG;PROG;LGSPEC3;MASCशुरू करनाV;2;SG;PROG;LGSPEC3;MASC	शुरू कर रहा होगा
-V;3;SG;PRF;LGSPEC4;FEMमिटनाV;3;SG;PRF;LGSPEC4;FEM	मिटती होती
-V;2;PL;HAB;PRS;MASCपड़नाV;2;PL;HAB;PRS;MASC	पड़ते हो
-V;3;PL;PROG;PRS;FEMमस्ती करनाV;3;PL;PROG;PRS;FEM	मस्ती कर रही हैं
-V;1;PL;PRF;LGSPEC4;MASCस्वप्न देखनाV;1;PL;PRF;LGSPEC4;MASC	स्वप्न देखूँगी होते
-V;3;SG;SBJV;FEMसूखनाV;3;SG;SBJV;FEM	यह सूखी
-V;1;PL;PRF;LGSPEC3;MASCशिकार करनाV;1;PL;PRF;LGSPEC3;MASC	शिकार किये होंगे
-V;2;SG;IMP;FORMस्वप्न देखनाV;2;SG;IMP;FORM	स्वप्न देखते
-V;1;SG;HAB;PST;FEMरचनाV;1;SG;HAB;PST;FEM	रचती थी
-V;3;SG;HAB;SBJV;MASCसकनाV;3;SG;HAB;SBJV;MASC	सक हो
-V;1;SG;PRF;LGSPEC3;MASCसुस्तानाV;1;SG;PRF;LGSPEC3;MASC	सुस्ता हूँगा
-V;3;PL;HAB;PST;MASCबरसनाV;3;PL;HAB;PST;MASC	बरस थे
-V;3;PL;HAB;PST;MASCतैरनाV;3;PL;HAB;PST;MASC	तैरता थे
-V;2;PL;PROG;PST;FEMघुस करनाV;2;PL;PROG;PST;FEM	घुस कर रही थीं
-V;2;PL;PRF;SBJV;MASCउतरनाV;2;PL;PRF;SBJV;MASC	उतरे हो
-V;2;SG;HAB;LGSPEC3;FEMबचानाV;2;SG;HAB;LGSPEC3;FEM	बचाती होगी
-V;3;SG;SBJV;FEMइस्तेमाल करनाV;3;SG;SBJV;FEM	यह इस्तेमाल करेगी
-V;1;PL;PROG;PST;FEMआश्चर्य करनाV;1;PL;PROG;PST;FEM	आश्चर्य कर रही थीं
-V;2;PL;HAB;LGSPEC4;MASCकोशिश करनाV;2;PL;HAB;LGSPEC4;MASC	कोशिश करते होते
-V;3;SG;HAB;SBJV;FEMरोकनाV;3;SG;HAB;SBJV;FEM	रोकती हो
-V;2;SG;PRF;LGSPEC3;FEMडलवानाV;2;SG;PRF;LGSPEC3;FEM	डलवा होगी
-V;1;SG;PRF;LGSPEC3;MASCखाँसनाV;1;SG;PRF;LGSPEC3;MASC	खाँसता हूँगा
-V;3;SG;HAB;LGSPEC3;MASCबिखरनाV;3;SG;HAB;LGSPEC3;MASC	बिखरे होगा
-V;2;PL;HAB;LGSPEC4;MASCसमझानाV;2;PL;HAB;LGSPEC4;MASC	समझा होते
-V;3;SG;PROG;PRS;MASCपकानाV;3;SG;PROG;PRS;MASC	पकाया रहा है
-V;3;SG;PRF;PRS;MASCहिलनाV;3;SG;PRF;PRS;MASC	हिले है
-V;1;SG;HAB;LGSPEC3;FEMठीक होनाV;1;SG;HAB;LGSPEC3;FEM	ठीक होता हूँगी
-V;3;SG;PRF;LGSPEC4;MASCअंगारा बननाV;3;SG;PRF;LGSPEC4;MASC	अंगारा बनी होता
-V;3;SG;PROG;LGSPEC3;FEMचलानाV;3;SG;PROG;LGSPEC3;FEM	चला रही होगी
-V;3;PL;PROG;SBJV;FEMपिटनाV;3;PL;PROG;SBJV;FEM	पिट रही हों
-V;2;PL;HAB;LGSPEC3;MASCतैरानाV;2;PL;HAB;LGSPEC3;MASC	होगे
-V;3;SG;PRF;PRS;MASCछेड़नाV;3;SG;PRF;PRS;MASC	छेड़ है
-V;2;PL;HAB;PRS;MASCचढ़नाV;2;PL;HAB;PRS;MASC	चढ़ते हो
-V;3;PL;PROG;PST;MASCख़ून करनाV;3;PL;PROG;PST;MASC	ख़ून कर रहे थे
-V;1;SG;PROG;LGSPEC4;MASCबिलबिलानाV;1;SG;PROG;LGSPEC4;MASC	बिलबिलाते रहा होता
-V;3;SG;SBJV;FEMलूटनाV;3;SG;SBJV;FEM	यह लूट
-V;1;PL;HAB;PRS;FEMरहनाV;1;PL;HAB;PRS;FEM	रहती हैं
-V;1;PL;PRF;LGSPEC4;FEMमोड़नाV;1;PL;PRF;LGSPEC4;FEM	मोड़ती होती
-V;3;SG;HAB;LGSPEC4;MASCचुननाV;3;SG;HAB;LGSPEC4;MASC	चुनता होता
-V;3;PL;SBJVजागनाV;3;PL;SBJV	ये जागती
-V;2;SG;PRF;SBJV;MASCछीपनाV;2;SG;PRF;SBJV;MASC	छीपे हो
-V;2;PL;PRF;SBJV;FEMप्रवेश करनाV;2;PL;PRF;SBJV;FEM	प्रवेश कियी हो
-V;3;PL;PROG;SBJV;FEMऐसी तैसी करनाV;3;PL;PROG;SBJV;FEM	ऐसी तैयार पसीजोगी कर रही हों
-V;1;SG;HAB;LGSPEC3;MASCगिरफ़्तार करनाV;1;SG;HAB;LGSPEC3;MASC	गिरफ़्तार करती हूँगा
-V;2;SG;IMP;FORMछिपानाV;2;SG;IMP;FORM	छिपाइये
-V;2;SG;PROG;PRS;FEMउठानाV;2;SG;PROG;PRS;FEM	उठा रही है
-V;2;SG;PROG;LGSPEC3;FEMडरनाV;2;SG;PROG;LGSPEC3;FEM	डर रही होगी
-V;3;PL;PRF;SBJV;MASCसूजनाV;3;PL;PRF;SBJV;MASC	सूजा हों
-V;3;PL;PROG;SBJV;FEMछीननाV;3;PL;PROG;SBJV;FEM	छीनती रही हों
-V;3;PL;PRF;PST;MASCभूलनाV;3;PL;PRF;PST;MASC	भूले थे
-V;1;PL;HAB;LGSPEC4;MASCनिकलनाV;1;PL;HAB;LGSPEC4;MASC	निकल होते
-V;1;PL;HAB;LGSPEC3;MASCकमानाV;1;PL;HAB;LGSPEC3;MASC	कमाए होंगे
-V;V.PTCP;MASC;PL;IPFVसामने आनाV;V.PTCP;MASC;PL;IPFV	सामने
-V;2;SG;PROG;SBJV;MASCचाहनाV;2;SG;PROG;SBJV;MASC	चाह रहा हो
-V;3;PL;PROG;PRS;FEMरोकनाV;3;PL;PROG;PRS;FEM	रोक रही हैं
-V;3;SG;PRF;LGSPEC3;MASCत्यागनाV;3;SG;PRF;LGSPEC3;MASC	त्याग होगा
-V;1;PL;PROG;LGSPEC4;FEMभेजनाV;1;PL;PROG;LGSPEC4;FEM	भेज रही होती
-V;1;SG;PRF;LGSPEC4;MASCचूमनाV;1;SG;PRF;LGSPEC4;MASC	चूम होता
-V;3;SG;PROG;PRS;MASCबैठनाV;3;SG;PROG;PRS;MASC	बैठ रहा है
-V;1;SG;PROG;LGSPEC3;FEMतौबा करनाV;1;SG;PROG;LGSPEC3;FEM	तौबा कर रही होगी
-V;1;SG;PROG;SBJV;MASCछींकनाV;1;SG;PROG;SBJV;MASC	छींकए रहा हूँ
-V;2;SG;PRF;PRS;FEMअपलोड करनाV;2;SG;PRF;PRS;FEM	अपलोड किया है
-V;2;PL;SBJV;FEMतैरानाV;2;PL;SBJV;FEM	तुम तैराती
-V;3;SG;HAB;LGSPEC4;FEMअपलोड करनाV;3;SG;HAB;LGSPEC4;FEM	अपलोड करता होती
-V;2;SG;PROG;PRS;MASCमरोड़नाV;2;SG;PROG;PRS;MASC	मरोड़ रहा है
-V;3;PL;PRF;LGSPEC4;FEMचूमनाV;3;PL;PRF;LGSPEC4;FEM	चूम होती
-V;1;PL;SBJV;MASCबिलबिलानाV;1;PL;SBJV;MASC	हम बिलबिलाए
-V;2;PL;PRF;PST;FEMघूमनाV;2;PL;PRF;PST;FEM	घूमती थीं
-V;3;PL;SBJVतैरानाV;3;PL;SBJV	ये तैराए
-V;3;PL;HAB;PST;FEMआराम करनाV;3;PL;HAB;PST;FEM	आराम करते थीं
-V;1;PL;PRF;PST;FEMआश्चर्य करनाV;1;PL;PRF;PST;FEM	आश्चर्य किये थीं
-V;NFIN;LGSPEC2उबलनाV;NFIN;LGSPEC2	उबलना करने
-V;2;PL;PRF;PRS;MASCआरम्भ करनाV;2;PL;PRF;PRS;MASC	आरम्भ कियी हो
-V;1;SG;PRF;PST;FEMगुणा करनाV;1;SG;PRF;PST;FEM	गुणा किया थी
-V;2;SG;PROG;PST;FEMहारनाV;2;SG;PROG;PST;FEM	हार रही थी
-V;1;PL;PRF;PRS;MASCकहनाV;1;PL;PRF;PRS;MASC	कह हैं
-V;2;SG;HAB;SBJV;FEMमाफ़ करनाV;2;SG;HAB;SBJV;FEM	माफ़ करता हो
-V;3;PL;PRF;LGSPEC4;FEMघुमानाV;3;PL;PRF;LGSPEC4;FEM	घुमा होती
-V;1;SG;SBJV;MASCमाफ़ करनाV;1;SG;SBJV;MASC	मैं माफ़ करूं
-V;2;SG;PROG;PST;FEMभूलनाV;2;SG;PROG;PST;FEM	भूल रही थी
-V;3;PL;SBJV;FEMबचनाV;3;PL;SBJV;FEM	ये बचती
-V;2;SG;PROG;SBJV;MASCतैयार करनाV;2;SG;PROG;SBJV;MASC	तैयार कर रहा हो
-V;V.PTCP;FEM;SG;PFVअपलोड करनाV;V.PTCP;FEM;SG;PFV	अपलोड करती
-V;3;SG;PRF;PRS;FEMस्थापित करनाV;3;SG;PRF;PRS;FEM	स्थापित किया है
-V;1;SG;PRF;SBJV;MASCअंगारे बरसनाV;1;SG;PRF;SBJV;MASC	अंगारे बरसी हूँ
-V;3;SG;PRF;LGSPEC4;MASCअंगारों पर पैर रखनाV;3;SG;PRF;LGSPEC4;MASC	अंगारों पैर रख होता
-V;2;PL;PROG;PRS;MASCमक्खन लगानाV;2;PL;PROG;PRS;MASC	मक्खन लगा रहे हो
-V;1;PL;PROG;PRS;MASCजपनाV;1;PL;PROG;PRS;MASC	जप रहे हैं
-V;3;PL;PROG;SBJV;FEMचाटनाV;3;PL;PROG;SBJV;FEM	चाट रही हों
-V;3;SG;PRF;SBJV;FEMचूमनाV;3;SG;PRF;SBJV;FEM	चूम हो
-V;3;SG;PROG;PRS;MASCपानाV;3;SG;PROG;PRS;MASC	रहा है
-V;3;PL;PRF;LGSPEC4;FEMजागनाV;3;PL;PRF;LGSPEC4;FEM	जागती होती
-V;1;PL;SBJV;FEMरचनाV;1;PL;SBJV;FEM	हम रची
-V;3;SG;PRF;LGSPEC4;FEMतैयार करनाV;3;SG;PRF;LGSPEC4;FEM	तैयार किया होती
-V;1;SG;PROG;PST;MASCझांकनाV;1;SG;PROG;PST;MASC	रहा था
-V;2;PL;PROG;PRS;FEMशुक्रिया करनाV;2;PL;PROG;PRS;FEM	शुक्रिया कर रही हो
-V;2;SG;PROG;LGSPEC4;MASCफँसनाV;2;SG;PROG;LGSPEC4;MASC	फँस रहा होता
-V;1;PL;PRF;SBJV;FEMझुकनाV;1;PL;PRF;SBJV;FEM	झुकती हों
-V;1;SG;PROG;LGSPEC3;FEMलानाV;1;SG;PROG;LGSPEC3;FEM	रही होगी
-V;2;PL;HAB;PRS;FEMपूजा करनाV;2;PL;HAB;PRS;FEM	पूजा करते हो
-V;1;SG;PROG;LGSPEC3;MASCबन्द करनाV;1;SG;PROG;LGSPEC3;MASC	बन्द कर रहा होगा
-V;1;SG;HAB;LGSPEC3;FEMझाड़नाV;1;SG;HAB;LGSPEC3;FEM	झाड़ती हूँगी
-V;1;PL;PRF;PRS;FEMबिकनाV;1;PL;PRF;PRS;FEM	बिकी हैं
-V;3;PL;PROG;PST;MASCचमकनाV;3;PL;PROG;PST;MASC	चमकते रहे थे
-V;2;SG;PROG;PRS;MASCबैठनाV;2;SG;PROG;PRS;MASC	बैठ रहा है
-V;1;PL;PRF;SBJV;FEMखड़ा करनाV;1;PL;PRF;SBJV;FEM	खड़ा किये हों
-V;1;PL;HAB;SBJV;FEMरहनाV;1;PL;HAB;SBJV;FEM	रहती हों
-V;2;SG;PROG;SBJV;FEMसूजनाV;2;SG;PROG;SBJV;FEM	सूज रही हो
-V;3;PL;PROG;LGSPEC3;MASCहटनाV;3;PL;PROG;LGSPEC3;MASC	हटते रहे होंगे
-V;2;SG;PRF;SBJV;MASCभौंकनाV;2;SG;PRF;SBJV;MASC	भौंका हो
-V;1;SG;PRF;LGSPEC4;MASCत्यागनाV;1;SG;PRF;LGSPEC4;MASC	त्याग होता
-V;1;PL;PROG;PRS;MASCडाउनलोड करनाV;1;PL;PROG;PRS;MASC	डाउनलोड कर रहे हैं
-V;2;SG;PRF;LGSPEC4;MASCप्रेम करनाV;2;SG;PRF;LGSPEC4;MASC	किया होता
-V;1;SG;HAB;PRS;MASCघूमनाV;1;SG;HAB;PRS;MASC	घूमा हूँ
-V;3;SG;PRF;SBJV;MASCमिटनाV;3;SG;PRF;SBJV;MASC	मिटे हो
-V;2;PL;PROG;LGSPEC3;FEMनापनाV;2;PL;PROG;LGSPEC3;FEM	नापती रही होंगी
-V;2;PL;PRF;LGSPEC4;FEMखोजनाV;2;PL;PRF;LGSPEC4;FEM	खोजी होती
-V;1;PL;PRF;LGSPEC4;FEMभेजनाV;1;PL;PRF;LGSPEC4;FEM	भेजी होती
-V;3;SG;HAB;PST;MASCचोरी करनाV;3;SG;HAB;PST;MASC	चोरी करता था
-V;1;PL;PRF;PRS;FEMपिघलनाV;1;PL;PRF;PRS;FEM	पिघली हैं
-V;V.PTCP;MASC;SG;IPFVबैठनाV;V.PTCP;MASC;SG;IPFV	बैठती
-V;2;PL;PROG;LGSPEC4;FEMचुसनाV;2;PL;PROG;LGSPEC4;FEM	चुस रही होती
-V;3;PL;HAB;SBJV;MASCअंगारा बननाV;3;PL;HAB;SBJV;MASC	अंगारा बनती हों
-V;3;SG;PRF;LGSPEC3;MASCबाँधनाV;3;SG;PRF;LGSPEC3;MASC	बाँधा होगा
-V;2;PL;HAB;SBJV;FEMबिखरनाV;2;PL;HAB;SBJV;FEM	बिखर हो
-V;1;SG;PRF;PST;FEMबोलनाV;1;SG;PRF;PST;FEM	बोली थी
-V;2;SG;HAB;PST;FEMतौबा करनाV;2;SG;HAB;PST;FEM	तौबा करता थी
-V;1;SG;PROG;SBJV;MASCपलटनाV;1;SG;PROG;SBJV;MASC	पलटे रहा हूँ
-V;3;PL;PROG;LGSPEC3;MASCसूखनाV;3;PL;PROG;LGSPEC3;MASC	सूखते रहे होंगे
-V;2;SG;PROG;SBJV;MASCजुड़नाV;2;SG;PROG;SBJV;MASC	जुड़ेगा रहा हो
-V;1;PL;HAB;SBJV;FEMलू करनाV;1;PL;HAB;SBJV;FEM	करते हों
-V;3;SG;PRF;PRS;FEMइनकार करनाV;3;SG;PRF;PRS;FEM	इनकार किया है
-V;3;PL;PROG;LGSPEC4;MASCबीतनाV;3;PL;PROG;LGSPEC4;MASC	बीत रहे होते
-V;2;SG;PRF;LGSPEC4;FEMपसीजनाV;2;SG;PRF;LGSPEC4;FEM	पसीजी होती
-V;2;SG;HAB;LGSPEC3;MASCबकनाV;2;SG;HAB;LGSPEC3;MASC	बकया होगा
-V;1;SG;HAB;PRS;MASCख़ून करनाV;1;SG;HAB;PRS;MASC	ख़ून करता हूँ
-V;3;PL;PRF;PST;FEMग़लत करनाV;3;PL;PRF;PST;FEM	ग़लत किये थीं
-V;1;SG;PROG;SBJV;MASCझूठ बोलनाV;1;SG;PROG;SBJV;MASC	झूम बोलती रहा हूँ
-V;3;SG;SBJV;MASCपिटनाV;3;SG;SBJV;MASC	यह पिटा
-V;1;SG;PROG;SBJV;MASCसोचनाV;1;SG;PROG;SBJV;MASC	सोच रहा हूँ
-V;2;PL;PROG;LGSPEC4;MASCबोलनाV;2;PL;PROG;LGSPEC4;MASC	बोलते रहे होते
-V;2;PL;HAB;LGSPEC3;MASCबेचनाV;2;PL;HAB;LGSPEC3;MASC	बेचते होगे
-V;3;SG;PROG;SBJV;FEMउठनाV;3;SG;PROG;SBJV;FEM	उठी रही हो
-V;3;PL;PROG;LGSPEC4;MASCघुस करनाV;3;PL;PROG;LGSPEC4;MASC	घुसता कर रहे होते
-V;3;SG;PROG;PST;MASCमिटनाV;3;SG;PROG;PST;MASC	मिट रहा था
-V;NFIN;LGSPEC1हस्तमैथुन करनाV;NFIN;LGSPEC1	हस्तमैथुन
-V;2;SG;PROG;PRS;MASCअपलोड करनाV;2;SG;PROG;PRS;MASC	अपलोड कर रहा है
-V;1;PL;PRF;LGSPEC4;FEMछीलनाV;1;PL;PRF;LGSPEC4;FEM	छीलती होती
-V;3;SG;PRF;LGSPEC3;MASCमस्ती करनाV;3;SG;PRF;LGSPEC3;MASC	मस्ती किया होगा
-V;1;SG;HAB;SBJV;MASCडरनाV;1;SG;HAB;SBJV;MASC	डरते हूँ
-V;V.PTCP;MASC;SG;IPFVपसीजनाV;V.PTCP;MASC;SG;IPFV	पसीजा
-V;1;PL;PROG;SBJV;MASCभौंकनाV;1;PL;PROG;SBJV;MASC	भौंक रहे हों
-V;2;PL;PROG;LGSPEC3;MASCइलाज करनाV;2;PL;PROG;LGSPEC3;MASC	इलाज कर रहे होंगे
-V;2;PL;PRF;LGSPEC4;FEMचोदनाV;2;PL;PRF;LGSPEC4;FEM	चोदी होती
-V;3;SG;HAB;PST;MASCचूमनाV;3;SG;HAB;PST;MASC	चूमता था
-V;2;PL;PROG;SBJV;FEMझूमनाV;2;PL;PROG;SBJV;FEM	झूम रही हो
-V;2;PL;SBJV;FEMइस्तेमाल करनाV;2;PL;SBJV;FEM	तुम इस्तेमाल
-V;2;SG;PROG;PRS;FEMघूमनाV;2;SG;PROG;PRS;FEM	घूम रही है
-V;2;PL;PROG;LGSPEC4;FEMप्यार करनाV;2;PL;PROG;LGSPEC4;FEM	प्यार कर रही होती
-V;2;PL;PROG;PST;MASCप्रवेश करनाV;2;PL;PROG;PST;MASC	प्रवेश कर रहे थे
-V;1;PL;PROG;LGSPEC4;MASCपिघलनाV;1;PL;PROG;LGSPEC4;MASC	पिघलते रहे होते
-V;3;PL;PROG;PST;FEMपकानाV;3;PL;PROG;PST;FEM	पका रही थीं
-V;2;PL;PRF;LGSPEC3;FEMपीटनाV;2;PL;PRF;LGSPEC3;FEM	पीटती होगी
-V;3;SG;PRF;PRS;MASCबचनाV;3;SG;PRF;PRS;MASC	बच है
-V;3;SG;PRF;LGSPEC4;MASCठगनाV;3;SG;PRF;LGSPEC4;MASC	होता होता
-V;2;PL;PROG;LGSPEC4;MASCतुलानाV;2;PL;PROG;LGSPEC4;MASC	तुलाया रहे होते
-V;3;SG;HAB;SBJV;FEMसीखनाV;3;SG;HAB;SBJV;FEM	सीखती हो
-V;1;SG;HAB;PST;MASCभेजनाV;1;SG;HAB;PST;MASC	भेजता था
-V;2;SG;PROG;PST;MASCदिलानाV;2;SG;PROG;PST;MASC	दिलाया रहा था
-V;2;SG;PROG;SBJV;MASCमुड़नाV;2;SG;PROG;SBJV;MASC	मुड़ रहा हो
-V;3;SG;PRF;LGSPEC4;MASCसकनाV;3;SG;PRF;LGSPEC4;MASC	सक होता
-V;2;SG;PRF;PRS;FEMनहानाV;2;SG;PRF;PRS;FEM	नहाई है
-V;3;SG;HAB;LGSPEC3;FEMखोजनाV;3;SG;HAB;LGSPEC3;FEM	खोजी होगी
-V;1;PL;PRF;LGSPEC4;MASCअपलोड करनाV;1;PL;PRF;LGSPEC4;MASC	अपलोड किये होते
-V;3;PL;PRF;SBJV;FEMरोनाV;3;PL;PRF;SBJV;FEM	रो हों
-V;1;SG;PROG;LGSPEC4;MASCसंभोग करनाV;1;SG;PROG;LGSPEC4;MASC	संभोग कर रहा होता
-V;2;SG;HAB;PRS;FEMसहमनाV;2;SG;HAB;PRS;FEM	सहमती है
-V;1;SG;HAB;LGSPEC3;MASCउड़ानाV;1;SG;HAB;LGSPEC3;MASC	उड़ाता हूँगा
-V;3;PL;PRF;LGSPEC4;MASCपूछनाV;3;PL;PRF;LGSPEC4;MASC	पूछे होते
-V;1;SG;HAB;PRS;FEMछुड़ानाV;1;SG;HAB;PRS;FEM	छुड़ाई हूँ
-V;1;SG;HAB;PST;FEMडलवानाV;1;SG;HAB;PST;FEM	डलवाती थी
-V;2;SG;IMP;FORMप्राप्त करनाV;2;SG;IMP;FORM	प्राप्त करो
-V;2;PL;HAB;PST;MASCनिर्माण करनाV;2;PL;HAB;PST;MASC	करते थे
-V;2;SG;HAB;LGSPEC4;MASCडलवानाV;2;SG;HAB;LGSPEC4;MASC	डलवा होता
-V;2;PL;PROG;PST;MASCसोचनाV;2;PL;PROG;PST;MASC	सोच रहे थे
-V;2;SG;PRF;LGSPEC3;MASCशुरू करनाV;2;SG;PRF;LGSPEC3;MASC	शुरू किया होगा
-V;1;SG;SBJV;MASCनशा करनाV;1;SG;SBJV;MASC	मैं नशा करूं
-V;2;PL;HAB;SBJV;MASCनशा करनाV;2;PL;HAB;SBJV;MASC	नशा करते हो
-V;3;SG;PROG;PRS;MASCअंगारे बरसनाV;3;SG;PROG;PRS;MASC	बरस रहा है
-V;1;SG;PRF;LGSPEC4;FEMपीनाV;1;SG;PRF;LGSPEC4;FEM	पी होती
-V;3;PL;PROG;PRS;MASCअध्ययन करनाV;3;PL;PROG;PRS;MASC	अध्ययन कर रहे हैं
-V;3;PL;PRF;PST;FEMठीक होनाV;3;PL;PRF;PST;FEM	ठीक होई थीं
-V;2;PL;PRF;PRS;MASCजमनाV;2;PL;PRF;PRS;MASC	जमे हैं हो
-V;3;PL;PRF;PRS;MASCअपलोड करनाV;3;PL;PRF;PRS;MASC	अपलोड किये हैं
-V;1;SG;SBJV;MASCभागनाV;1;SG;SBJV;MASC	मैं भागता
-V;2;SG;HAB;LGSPEC3;MASCदौड़नाV;2;SG;HAB;LGSPEC3;MASC	दौड़ता होगा
-V;1;SG;PROG;LGSPEC4;MASCमुड़नाV;1;SG;PROG;LGSPEC4;MASC	मुड़ते रहा होता
-V;1;PL;PRF;LGSPEC3;MASCतैरनाV;1;PL;PRF;LGSPEC3;MASC	तैर होंगे
-V;3;SG;PRF;LGSPEC4;FEMसेक्स करनाV;3;SG;PRF;LGSPEC4;FEM	सेक्स किया होती
-V;2;PL;PRF;SBJV;FEMजमा करनाV;2;PL;PRF;SBJV;FEM	जमा कियी हो
-V;2;SG;PRF;PST;FEMअंगारे उगलनाV;2;SG;PRF;PST;FEM	उगलइये थी
-V;V.PTCP;MASC;PL;PFVहटनाV;V.PTCP;MASC;PL;PFV	हटी
+VĬĭĮįİपानाVĬĭĮįİ	पा रही होगी
+VĬĭıĲझांकनाVĬĭıĲ	झांक
+VĳĭĴĵİचुरानाVĳĭĴĵİ	नापएंगे चबाएंगी नापएगा
+VĶĭķĸĹलड़नाVĶĭķĸĹ	लड़ता
+VĬĭĮĵĹपिघलनाVĬĭĮĵĹ	पिघल रही
+VĶĭĴįĹचढ़नाVĶĭĴįĹ	चढ़ती
+VĳĭĮįĹआरम्भ करनाVĳĭĮįĹ	नापएंगे रही आरम्भ किया नापएगा रहे
+VĳĭĮĸĹबननाVĳĭĮĸĹ	नापएगा रही बनती नापएंगे रही
+VĶĺĴĸĹभेजनाVĶĺĴĸĹ	भेजी
+VĬĺķĻĹजगनाVĬĺķĻĹ	जग
+VĳĺķĵİसहमनाVĳĺķĵİ	नापएंगे सकेगी सहमेंगी नापएंगे
+VĬĺķĸĹउड़ानाVĬĺķĸĹ	उड़ाई
+VĬĺĮįĹसंभोग करनाVĬĺĮįĹ	संभोग करता
+VĳĭĻफँसनाVĳĭĻ	नापएंगे फँसे नापएंगे
+VĬĭĮĸĹचबानाVĬĭĮĸĹ	चबा रहे
+VĶĺĴļİमाफ़ करनाVĶĺĴļİ	माफ़ किया होती
+VĶĺķįĹठीक होनाVĶĺķįĹ	ठीक होने
+VĬĭķĸİपिघलनाVĬĭķĸİ	पड़ूँगी पिघलेंगी
+VĶĭĻसड़नाVĶĭĻ	सड़
+VĬĺĻĹअध्ययन करनाVĬĺĻĹ	अध्ययन करता
+VĽİĭľस्वप्न देखनाVĽİĭľ	स्वप्न
+VĬĭĻİबननाVĬĭĻİ	बनेगी
+VĳĭĻखोलनाVĳĭĻ	नापएगा खोल नापएगा
+VĶĭĮĻĹउड़ानाVĶĭĮĻĹ	रही उड़ाई रही
+VĶĺĴĸĹप्रयत्न करनाVĶĺĴĸĹ	प्रयत्न किया
+VĳĭĮĵĹबेचनाVĳĭĮĵĹ	नापएगा रही बेचता नापएंगे रही
+VĳĭĮįĹझूमनाVĳĭĮįĹ	नापएंगे रहे झूमा नापएगा रहे
+VĬĺĻĹछिपानाVĬĺĻĹ	छिपा
+VĶĭĻटेंटुआ दबानाVĶĭĻ	टेंटुआ दबा दबा
+VĬĺĴĸİबचनाVĬĺĴĸİ	बचेगी
+VĬĭĮĵĹबेचनाVĬĭĮĵĹ	बेच रही
+VĶĺĴĵĹबननाVĶĺĴĵĹ	बनती
+VĳĺĮĵİनहानाVĳĺĮĵİ	नापएगा नहाएंगी नापएंगे
+VĳĭĮĸĹछुटनाVĳĭĮĸĹ	नापएगा रही छुटी नापएंगे रही
+VĬĭĴĸİमस्ती करनाVĬĭĴĸİ	मोड़ेंगी करोगे
+Vĳĺķĵİप्रवेश करनाVĳĺķĵİ	नापएंगे पसीजोगी प्रवेश किया नापएगा
+VĳĺĻĹस्वप्न देखनाVĳĺĻĹ	नापएगा स्वप्न देखा नापएगा
+VĶĭĮįĹछींकनाVĶĭĮįĹ	रही छींकती रही
+VĳĭĴĻĹना करनाVĳĭĴĻĹ	नापएंगे किया नापएगा
+VĳĺĻअपना पालक पनीर देखनाVĳĺĻ	नापएगा अपना नापती पनीर देखा नापएंगे
+VĬĭĻİजपनाVĬĭĻİ	जपेगी
+VĳĭķļİहगनाVĳĭķļİ	नापएगा हगती नापएंगे होती
+VĳĭķļİबनानाVĳĭķļİ	नापएगा बना नापएगा होती
+VĳĭĮįİबोलनाVĳĭĮįİ	नापएगा बोल नापएगा रही होंगी
+VĳĭĻİबेचनाVĳĭĻİ	नापएंगे बनेगी बेचोगे नापएगा
+VĬĺĴĵİबैठनाVĬĺĴĵİ	बचेगी बैठा
+VĳĺĴĻİछीलनाVĳĺĴĻİ	नापएगा छील नापएगा
+VĶĺķĸİसेक्स करनाVĶĺķĸİ	सकेगी किया
+VĳĭĴĻĹबोलनाVĳĭĴĻĹ	नापएगा बोलती नापएगा
+VĶĭķĻĹमतलब होनाVĶĭķĻĹ	मतलब होने
+VĶĭĮĸĹउलटी करनाVĶĭĮĸĹ	रही उलटी किया रहे
+Vĳĺķĸİऐश करनाVĳĺķĸİ	नापएगा ऐश किया नापएंगे
+VĶĭĮįĹसहमानाVĶĭĮįĹ	रहे सहमा रही
+VĳĺķĻİखोलनाVĳĺķĻİ	नापएगा खोेगी नापएगा
+VĿŀउतरनाVĿŀ	उतर
+VĿŀकुरेदनाVĿŀ	कुरेदी
+VĶĺķĻİघुसनाVĶĺķĻİ	घुसेंगी
+VĳĭĴĻİझाड़नाVĳĭĴĻİ	नापएंगे झाड़ेंगी नापएगा
+VĬĭĴĵİलिखनाVĬĭĴĵİ	लड़ूँगी लिखोगे
+VĬĭķĻİकूटनाVĬĭķĻİ	कमाएगी
+VĬĭĮĻİमोड़नाVĬĭĮĻİ	मोड़ेंगी रही
+VĳĭķĸĹअंछर मारनाVĳĭķĸĹ	नापएगा अंछर नापएगा
+VĳĭĮĻĹपहननाVĳĭĮĻĹ	नापएगा रही पहनी नापएगा रही
+VĬĭķĸĹरचनाVĬĭķĸĹ	रच
+VĶĺķĵĹझाड़नाVĶĺķĵĹ	झाड़ता
+VĳĭĮĻĹछुटनाVĳĭĮĻĹ	नापएगा रही छुटी नापएंगे रही
+VĬĺķĸĹचुसनाVĬĺķĸĹ	चुस
+VĶĭķĸĹठगनाVĶĭķĸĹ	ठगी
+VĶĭĴļĹमनानाVĶĭĴļĹ	मना
+VĳĺĻभेजनाVĳĺĻ	नापएगा भेजी नापएगा
+VĬĭĴįİनहानाVĬĭĴįİ	नहाई होगी
+Vĳĭķĵİअंछर मारनाVĳĭķĵİ	नापएगा अपनाएगी मारओगे नापएगा
+VĬĺķĸİत्यागनाVĬĺķĸİ	त्यागेंगी
+VĶĺĴĵİगुणा करनाVĶĺĴĵİ	गुणा किया
+VĶĺĻĹसाफ़ करनाVĶĺĻĹ	साफ़ किया
+VĳĺĴĸİउड़नाVĳĺĴĸİ	नापएगा उड़ेंगी नापएगा
+VĶĭĮļĹगुणा करनाVĶĭĮļĹ	रहे गुणा किया रही
+VĬĺķļİबर्दाश्त करनाVĬĺķļİ	बर्दाश्त करता होती
+VĳĭĻपहननाVĳĭĻ	नापएंगे पहनी नापएगा
+VĶĺķįĹपड़नाVĶĺķįĹ	पड़
+VĬĺĮļİइलाज करनाVĬĺĮļİ	इलाज करता होती
+VĳĭĮļİमिलानाVĳĭĮļİ	नापएगा मिलाती नापएगा रही होती
+VĶĺĮļİसमझनाVĶĺĮļİ	समझी होती
+VĳĺķļĹबर्दाश्त करनाVĳĺķļĹ	नापएगा बर्दाश्त किया नापएगा
+VĳĺĮĸİचाटनाVĳĺĮĸİ	नापएगा चबाएंगी नापएगा
+VĳĺĮĵĹदोहरानाVĳĺĮĵĹ	नापएगा दोहरा नापएगा
+VĶĭĮĵİस्वप्न देखनाVĶĭĮĵİ	रहे स्वप्न देखा रही
+VĬĺĮĵĹसुधारनाVĬĺĮĵĹ	सुधार
+VĳĺķĵĹलौटनाVĳĺķĵĹ	नापएगा लौटी नापएगा
+VĳĭĻĹपूजा करनाVĳĭĻĹ	नापएंगे पूजा किया नापएंगे
+VĳĺĮĸİचुकनाVĳĺĮĸİ	नापएगा चबाएंगी रुकए नापएगा
+VĳĭĴĻĹसूंघनाVĳĭĴĻĹ	नापएगा सूंघता नापएगा
+VĬĺĴļĹनहानाVĬĺĴļĹ	नहा
+VĳĭĴįĹसोचनाVĳĭĴįĹ	नापएंगे सोच नापएगा
+VĶĭĮļİपिटनाVĶĭĮļİ	पिटी रही होती
+VĶĺķįİपीनाVĶĺķįİ	पीई होगी
+VĬĺķĵİहस्तमैथुन करनाVĬĺķĵİ	हगोगी करता
+VĬĺĴĵİगिरफ़्तार करनाVĬĺĴĵİ	गिरफ़्तार करता
+VĶĭĮĻĹबननाVĶĭĮĻĹ	रहे बनती रही
+VĳĭĴĻİझूमनाVĳĭĴĻİ	नापएंगे झुकेंगी नापएगा
+VĬĭķļİझगड़नाVĬĭķļİ	झगड़ होती
+VĶĭķįİभूलनाVĶĭķįİ	भूल होगी
+VĳĭĮĵİसुनानाVĳĭĮĵİ	नापएंगे रही सकेगी नापएंगे रहे
+VĳĭĴĵİप्रेम करनाVĳĭĴĵİ	नापएंगे पकाऊंगी किया नापएगा
+VĬĭķĵİजोड़नाVĬĭķĵİ	जोड़एंगी
+VĬĭĻनहानाVĬĭĻ	नहा
+VĬĭĻछोड़नाVĬĭĻ	छोड़
+VĬĺķįİसाफ़ करनाVĬĺķįİ	साफ़ करता होगी
+VĬĭĮĸĹउबलनाVĬĭĮĸĹ	उबल रही
+VĬĺĮĸİयाद करनाVĬĺĮĸİ	करता
+VĶĺĮĻİबात करनाVĶĺĮĻİ	बाँधेंगी किया
+VĬĭĮļİचढ़ानाVĬĭĮļİ	चढ़ा रही होती
+VĶĺķĻİबैठनाVĶĺķĻİ	बचेगी बैठने
+VĬĺķļİजगनाVĬĺķļİ	जगी होती
+VĬĭķįĹबजानाVĬĭķįĹ	बजा
+VĶĺĴįĹमतलब होनाVĶĺĴįĹ	मतलब होने
+VĬĺĴļĹलटकनाVĬĺĴļĹ	लटक
+VĳĺĻİहटनाVĳĺĻİ	नापएंगे हटेंगी नापएगा
+VĳĭĮįĹनफ़रत करनाVĳĭĮįĹ	नापएगा रही नफ़रत किया नापएगा रही
+VĬĭĴįİनिकलनाVĬĭĴįİ	निकल होगी
+VĽĹĺľरखनाVĽĹĺľ	रख
+VĳĭĮĵĹसेक्स करनाVĳĭĮĵĹ	नापएगा रहे सेक्स किया नापएगा रही
+VĳĭĴĻİसहमनाVĳĭĴĻİ	नापएंगे सकेगी सहमे नापएगा
+VĶĺĮļĹकुरेदनाVĶĺĮļĹ	कुरेदी
+VĬĺĮĵĹबर्दाश्त करनाVĬĺĮĵĹ	बर्दाश्त करता
+VĳĭĴĸĹबोलनाVĳĭĴĸĹ	नापएगा बोलती नापएगा
+VĬĺĻĹजागनाVĬĺĻĹ	जाग
+VĬĭĮĻİछेड़नाVĬĭĮĻİ	छेड़ेगी रही
+VĶĭĮĵĹछापनाVĶĭĮĵĹ	रही छापती रही
+VĶĺĮĻĹअंगारे बरसनाVĶĺĮĻĹ	अंगारे बरसी
+VĶĺĴĵİआदर करनाVĶĺĴĵİ	आदर किया
+VĬĭķļİभागनाVĬĭķļİ	भागई होती
+VĽİĺľसहमानाVĽİĺľ	सहमा
+VĶĭķĻİबाटनाVĶĭķĻİ	बाँधूँगी
+VĶĺĮļİचोदनाVĶĺĮļİ	चोदी होती
+VĶĭķĵĹसोचनाVĶĭķĵĹ	सोच
+VĬĭıĲदोहरानाVĬĭıĲ	दोहरा
+VĳĺĮĵĹबिखरनाVĳĺĮĵĹ	नापएगा बिखरे नापएगा
+VĬĺķĸİभुननाVĬĺķĸİ	भुनोगी
+VĳĭĮļİडरनाVĳĭĮļİ	नापएगा डर नापएगा रही होती
+VĳĺĴįĹआग्रह करनाVĳĺĴįĹ	नापएंगे आग्रह किया नापएंगे
+VĳĺķļĹहिलनाVĳĺķļĹ	नापएगा हिली नापएगा
+VĽİĺľहल चलानाVĽİĺľ	हल चला
+VĶĺķĵİकुरेदनाVĶĺķĵİ	कमाएगी
+VĳĺĴĸĹडलवानाVĳĺĴĸĹ	नापएगा डलवा नापएगा
+VĬĭķĻĹनशा करनाVĬĭķĻĹ	नशा करोगे
+VĳĺĴĸĹबटोरनाVĳĺĴĸĹ	नापएगा बटोरा नापएगा
+VĶĭķĵİचोट करनाVĶĭķĵİ	चबाएंगी लटकेगी
+VĳĺĴĻĹछींकनाVĳĺĴĻĹ	नापएगा छींकती नापएगा
+VĬĭĴĵĹअंगारा होनाVĬĭĴĵĹ	अंगारा
+VĳĺķĻĹपहुँचनाVĳĺķĻĹ	नापएगा पहुँचती नापएगा
+VĳĺĻसड़नाVĳĺĻ	नापएंगे सड़ नापएगा
+VĳĭķĸĹअंगारे बरसनाVĳĭķĸĹ	नापएगा अंगारे बरसी नापएगा
+VĶĭķĵİसहमानाVĶĭķĵİ	सकेगी सहमाओगे
+VĳĭĴļĹलौटनाVĳĭĴļĹ	नापएगा लौटी नापएगा
+VĶĭĴļİझगड़नाVĶĭĴļİ	झगड़ होती
+VĶĭĴįĹठगनाVĶĭĴįĹ	ठगी
+VĬĺĴļĹशुक्रिया करनाVĬĺĴļĹ	शुक्रिया करता
+VĶĺĴĸİतैरानाVĶĺĴĸİ	तैरा
+VĶĭĮĸĹठगनाVĶĭĮĸĹ	रहे ठगी रही
+VĬĭıĲटपकनाVĬĭıĲ	टपक
+VĳĺĮļİग़लत करनाVĳĺĮļİ	नापएगा ग़लत किया नापएंगे होती
+VĳĭĴļĹगिरफ़्तार करनाVĳĭĴļĹ	नापएगा गिरफ़्तार किया नापएगा
+VĬĺķĵĹभौंह चढ़ानाVĬĺķĵĹ	भौंह चढ़ा
+VĳĭķĻİनिर्माण करनाVĳĭķĻİ	नापएंगे किया नापएंगे
+VĶĭĮįĹजलानाVĶĭĮįĹ	रही जला रही
+VĳĺĻĹतौबा करनाVĳĺĻĹ	नापएंगे तौबा किया नापएगा
+VĳĺķļĹचूमनाVĳĺķļĹ	नापएगा चूमे नापएगा
+VĬĭķįİकुरेदनाVĬĭķįİ	कुरेदती होगी
+VĶĭķļİपीनाVĶĭķļİ	पी होती
+VĶĭķĸĹघृणा करनाVĶĭķĸĹ	घृणा किया
+VĶĭĻĹपसीजनाVĶĭĻĹ	पसीज
+VĳĺĴįĹचलनाVĳĺĴįĹ	नापएगा चली नापएगा
+VĳĺĮĻİथामनाVĳĺĮĻİ	नापएंगे थाम नापएगा
+VĶĭĮĵİझूठ बोलनाVĶĭĮĵİ	रही बोलती रही
+VĳĺĮĸĹपानाVĳĺĮĸĹ	नापएगा पाता नापएगा
+VĬĺĻİदबानाVĬĺĻİ	दबाऊंगी
+VĶĭĮĻİसहमानाVĶĭĮĻİ	रहे सकेगी सहमाऊंगी रहे
+VĽİĺŁसहायता करनाVĽİĺŁ	समझाना किया
+VĶĭĻĹटपकनाVĶĭĻĹ	टपकती
+VĶĭĴįĹअंगारे बरसनाVĶĭĴįĹ	अंगारे बरसी
+VĶĭķĵĹसूखनाVĶĭķĵĹ	सूखती
+VĶĺĮįĹनहानाVĶĺĮįĹ	नहा
+VĶĺķĵĹपानाVĶĺķĵĹ	पाता
+VĶĺĮĻĹग़लत करनाVĶĺĮĻĹ	ग़लत किया
+VĶĺķĵİबनानाVĶĺķĵİ	बनाएगी
+VĬĭķĵİइस्तेमाल करनाVĬĭķĵİ	इस्तेमाल करोगे
+VĶĭĻचोट करनाVĶĭĻ	चोरी लटका
+VĶĺĴļĹलौटनाVĶĺĴļĹ	लौटी
+VĳĭĮĻĹमनानाVĳĭĮĻĹ	नापएंगे रहे मना नापएंगे रहे
+VĳĭķĻĹझूमनाVĳĭķĻĹ	नापएगा झूमा नापएगा
+VĬĭķĸĹमाफ़ करनाVĬĭķĸĹ	माफ़ करोगे
+VĬĭĴįİरौशन करनाVĬĭĴįİ	रौशन करोगे होगी
+VĶĺĮĻĹमिलानाVĶĺĮĻĹ	मिलाए
+VĶĺķļİखेलनाVĶĺķļİ	खेल होती
+VĳĭĴįİदोहरानाVĳĭĴįİ	नापएगा दोहरा नापएगा होगी
+VĶĺĮĸİलू करनाVĶĺĮĸİ	लू किया
+VĿŀसहमानाVĿŀ	सहमा
+VĬĺķļĹबर्दाश्त करनाVĬĺķļĹ	बर्दाश्त करता
+VĶĭĮĻĹपड़नाVĶĭĮĻĹ	रही पड़ रही
+VĶĭķĵĹजमा करनाVĶĭķĵĹ	जमा किया
+VĳĭĻĹडलवानाVĳĭĻĹ	नापएगा डलवा नापएंगे
+VĶĺķļĹभौंह चढ़ानाVĶĺķļĹ	भौंह चढ़ाती
+VĶĭĮĸİकसनाVĶĭĮĸİ	रही कसेंगी रही
+VĳĭĻĹबिकनाVĳĭĻĹ	नापएगा बिक नापएगा
+VĳĭĮĸİदौड़नाVĳĭĮĸİ	नापएंगे रही दौड़ेगी नापएंगे रहे
+VĶĺĴĵĹझाँकनाVĶĺĴĵĹ	झाँकती
+VĶĺĻİनिखारनाVĶĺĻİ	निखारेंगी
+VĬĺĮĻİभेजनाVĬĺĮĻİ	भागएंगी भेजेंगे
+VĿłबिलबिलानाVĿł	बचने बिलबिलाएगा
+VĳĺĻĹकोशिश करनाVĳĺĻĹ	नापएगा कोशिश किया नापएंगे
+VĬĭķĵİबिलबिलानाVĬĭķĵİ	बचेगी बिलबिलाएगा
+VĶĺĮĻİपिटनाVĶĺĮĻİ	पकाएंगी पिटा
+VĬĺıĲकोशिश करनाVĬĺıĲ	कोशिश करता
+VĳĺĴĻİसामने आनाVĳĺĴĻİ	नापएगा सकेगी सामने नापएगा
+VĳĭĴįİरोकनाVĳĭĴįİ	नापएगा रोक नापएगा होगी
+VĳĺĮĵİआरम्भ करनाVĳĺĮĵİ	नापएगा आरम्भ किया नापएंगे
+VĳĭĮįĹकोशिश करनाVĳĭĮįĹ	नापएगा रही कोशिश किया नापएगा रही
+VĬĺıŃबाँधनाVĬĺıŃ	बाँध
+VĳĭķĸĹटेंटुआ दबानाVĳĭķĸĹ	नापएगा टेंटुआ दबा दबा नापएगा
+VĬĺĴĸĹस्थापित करनाVĬĺĴĸĹ	स्थापित करता
+VĳĺĴļİस्थापित करनाVĳĺĴļİ	नापएगा स्थापित किया नापएगा होती
+VĬĺĻĹबांधनाVĬĺĻĹ	बांधती
+VĬĭĻखड़ा करनाVĬĭĻ	खड़ा करोगे
+VĬĭķįİनापनाVĬĭķįİ	नापती होगी
+VĬĭĮļİअंछर मारनाVĬĭĮļİ	अंछर रही होती
+VĶĺĴįĹकसनाVĶĺĴįĹ	कसती
+VĳĺĻडाउनलोड करनाVĳĺĻ	नापएगा डाउनलोड किया नापएंगे
+VĬĭĴĵĹचूसनाVĬĭĴĵĹ	चूस
+VĬĺķįİफूँकनाVĬĺķįİ	फूँक होगी
+VĬĭķĸĹचमकनाVĬĭķĸĹ	चमक
+VĳĭĴįĹचोरी करनाVĳĭĴįĹ	नापएगा चोरी किया नापएगा
+VĶĺĮįĹपकानाVĶĺĮįĹ	पका
+VĶĭĮĵĹदोहरानाVĶĭĮĵĹ	रही दोहरा रही
+VĳĭķĸĹतैरनाVĳĭķĸĹ	नापएंगे तैरी नापएगा
+VĳĭķļĹउठानाVĳĭķļĹ	नापएगा उठाी नापएगा
+VĳĺĴĵĹसहमानाVĳĺĴĵĹ	नापएगा सहमा नापएगा
+VĬĺķĻİसुधार करनाVĬĺķĻİ	सकेगी सुधारिए करता
+VĳĺķĸĹनिभानाVĳĺķĸĹ	नापएंगे निभा नापएगा
+VĶĭĴĵĹउबलनाVĶĭĴĵĹ	उबल
+VĳĭĻĹबननाVĳĭĻĹ	नापएगा बनती नापएगा
+VĶĭķĸİचुसनाVĶĭķĸİ	चबाएंगी
+VĶĭĴĵĹहटनाVĶĭĴĵĹ	हटी
+VĬĭķĻİडलवानाVĬĭķĻİ	डरेंगी
+VĶĺĮįĹहगनाVĶĺĮįĹ	हगती
+VĶĭĮįĹमरोड़नाVĶĭĮįĹ	रही मरोड़ रही
+VĬĺĮĻĹअंगारा बननाVĬĺĮĻĹ	अंगारा बन
+VĶĭĮįİभुननाVĶĭĮįİ	भुनी रही होंगी
+VĶĺĴįİबैठनाVĶĺĴįİ	बैठती होगी
+VĬĭķĸİभुननाVĬĭķĸİ	भुनोगी
+VĶĭĴĻĹमरनाVĶĭĴĻĹ	मरती
+VĬĭĮļİघृणा करनाVĬĭĮļİ	घृणा कर रही होती
+VĶĭķĻĹचलानाVĶĭķĻĹ	चला
+VĬĺıĲसुनानाVĬĺıĲ	सुना
+VĳĺĴĸĹआराम करनाVĳĺĴĸĹ	नापएंगे आराम किया नापएंगे
+VĶĺķļİझाँकनाVĶĺķļİ	झाँकती होती
+VĽİĭŁचुरानाVĽİĭŁ	चुराना
+VĳĺķĻİउलटी करनाVĳĺķĻİ	नापएगा उठेंगी पलटता किया नापएगा
+VĶĺĴįĹघूमनाVĶĺĴįĹ	घूम
+VĬĭķĵĹविश्लेषण करनाVĬĭķĵĹ	विश्लेषण करोगे
+VĶĭĴĸİयाद करनाVĶĭĴĸİ	किया
+VĬĭĮĸĹसहमानाVĬĭĮĸĹ	सहमा रहे
+VĳĭķĻİसाफ़ करनाVĳĭķĻİ	नापएगा सकेगी माफ़ किया नापएगा
+VĬĭķįĹरोनाVĬĭķįĹ	रो
+VĬĭĮĵĹअपलोड करनाVĬĭĮĵĹ	अपलोड कर रहे
+VĶĺĴĸĹतौबा करनाVĶĺĴĸĹ	तौबा किया
+VĬĭķĸĹदोहरानाVĬĭķĸĹ	दोहरा
+VĶĺĮĵĹपहननाVĶĺĮĵĹ	पहनी
+VĬĭĮĵĹघुसनाVĬĭĮĵĹ	घुस रही
+VĶĺķĻĹआराम करनाVĶĺķĻĹ	आराम किया
+VĳĭĴĵİफिसलनाVĳĭĴĵİ	नापएगा फिसल नापएगा
+VĳĺķļĹलौटनाVĳĺķļĹ	नापएगा लौटी नापएगा
+VĽĹĺŁगान करनाVĽĹĺŁ	किया
+VĬĺĴĵĹखाँसनाVĬĺĴĵĹ	खाँस
+VĶĭĮįİमरनाVĶĭĮįİ	मरती रही होंगी
+VĿłपूछनाVĿł	पड़ने पूछी
+VĳĺĮĵİनशा करनाVĳĺĮĵİ	नापएगा नशा किया नापएंगे
+VĬĺĮĵĹसामने आनाVĬĺĮĵĹ	सामने
+VĬĭķĸĹझूठ बोलनाVĬĭķĸĹ	बोल
+VĶĺĮļĹसहमानाVĶĺĮļĹ	सहमा
+VĳĭķįİफूटनाVĳĭķįİ	नापएंगे फूट नापएगा होगी
+VĬĺĮĵĹखोनाVĬĺĮĵĹ	खो
+VĳĭĻĹना करनाVĳĭĻĹ	नापएंगे किया नापएंगे
+VĬĺĮĵİपानाVĬĺĮĵİ	पाएगी
+VĶĭĴĸİडूबनाVĶĭĴĸİ	डूबूँगी
+VĶĭĮĸĹटेंटुआ दबानाVĶĭĮĸĹ	रही टेंटुआ दबा दबा रही
+VĳĭĮļİउलटी करनाVĳĭĮļİ	नापएंगे उलटी किया नापएगा रही होती
+VĶĺķįİफूटनाVĶĺķįİ	फूट होगी
+VĶĭķĸĹझाँकनाVĶĭķĸĹ	झाँकती
+VĶĺĻİउछलनाVĶĺĻİ	उछली
+VĶĭĮĻĹअंछर मारनाVĶĭĮĻĹ	रही अंछर रही
+VĳĺĮļİसुधारनाVĳĺĮļİ	नापएगा सुधार नापएंगे होती
+VĬĺķįİजाननाVĬĺķįİ	जान होगी
+VĳĭĮļĹख़रीदनाVĳĭĮļĹ	नापएगा रहे ख़रीदे नापएंगे रही
+VĶĺĴįİमरोड़नाVĶĺĴįİ	मरोड़ होगी
+VĶĺĮĻİउठनाVĶĺĮĻİ	उठेंगी
+VĳĭĮĸİबचानाVĳĭĮĸİ	नापएगा रहे बचेगी नापएंगे रही
+VĬĭĮĵİफैलनाVĬĭĮĵİ	फैल रही
+VĬĭĴĻİखड़ा करनाVĬĭĴĻİ	खोेगी करोगे
+VĳĭĴĻİडाउनलोड करनाVĳĭĴĻİ	नापएगा डरेंगी किया नापएंगे
+VĽİĺŁचूसनाVĽİĺŁ	चलना चूसेंगी
+VĶĺĮįĹकहनाVĶĺĮįĹ	कहा
+VĬĭķĵĹसिखानाVĬĭķĵĹ	सिखा
+VĿŀआग्रह करनाVĿŀ	आग्रह किया
+VĶĺĮĻİडाउनलोड करनाVĶĺĮĻİ	डरेंगी किया
+VĳĺĮĻİसुधार करनाVĳĺĮĻİ	नापएगा सकेगी सुधारें किया नापएगा
+VĳĺĴįĹचलानाVĳĺĴįĹ	नापएगा चला नापएगा
+VĳĭĻछोड़नाVĳĭĻ	नापएगा छोड़ नापएगा
+VĶĺĮĸĹबनानाVĶĺĮĸĹ	बनाए
+VĬĺĻĹपिटनाVĬĺĻĹ	पिट
+VĬĺıŃबर्दाश्त करनाVĬĺıŃ	बर्दाश्त करता
+VĬĭĻभौंकनाVĬĭĻ	भौंक
+VĶĭĮĵĹअपना पालक पनीर देखनाVĶĭĮĵĹ	रही अपना नाप पनीर रहे
+VĬĭĴįĹघुस करनाVĬĭĴįĹ	घुस करोगे
+VĬĭĴļĹख़तना करनाVĬĭĴļĹ	ख़तना करोगे
+VĬĺĮĵĹइलाज करनाVĬĺĮĵĹ	इलाज करता
+VĶĭķļĹडाउनलोड करनाVĶĭķļĹ	डाउनलोड किया
+VĶĭķĸĹगान करनाVĶĭķĸĹ	किया
+VĬĭķĸĹरहनाVĬĭķĸĹ	रहती
+VĬĭĮįİसुनानाVĬĭĮįİ	सुना रही होगी
+VĳĭĮļĹछुड़ानाVĳĭĮļĹ	नापएंगे रही छुड़ाए नापएगा रहे
+VĶĺĴļĹअपलोड करनाVĶĺĴļĹ	अपलोड किया
+VĳĺĻचूमनाVĳĺĻ	नापएगा चूमे नापएगा
+VĿŀउड़नाVĿŀ	उड़ती
+VĬĭĴĻĹउड़नाVĬĭĴĻĹ	उड़ा
+VĳĺĮĻĹथामनाVĳĺĮĻĹ	नापएंगे थाम नापएगा
+VĬĭķĻĹबीतनाVĬĭķĻĹ	बीत
+VĶĺĴįİबिखरनाVĶĺĴįİ	बिखरे होगी
+VĶĺķĵİकसनाVĶĺķĵİ	कसेंगी
+VĶĭĴĻĹतरसनाVĶĭĴĻĹ	तरस
+VĳĭĮĸİछोड़नाVĳĭĮĸİ	नापएगा रही नापएगा रही
+VĬĭĮįİकहनाVĬĭĮįİ	कहती रही होगी
+VĬĺıĲसूखनाVĬĺıĲ	सूखती
+VĶĺĴĻİचोट करनाVĶĺĴĻİ	चबाएंगी लटकी
+VĳĭĴįİपढ़ानाVĳĭĴįİ	नापएगा पढ़ाती नापएगा होगी
+VĬĭķįİआश्चर्य करनाVĬĭķįİ	आश्चर्य करोगे होगी
+VĶĺĮļĹछोड़नाVĶĺĮļĹ	छोड़
+VĳĺĴĵİखाँसनाVĳĺĴĵİ	नापएगा खोेगी खाँसोगे नापएंगे
+VĶĭĻĹछापनाVĶĭĻĹ	छापती
+VĶĭĴĵİउछलनाVĶĭĴĵİ	उछली
+VĬĺĮĻİफूँकनाVĬĺĮĻİ	फूँकेगी
+VĬĭķļĹअंछर मारनाVĬĭķļĹ	अंछर
+VĶĺķĵİमरोड़नाVĶĺķĵİ	मरएंगी
+VĬĭķįİइलाज करनाVĬĭķįİ	इलाज करोगे होगी
+VĬĭķĸİकूटनाVĬĭķĸİ	कमाएगी
+VĶĺķĻĹबचनाVĶĺķĻĹ	बचता
+VĳĺĮįĹआग्रह करनाVĳĺĮįĹ	नापएंगे आग्रह किया नापएगा
+VĬĭĴļİप्रेम करनाVĬĭĴļİ	करोगे होती
+VĬĺĮļİउड़ानाVĬĺĮļİ	उड़ाई होती
+VĳĺķĵİपकनाVĳĺķĵİ	नापएगा पकएंगी नापएगा
+VĳĭķĸĹनहानाVĳĭķĸĹ	नापएंगे नहा नापएगा
+VĬĺĮĸİउड़नाVĬĺĮĸİ	उड़ेंगी
+VĶĺĮļİपिटनाVĶĺĮļİ	पिटी होती
+VĬĭĮĻİरोनाVĬĭĮĻİ	रोएगी रही
+VĬĭķĵĹपकनाVĬĭķĵĹ	पक
+VĶĺĻछीननाVĶĺĻ	छीनते
+VĬĭķĻİउतारनाVĬĭķĻİ	उठेंगी उतारूँगा
+VĶĭķļİचुम्बन करनाVĶĭķļİ	चुम्बन किया होती
+VĬĭĻĹलू करनाVĬĭĻĹ	लू करोगे
+VĶĺĮĻĹपलटनाVĶĺĮĻĹ	पलट
+VĶĭĴĵĹघुस करनाVĶĭĴĵĹ	घुस किया
+Vĳĭķĸİभौंह चढ़ानाVĳĭķĸİ	नापएगा भागएंगी भौंकूँगा चढ़ाती नापएगा
+VĳĭĻबांधनाVĳĭĻ	नापएंगे बांधती नापएगा
+VĶĭķĻİपड़नाVĶĭķĻİ	पड़ूँगी
+VĳĭĮļİनफ़रत करनाVĳĭĮļİ	नापएगा नफ़रत किया नापएगा रही होती
+VĳĭĻĹमिटनाVĳĭĻĹ	नापएगा मिटी नापएगा
+VĶĺĮĸİगिरफ़्तार करनाVĶĺĮĸİ	गिरफ़्तार किया
+VĬĺķļĹख़रीदनाVĬĺķļĹ	ख़रीद
+VĶĺķĻĹबिलबिलानाVĶĺķĻĹ	बिलबिला
+Vĳĭķįİअंगारे उगलनाVĳĭķįİ	नापएगा उगलइये नापएगा होगी
+VĳĺĴĵİसुस्तानाVĳĺĴĵİ	नापएगा सकेगी सुस्ताएंगे नापएंगे
+VĶĭķĻĹअंगारा होनाVĶĭķĻĹ	अंगारा होने
+VĬĭĮĵİछोड़नाVĬĭĮĵİ	रही
+VĶĺĮĸİकहनाVĶĺĮĸİ	कहेंगी
+VĳĺĮįĹपकनाVĳĺĮįĹ	नापएंगे पक नापएगा
+VĳĭĻसहमानाVĳĭĻ	नापएगा सहमा नापएगा
+VĳĭĮĻĹबिकनाVĳĭĮĻĹ	नापएंगे रहे बिक नापएगा रहे
+VĳĭķļĹझूमनाVĳĭķļĹ	नापएगा झूमा नापएगा
+VĬĺĴĵĹबिखरनाVĬĺĴĵĹ	बिखर
+VĳĺķĸĹजानाVĳĺķĸĹ	नापएंगे जाती नापएगा
+VĶĺĮļĹतरसनाVĶĺĮļĹ	तरस
+VĽİĺľपढ़ानाVĽİĺľ	पढ़ाया
+VĶĭĴĵİतैरनाVĶĭĴĵİ	तैरी
+Vĳĺķįİआरम्भ करनाVĳĺķįİ	नापएगा आरम्भ किया नापएगा होगी
+VĳĭĴĵĹहिलनाVĳĭĴĵĹ	नापएगा हिली नापएगा
+VĶĭĴĸİइनकार करनाVĶĭĴĸİ	इनकार किया
+VĬĭĴĸĹचाटनाVĬĭĴĸĹ	चाट
+VĬĺĮĻĹपिटनाVĬĺĮĻĹ	पिट
+VĿŀअंगारा बननाVĿŀ	अंगारा बनती
+VĶĭĴĵİहिलनाVĶĭĴĵİ	हारेंगी
+VĬĭĴĻİझाँकनाVĬĭĴĻİ	झाँकूँगी
+VĬĺĴĸİचूसनाVĬĺĴĸİ	चबाएंगी चूसेंगी
+VĽĹĺľझांकनाVĽĹĺľ	झांक
+VĬĺĮįİरहनाVĬĺĮįİ	रहती होगी
+VĶĭķįĹइंतज़ार करनाVĶĭķįĹ	इंतज़ार किया
+VĳĺĴįİइंतज़ार करनाVĳĺĴįİ	नापएगा इंतज़ार किया नापएगा होगी
+VĶĭĮĵĹठीक करनाVĶĭĮĵĹ	रही ठीक किया रहे
+VĬĭķĵĹहस्तमैथुन करनाVĬĭķĵĹ	हस्तमैथुन करोगे
+VĶĭĻचुसनाVĶĭĻ	चुस
+VĬĭĮįİफैलनाVĬĭĮįİ	फैल रही होगी
+VĶĭĮļİटपकनाVĶĭĮļİ	टपकती रही होती
+VĬĺķļİपढ़नाVĬĺķļİ	पढ़ती होती
+VĳĺĮĵĹबर्दाश्त करनाVĳĺĮĵĹ	नापएगा बर्दाश्त किया नापएगा
+VĬĺĻĹचुननाVĬĺĻĹ	चुन
+VĶĭķĸĹऐश करनाVĶĭķĸĹ	ऐश किया
+VĶĺĴĵİलौटनाVĶĺĴĵİ	लड़ूँगी लौटी
+VĳĺĴĸİबिकनाVĳĺĴĸİ	नापएंगे बनेगी बिकेगा नापएगा
+VĶĺĴĵĹकाटनाVĶĺĴĵĹ	काटता
+VĬĭĮļİउठानाVĬĭĮļİ	उठा रही होती
+VĶĭĮĵİत्यागनाVĶĭĮĵİ	रहे त्यागेंगी रही
+VĬĺĴļĹबाँधनाVĬĺĴļĹ	बाँध
+VĶĭĻİअपलोड करनाVĶĭĻİ	अपनाएगी किया
+VĶĺĻĹखोलनाVĶĺĻĹ	खोल
+VĳĺĻतरसनाVĳĺĻ	नापएगा तरस नापएगा
+VĬĺķĸĹप्राप्त करनाVĬĺķĸĹ	प्राप्त करता
+VĶĺĴĻİछीपनाVĶĺĴĻİ	छीपेंगी
+VĬĺĴįİअंगारा हो जानाVĬĺĴįİ	अंगारा होए जा होगी
+VĶĺĮĻİपूछनाVĶĺĮĻİ	पड़ेगी पूछता
+VĳĺĮįĹछिपानाVĳĺĮįĹ	नापएगा छिपा नापएगा
+VĶĺĮĻĹपीनाVĶĺĮĻĹ	पीए
+VĶĺķļİरुकनाVĶĺķļİ	रुकई होती
+VĶĭĴĵĹसड़नाVĶĭĴĵĹ	सड़
+VĳĺĮĸĹसहमानाVĳĺĮĸĹ	नापएगा सहमा नापएगा
+VĳĺķĸĹजमनाVĳĺķĸĹ	नापएगा जम नापएगा
+VĬĺĴįİइलाज करनाVĬĺĴįİ	इलाज करता होगी
+VĬĺĮĻĹछीलनाVĬĺĮĻĹ	छील
+VĬĺĮĻĹरौशन करनाVĬĺĮĻĹ	रौशन करता
+VĬĺĴĵİचलनाVĬĺĴĵİ	चबाएंगी
+VĬĺıŃपहुँचनाVĬĺıŃ	पहुँच
+VĳĺĴĵİडूबनाVĳĺĴĵİ	नापएगा डूबूँगी नापएगा
+VĶĭĴļİछींकनाVĶĭĴļİ	छींक होती
+VĬĭķĸĹजोड़नाVĬĭķĸĹ	जोड़
+VĬĺķĸĹदिलानाVĬĺķĸĹ	दिला
+VĶĭĴļĹखोलनाVĶĭĴļĹ	खोल
+VĬĭķļĹछीपनाVĬĭķļĹ	छीप
+VĶĺķįİचोरी करनाVĶĺķįİ	चोरी किया होगी
+VĶĺĮĵĹबन्द करनाVĶĺĮĵĹ	बन्द किया
+VĽİĭľखोजनाVĽİĭľ	खोजी
+VĳĺĴĻĹउड़नाVĳĺĴĻĹ	नापएगा उड़ती नापएगा
+VĳĺĴļİरोकनाVĳĺĴļİ	नापएगा रोकी नापएगा होती
+VĳĭĻİसेक्स करनाVĳĭĻİ	नापएंगे सकेगी किया नापएंगे
+VĳĭĮĵİहंसनाVĳĭĮĵİ	नापएंगे रहे हंस नापएगा रहे
+VĶĭĮįİपहुँचनाVĶĭĮįİ	पहुँच रही होंगी
+VĳĺĮĵİभेजनाVĳĺĮĵİ	नापएगा भुनोगी भेजेंगे नापएंगे
+VĶĭķįİचुननाVĶĭķįİ	चुनती होगी
+VĬĺĴĸĹपलटनाVĬĺĴĸĹ	पलट
+VĬĺĴļİनशा करनाVĬĺĴļİ	नशा करता होती
+VĳĺķĻİपिघलनाVĳĺķĻİ	नापएंगे पसीजोगी पिघलेंगी नापएगा
+VĬĺĴĻİभूलनाVĬĺĴĻİ	भागएंगी झूलेगा
+VĶĺĮĸİअंगारा होनाVĶĺĮĸİ	अंगारा होने
+VĳĭĴĵĹजलानाVĳĭĴĵĹ	नापएगा जला नापएगा
+VĬĺĴĸĹलड़नाVĬĺĴĸĹ	लड़
+VĳĭĮįİयाद करनाVĳĭĮįİ	नापएगा किया नापएगा रही होंगी
+VĶĺĴĻĹकमानाVĶĺĴĻĹ	कमा
+VĬĭķļİसाफ़ करनाVĬĭķļİ	साफ़ करोगे होती
+VĶĺĮļİमिलानाVĶĺĮļİ	मिलाती होती
+VĬĺĴĻĹपढ़नाVĬĺĴĻĹ	पढ़ती
+VĳĭĴĸĹप्रारम्भ करनाVĳĭĴĸĹ	नापएंगे किया नापएंगे
+VĳĺķįĹबटोरनाVĳĺķįĹ	नापएगा बटोरा नापएगा
+VĬĭķļĹभागनाVĬĭķļĹ	भाग
+VĬĺĮĵĹअंगारा होनाVĬĺĮĵĹ	अंगारा होओ
+VĬĺĻĹझांकनाVĬĺĻĹ	झांक
+VĶĺĴįİदिलानाVĶĺĴįİ	दिलाती होगी
+VĳĺĴĵİसड़नाVĳĺĴĵİ	नापएगा सकेगी नापएगा
+VĬĺĴļĹनफ़रत करनाVĬĺĴļĹ	नफ़रत करता
+VĿŀरोनाVĿŀ	रो
+VĬĺĴĵĹजमा करनाVĬĺĴĵĹ	जमा करता
+VĶĭķĵĹबकनाVĶĭķĵĹ	बकया
+VĬĭĴĸİचूसनाVĬĭĴĸİ	चबाएंगी चूसेंगी
+VĬĭĴĻĹअपना पालक पनीर देखनाVĬĭĴĻĹ	अपना नाप पनीर
+VĬĭĮĵİसूजनाVĬĭĮĵİ	सकेगी सूजो रही
+VĶĭķĵĹहटनाVĶĭķĵĹ	हटी
+VĶĺĮĻİशुक्रिया करनाVĶĺĮĻİ	शुक्रिया किया
+VĬĺĴĻİचमकनाVĬĺĴĻİ	चबाएंगी चमकेगा
+VĬĭĮįĹचोदनाVĬĭĮįĹ	चोद रहे
+VĳĺĴļİनिखारनाVĳĺĴļİ	नापएंगे निखारी नापएगा होती
+VĳĭĮļİहगनाVĳĭĮļİ	नापएंगे हगती नापएगा रही होती
+VĬĺĴĻĹभौंकनाVĬĺĴĻĹ	भौंक
+VĬĭĻĹछींकनाVĬĭĻĹ	छींक
+VĶĺķļĹसंभोग करनाVĶĺķļĹ	संभोग किया
+VĳĺĮįİइस्तेमाल करनाVĳĺĮįİ	नापएगा इस्तेमाल नापएगा होगी
+VĬĺĮįĹलटकनाVĬĺĮįĹ	लटक
+VĬĭĴĻĹभौंह चढ़ानाVĬĭĴĻĹ	भौंह चढ़ाओगी
+VĳĺķĵĹगुणा करनाVĳĺķĵĹ	नापएंगे गुणा किया नापएगा
+VĶĭĴįİख़रीदनाVĶĭĴįİ	ख़रीदे होगी
+VĶĺĮĵİउबलनाVĶĺĮĵİ	उठेंगी उबलेंगे
+VĶĺķįİउलटी करनाVĶĺķįİ	उलटी किया होगी
+VĬĺĴĵİआराम करनाVĬĺĴĵİ	आराम करता
+VĳĺķļİपिघलनाVĳĺķļİ	नापएगा पिघली नापएगा होती
+VĬĺĮįĹपीटनाVĬĺĮįĹ	पीट
+VĬĺĴļİलूटनाVĬĺĴļİ	लूटती होती
+VĬĺĻĹप्यार करनाVĬĺĻĹ	प्यार करता
+VĶĭĴĵİबजानाVĶĭĴĵİ	बचेगी जाती
+VĳĺĴĸĹप्रारम्भ करनाVĳĺĴĸĹ	नापएगा किया नापएगा
+VĳĺĮĻĹबांधनाVĳĺĮĻĹ	नापएगा बांधती नापएगा
+VĬĭķĸĹहंसनाVĬĭķĸĹ	हंस
+Vĳĺķįİतौबा करनाVĳĺķįİ	नापएंगे तौबा किया नापएगा होगी
+VĬĺĴįİबोलनाVĬĺĴįİ	बोल होगी
+VĳĺĴįİउबलनाVĳĺĴįİ	नापएगा उबल नापएंगे होगी
+VĳĺĮļİपिघलनाVĳĺĮļİ	नापएगा पिघली नापएगा होती
+VĳĺķļİछापनाVĳĺķļİ	नापएगा छाप नापएगा होती
+VĳĭĮĵĹहल चलानाVĳĭĮĵĹ	नापएंगे रही हल चला नापएगा रहे
+VĳĺķĸİबनानाVĳĺķĸİ	नापएगा बनाएगी नापएगा
+VĳĭķįĹभौंह चढ़ानाVĳĭķįĹ	नापएगा भौंह चढ़ाती नापएगा
+VĶĭĮļİछीपनाVĶĭĮļİ	छीप रही होती
+VĶĭķļĹलूटनाVĶĭķļĹ	लूट
+VĽİĺľतरसनाVĽİĺľ	तरस
+VĳĭĻटूटनाVĳĭĻ	नापएगा टूटे नापएगा
+VĬĭĮļİडलवानाVĬĭĮļİ	डलवा रही होती
+VĬĺĮļİप्यार करनाVĬĺĮļİ	प्यार करता होती
+VĳĺĻछीलनाVĳĺĻ	नापएंगे छील नापएगा
+VĶĭĻरुकनाVĶĭĻ	रुकता
+VĳĭĻडाउनलोड करनाVĳĭĻ	नापएंगे डाउनलोड किया नापएगा
+VĶĭĴįİखड़ा करनाVĶĭĴįİ	खड़ा किया होगी
+VĶĺĮįİपकनाVĶĺĮįİ	पक होगी
+VĳĭĻĹछुड़ानाVĳĭĻĹ	नापएगा छुड़ाए नापएगा
+VĶĺķļĹपिघलनाVĶĺķļĹ	पिघलती
+VĬĺķĻİबाटनाVĬĺķĻİ	बाँधेंगी
+VĬĺĴļĹसूंघनाVĬĺĴļĹ	सूंघ
+VĬĺĴĻİपकानाVĬĺĴĻİ	पकाएंगी
+VĶĭĴļĹलगनाVĶĭĴļĹ	लगते
+VĶĺķĵİजमनाVĶĺķĵİ	जपेगी
+VĳĺĮĸĹबकनाVĳĺĮĸĹ	नापएगा बकया नापएगा
+VĳĭĴįĹखोजनाVĳĭĴįĹ	नापएगा खोजी नापएगा
+VĬĺķĵĹशिकार करनाVĬĺķĵĹ	शिकार करता
+VĬĭĴĸİचुसनाVĬĭĴĸİ	चबाएंगी
+VĬĺķĻİआदर करनाVĬĺķĻİ	आदर करता
+VĿłरखनाVĿł	रख
+VĬĺıĲप्रारम्भ करनाVĬĺıĲ	करता
+VĳĭĴįİहगनाVĳĭĴįİ	नापएगा हगती नापएगा होगी
+VĶĭĮĻİबेचनाVĶĭĮĻİ	रही बचेगी बेचेंगी रही
+VĬĺĴļĹजानाVĬĺĴļĹ	जा
+VĶĺĮĵİख़रीदनाVĶĺĮĵİ	खोेगी ख़रीदे
+VĶĺĴįĹघुमानाVĶĺĴįĹ	घुमा
+VĳĭķĵĹपढ़ानाVĳĭķĵĹ	नापएगा पढ़ाया नापएगा
+VĬĭķļĹघुस करनाVĬĭķļĹ	घुस करोगे
+VĬĭĮĵİछेड़नाVĬĭĮĵİ	छेड़ेगी रही
+VĬĭĮįĹझगड़नाVĬĭĮįĹ	झगड़ रहे
+VĳĺķĵİठगनाVĳĺķĵİ	नापएगा ठगेंगी नापएगा
+VĬĭĮĸİबाटनाVĬĭĮĸİ	बाँधूँगी रही
+VĽİĺľअंगारा हो जानाVĽİĺľ	अंगारा होया जाती
+VĬĺķĵĹविश्लेषण करनाVĬĺķĵĹ	विश्लेषण करता
+VĬĭĴĸĹखोनाVĬĭĴĸĹ	खो
+VĶĺĴįĹबननाVĶĺĴįĹ	बनती
+VĶĺĴĵĹचमकनाVĶĺĴĵĹ	चमक
+VĬĭĴļİबचानाVĬĭĴļİ	बचाती होती
+VĬĭĴĵİकुरेदनाVĬĭĴĵİ	कहोगी
+VĳĭĴļĹझूठ बोलनाVĳĭĴļĹ	नापएगा बोलती नापएगा
+VĳĺķĸĹनागरिक बनानाVĳĺķĸĹ	नापएंगे नागरिक बनाती बनाए नापएगा
+VĳĭķĵĹमुड़नाVĳĭķĵĹ	नापएगा मुड़ती नापएगा
+VĬĭĴĵİपसीजनाVĬĭĴĵİ	पसीजोगी
+VĶĭĴĸĹमक्खन लगानाVĶĭĴĸĹ	मक्खन लगा
+VĬĭĴĻİप्यार करनाVĬĭĴĻİ	पड़ूँगी करोगे
+VĶĺĮļĹबाटनाVĶĺĮļĹ	बाट
+VĬĺĮļĹजाननाVĬĺĮļĹ	जान
+VĬĭķĸİअंगारा होनाVĬĭķĸİ	अंगारा
+VĬĺĮļĹदोहरानाVĬĺĮļĹ	दोहरा
+VĶĭĴĵĹभूलनाVĶĭĴĵĹ	भूल
+VĬĺķĸĹलूटनाVĬĺķĸĹ	लूट
+VĬĭĻĹबनानाVĬĭĻĹ	बना
+VĶĭķįİठीक करनाVĶĭķįİ	ठीक किया होगी
+VĬĭĴįĹखोनाVĬĭĴįĹ	खो
+VĳĺķļĹलगनाVĳĺķļĹ	नापएगा लगते नापएगा
+VĬĭķļĹचिल्लानाVĬĭķļĹ	चिल्ला
+VĬĺĴļĹमिटनाVĬĺĴļĹ	मिट
+VĳĺĴļİसुस्तानाVĳĺĴļİ	नापएगा सुस्ताई नापएगा होती
+VĬĺĴļĹनशा करनाVĬĺĴļĹ	नशा करता
+VĶĭķĵİचुकनाVĶĭķĵİ	चबाएंगी रुकए
+VĳĺķĵĹबजानाVĳĺķĵĹ	नापएंगे बजाती नापएगा
+VĳĺķļĹपूछनाVĳĺķļĹ	नापएंगे पूछ नापएंगे
+VĳĭĴĸĹनागरिक बनानाVĳĭĴĸĹ	नापएगा नागरिक बनाती बनाए नापएगा
+VĶĭĴĻĹस्वप्न देखनाVĶĭĴĻĹ	स्वप्न देखा
+VĬĺĮĸİप्रारम्भ करनाVĬĺĮĸİ	पसीजोगी करता
+VĶĺķĸĹपलटनाVĶĺķĸĹ	पलट
+VĳĭĴĻİबाँधनाVĳĭĴĻİ	नापएगा बाँधूँगी नापएंगे
+VĶĭĮĸİसीखनाVĶĭĮĸİ	रही सकेगी सीखे रही
+VĶĭĮĵİचूसनाVĶĭĮĵİ	रही चबाएंगी चूसेंगी रही
+VĳĺķįĹझाँकनाVĳĺķįĹ	नापएंगे झाँकती नापएगा
+VĶĭĴįĹपीनाVĶĭĴįĹ	पीए
+VĳĺĴļĹगिरफ़्तार करनाVĳĺĴļĹ	नापएगा गिरफ़्तार किया नापएगा
+VĬĺĮįĹमतलब होनाVĬĺĮįĹ	मतलब होओ
+VĳĺĮĻĹइंतज़ार करनाVĳĺĮĻĹ	नापएंगे इंतज़ार किया नापएंगे
+VĳĭĮļĹतैयार करनाVĳĭĮļĹ	नापएंगे रहे तैयार किया नापएंगे रहे
+VĳĺĻफिसलनाVĳĺĻ	नापएगा फिसल नापएगा
+VĳĭĴļİपढ़ानाVĳĭĴļİ	नापएगा पढ़ाती नापएगा होती
+VĶĺĮĻĹझुकनाVĶĺĮĻĹ	झुक
+VĶĭķįİपहचाननाVĶĭķįİ	पहचानती होगी
+VĳĭĮĻĹप्राप्त करनाVĳĭĮĻĹ	नापएंगे रहे प्राप्त किया नापएंगे रही
+VĳĺĴļİपढ़नाVĳĺĴļİ	नापएगा पढ़ती नापएगा होती
+VĬĭķļĹलटकनाVĬĭķļĹ	लटक
+VĶĺĴļİखड़ा करनाVĶĺĴļİ	खड़ा किया होती
+VĬĭĮļİख़तना करनाVĬĭĮļİ	ख़तना कर रही होती
+VĶĺĮĸİनिकलनाVĶĺĮĸİ	निकलेंगी
+VĳĭĴĸİतैरानाVĳĭĴĸİ	नापएगा तैरा नापएगा
+VĬĺĴįĹछोड़नाVĬĺĴįĹ	छोड़
+VĶĺĮįĹदोहरानाVĶĺĮįĹ	दोहरा
+VĶĭĮĵĹइंतज़ार करनाVĶĭĮĵĹ	रही इंतज़ार किया रही
+VĬĺĴĵİरौशन करनाVĬĺĴĵİ	रुकएंगी रौशन करता
+VĽĹĭŁखेलनाVĽĹĭŁ	खेलती
+VĳĺĮĻĹबचानाVĳĺĮĻĹ	नापएंगे बचाए नापएगा
+VĬĭĮĵİत्यागनाVĬĭĮĵİ	त्यागेंगी रही
+VĬĺĴĵİटेंटुआ दबानाVĬĺĴĵİ	टपकेगी दबाती दबा
+VĳĭĻĹसीखनाVĳĭĻĹ	नापएंगे सीखे नापएगा
+VĬĺĴļĹकहनाVĬĺĴļĹ	कह
+VĶĺĴĻĹअंगारे उगलनाVĶĺĴĻĹ	अंगारे उगलइये
+VĶĺĴĵİदबानाVĶĺĴĵİ	दबाऊंगी
+VĳĭķĻĹतैरानाVĳĭķĻĹ	नापएगा तैरा नापएगा
+VĳĺĮļĹबेचनाVĳĺĮļĹ	नापएगा बेचता नापएगा
+VĬĭķĻĹतैरनाVĬĭķĻĹ	तैरी
+VĿŀमरोड़नाVĿŀ	मरोड़
+VĳĺĻठगनाVĳĺĻ	नापएगा ठगी नापएगा
+VĶĺķĻİरखनाVĶĺķĻİ	रखेगी
+VĬĺĮļİलौटनाVĬĺĮļİ	लौटी होती
+VĬĺĴĸĹरुकनाVĬĺĴĸĹ	रुक
+VĬĭĴĵİरहनाVĬĭĴĵİ	रहेंगी
+VĬĭĻĹबिखरनाVĬĭĻĹ	बिखर
+VĳĭķĵĹहारनाVĳĭķĵĹ	नापएंगे हार नापएगा
+Vĳĭķĵİआग्रह करनाVĳĭķĵİ	नापएगा आग्रह किया नापएगा
+VĳĺĴĸĹटेंटुआ दबानाVĳĺĴĸĹ	नापएगा टेंटुआ दबा दबा नापएगा
+VĶĭĴĵİअपना पालक पनीर देखनाVĶĭĴĵİ	अपनाएगी नापती पनीर देखता
+VĽĹĭŁधड़कनाVĽĹĭŁ	धड़का
+VĶĭĴĸİउलटी करनाVĶĭĴĸİ	उठेंगी पलट किया
+VĶĭķĸĹटेंटुआ दबानाVĶĭķĸĹ	टेंटुआ दबा दबा
+VĬĭĮįİछोड़नाVĬĭĮįİ	छोड़ रही होगी
+VĶĭķĵİअंछर मारनाVĶĭķĵİ	अपनाएगी मारओगे
+VĳĭĴĻİबचानाVĳĭĴĻİ	नापएगा बचेगी नापएगा
+VĬĺĮĸİउतरनाVĬĺĮĸİ	उठेंगी तरस
+VĳĺķļİजमनाVĳĺķļİ	नापएगा जमा नापएंगे होती
+VĳĭĴįİग़लत करनाVĳĭĴįİ	नापएंगे ग़लत किया नापएंगे होगी
+VĶĭĴĻĹसामने आनाVĶĭĴĻĹ	सामने
+VĶĭĮļĹग़लत करनाVĶĭĮļĹ	रहे ग़लत किया रहे
+VĳĭĴĵĹअंगारा होनाVĳĭĴĵĹ	नापएगा अंगारा होने नापएंगे
+VĬĺķĻİजलानाVĬĺķĻİ	जलाएगी
+VĳĭķĵĹकूटनाVĳĭķĵĹ	नापएगा कूट नापएगा
+VĶĺĮĵĹना करनाVĶĺĮĵĹ	किया
+VĶĭĮįĹनिकलनाVĶĭĮįĹ	रही निकल रही
+VĳĺķįĹखेलनाVĳĺķįĹ	नापएगा खेलती नापएगा
+VĳĺĻİसुधार करनाVĳĺĻİ	नापएगा सकेगी सुधारेगी किया नापएंगे
+VĳĺĴĵİबर्दाश्त करनाVĳĺĴĵİ	नापएगा बनेगी बर्दाश्त किया नापएगा
+VĶĭķįĹसमझनाVĶĭķįĹ	समझे
+VĬĭĮĻİमाफ़ करनाVĬĭĮĻİ	मनाऊंगी माफ़ कर रहे
+VĬĺĴĻİसड़नाVĬĺĴĻİ	सकेगी
+VĶĭķįĹबात करनाVĶĭķįĹ	बात किया
+VĬĭĻİविश्लेषण करनाVĬĭĻİ	विश्लेषण करोगे
+VĳĺĴĻĹमनानाVĳĺĴĻĹ	नापएंगे मना नापएगा
+VĬĭĮįĹबहनाVĬĭĮįĹ	बह रही
+VĬĺĮĸİचोरी करनाVĬĺĮĸİ	चबाएंगी करता
+VĬĭĴĻİकंघी करनाVĬĭĴĻİ	कमाएगी सूंघूँ करोगे
+VĳĺĻमक्खन लगानाVĳĺĻ	नापएंगे मक्खन लगा नापएगा
+VĶĺĴĸĹअंगारों पर पैर रखनाVĶĺĴĸĹ	अंगारों पैर रख
+VĬĺĴĵĹडाउनलोड करनाVĬĺĴĵĹ	डाउनलोड करता
+VĬĺĴĸİगान करनाVĬĺĴĸİ	करता
+VĶĺĴĸĹझूलनाVĶĺĴĸĹ	झूलती
+VĶĭķįİहंसनाVĶĭķįİ	हंसती होगी
+VĳĭĴļİरखनाVĳĭĴļİ	नापएगा रखी नापएगा होती
+VĳĭĮĸİपानाVĳĭĮĸİ	नापएंगे रहे पाएगी नापएंगे रहे
+VĬĭĻĹमिलानाVĬĭĻĹ	मिला
+VĳĺķįĹचढ़ानाVĳĺķįĹ	नापएगा चढ़ाती नापएगा
+VĳĺķĻİतैयार करनाVĳĺķĻİ	नापएंगे तैयार किया नापएंगे
+VĬĭĻमक्खन लगानाVĬĭĻ	मक्खन लगा
+VĽİĺŁउड़ानाVĽİĺŁ	उड़ाना
+VĬĭĮĻĹसहायता करनाVĬĭĮĻĹ	सहायता कर रहे
+VĶĺĮĻĹखेलनाVĶĺĮĻĹ	खेलती
+VĶĭĴļĹझूमनाVĶĭĴļĹ	झूमा
+VĳĺĮĸĹनफ़रत करनाVĳĺĮĸĹ	नापएंगे नफ़रत किया नापएगा
+VĶĭķįĹदबानाVĶĭķįĹ	दबा
+VĳĭĴĸİप्रेम करनाVĳĭĴĸİ	नापएगा पाओगी किया नापएंगे
+VĶĺĮļĹयाद करनाVĶĺĮļĹ	किया
+VĬĺķĻĹजानाVĬĺķĻĹ	जा
+VĳĭĻरचनाVĳĭĻ	नापएंगे रचती नापएगा
+VĳĺķįİरोकनाVĳĺķįİ	नापएगा रोक नापएगा होगी
+VĬĺĴļİबहनाVĬĺĴļİ	बह होती
+VĳĺĮĵĹसुधार करनाVĳĺĮĵĹ	नापएगा सुधार किया नापएंगे
+VĬĭķļĹचुसनाVĬĭķļĹ	चुस
+VĶĺĴįİलू करनाVĶĺĴįİ	लू किया होगी
+VĶĭĮĵİखड़ा करनाVĶĭĮĵİ	रहे खोेगी किया रही
+VĽĹĭľछोड़नाVĽĹĭľ	छोड़
+VĶĺķĵĹदिलानाVĶĺķĵĹ	दिलाया
+VĶĭĴļĹठीक करनाVĶĭĴļĹ	ठीक किया
+VĶĭĮĻĹपलटनाVĶĭĮĻĹ	रही पलट रही
+VĳĭĮļİआरम्भ करनाVĳĭĮļİ	नापएगा आरम्भ किया नापएगा रही होती
+VĶĭĴĻİऐसी तैसी करनाVĶĭĴĻİ	ऐसी तैसी किया
+VĶĭĮĵĹगिरफ़्तार करनाVĶĭĮĵĹ	रही गिरफ़्तार किया रही
+VĳĭĮļĹसुधार करनाVĳĭĮļĹ	नापएंगे रही सुधार किया नापएगा रही
+VĶĺķĻĹचोट करनाVĶĺķĻĹ	चोरी लटकते
+VĳĺĴĸĹपिघलनाVĳĺĴĸĹ	नापएगा पिघलती नापएगा
+VĶĭĮĸĹफैलनाVĶĭĮĸĹ	रहे फैल रही
+VĬĺķļİझूठ बोलनाVĬĺķļİ	झूली बोल होती
+VĳĭĮĵİनशा करनाVĳĭĮĵİ	नापएगा रहे नशा किया नापएगा रही
+VĬĺĮįĹनिर्माण करनाVĬĺĮįĹ	करता
+VĶĭĮĻİचाहनाVĶĭĮĻİ	रही चबाएंगी चाही रही
+VĬĭķļĹमिटनाVĬĭķļĹ	मिट
+VĳĺĮįİमिलानाVĳĺĮįİ	नापएगा मिला नापएगा होगी
+VĶĺĴĵĹमनानाVĶĺĴĵĹ	मना
+VĶĭķĸİअंगारों पर पैर रखनाVĶĭķĸİ	अंगारों पैर रख
+VĶĺķĵİहिलनाVĶĺķĵİ	हटेंगी
+VĬĺĴįİप्रयत्न करनाVĬĺĴįİ	प्रयत्न करता होगी
+VĬĭĴĻĹउबलनाVĬĭĴĻĹ	उबल
+VĬĺķĵĹरोकनाVĬĺķĵĹ	रोकी
+VĳĭĴįİनिभानाVĳĭĴįİ	नापएगा निभा नापएगा होगी
+VĶĺĮĸİबात करनाVĶĺĮĸİ	बाँधेंगी किया
+VĳĭķĵĹस्थापित करनाVĳĭķĵĹ	नापएंगे स्थापित किया नापएंगे
+VĶĭĴįĹगुणा करनाVĶĭĴįĹ	गुणा किया
+VĬĺĮĵĹभागनाVĬĺĮĵĹ	भाग
+VĳĺĻĹआग्रह करनाVĳĺĻĹ	नापएंगे आग्रह किया नापएगा
+VĬĭĮļİनापनाVĬĭĮļİ	नाप रही होती
+VĿłचढ़नाVĿł	चलने
+VĶĺĮĸİहस्तमैथुन करनाVĶĺĮĸİ	हारेंगी किया
+VĬĺĴĵĹझूठ बोलनाVĬĺĴĵĹ	बोल
+VĬĭķĵĹबहनाVĬĭķĵĹ	बहती
+VĶĺķĵĹचुननाVĶĺķĵĹ	चुनती
+VĳĺĴįĹसुधार करनाVĳĺĴįĹ	नापएंगे सुधार किया नापएगा
+VĳĭķĸĹटूटनाVĳĭķĸĹ	नापएगा टूटे नापएगा
+VĬĺĴįİडाउनलोड करनाVĬĺĴįİ	डाउनलोड करता होगी
+VĬĭĮĻİजानाVĬĭĮĻİ	जानेंगी रही
+Vĳĺķļİग़लत करनाVĳĺķļİ	नापएगा ग़लत किया नापएंगे होती
+VĬĭĴļİजाननाVĬĭĴļİ	जान होती
+VĶĺķĸİनफ़रत करनाVĶĺķĸİ	निकलेंगी किया
+VĬĺĮĵİअपनानाVĬĺĮĵİ	अपनाएगी
+VĳĭĴįİभुननाVĳĭĴįİ	नापएगा भुनी नापएगा होगी
+VĬĭĴĸĹटेंटुआ दबानाVĬĭĴĸĹ	टेंटुआ दबा दबा
+VĳĭĮĸİबन्द करनाVĳĭĮĸİ	नापएगा रहे बनेगी बन्द किया नापएंगे रहे
+VĳĺĴįĹचूसनाVĳĺĴįĹ	नापएगा चूसता नापएगा
+VĬĺķļĹकमानाVĬĺķļĹ	कमा
+VĬĺĮĵİअंगारा हो जानाVĬĺĮĵİ	अंगारा होओ जा
+VĶĺķĸĹकसनाVĶĺķĸĹ	कसती
+VĬĭĴļİकसनाVĬĭĴļİ	कस होती
+VĬĺĴĵİख़रीदनाVĬĺĴĵİ	खोेगी ख़रीदा
+VĬĭĴĸĹडाउनलोड करनाVĬĭĴĸĹ	डाउनलोड करोगे
+VĽİĺŁजलानाVĽİĺŁ	जलाना
+VĶĭķĸİदिलानाVĶĭķĸİ	दिलाओगी
+VĳĺķĸĹकोशिश करनाVĳĺķĸĹ	नापएगा कोशिश किया नापएंगे
+VĬĺĴĸĹतैरनाVĬĺĴĸĹ	तैरी
+VĳĺĴļİइंतज़ार करनाVĳĺĴļİ	नापएंगे इंतज़ार किया नापएंगे होती
+VĳĭĮĸİआरम्भ करनाVĳĭĮĸİ	नापएंगे रही आरम्भ किया नापएगा रहे
+VĶĺķĻİप्राप्त करनाVĶĺķĻİ	पकएंगी किया
+VĶĺķĻİउलटी करनाVĶĺķĻİ	उड़ेंगी पलटती किया
+VĬĭĮĸİपकानाVĬĭĮĸİ	पकाएंगी रही
+VĬĺķĵĹचोरी करनाVĬĺķĵĹ	चोरी करता
+VĬĭĴįİउबलनाVĬĭĴįİ	उबल होगी
+VĬĭĴĸĹबचनाVĬĭĴĸĹ	बची
+VĳĺķĻİअपलोड करनाVĳĺķĻİ	नापएगा अपनाएगी किया नापएगा
+VĬĭĮĸĹघृणा करनाVĬĭĮĸĹ	घृणा कर रहे
+VĬĭĮļİसूखनाVĬĭĮļİ	सूख रही होती
+VĬĺĮļĹमरोड़नाVĬĺĮļĹ	मरोड़
+VĳĭķĸĹसूंघनाVĳĭķĸĹ	नापएंगे सूंघता नापएगा
+VĶĭĴĻĹख़ून करनाVĶĭĴĻĹ	ख़ून किया
+VĶĺķĵİझगड़नाVĶĺķĵİ	झुकेंगी
+VĬĺĴĸĹफैलनाVĬĺĴĸĹ	फैल
+VĳĺķļİउछलनाVĳĺķļİ	नापएगा उछली नापएगा होती
+VĬĺķĻİकूटनाVĬĺķĻİ	कसेंगी
+VĬĺĮĻĹउछलनाVĬĺĮĻĹ	उछल
+VĬĺķĸİहटनाVĬĺķĸİ	हटोगी
+VĶĺķĵİघूमनाVĶĺķĵİ	घूमेंगी
+VĳĭĴĻĹछिपानाVĳĭĴĻĹ	नापएंगे छिपा नापएगा
+VĶĭĮĸİतुलानाVĶĭĮĸİ	रही तुलाएगी रहे
+VĶĭĴįĹपीटनाVĶĭĴįĹ	पीटती
+VĳĭĮĵĹचूमनाVĳĭĮĵĹ	नापएगा रही चूमे नापएंगे रहे
+VĳĭķĻĹशिकार करनाVĳĭķĻĹ	नापएंगे शिकार किया नापएंगे
+VĬĺıŃपढ़नाVĬĺıŃ	पढ़ती
+VĬĺĴļĹबाटनाVĬĺĴļĹ	बाट
+VĶĭķĸĹउतरनाVĶĭķĸĹ	उतर
+VĳĺĻİदबानाVĳĺĻİ	नापएंगे दबाऊंगी नापएगा
+VĶĺĮĸĹनिभानाVĶĺĮĸĹ	निभा
+VĶĭķĻĹछीपनाVĶĭķĻĹ	छीप
+VĶĭĮĵİउलटी करनाVĶĭĮĵİ	रही उठेंगी पलटेंगी किया रही
+VĶĭĻİतौबा करनाVĶĭĻİ	तुलाएगी बात किया
+VĶĺķĸİशुक्रिया करनाVĶĺķĸİ	शुक्रिया किया
+VĳĭķĸĹजगनाVĳĭķĸĹ	नापएंगे जग नापएगा
+VĬĺĮĵĹखोलनाVĬĺĮĵĹ	खोल
+VĬĭĴļĹअपलोड करनाVĬĭĴļĹ	अपलोड करोगे
+VĳĭĴįİलगनाVĳĭĴįİ	नापएगा लगी नापएगा होगी
+VĬĺķįĹमुड़नाVĬĺķįĹ	मुड़
+VĬĭķĻĹबन्द करनाVĬĭķĻĹ	बन्द करोगे
+VĳĺĴĸĹनापनाVĳĺĴĸĹ	नापएगा नापएगा
+VĶĭĴĻİपढ़ानाVĶĭĴĻİ	पाओगी
+VĳĭĻदबानाVĳĭĻ	नापएगा दबा नापएगा
+VĶĺĮįİरखनाVĶĺĮįİ	रखी होगी
+VĬĭĮĸĹनिर्माण करनाVĬĭĮĸĹ	कर रहे
+VĳĭķļİभुननाVĳĭķļİ	नापएगा भुनी नापएंगे होती
+VĬĭıĲडाउनलोड करनाVĬĭıĲ	डाउनलोड करोगे
+VĳĺĮĻİत्यागनाVĳĺĮĻİ	नापएगा त्यागेंगी नापएगा
+VĶĭĮįİजगनाVĶĭĮįİ	जगती रही होंगी
+VĳĭĮĵĹकहनाVĳĭĮĵĹ	नापएंगे रहे कहा नापएगा रहे
+VĶĺķĵĹइनकार करनाVĶĺķĵĹ	इनकार किया
+VĬĭĴļĹस्वप्न देखनाVĬĭĴļĹ	स्वप्न
+VĳĺĴĻĹछीपनाVĳĺĴĻĹ	नापएगा छीप नापएगा
+VĬĭķļİले जानाVĬĭķļİ	ले जा होती
+VĶĭķĸĹरखनाVĶĭķĸĹ	रख
+VĳĺķĸĹहस्तमैथुन करनाVĳĺķĸĹ	नापएगा हस्तमैथुन किया नापएगा
+VĳĺķļĹख़तना करनाVĳĺķļĹ	नापएगा ख़तना किया नापएंगे
+VĳĺķįĹख़ून करनाVĳĺķįĹ	नापएंगे ख़ून किया नापएगा
+VĶĭĴĸĹहस्तमैथुन करनाVĶĭĴĸĹ	हस्तमैथुन किया
+VĬĭķĸİभागनाVĬĭķĸİ	भागएंगी
+VĶĺķļĹबिकनाVĶĺķļĹ	बिक
+VĬĺĮĵİशुरू करनाVĬĺĮĵİ	शुरू करता
+VĳĺķĸĹमिटनाVĳĺķĸĹ	नापएगा मिटी नापएगा
+VĬĭĴįİपड़नाVĬĭĴįİ	पड़ी होगी
+VĳĭĮįĹमस्ती करनाVĳĭĮįĹ	नापएंगे रही मस्ती किया नापएगा रहे
+VĶĭķĸİस्वप्न देखनाVĶĭķĸİ	स्वप्न
+VĳĺĻĹसूखनाVĳĺĻĹ	नापएगा सूखती नापएगा
+VĶĭķĵİशिकार करनाVĶĭķĵİ	शिकार किया
+VĬĺıĲस्वप्न देखनाVĬĺıĲ	स्वप्न देखते
+VĶĺĴļĹरचनाVĶĺĴļĹ	रचती
+VĳĺĴĻİसकनाVĳĺĴĻİ	नापएगा सकेगी नापएगा
+VĶĺķĵİसुस्तानाVĶĺķĵİ	सकेगी सुस्ताऊंगी
+VĳĭĴļİबरसनाVĳĭĴļİ	नापएगा बरसती नापएगा होती
+VĳĭĴļİतैरनाVĳĭĴļİ	नापएगा तैरी नापएगा होती
+VĬĭĮļĹघुस करनाVĬĭĮļĹ	घुस कर रहे
+VĬĭķĻİउतरनाVĬĭķĻİ	उठेंगी तरस
+VĬĺĴĵĹबचानाVĬĺĴĵĹ	बचाए
+VĳĺĻĹइस्तेमाल करनाVĳĺĻĹ	नापएगा इस्तेमाल नापएगा
+VĶĭĮļĹआश्चर्य करनाVĶĭĮļĹ	रही आश्चर्य किया रही
+VĬĭĴĸİकोशिश करनाVĬĭĴĸİ	कसेंगी शिकार करोगे
+VĳĺĴĻĹरोकनाVĳĺĴĻĹ	नापएगा रोकी नापएगा
+VĬĺķĵĹडलवानाVĬĺķĵĹ	डलवा
+VĶĺķĵİखाँसनाVĶĺķĵİ	खोेगी खाँसोगे
+VĳĺĴĵİबिखरनाVĳĺĴĵİ	नापएगा बनेगी बिखरोगे नापएगा
+VĬĭĴĸİसमझानाVĬĭĴĸİ	सकेगी
+VĳĺĮįİपकानाVĳĺĮįİ	नापएगा पकाई नापएगा होगी
+VĳĺķįİहिलनाVĳĺķįİ	नापएगा हिल नापएगा होगी
+VĶĺĴĵĹठीक होनाVĶĺĴĵĹ	ठीक होने
+Vĳĺķĸİअंगारा बननाVĳĺķĸİ	नापएगा अंगारा बनती नापएगा
+VĳĺĮĵĹचलानाVĳĺĮĵĹ	नापएगा चला नापएगा
+VĳĭĮĻĹपिटनाVĳĭĮĻĹ	नापएगा रही पिटी नापएंगे रहे
+VĬĭĴĵİतैरानाVĬĭĴĵİ	तैरा
+Vĳĺķįİछेड़नाVĳĺķįİ	नापएगा छेड़ती नापएगा होगी
+VĬĭĴįİचढ़नाVĬĭĴįİ	चढ़ होगी
+VĳĭĮļİख़ून करनाVĳĭĮļİ	नापएंगे ख़ून किया नापएगा रही होती
+VĶĺĮĸİबिलबिलानाVĶĺĮĸİ	बचेगी बिलबिलाएगा
+VĳĺĻĹलूटनाVĳĺĻĹ	नापएगा लूट नापएगा
+VĶĭĴįĹरहनाVĶĭĴįĹ	रहती
+VĶĭķĸĹमोड़नाVĶĭķĸĹ	मोड़ी
+VĳĺĴĸİचुननाVĳĺĴĸİ	नापएगा चबाएंगी नापएंगे
+VĳĭĻजागनाVĳĭĻ	नापएंगे जागती नापएगा
+VĬĺķĻİछीपनाVĬĺķĻİ	छीपेंगी
+VĬĭķĻĹप्रवेश करनाVĬĭķĻĹ	प्रवेश करोगे
+VĳĭĮĻĹऐसी तैसी करनाVĳĭĮĻĹ	नापएंगे रही ऐसी तैसी किया नापएंगे रहे
+VĶĺĴĵİगिरफ़्तार करनाVĶĺĴĵİ	गिरफ़्तार किया
+VĬĺıĲछिपानाVĬĺıĲ	छिपा
+VĬĺĮįĹउठानाVĬĺĮįĹ	उठा
+VĬĺĮĵĹडरनाVĬĺĮĵĹ	डर
+VĳĭķĻİसूजनाVĳĭķĻİ	नापएगा सकेगी सूजती नापएंगे
+VĳĭĮĻĹछीननाVĳĭĮĻĹ	नापएंगे रहे छीनते नापएगा रहे
+VĳĭķļİभूलनाVĳĭķļİ	नापएगा भूल नापएगा होती
+VĶĭĴĸİनिकलनाVĶĭĴĸİ	निकलेंगी
+VĶĭĴĵİकमानाVĶĭĴĵİ	कमाएगी
+VĽİĭľसामने आनाVĽİĭľ	सामने
+VĬĺĮĻİचाहनाVĬĺĮĻİ	चबाएंगी चाहिए
+VĳĭĮįĹरोकनाVĳĭĮįĹ	नापएगा रही रोकी नापएगा रही
+Vĳĺķĵİत्यागनाVĳĺķĵİ	नापएगा त्यागेंगी नापएगा
+VĶĭĮĸĹभेजनाVĶĭĮĸĹ	रहे भेजी रही
+VĶĺķĸİचूमनाVĶĺķĸİ	चबाएंगी
+VĳĺĮįİबैठनाVĳĺĮįİ	नापएगा बैठती नापएगा होगी
+VĶĺĮĵĹतौबा करनाVĶĺĮĵĹ	तौबा किया
+VĶĺĮĻİछींकनाVĶĺĮĻİ	छींकएंगी
+VĬĺķįĹअपलोड करनाVĬĺķįĹ	अपलोड करता
+VĬĭĻĹतैरानाVĬĭĻĹ	तैरा
+VĳĺĴĸĹअपलोड करनाVĳĺĴĸĹ	नापएगा अपलोड किया नापएंगे
+VĬĺĮįİमरोड़नाVĬĺĮįİ	मरोड़ होगी
+VĳĭķĸĹचूमनाVĳĭķĸĹ	नापएगा चूमे नापएगा
+VĶĭĻİबिलबिलानाVĶĭĻİ	बचेगी बिलबिलाएगा
+VĬĭķļĹघूमनाVĬĭķļĹ	घूम
+VĳĭĻतैरानाVĳĭĻ	नापएगा तैरा नापएगा
+VĳĭĴļĹआराम करनाVĳĭĴļĹ	नापएंगे आराम किया नापएंगे
+VĶĭķļĹआश्चर्य करनाVĶĭķļĹ	आश्चर्य किया
+VĿŀउबलनाVĿŀ	उबल
+VĬĭķįİआरम्भ करनाVĬĭķįİ	आरम्भ करोगे होगी
+VĶĺķļĹगुणा करनाVĶĺķļĹ	गुणा किया
+VĬĺĮļĹहारनाVĬĺĮļĹ	हार
+VĶĭķįİकहनाVĶĭķįİ	कहती होगी
+VĬĺĴĻĹमाफ़ करनाVĬĺĴĻĹ	माफ़ करता
+VĳĭķĸĹघुमानाVĳĭķĸĹ	नापएगा घुमा नापएगा
+VĶĺĻİमाफ़ करनाVĶĺĻİ	मुड़ूँगी माफ़ किया
+VĬĺĮļĹभूलनाVĬĺĮļĹ	भूल
+VĳĭĻĹबचनाVĳĭĻĹ	नापएगा बचता नापएगा
+VĬĺĮĻİतैयार करनाVĬĺĮĻİ	तैयार करता
+VĽĹĺŁअपलोड करनाVĽĹĺŁ	अपलोड किया
+VĳĺķįĹस्थापित करनाVĳĺķįĹ	नापएंगे स्थापित किया नापएंगे
+VĶĺķĻİअंगारे बरसनाVĶĺķĻİ	अंगारे बरसी
+Vĳĺķĸİअंगारों पर पैर रखनाVĳĺķĸİ	नापएगा अंगारों पैर रख नापएगा
+VĬĭĮįİमक्खन लगानाVĬĭĮįİ	मक्खन लगा रही होगी
+VĶĭĮįİजपनाVĶĭĮįİ	रही होंगी जपी रही होंगी
+VĳĭĮĻĹचाटनाVĳĭĮĻĹ	नापएगा रहे चाटती नापएंगे रहे
+VĳĺķĻĹचूमनाVĳĺķĻĹ	नापएगा चूमे नापएगा
+VĳĺĮįİपानाVĳĺĮįİ	नापएगा पाती नापएगा होगी
+VĳĭķĸĹजागनाVĳĭķĸĹ	नापएंगे जागती नापएगा
+VĶĭĻĹरचनाVĶĭĻĹ	रचती
+VĳĺķĸĹतैयार करनाVĳĺķĸĹ	नापएंगे तैयार किया नापएंगे
+VĶĺĮļİझांकनाVĶĺĮļİ	झांकी होती
+VĬĭĮįĹशुक्रिया करनाVĬĭĮįĹ	शुक्रिया कर रहे
+VĬĺĮĸİफँसनाVĬĺĮĸİ	फँसेगी
+VĶĭķĻĹझुकनाVĶĭķĻĹ	झुक
+VĶĺĮĵĹलानाVĶĺĮĵĹ	ला
+VĬĭĴįĹपूजा करनाVĬĭĴįĹ	पूजा करोगे
+VĶĺĮĵİबन्द करनाVĶĺĮĵİ	बनेगी बन्द किया
+VĶĺĴĵĹझाड़नाVĶĺĴĵĹ	झाड़ता
+VĶĭķįĹबिकनाVĶĭķįĹ	बिक
+VĳĭĮļİचमकनाVĳĭĮļİ	नापएगा चमक नापएगा रही होती
+VĬĺĮįİबैठनाVĬĺĮįİ	बैठी होगी
+VĶĭķĻĹखड़ा करनाVĶĭķĻĹ	खड़ा किया
+VĶĭĴĻĹरहनाVĶĭĴĻĹ	रहती
+VĬĺĮĻĹसूजनाVĬĺĮĻĹ	सूजता
+VĳĭĮĵİहटनाVĳĭĮĵİ	नापएगा रही हटोगी नापएंगे रहे
+VĬĺķĻİभौंकनाVĬĺķĻİ	भागएंगी भौंकेंगे
+VĶĺķĸİत्यागनाVĶĺķĸİ	त्यागेंगी
+VĶĭĮįİडाउनलोड करनाVĶĭĮįİ	डाउनलोड किया रही होंगी
+VĬĺķĸİप्रेम करनाVĬĺķĸİ	पसीजोगी करता
+VĶĺĴįİघूमनाVĶĺĴįİ	घूम होगी
+VĳĺķĻİमिटनाVĳĺķĻİ	नापएगा मुड़ूँगी पिटा नापएगा
+VĬĭĮĵĹनापनाVĬĭĮĵĹ	रही
+VĬĭķĸĹखोजनाVĬĭķĸĹ	खोजी
+VĶĭķĸĹभेजनाVĶĭķĸĹ	भेजी
+VĳĺĴļİचोरी करनाVĳĺĴļİ	नापएंगे चोरी किया नापएगा होती
+VĶĭķįĹपिघलनाVĶĭķįĹ	पिघलती
+VĽİĺľबैठनाVĽİĺľ	बैठती
+VĬĭĮĸĹचुसनाVĬĭĮĸĹ	चुस रही
+VĳĭĴĻİअंगारा बननाVĳĭĴĻİ	नापएंगे अंगारा बनती नापएगा
+VĳĺķĵİबाँधनाVĳĺķĵİ	नापएगा बाँधूँगी नापएंगे
+VĬĭĴĻĹबिखरनाVĬĭĴĻĹ	बिखर
+VĶĺķļĹबोलनाVĶĺķļĹ	बोलती
+VĬĺĴļĹतौबा करनाVĬĺĴļĹ	तौबा करता
+VĶĺĮĻİपलटनाVĶĺĮĻİ	पकाएंगी पलटते
+VĳĭĮĵİसूखनाVĳĭĮĵİ	नापएगा रहे सकेगी सूखना नापएगा रहे
+VĬĺĮĻİजुड़नाVĬĺĮĻİ	जुड़ेगी
+VĶĭĴĻĹलू करनाVĶĭĴĻĹ	लू किया
+VĳĺķįĹइनकार करनाVĳĺķįĹ	नापएगा इनकार किया नापएंगे
+VĳĭĮĸİबीतनाVĳĭĮĸİ	नापएगा रहे बनेगी बीतता नापएगा रहे
+VĬĺķĸĹपसीजनाVĬĺķĸĹ	पसीज
+VĬĺĴĵİबकनाVĬĺĴĵİ	बकऊंगी
+VĶĺĴįİख़ून करनाVĶĺĴįİ	ख़ून किया होगी
+VĳĭķļĹग़लत करनाVĳĭķļĹ	नापएंगे ग़लत किया नापएंगे
+VĶĺĮĻİझूठ बोलनाVĶĺĮĻİ	बोलती
+VĳĺĻİपिटनाVĳĺĻİ	नापएगा पड़ूँगी पिटा नापएगा
+VĶĺĮĻİसोचनाVĶĺĮĻİ	सकेगी सोचेंगी
+VĬĭĮĸİबोलनाVĬĭĮĸİ	बचेगी बोलेगा रही
+VĬĭĴĵİबेचनाVĬĭĴĵİ	बचेगी बेचोगे
+VĳĺĮĻĹउठनाVĳĺĮĻĹ	नापएंगे उठी नापएगा
+VĳĭĮĸİघुस करनाVĳĭĮĸİ	नापएगा रहे घुसोगी किया नापएगा रहे
+VĳĺĮļİमिटनाVĳĺĮļİ	नापएगा मिटी नापएगा होती
+VĿłहस्तमैथुन करनाVĿł	हटने किया
+VĬĺĮįİअपलोड करनाVĬĺĮįİ	अपलोड करता होगी
+VĶĭķĸĹछीलनाVĶĭķĸĹ	छील
+Vĳĺķĵİमस्ती करनाVĳĺķĵİ	नापएंगे मनाऊंगी किया नापएंगे
+VĶĺĴĻİडरनाVĶĺĴĻİ	डरेंगी
+VĽİĺľपसीजनाVĽİĺľ	पसीज
+VĶĭĮĻİभौंकनाVĶĭĮĻİ	रहे भुनूँगी भौंकेंगे रहे
+VĬĭĮĵİइलाज करनाVĬĭĮĵİ	इलाज कर रहे
+VĬĭķĸĹचोदनाVĬĭķĸĹ	चोद
+VĳĺĴļİचूमनाVĳĺĴļİ	नापएगा चूमती नापएगा होती
+VĬĭĮĻĹझूमनाVĬĭĮĻĹ	झूम रही
+VĬĭĻĹइस्तेमाल करनाVĬĭĻĹ	इस्तेमाल करोगे
+VĬĺĮįĹघूमनाVĬĺĮįĹ	घूम
+VĬĭĮĸĹप्यार करनाVĬĭĮĸĹ	प्यार कर रहे
+VĬĭĮļİप्रवेश करनाVĬĭĮļİ	प्रवेश कर रही होती
+VĶĭĮĸİपिघलनाVĶĭĮĸİ	रही पकाऊंगी पिघलेंगी रहे
+VĳĭĮļĹपकानाVĳĭĮļĹ	नापएगा रही पका नापएगा रहे
+VĬĭķĵĹपीटनाVĬĭķĵĹ	पीट
+VĳĺķįİबचनाVĳĺķįİ	नापएगा बच नापएगा होगी
+VĳĺķĸİठगनाVĳĺķĸİ	नापएगा ठगेंगी नापएगा
+VĬĭĮĸİतुलानाVĬĭĮĸİ	तुलाएगी रही
+VĳĺĴĻĹसीखनाVĳĺĴĻĹ	नापएगा सीखे नापएगा
+VĶĺĴļİभेजनाVĶĺĴļİ	भेजी होती
+VĬĺĮļİदिलानाVĬĺĮļİ	दिला होती
+VĬĺĮĻİमुड़नाVĬĺĮĻİ	मुड़ोगी
+VĳĺķĸİसकनाVĳĺķĸİ	नापएगा सकेगी नापएगा
+VĬĺķįĹनहानाVĬĺķįĹ	नहा
+VĳĺĴĵĹखोजनाVĳĺĴĵĹ	नापएगा खोजी नापएगा
+VĶĭķĸİअपलोड करनाVĶĭķĸİ	अपनाएगी किया
+VĳĭķĻĹरोनाVĳĭķĻĹ	नापएगा रो नापएगा
+VĶĺĮĸİसंभोग करनाVĶĺĮĸİ	संभोग किया
+VĬĺĴįĹसहमनाVĬĺĴįĹ	सहम
+VĶĺĴĵİउड़ानाVĶĺĴĵİ	उड़ेंगी
+VĳĭķĸİपूछनाVĳĭķĸİ	नापएगा पकएंगी पूछेगी नापएंगे
+VĶĺĴįĹछुड़ानाVĶĺĴįĹ	छुड़ाए
+VĶĺĴļĹडलवानाVĶĺĴļĹ	डलवा
+VĬĺıĲप्राप्त करनाVĬĺıĲ	प्राप्त करता
+VĬĭĴļİनिर्माण करनाVĬĭĴļİ	करोगे होती
+VĬĺĴĸİडलवानाVĬĺĴĸİ	डरेंगी
+VĬĭĮļİसोचनाVĬĭĮļİ	सोच रही होती
+VĬĺķĵİशुरू करनाVĬĺķĵİ	शुरू करता
+VĶĺĻİनशा करनाVĶĺĻİ	नशा किया
+VĬĭĴĻİनशा करनाVĬĭĴĻİ	नशा करोगे
+VĳĺĮįİअंगारे बरसनाVĳĺĮįİ	नापएंगे बरसी नापएगा होगी
+VĶĺķĸĹपीनाVĶĺķĸĹ	पीए
+VĳĭĮįİअध्ययन करनाVĳĭĮįİ	नापएगा अध्ययन किया नापएंगे रही होंगी
+VĳĭķļĹठीक होनाVĳĭķļĹ	नापएंगे ठीक होयी नापएंगे
+VĬĭķįİजमनाVĬĭķįİ	जम होगी
+Vĳĭķįİअपलोड करनाVĳĭķįİ	नापएंगे अपलोड किया नापएंगे होगी
+VĶĺĻİभागनाVĶĺĻİ	भागएंगी
+VĬĺĴĵİदौड़नाVĬĺĴĵİ	दौड़ेगी
+VĶĺĮĸİमुड़नाVĶĺĮĸİ	मुड़ूँगी
+VĶĭķĵİतैरनाVĶĭķĵİ	तैरी
+VĳĺķĸĹसेक्स करनाVĳĺķĸĹ	नापएंगे सेक्स किया नापएगा
+VĬĭķĻĹजमा करनाVĬĭķĻĹ	जमा करोगे
+VĬĺķļĹअंगारे उगलनाVĬĺķļĹ	अंगारे उगलइये
+VĽİĭŁहटनाVĽİĭŁ	हटी

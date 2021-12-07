@@ -1,720 +1,810 @@
-ADJ;LOC;PLկարճավունADJ;LOC;PL	կարճավունում
-ADJ;ABL;PL;PSS1SնիդերլանդերենADJ;ABL;PL;PSS1S	նիդերլանդերենումս
-V;PASSպատրաստելV;PASS	չպատրաստես
-N;ABL;PLկրճատումN;ABL;PL	կրճատումներում
-ADJ;NOM;PL;PSS1SֆինլանդականADJ;NOM;PL;PSS1S	ֆինլանդացուս
-V;V.PTCP;SUB;NEGարգելելV;V.PTCP;SUB;NEG	արգելել
-V;3;SG;IPFV;IND;NEGզառամանալV;3;SG;IPFV;IND;NEG	չէր զառամանալու
-V;1;SG;IPFV;IND;NEGբեկանելV;1;SG;IPFV;IND;NEG	չէի բեկանելու
-N;INST;SGկիլոգրամN;INST;SG	կիլոյիդ
-V;1;PL;PST;PRF;INDայրվելV;1;PL;PST;PRF;IND	չէինք այրվելու
-N;INST;SG;PSS2SօյինբազությունN;INST;SG;PSS2S	օյինբազությունումդ
-V;V.PTCP;SUBթորշոմելV;V.PTCP;SUB	թորշոմել ենք
-N;LOC;SGդարթսN;LOC;SG	դարթսս
-N;INST;SG;PSS1SչափսN;INST;SG;PSS1S	չափսերիցս
-V;3;SG;PRS;INDհղենալV;3;SG;PRS;IND	հղենա է
-N;DAT;PL;DEFոստայնանկN;DAT;PL;DEF	ոստայնանկի
-N;DAT;PL;PSS1SպարենքիմN;DAT;PL;PSS1S	պարենքիմին
-N;NOM;PL;DEFամոթույքN;NOM;PL;DEF	ամոթույքը
-ADJ;DAT;PL;PSS2SարդյանADJ;DAT;PL;PSS2S	արդյանով
-N;INST;PL;PSS2Sազգային բուրժուազիաN;INST;PL;PSS2S	բուրժուազիայովդ
-ADJ;NOM;PL;PSS2SդիմացկունADJ;NOM;PL;PSS2S	դիմացկունիցս
-V;1;SG;FUT;PRF;SBJVգոգելV;1;SG;FUT;PRF;SBJV	գոգել
-V;1;PL;PST;PRF;IND;NEGգանգրացնելV;1;PL;PST;PRF;IND;NEG	չէինք
-N;ABL;SGաբրաN;ABL;SG	աբրաներիդ
-V;1;SG;FUT;IND;NEGգնահատելV;1;SG;FUT;IND;NEG	չեմ գնահատել
-N;LOC;PLբառապատճենումN;LOC;PL	բառապատճենումը
-N;INST;PL;PSS1SկատեգորիաN;INST;PL;PSS1S	կատեգորիայում
-N;INST;PL;PSS2SղարսN;INST;PL;PSS2S	ղարսերից
-V;2;SG;IPFV;INDկարոտելV;2;SG;IPFV;IND	կարոտել էիր
-V;1;PL;FUT;PRF;COND;NEGկանխամտածվելV;1;PL;FUT;PRF;COND;NEG	կանխամտածվել
-N;INST;SGաթեիզմN;INST;SG	աթեիզմումս
-ADJ;NOM;PL;DEFտեռորիստականADJ;NOM;PL;DEF	տեռորիստականներիդ
-N;NOM;SG;PSS2SելարանN;NOM;SG;PSS2S	ելարանիդ
-N;ABL;SGվենետերենN;ABL;SG	վենետականից
-V;1;SG;PRS;PRF;INDհեծնելV;1;SG;PRS;PRF;IND	հեծել
-ADJ;ABL;PL;PSS2SնոյեմբերյանADJ;ABL;PL;PSS2S	նոյեմբերյաններումդ
-V;1;PL;FUT;PRF;CONDմիզելV;1;PL;FUT;PRF;COND	կմիզեիք
-N;DAT;SGկապուտN;DAT;SG	կապուտին
-N;DAT;PL;PSS2SոչխարN;DAT;PL;PSS2S	գոչերին
-N;LOC;SG;PSS1SազգայնականությունN;LOC;SG;PSS1S	ազգայնականությունովդ
-V;1;SG;FUT;CONDզգածվելV;1;SG;FUT;COND	կզգածվեի
-V;3;SG;FUT;PRF;INDսանձահարելV;3;SG;FUT;PRF;IND	սանձահարեցինք
-N;ABL;PL;PSS1SխեցգետինN;ABL;PL;PSS1S	ծովախեցգետնի
-N;NOM;PL;DEFբջիջN;NOM;PL;DEF	բջիջներիս
-V;3;PL;FUT;PRF;COND;NEGմրցելV;3;PL;FUT;PRF;COND;NEG	չմրցող
-N;NOM;PLվուշN;NOM;PL	վուշերս
-V;3;SG;PRS;PRF;INDքավելV;3;SG;PRS;PRF;IND	է
-ADJ;DAT;PLտերունիADJ;DAT;PL	տերունիներովդ
-ADJ;DAT;SG;PSS1SօսականADJ;DAT;SG;PSS1S	օսկերենովս
-ADJ;ABL;PL;PSS2SանցյալADJ;ABL;PL;PSS2S	անցյալներովդ
-V;2;SG;PRS;IND;NEGհրելV;2;SG;PRS;IND;NEG	չես
-V;3;SG;PRS;PRF;IND;NEGտոկալV;3;SG;PRS;PRF;IND;NEG	տոկալու
-N;DAT;PL;PSS2SսուսերամարտN;DAT;PL;PSS2S	սուսերիս
-N;LOC;PLբանավեճN;LOC;PL	բանավեճ
-V;2;SG;FUT;CONDսխալվելV;2;SG;FUT;COND	սխալվում
-N;INST;SG;PSS2SաճյունN;INST;SG;PSS2S	աճումդ
-N;INST;PL;PSS2SկազմակերպիչN;INST;PL;PSS2S	կազմակերպչովդ
-N;INST;PL;PSS2SչղջիկN;INST;PL;PSS2S	ռնգեղջյուրներիցս
-N;DAT;SG;PSS2SիմունիտետN;DAT;SG;PSS2S	իմունիտետներիդ
-N;INST;SG;PSS2SտերտերN;INST;SG;PSS2S	տերտերդ
-V;2;SG;FUT;PRF;IND;NEGբողոքելV;2;SG;FUT;PRF;IND;NEG	չէիր բողոքել էիր
-N;INST;PLբարդիN;INST;PL	բարբաջներով
-N;NOM;PL;PSS1SժամանակաշրջանN;NOM;PL;PSS1S	ժամանումներս հեղաշրջումներով
-V;2;SG;IPFV;INDլքնելV;2;SG;IPFV;IND	լքներ էիր
-N;DAT;PL;DEFանձնագիրN;DAT;PL;DEF	անձնանուններին
-V;3;PL;FUT;PRF;CONDպագելV;3;PL;FUT;PRF;COND	պագել
-V;2;PL;PRS;PRF;IND;NEGմտցնելV;2;PL;PRS;PRF;IND;NEG	չեք մտցրեք եք
-N;DAT;SG;DEFկայթյունN;DAT;SG;DEF	կայթյուններին
-N;DAT;SG;DEFտորմիղN;DAT;SG;DEF	նավատորմիղիս
-V;3;PL;FUT;PRF;CONDստամբակելV;3;PL;FUT;PRF;COND	ստամբակում
-V;2;SG;FUT;COND;NEGբեկանելV;2;SG;FUT;COND;NEG	չես բեկանելու
-ADJ;ABL;PL;PSS2SպինդADJ;ABL;PL;PSS2S	պնդիցս
-V;1;PL;PST;PRF;INDհեռացնելV;1;PL;PST;PRF;IND	չէինք հեռացրել
-N;ABL;PL;PSS2SգյուտN;ABL;PL;PSS2S	գյուտիցս
-N;NOM;SG;PSS2SքյուֆտաN;NOM;SG;PSS2S	քյարումդ քուֆտայով
-V;2;PL;FUT;PRF;INDկախարդելV;2;PL;FUT;PRF;IND	չէիք կախարդում էիք
-V;1;SG;PRS;IND;NEGցավալV;1;SG;PRS;IND;NEG	չեմ չցավայինք
-ADJ;ABL;PL;PSS2SթուրքերենADJ;ABL;PL;PSS2S	թուրքերենիս
-N;INST;SG;PSS2SըմպակN;INST;SG;PSS2S	ըմպակներդ
-N;INST;PLվարսակաշիլաN;INST;PL	վարսակումդ
-V;1;SG;PST;IND;NEGդարսելV;1;SG;PST;IND;NEG	դարսել
-ADJ;INST;PL;PSS2SգլխավորADJ;INST;PL;PSS2S	գլխավորներիցդ
-N;LOC;SG;PSS1SպատրաստությունN;LOC;SG;PSS1S	պատրանքումս
-N;NOM;SGղալաթN;NOM;SG	ղալաթովս
-V;2;SG;FUT;SBJV;NEGկոշկոճելV;2;SG;FUT;SBJV;NEG	չկոշկոճեցինք
-V;3;SG;FUT;PRF;CONDհոտելV;3;SG;FUT;PRF;COND	կհոտեմ
-V;3;SG;FUT;PRF;INDկեղեքելV;3;SG;FUT;PRF;IND	կեղեքելու էր
-V;3;SG;FUT;SBJV;NEGկռթնելV;3;SG;FUT;SBJV;NEG	կռթնի
-N;DAT;PL;PSS1SպտույտN;DAT;PL;PSS1S	պտկունքներիս
-ADJ;INST;PL;PSS2SհոյակառույցADJ;INST;PL;PSS2S	հոյակառույցներիցդ
-N;LOC;PLկատակերգությունN;LOC;PL	կատակերգություններով
-N;NOM;SG;PSS1SթենիսիստուհիN;NOM;SG;PSS1S	թեներովս
-V;1;PL;FUT;SBJV;NEGձուլելV;1;PL;FUT;SBJV;NEG	ձուլել
-V;1;SG;FUT;CONDհաճելV;1;SG;FUT;COND	հաճում
-V;1;PL;FUT;PRF;INDկլանելV;1;PL;FUT;PRF;IND	կլանել
-V;3;SG;FUT;PRF;COND;NEGմտաբերելV;3;SG;FUT;PRF;COND;NEG	մտաբերի
-N;LOC;SG;PSS1SվրձինN;LOC;SG;PSS1S	վրձինս
-N;NOM;SG;DEFընթերցասրահN;NOM;SG;DEF	ընթերցասրահներ
-ADJ;LOC;SG;PSS1SարտակարգADJ;LOC;SG;PSS1S	արտակարգներս
-V;2;PL;FUT;IND;NEGահաբեկվելV;2;PL;FUT;IND;NEG	չեք ահաբեկվել
-ADJ;LOC;SG;PSS2SերկսայրADJ;LOC;SG;PSS2S	երկսայրներիս
-V;2;PL;PST;PRF;IND;NEGվճարելV;2;PL;PST;PRF;IND;NEG	չվճարած
-N;NOM;SG;DEFսեպN;NOM;SG;DEF	սեպիցս
-V;3;PL;PRS;PRF;IND;NEGխրոխտալV;3;PL;PRS;PRF;IND;NEG	չխրոխտացիք են
-N;INST;PL;PSS1SանձնանունN;INST;PL;PSS1S	անձնանուններին
-N;NOM;SG;PSS1SջաղացքN;NOM;SG;PSS1S	ջաղացքներ
-V;1;SG;PRS;PRF;INDկեղեքելV;1;SG;PRS;PRF;IND	կեղեքելու եմ
-N;DAT;SG;PSS2SստարտափN;DAT;SG;PSS2S	ստարտափներս
-V;2;SG;FUT;COND;NEGարթնանալV;2;SG;FUT;COND;NEG	չես
-N;ABL;SG;PSS1SչեչենN;ABL;SG;PSS1S	չեխերեններովս
-ADJ;DAT;SGքրդերենADJ;DAT;SG	քրդերենով
-V;1;PL;PRS;INDբաղբաջելV;1;PL;PRS;IND	կբաղբաջեմ ենք
-V;3;SG;IPFV;INDսրամտելV;3;SG;IPFV;IND	սրտաշարժում էր
-N;DAT;PL;PSS1SվալսN;DAT;PL;PSS1S	վալսերիցս
-N;DAT;SG;DEFնշագեղձN;DAT;SG;DEF	նշագեղձիդ
-ADJ;ABL;PL;PSS1SքաղցրահամADJ;ABL;PL;PSS1S	քաղցրահամներովս
-N;LOC;SGշուշանN;LOC;SG	շուշանից
-N;DAT;SG;PSS1SսեպN;DAT;SG;PSS1S	սեպիցս
-N;NOM;SG;PSS2SդարթսN;NOM;SG;PSS2S	դարթսս
-V;3;SG;FUT;IND;NEGուրանալV;3;SG;FUT;IND;NEG	չի
-N;DAT;PL;PSS1SվալիզN;DAT;PL;PSS1S	վալիզներում
-V;3;PL;FUT;SBJV;NEGտաղտկանալV;3;PL;FUT;SBJV;NEG	չտաղտկանամ
-V;3;SG;FUT;PRF;IND;NEGխռթալV;3;SG;FUT;PRF;IND;NEG	խռթալու
-N;INST;SG;PSS2SհեղաշրջումN;INST;SG;PSS2S	հեղաշրջումներով
-N;DAT;PL;PSS1SիզոտոպN;DAT;PL;PSS1S	իզոտոպների
-ADJ;DAT;PL;DEFարդարացիADJ;DAT;PL;DEF	արդարացիներից
-N;INST;SGֆրիզերենN;INST;SG	ֆրիզերենից
-N;LOC;PL;PSS2SձմեթN;LOC;PL;PSS2S	ձմեթները
-N;NOM;PL;PSS2SլաւաշN;NOM;PL;PSS2S	դեւանագարիում
-N;NOM;SG;PSS1SմալայալամN;NOM;SG;PSS1S	մալայալամովս
-V;2;PL;IPFV;INDլողանալV;2;PL;IPFV;IND	լվանում էիք
-N;NOM;SGգազանN;NOM;SG	գազանի
-V;1;SG;PRS;IND;NEGտարակուսելV;1;SG;PRS;IND;NEG	չեմ
-N;LOC;PL;PSS1SհարցումN;LOC;PL;PSS1S	մրցույթներիցդ
-N;LOC;SG;PSS1SակնոցN;LOC;SG;PSS1S	ակնոցներիցս
-ADJ;ABL;PL;PSS1SոսկիADJ;ABL;PL;PSS1S	ոսկիների
-N;DAT;SGփականքN;DAT;SG	փականք
-N;INST;SG;PSS1SնկուղN;INST;SG;PSS1S	նկուղներովս
-N;DAT;PLկարեկցությունN;DAT;PL	կարեկցումներ
-N;NOM;SG;PSS1SհողակոշտN;NOM;SG;PSS1S	հողակոշտերիցս
-V;2;SG;FUT;SBJV;NEGվանկելV;2;SG;FUT;SBJV;NEG	վանկել
-N;LOC;PLհեղաշրջումN;LOC;PL	հեղաշրջումներով
-V;2;PL;FUT;CONDգլտորելV;2;PL;FUT;COND	կգլտորենք
-ADJ;DAT;PL;DEFկանադականADJ;DAT;PL;DEF	կանադականներում
-N;ABL;SG;PSS2SխոպոպիկN;ABL;SG;PSS2S	խոպոպիցդ
-N;NOM;SG;PSS1SձնագնդիկN;NOM;SG;PSS1S	ձնագնդիկ
-V;2;PL;IMP;NEGբեկանելV;2;PL;IMP;NEG	մի՛
-N;LOC;SG;PSS1SխրամատN;LOC;SG;PSS1S	խրամատս
-V;2;PL;FUT;PRF;CONDծառայելV;2;PL;FUT;PRF;COND	կծառայենք
-V;V.CONV;FUT1գրգռելV;V.CONV;FUT1	գլտորելու լորամարգերիցդ
-N;ABL;SG;PSS2SսովորույթN;ABL;SG;PSS2S	սովամահությունդ նորույթներում
-ADJ;ABL;PL;PSS2SմարգարտահուռADJ;ABL;PL;PSS2S	մարգարտահուռիցդ
-V;2;SG;FUT;PRF;IND;NEGենթարկելV;2;SG;FUT;PRF;IND;NEG	չէիր ենթարկել էիր
-V;3;SG;IPFV;INDմտցնելV;3;SG;IPFV;IND	մտցնելու էր
-N;NOM;PL;PSS1SխեցգետինN;NOM;PL;PSS1S	խեցգետիններ
-V;1;PL;PST;PRF;INDոգելV;1;PL;PST;PRF;IND	չէինք
-V;2;PL;FUT;IND;NEGքամելV;2;PL;FUT;IND;NEG	չեք քամի
-N;LOC;PLմագիլN;LOC;PL	արագիլին
-N;INST;SGթաքուստN;INST;SG	թաքուստներիս
-N;DAT;SG;PSS2SգրասեղանN;DAT;SG;PSS2S	գրասեղաններիցդ
-N;DAT;SG;PSS1SգետառN;DAT;SG;PSS1S	գետառներիցս
-V;3;PL;FUT;SBJVաղերսելV;3;PL;FUT;SBJV	աղերսեիր
-V;3;SG;PRS;IND;NEGայրվելV;3;SG;PRS;IND;NEG	չի
-V;2;SG;PRS;INDուղարկելV;2;SG;PRS;IND	ես
-V;PASSօղողելV;PASS	չօղողեցի
-N;NOM;PLհամալսարանN;NOM;PL	համալսարանիցս
-ADJ;INST;PL;PSS2SէժանADJ;INST;PL;PSS2S	էժանից
-V;2;PL;PRS;INDվերուվարելV;2;PL;PRS;IND	վերուվարել եք
-N;NOM;SG;PSS2SկվենիN;NOM;SG;PSS2S	կվենովս
-ADJ;NOM;SG;PSS2SլիմբուրգերենADJ;NOM;SG;PSS2S	լիմբուրգերենիդ
-N;NOM;PL;PSS1SքարփիջN;NOM;PL;PSS1S	քարփինջի
-V;2;SG;IMP;NEGհիրելV;2;SG;IMP;NEG	մի՛ հիրելու
-V;3;SG;FUT;PRF;SBJV;NEGշառաչելV;3;SG;FUT;PRF;SBJV;NEG	չշառաչեք
-N;DAT;SG;PSS1SարքադN;DAT;SG;PSS1S	արքադներիդ
-N;DAT;SG;PSS2SմեջքN;DAT;SG;PSS2S	մեջ
-N;DAT;SGյոթներյակN;DAT;SG	յոթներյակներիս
-N;INST;PL;PSS1SմուրացիկN;INST;PL;PSS1S	մուրացիկներովդ
-V;3;PL;IPFV;INDապահովանալV;3;PL;IPFV;IND	էին
-N;INST;SGդարբինN;INST;SG	դարբիններից
-N;DAT;SG;PSS1SսմբուլN;DAT;SG;PSS1S	սմբուլիդ
-ADJ;LOC;PLհոյակառույցADJ;LOC;PL	հոյակառույցներիցդ
-N;ABL;PL;PSS2SհանրախանութN;ABL;PL;PSS2S	հանրախանութիս
-N;NOM;SG;PSS2SտեղեկատուN;NOM;SG;PSS2S	տեղեկատուովդ
-V;2;SG;FUT;PRF;IND;NEGփայլունացվելV;2;SG;FUT;PRF;IND;NEG	չէիր
-ADJ;DAT;PLվճիտADJ;DAT;PL	վճիտումդ
-V;3;SG;PST;IND;NEGփայլունանալV;3;SG;PST;IND;NEG	չփայլունացրին
-V;1;PL;FUT;CONDկամենալV;1;PL;FUT;COND	կամեցել
-V;3;SG;PRS;IND;NEGագուցանելV;3;SG;PRS;IND;NEG	չի
-N;LOC;PL;PSS1SվարագույրN;LOC;PL;PSS1S	համբույրներումդ
-V;3;PL;FUT;PRF;IND;NEGշռելV;3;PL;FUT;PRF;IND;NEG	չէին չշռած էին
-V;2;SG;PRS;PRF;IND;NEGխարխալելV;2;SG;PRS;PRF;IND;NEG	խարխալում ես
-V;V.PTCP;RES;NEGաբստրահվելV;V.PTCP;RES;NEG	աբստրահվում
-N;NOM;PLավտոտնակN;NOM;PL	ավտովարորդներիս գրտնակդ
-N;NOM;SG;PSS2SշավիղN;NOM;SG;PSS2S	բավիղներ
-N;DAT;SG;DEFգրամեքենաN;DAT;SG;DEF	գրաստին
-V;2;PL;PRS;PRF;INDհավելելV;2;PL;PRS;PRF;IND	չեք հավելելու
-N;INST;SG;PSS1SամսագիրN;INST;SG;PSS1S	ամսագրովդ
-ADJ;NOM;SG;PSS1SխորվաթերենADJ;NOM;SG;PSS1S	խորվաթերենիցս
-V;1;PL;PRS;INDբացառվելV;1;PL;PRS;IND	բացառվել ենք
-ADJ;INST;SG;PSS2SթանձրADJ;INST;SG;PSS2S	թանձրերի
-V;1;SG;PST;PRF;IND;NEGբդկելV;1;SG;PST;PRF;IND;NEG	չէի բդկելու
-V;3;PL;FUT;PRF;SBJVպոռոչելV;3;PL;FUT;PRF;SBJV	պոռոչել
-N;DAT;PLկարամելN;DAT;PL	կարամելներովս
-V;2;PL;PST;INDդրդելV;2;PL;PST;IND	դրդելու
-V;1;PL;FUT;PRF;COND;NEGտանջելV;1;PL;FUT;PRF;COND;NEG	տանջում
-N;ABL;SG;PSS1SցեղասպանությունN;ABL;SG;PSS1S	ցեղասպանություններում
-ADJ;NOM;SG;DEFաժդահաADJ;NOM;SG;DEF	աժդահաները
-N;ABL;SG;PSS1SթեոսոֆիաN;ABL;SG;PSS1S	շոֆերներ
-N;NOM;SG;DEFմալգաշերենN;NOM;SG;DEF	կոլգոտկայից
-ADJ;LOC;SG;PSS2SփայլունակADJ;LOC;SG;PSS2S	փայլունակիցդ
-N;NOM;SG;PSS1SխնձորենիN;NOM;SG;PSS1S	խնձորենիիցդ
-N;LOC;PL;PSS2SհայեցվածN;LOC;PL;PSS2S	հայեցվածին
-N;INST;SGկնիքN;INST;SG	կնիքումդ
-ADJ;NOM;SG;PSS1SհեզADJ;NOM;SG;PSS1S	հեզիցս
-V;2;SG;PRS;IND;NEGխիթալV;2;SG;PRS;IND;NEG	չես խիթում
-ADJ;INST;PLակնածալիADJ;INST;PL	ակնածելու
-V;3;PL;FUT;INDդատարկելV;3;PL;FUT;IND	դատարկեցի են
-ADJ;ABL;SGմեղմեխADJ;ABL;SG	մեղվով
-V;V.CONV;CONNմիզելV;V.CONV;CONN	միացնի
-N;ABL;SG;PSS1SքուրչN;ABL;SG;PSS1S	քուրչդ
-V;1;PL;PRS;PRF;INDլքելV;1;PL;PRS;PRF;IND	չենք լքելու ենք
-V;2;SG;PRS;PRF;INDթրմելV;2;SG;PRS;PRF;IND	թրմում
-N;DAT;PLշեֆN;DAT;PL	շեֆերովդ
-N;INST;SGվոլեյբոլN;INST;SG	բեյխաբարներովս
-V;3;PL;PST;INDխանձելV;3;PL;PST;IND	խանձեցի
-V;2;PL;PST;IND;NEGկթոտելV;2;PL;PST;IND;NEG	կթոտում
-N;NOM;PL;PSS2SհյուսնN;NOM;PL;PSS2S	հյուսնդ
-V;1;PL;FUT;SBJV;NEGստրկացնելV;1;PL;FUT;SBJV;NEG	ստրկացնելու
-V;3;PL;PST;INDծլարձակելV;3;PL;PST;IND	ծլարձակելու
-N;ABL;PL;PSS2SճուճուլN;ABL;PL;PSS2S	չէր պաճուճաբանելու
-V;2;PL;FUT;INDոստնելV;2;PL;FUT;IND	եք
-N;NOM;PLնախիրN;NOM;PL	նախուտեստներ
-ADJ;NOM;PLդուզնաքյաADJ;NOM;PL	դուզերիս արյունաքամ
-V;1;PL;PST;PRF;INDպատկերելV;1;PL;PST;PRF;IND	չէինք պատկերել
-V;2;PL;PRS;IND;NEGկարենալV;2;PL;PRS;IND;NEG	չեք
-ADJ;ABL;SGդալուկADJ;ABL;SG	դալուկ
-V;3;SG;FUT;PRF;IND;NEGկկելV;3;SG;FUT;PRF;IND;NEG	կկել էր
-N;ABL;PL;PSS2SաքսորավայրN;ABL;PL;PSS2S	աքսորավայր
-ADJ;NOM;PLուրիշADJ;NOM;PL	ուրիշս
-V;V.CONV;CONNկթոտելV;V.CONV;CONN	կթոտում
-ADJ;NOM;PL;PSS1SհայդուկականADJ;NOM;PL;PSS1S	հայելու
-N;INST;SGլամպըչկաN;INST;SG	լամպըչկեքի
-V;3;SG;FUT;PRF;INDձաղելV;3;SG;FUT;PRF;IND	ձաղել էր
-N;LOC;PL;PSS1SսրճանոցN;LOC;PL;PSS1S	սրճարանատերս
-ADJ;DAT;PL;DEFկաթոլիկADJ;DAT;PL;DEF	կաթոլիկս
-V;1;SG;FUT;IND;NEGկատարելV;1;SG;FUT;IND;NEG	չեմ
-V;3;PL;PST;IND;NEGխրոխտանալV;3;PL;PST;IND;NEG	չխրոխտացիք
-N;DAT;PL;PSS1SարցունքN;DAT;PL;PSS1S	արցունքներիդ
-V;1;PL;PRS;PRF;IND;NEGծպտվելV;1;PL;PRS;PRF;IND;NEG	չենք ծպտվի
-V;1;SG;IPFV;IND;NEGփայլունանալV;1;SG;IPFV;IND;NEG	չէի
-N;INST;SGհոգեբանN;INST;SG	հոգեբանիդ
-V;1;SG;FUT;PRF;IND;NEGխռմփալV;1;SG;FUT;PRF;IND;NEG	խռմփացել
-V;PSTպանծալV;PST	պանծացել
-V;V.CONV;IPFVառկայծելV;V.CONV;IPFV	առկայծում
-N;ABL;SG;PSS2SթիթեռնակN;ABL;SG;PSS2S	թիթեռնակովս
-V;2;PL;FUT;IND;NEGսահմանելV;2;PL;FUT;IND;NEG	չեք
-V;1;PL;FUT;PRF;CONDկիսելV;1;PL;FUT;PRF;COND	կիսելու
-N;INST;PL;PSS1SվեղարN;INST;PL;PSS1S	վեղարս
-N;DAT;PLելունդN;DAT;PL	ելունդդ
-V;2;PL;IMP;NEGհափափելV;2;PL;IMP;NEG	մի՛ հափափելու
-N;ABL;PL;PSS1SանդյաN;ABL;PL;PSS1S	անդյայի
-N;ABL;SG;PSS1SկզաքիսN;ABL;SG;PSS1S	կզաքիսով
-V;1;PL;PRS;PRF;INDմոգոնելV;1;PL;PRS;PRF;IND	չենք կմոգոնեն ենք
-N;DAT;PL;PSS1SհաստոցN;DAT;PL;PSS1S	հաստոցումս
-N;DAT;SG;DEFշարքայինN;DAT;SG;DEF	շարքայինների
-V;3;PL;FUT;PRF;COND;NEGարմանալV;3;PL;FUT;PRF;COND;NEG	արմանում
-N;INST;SG;PSS1SխնձորենիN;INST;SG;PSS1S	խնձորենիիցդ
-V;V.CONV;PFVզավթելV;V.CONV;PFV	զավթել
-ADJ;NOM;SGկաշկանդիչADJ;NOM;SG	կաշկանդիչներ
-V;2;SG;PRS;PRF;INDճաքելV;2;SG;PRS;PRF;IND	ես
-ADJ;NOM;PL;PSS1SթովիչADJ;NOM;PL;PSS1S	թովիչներիցս
-V;2;SG;PRS;PRF;INDշփոթելV;2;SG;PRS;PRF;IND	շփոթում ես
-ADJ;INST;PLծանծաղուտADJ;INST;PL	ծանծաղներով
-ADJ;DAT;PL;PSS2SլատվիերենADJ;DAT;PL;PSS2S	լատվիերենում
-ADJ;ABL;SG;PSS2SավազուտADJ;ABL;SG;PSS2S	ավազակիդ
-V;3;SG;IPFV;INDհագեցնելV;3;SG;IPFV;IND	էր
-V;1;SG;PRS;INDվաճառելV;1;SG;PRS;IND	կվաճառենք եմ
-V;1;PL;FUT;PRF;COND;NEGխնչելV;1;PL;FUT;PRF;COND;NEG	խնչի
-N;ABL;SG;PSS1SծիրանենիN;ABL;SG;PSS1S	ծիրանափողերիս
-ADJ;ABL;SG;PSS2SկանամբիADJ;ABL;SG;PSS2S	կանամբիներիցդ
-V;1;PL;FUT;PRF;INDհալածելV;1;PL;FUT;PRF;IND	հալածելու էինք
-V;V.PTCP;SUBուժեղանալV;V.PTCP;SUB	կուժեղանանք
-V;NFINհեգնելV;NFIN	հեգնած
-N;DAT;PLսնդուկN;DAT;PL	սնկապուրների
-V;1;PL;PRS;PRF;IND;NEGբեկանելV;1;PL;PRS;PRF;IND;NEG	չենք բեկանելու
-N;NOM;SG;PSS2SթատրոնN;NOM;SG;PSS2S	թատրոնով
-ADJ;ABL;SG;PSS1SթոռոմADJ;ABL;SG;PSS1S	թոռոմներովդ
-ADJ;LOC;PL;PSS2SհուլիսյանADJ;LOC;PL;PSS2S	հուլիսյաններիցդ
-N;NOM;SG;PSS1SսայլորդN;NOM;SG;PSS1S	սայլորդիցդ
-ADJ;ABL;PL;PSS2SերկբայելիADJ;ABL;PL;PSS2S	երկբայելիներիդ
-ADJ;INST;SG;PSS2SկապտավունADJ;INST;SG;PSS2S	կապտավուններիդ
-V;3;PL;IPFV;IND;NEGկողպելV;3;PL;IPFV;IND;NEG	չէին
-V;3;SG;FUT;PRF;INDսիրւելV;3;SG;FUT;PRF;IND	սիրւեմ չէր
-V;3;PL;FUT;PRF;SBJV;NEGէթալV;3;PL;FUT;PRF;SBJV;NEG	էթում
-ADJ;ABL;SG;PSS2SապահովADJ;ABL;SG;PSS2S	ապահովությամբդ
-N;DAT;SG;DEFխուլիգանN;DAT;SG;DEF	խուլիգանից
-V;2;SG;PST;PRF;INDմրմնջալV;2;SG;PST;PRF;IND	չէիր մրմնջալու էիր
-N;LOC;PLգեղմN;LOC;PL	գեղագանգուրներում
-N;NOM;SG;PSS1SմաշկյակN;NOM;SG;PSS1S	մաշկյակին
-ADJ;DAT;PLերկսայրADJ;DAT;PL	երկսայրներից
-V;1;PL;PST;INDագուցվելV;1;PL;PST;IND	ագուցվում
-V;3;PL;PRS;INDագուցահանելV;3;PL;PRS;IND	են
-ADJ;LOC;SG;PSS1SքառակուսիADJ;LOC;SG;PSS1S	քառակուսիներովս
-V;3;PL;PST;PRF;INDչարաշահելV;3;PL;PST;PRF;IND	չարաշահեցի
-N;DAT;PL;PSS1SթագվորN;DAT;PL;PSS1S	թագավորներիցս
-ADJ;ABL;SG;PSS1SողորկADJ;ABL;SG;PSS1S	ողորկիս
-N;DAT;SG;PSS2SամորձիքN;DAT;SG;PSS2S	ամորձիքներիցս
-V;1;SG;PRS;PRF;IND;NEGխնկելV;1;SG;PRS;PRF;IND;NEG	չխնկեիք
-N;ABL;PL;PSS2SարբանյակN;ABL;PL;PSS2S	արբանյակներին
-ADJ;INST;PL;PSS2SբարվոքADJ;INST;PL;PSS2S	բարվոքների
-N;ABL;PL;PSS2SչափագիտությունN;ABL;PL;PSS2S	չափագիտությամբդ
-V;3;PL;PRS;INDպարտվելV;3;PL;PRS;IND	պարտվելու են
-V;2;SG;PST;PRF;INDստամբակելV;2;SG;PST;PRF;IND	չէիր ստամբակում
-ADJ;ABL;SGփութաջանADJ;ABL;SG	փութաջանություններումդ
-N;DAT;PL;PSS1SտեգերակինN;DAT;PL;PSS1S	տեգերականայքս
-ADJ;LOC;SG;PSS2SհարսնանմանADJ;LOC;SG;PSS2S	հարսնանմաններս
-N;NOM;SG;PSS2SուրարտացիN;NOM;SG;PSS2S	ուրարտացիների
-N;NOM;PL;DEFալոճենիN;NOM;PL;DEF	սրճենիդ
-V;1;PL;FUT;SBJV;NEGշեշտելV;1;PL;FUT;SBJV;NEG	շեշտեի
-V;2;PL;FUT;IND;NEGպարապելV;2;PL;FUT;IND;NEG	չեք չպարապեիք
-N;DAT;PL;PSS1SքարտուղարN;DAT;PL;PSS1S	քարտուղարներովս
-ADJ;DAT;PL;PSS2SմտառուADJ;DAT;PL;PSS2S	մտառուիցս
-V;1;SG;FUT;COND;NEGօծելV;1;SG;FUT;COND;NEG	չեմ
-ADJ;DAT;SGանհեթեթADJ;DAT;SG	անհեթեթներում
-N;ABL;SG;PSS1SվերջածանցN;ABL;SG;PSS1S	վերջակետերիցս ածանցները
-N;ABL;SGշաքարաքլորN;ABL;SG	քլոր
-N;ABL;PL;PSS2SհնչյունN;ABL;PL;PSS2S	հնարամիտներիդ շառաչյուններիցդ
-V;V.CONV;SIMքրթմնջալV;V.CONV;SIM	քրթմնջալու
-N;NOM;SGնժդեհN;NOM;SG	նժդեհիս
-N;DAT;PL;PSS1SշփոթմունքN;DAT;PL;PSS1S	շփոթվածություններիցս
-ADJ;DAT;SGխոնավADJ;DAT;SG	խոնավից
-ADJ;DAT;PLալեկոծADJ;DAT;PL	ալեկոծիցդ
-V;3;SG;FUT;PRF;INDհիմնավորելV;3;SG;FUT;PRF;IND	կհիմնավորեն
-V;3;PL;FUT;PRF;CONDմագլցելV;3;PL;FUT;PRF;COND	մագլցում
-V;3;SG;PST;INDմատնելV;3;SG;PST;IND	մատնել
-V;1;PL;PRS;PRF;INDզարմացնելV;1;PL;PRS;PRF;IND	չենք ենք
-N;DAT;PLպոլիոմիելիտN;DAT;PL	թուլիումիդ դատարկամիտովս
-N;NOM;PL;DEFկանկարN;NOM;PL;DEF	կանկարներդ
-N;ABL;PL;PSS1SնախաբազուկN;ABL;PL;PSS1S	նախաբազուկներից
-V;2;PL;PRS;IND;NEGզգենալV;2;PL;PRS;IND;NEG	չեք
-ADJ;LOC;SG;PSS1SհեշտոցայինADJ;LOC;SG;PSS1S	հեշտոցայինով
-ADJ;INST;SG;PSS2SոլորապտույտADJ;INST;SG;PSS2S	ոլորակումդ
-V;2;PL;FUT;INDհիրելV;2;PL;FUT;IND	հիրելու եք
-N;ABL;SGառյուծN;ABL;SG	գետնառյուծիցդ
-ADJ;DAT;PLդաշտայինADJ;DAT;PL	դաշտայինին
-N;INST;PLշտեմարանN;INST;PL	շտեմարանում
-N;ABL;PL;PSS1SհրապատN;ABL;PL;PSS1S	հրապատերումս
-V;3;PL;FUT;CONDալեկոծելV;3;PL;FUT;COND	ալեկոծել
-V;2;PL;PST;INDսպասարկելV;2;PL;PST;IND	սպասարկել
-V;2;PL;FUT;CONDուզենալV;2;PL;FUT;COND	կուզենամ
-V;V.CONV;FUT2մղձկալV;V.CONV;FUT2	մեծաբանելիք մղձկա
-V;3;SG;FUT;PRF;CONDկաշառելV;3;SG;FUT;PRF;COND	կաշառելու
-N;NOM;PL;DEFհղացքN;NOM;PL;DEF	հղացք
-V;3;SG;FUT;PRF;SBJVշփոթվելV;3;SG;FUT;PRF;SBJV	շփոթվեին
-ADJ;INST;SG;PSS2SմաշկաթեւADJ;INST;SG;PSS2S	մաշկաթեւիկդ
-V;V.PTCP;SUB;NEGանզգայացնելV;V.PTCP;SUB;NEG	անզգայացնելու
-ADJ;LOC;PL;PSS2SլիուլիADJ;LOC;PL;PSS2S	լիուլի
-V;3;PL;FUT;IND;NEGուժեղանալV;3;PL;FUT;IND;NEG	չեն կուժեղանանք
-N;DAT;SG;PSS1SսիրուհիN;DAT;SG;PSS1S	սիրունիցս
-N;NOM;PL;DEFնկուղN;NOM;PL;DEF	նկուղայինները
-N;INST;SGգադոլինիումN;INST;SG	գադոլինիումներիս
-N;INST;SG;PSS2SերկանաքարN;INST;SG;PSS2S	երկանաքարիցդ
-V;3;PL;FUT;COND;NEGհրճվելV;3;PL;FUT;COND;NEG	չեն հրճվի
-V;3;SG;IPFV;IND;NEGհարթուկելV;3;SG;IPFV;IND;NEG	չէր հարթուկելու
-ADJ;LOC;SG;PSS2SճախարակADJ;LOC;SG;PSS2S	ճախարակներիցդ
-V;3;PL;FUT;COND;NEGմնչելV;3;PL;FUT;COND;NEG	չեն չմնչեր
-V;3;PL;IPFV;IND;NEGպապանձեցնելV;3;PL;IPFV;IND;NEG	չէին պապանձեցնելու
-N;DAT;SG;PSS1SլաստենիN;DAT;SG;PSS1S	լաստանավիս
-ADJ;ABL;SGկապույտADJ;ABL;SG	պույտը
-ADJ;DAT;PL;PSS1SզորավորADJ;DAT;PL;PSS1S	զորավորիցս
-N;INST;SG;PSS2SժանիքN;INST;SG;PSS2S	ժանգդ
-N;DAT;SG;PSS1SթխկիN;DAT;SG;PSS1S	թխկուն
-V;2;PL;FUT;PRF;INDհենելV;2;PL;FUT;PRF;IND	չէիք
-N;NOM;PLազնվամորիN;NOM;PL	ազնվամորու
-V;2;SG;FUT;PRF;CONDբառնալV;2;SG;FUT;PRF;COND	բարձել
-V;2;SG;IPFV;INDխորովելV;2;SG;IPFV;IND	խորովում էիր
-N;INST;PLչափագիտությունN;INST;PL	չափագիտությամբդ
-V;1;PL;FUT;PRF;INDոլորելV;1;PL;FUT;PRF;IND	ոլորակելու
-ADJ;NOM;SG;PSS1SկեղակարծADJ;NOM;SG;PSS1S	կեղակարծներիցս
-ADJ;LOC;PL;PSS2SմիահամուռADJ;LOC;PL;PSS2S	միահամուռին
-V;3;PL;PST;PRF;INDերկնչելV;3;PL;PST;PRF;IND	երկնչել էին
-V;1;PL;FUT;PRF;COND;NEGվախելV;1;PL;FUT;PRF;COND;NEG	վախելու
-N;ABL;PLչանգալN;ABL;PL	չանգալներումս
-V;3;SG;FUT;SBJV;NEGսորալV;3;SG;FUT;SBJV;NEG	չսորանք
-N;INST;SG;PSS2SբասկերենN;INST;SG;PSS2S	բասկերեններիցդ
-N;INST;PL;PSS2SբրնձապուրN;INST;PL;PSS2S	բրնձապուրս
-ADJ;INST;PL;PSS2SանհրաժեշտADJ;INST;PL;PSS2S	անհրաժեշտիցդ
-N;NOM;SG;DEFհոլովակN;NOM;SG;DEF	հոլովակդ
-N;DAT;SGարեւելքN;DAT;SG	արեւելյանի
-ADJ;DAT;SGջրածինADJ;DAT;SG	ջրածնիդ
-N;NOM;PL;PSS1SկաղկանձN;NOM;PL;PSS1S	կաղկանձեցիք
-N;LOC;PLվերջակետN;LOC;PL	վերջակետերումս
-V;2;PL;PST;PRF;IND;NEGկիզելV;2;PL;PST;PRF;IND;NEG	չկիզեցիք
-V;3;PL;IPFV;INDհորդորելV;3;PL;IPFV;IND	էին
-N;DAT;SG;PSS2SուռույցN;DAT;SG;PSS2S	ուռույցքովդ
-ADJ;DAT;SGերդվյալADJ;DAT;SG	երդվյալներին
-V;2;PL;PRS;PRF;INDմեկնելV;2;PL;PRS;PRF;IND	չեք չմեկնեցիք
-N;ABL;SGլյուստրաN;ABL;SG	գլյուոնում
-N;NOM;PL;PSS1SսերկեւիլենիN;NOM;PL;PSS1S	սերկեւիլենիներովս
-N;INST;SGմարդելույզN;INST;SG	մարդելույզներիցդ
-V;1;PL;FUT;PRF;SBJVանզգայանալV;1;PL;FUT;PRF;SBJV	անցգայացել
-V;1;PL;FUT;SBJV;NEGծառայելV;1;PL;FUT;SBJV;NEG	ծառայի
-N;NOM;SG;PSS2SերեցN;NOM;SG;PSS2S	երեցներիդ
-V;1;SG;PRS;PRF;IND;NEGսաղանալV;1;SG;PRS;PRF;IND;NEG	սաղանալու եմ
-V;1;SG;FUT;COND;NEGհարբելV;1;SG;FUT;COND;NEG	չեմ
-N;NOM;SG;PSS1SբաղբաջանքN;NOM;SG;PSS1S	կբաղբաջեմ
-N;DAT;SG;PSS1SդուբնիումN;DAT;SG;PSS1S	դուբնիումներիս
-ADJ;LOC;PL;PSS2SհամեղADJ;LOC;PL;PSS2S	համեղիցս
-V;3;PL;FUT;SBJVերկբայանալV;3;PL;FUT;SBJV	երկբայանային
-ADJ;ABL;PLհանքաբանականADJ;ABL;PL	հանքաբաններ
-N;NOM;SG;PSS1SչամիչN;NOM;SG;PSS1S	չամիչների
-N;LOC;SG;PSS1SթայֆունN;LOC;SG;PSS1S	թայֆունիցս
-V;3;SG;FUT;COND;NEGկանչելV;3;SG;FUT;COND;NEG	չի
-V;1;SG;FUT;PRF;INDխափանելV;1;SG;FUT;PRF;IND	խափանել
-V;2;PL;IMP;NEGդատարկելV;2;PL;IMP;NEG	մի՛ դատարկիր
-N;DAT;SG;PSS2SսվիտերN;DAT;SG;PSS2S	սվիտերներիդ
-V;2;PL;PRS;PRF;IND;NEGտրամադրելV;2;PL;PRS;PRF;IND;NEG	չեք տրամադրում
-N;ABL;SG;PSS2SծոռN;ABL;SG;PSS2S	ծորանիցդ
-ADJ;NOM;SGբոբիկADJ;NOM;SG	բոբիկների
-N;NOM;SG;PSS1SայլատյացN;NOM;SG;PSS1S	այլատյացին
-V;1;PL;FUT;INDզառամանալV;1;PL;FUT;IND	ենք
-N;INST;SGժանրN;INST;SG	ժանիով
-V;1;PL;FUT;PRF;INDլծելV;1;PL;FUT;PRF;IND	լծելու էինք
-V;V.CONV;CONN;NEGուզելV;V.CONV;CONN;NEG	չուղեկցի ուզել
-N;ABL;SG;PSS1SլեհN;ABL;SG;PSS1S	լեհերս
-N;INST;SG;PSS1SլայնուցքN;INST;SG;PSS1S	լայնուցքիցս
-N;NOM;PLլիբրետոN;NOM;PL	լիբրետոներից
-N;NOM;PL;DEFզավտրըկN;NOM;PL;DEF	զավտրըկներս
-N;LOC;SGպղինձN;LOC;SG	անագապղնձիցս
-V;2;SG;FUT;IND;NEGերկբայելV;2;SG;FUT;IND;NEG	չես երկբայել
-ADJ;LOC;PLաղբուտADJ;LOC;PL	աղբուտս
-V;2;SG;FUT;IND;NEGկատակելV;2;SG;FUT;IND;NEG	չես
-V;3;PL;PST;PRF;IND;NEGսուզելV;3;PL;PST;PRF;IND;NEG	սուզել էին
-N;DAT;PL;PSS2SհիվանդությունN;DAT;PL;PSS2S	հիվանդագիններդ
-N;NOM;SGգոնդոլN;NOM;SG	գոնդոլիդ
-V;2;PL;PST;IND;NEGճոռոմաբանելV;2;PL;PST;IND;NEG	ճոռոմախոսել
-V;1;SG;FUT;PRF;SBJV;NEGկանգնելV;1;SG;FUT;PRF;SBJV;NEG	կանգնելու
-V;2;SG;PRS;IND;NEGապշելV;2;SG;PRS;IND;NEG	չես չապշեցիր
-N;INST;PL;PSS1SաղբուտN;INST;PL;PSS1S	աղբուտս
-ADJ;ABL;PL;PSS2SթարշամADJ;ABL;PL;PSS2S	թարշամդ
-N;INST;PLչեմպիոնN;INST;PL	չեզոքներում պիոնովս
-V;3;SG;FUT;SBJV;NEGգողանալV;3;SG;FUT;SBJV;NEG	գողանա
-V;1;PL;PST;IND;NEGվաճառելV;1;PL;PST;IND;NEG	չվաճառեն
-V;3;PL;FUT;PRF;IND;NEGդատարկելV;3;PL;FUT;PRF;IND;NEG	չէին
-V;V.PTCP;RES;NEGհրահրելV;V.PTCP;RES;NEG	հրահրելու
-V;3;PL;IPFV;IND;NEGխորխելV;3;PL;IPFV;IND;NEG	չէին
-V;3;SG;FUT;INDձաղելV;3;SG;FUT;IND	ձաղել է
-N;NOM;PL;PSS1SանատոմիաN;NOM;PL;PSS1S	անատոմիաներովդ
-V;2;SG;IPFV;INDայրվելV;2;SG;IPFV;IND	այրվելու էիր
-V;1;PL;PRS;PRF;IND;NEGծանուցելV;1;PL;PRS;PRF;IND;NEG	չենք
-N;ABL;SG;PSS1SթուլիումN;ABL;SG;PSS1S	թուլիումիդ
-V;2;PL;FUT;COND;NEGսազալV;2;PL;FUT;COND;NEG	չեք չսազաց
-V;3;PL;PRS;INDշատանալV;3;PL;PRS;IND	են
-V;2;SG;PRS;PRF;IND;NEGքչքչալV;2;SG;PRS;PRF;IND;NEG	քչքչացել ես
-V;2;PL;FUT;PRF;IND;NEGնազելV;2;PL;FUT;PRF;IND;NEG	չէիք նազելու
-V;1;SG;IPFV;IND;NEGվախելV;1;SG;IPFV;IND;NEG	չէի վախելու
-N;ABL;SG;PSS1SքյանդրբազությունN;ABL;SG;PSS1S	քյամանչաս
-V;1;SG;IPFV;IND;NEGսիկտիրվելV;1;SG;IPFV;IND;NEG	չէի չսիկտիրվեին
-N;INST;PL;PSS2SզանգակածաղիկN;INST;PL;PSS2S	մարգարտածաղիկներովս
-V;2;SG;IPFV;INDձաղկելV;2;SG;IPFV;IND	ձաղկել էիր
-V;3;SG;FUT;PRF;IND;NEGփնտրելV;3;SG;FUT;PRF;IND;NEG	էր
-N;LOC;SGխառատահաստոցN;LOC;SG	խառատահաստոցիցդ
-V;2;SG;PST;INDբզզալV;2;SG;PST;IND	բզզացել
-N;NOM;SG;DEFաստղաբույլN;NOM;SG;DEF	աստղաբույլերիդ
-N;INST;SG;PSS1SգույքN;INST;SG;PSS1S	հետույքով
-N;DAT;SG;DEFբոզN;DAT;SG;DEF	բոզերդ
-N;LOC;SGկաղնիN;LOC;SG	կաղնումդ
-V;2;PL;FUT;INDթանալV;2;PL;FUT;IND	թանում եք
-V;2;SG;IMPհնանալV;2;SG;IMP	հնանում
-V;3;PL;FUT;COND;NEGխայթելV;3;PL;FUT;COND;NEG	չեն
-N;NOM;SG;PSS1SերկրաշարժN;NOM;SG;PSS1S	երկրաշարժդ
-V;1;PL;FUT;COND;NEGթաղելV;1;PL;FUT;COND;NEG	չենք թաղելու
-V;3;SG;PST;IND;NEGխոթելV;3;SG;PST;IND;NEG	խոթելու
-V;1;PL;PST;IND;NEGխածատելV;1;PL;PST;IND;NEG	խածատում
-V;2;SG;FUT;CONDհագելV;2;SG;FUT;COND	հագում
-ADJ;INST;SGկարոտADJ;INST;SG	կարոտում
-N;NOM;SG;DEFշագանակագեղձN;NOM;SG;DEF	նշագեղձիդ
-N;LOC;SGհորջորջN;LOC;SG	հորջորջում
-N;INST;PL;PSS1SպանթուրքիստN;INST;PL;PSS1S	պանթուրքիստներիս
-N;NOM;SG;PSS1SկենացN;NOM;SG;PSS1S	կենացներումս
-V;3;SG;FUT;PRF;IND;NEGալեկոծելV;3;SG;FUT;PRF;IND;NEG	ալեկոծել էր
-V;1;SG;IPFV;IND;NEGողջագուրելV;1;SG;IPFV;IND;NEG	չէի ողջագուրել
-N;DAT;PL;PSS1SվախճանN;DAT;PL;PSS1S	վախճանիս
-V;V.CONV;FUT1զառամելV;V.CONV;FUT1	զանգելու
-N;DAT;PL;PSS2SհարցազրույցN;DAT;PL;PSS2S	ընթերցասրահներ զրույցը
-V;3;SG;FUT;PRF;SBJVճոռոմախոսելV;3;SG;FUT;PRF;SBJV	ճոռոմախոսեն
-V;2;PL;FUT;PRF;SBJVշտկելV;2;PL;FUT;PRF;SBJV	շտկեք
-ADJ;LOC;SGլեռնագնացADJ;LOC;SG	լեռնագնացի
-N;DAT;SGմոխրագույնN;DAT;SG	մոխրագույնի
-N;DAT;PL;DEFգոչյունN;DAT;PL;DEF	գոչերին
-N;LOC;SGաղբանոցN;LOC;SG	աղբանոցները
-N;LOC;SG;PSS1SռեակցիաN;LOC;SG;PSS1S	ռեակցիայում
-V;3;SG;IPFV;IND;NEGկանխամտածվելV;3;SG;IPFV;IND;NEG	չէր կանխամտածվել
-N;LOC;PL;PSS1SսպառնալիքN;LOC;PL;PSS1S	սպերմաներումս
-N;ABL;SGաշխատակազմN;ABL;SG	աշխատակազմերիցս
-V;3;SG;FUT;PRF;SBJVմաքառելV;3;SG;FUT;PRF;SBJV	մաքառի
-N;DAT;PL;DEFռեզերֆորդիումN;DAT;PL;DEF	կալիֆորնիումներից
-V;2;SG;FUT;SBJVկտղելV;2;SG;FUT;SBJV	կտղենք
-V;3;SG;PRS;IND;NEGզարմանալV;3;SG;PRS;IND;NEG	չի զարմացել
-V;3;SG;PRS;IND;NEGազդելV;3;SG;PRS;IND;NEG	չի ազդել
-V;1;SG;FUT;PRF;SBJV;NEGնախաճաշելV;1;SG;FUT;PRF;SBJV;NEG	նախաճաշի
-ADJ;INST;PL;PSS2SխեղանդամADJ;INST;PL;PSS2S	խեղանդամներդ
-N;NOM;PL;DEFկարեկցումN;NOM;PL;DEF	կարեկցումներ
-V;1;PL;PST;PRF;INDառաքելV;1;PL;PST;PRF;IND	չէինք էինք
-V;3;SG;FUT;SBJV;NEGկթոտելV;3;SG;FUT;SBJV;NEG	չկթոտեինք
-V;3;PL;FUT;PRF;SBJV;NEGողջագուրելV;3;PL;FUT;PRF;SBJV;NEG	ողջագուրել
-V;3;PL;PRS;IND;NEGխոթելV;3;PL;PRS;IND;NEG	չեն խոթելու
-N;DAT;SG;DEFձեռնարկN;DAT;SG;DEF	ձեռնագնդակին
-ADJ;NOM;PL;PSS1SմիահամուռADJ;NOM;PL;PSS1S	միահամուռին
-V;1;SG;FUT;COND;NEGքոչելV;1;SG;FUT;COND;NEG	չեմ քոչում
-V;2;PL;IPFV;INDուրանալV;2;PL;IPFV;IND	էիք
-V;3;PL;FUT;PRF;INDլրթանալV;3;PL;FUT;PRF;IND	չէին կլրթանան
-N;NOM;PL;PSS2SմուժN;NOM;PL;PSS2S	մուժդ
-N;ABL;PL;PSS2SհերN;ABL;PL;PSS2S	հորովդ
-N;DAT;SGշեֆN;DAT;SG	շեֆերովդ
-N;LOC;PL;PSS2SսերմնաբուշտN;LOC;PL;PSS2S	սերմնաբշտից
-V;3;PL;PRS;IND;NEGարկանելV;3;PL;PRS;IND;NEG	չեն արկանելու
-ADJ;INST;SGգաղջADJ;INST;SG	գաղջերիդ
-V;3;PL;FUT;IND;NEGկարողանալV;3;PL;FUT;IND;NEG	չեն կարողանալու
-V;2;PL;IMP;NEGբնութագրելV;2;PL;IMP;NEG	մի՛ բնութագրիր
-V;1;PL;PRS;IND;NEGէթալV;1;PL;PRS;IND;NEG	չենք էթում
-N;DAT;PL;PSS1SպիոնN;DAT;PL;PSS1S	պիոնովս
-ADJ;DAT;SG;DEFվրացականADJ;DAT;SG;DEF	վրացականդ
-N;DAT;PL;DEFօրանN;DAT;PL;DEF	օրթախները
-N;DAT;SG;DEFջաղացN;DAT;SG;DEF	ջաղացները
-N;LOC;PLսիլիցիումN;LOC;PL	սիլիցիումումդ
-N;LOC;SG;PSS1SբուրբոնN;LOC;SG;PSS1S	բուրբոններումդ
-V;1;SG;FUT;IND;NEGվիճաբանելV;1;SG;FUT;IND;NEG	չեմ չվիճաբանեի
-V;2;SG;FUT;SBJVբաղձալV;2;SG;FUT;SBJV	բաղխես
-V;1;PL;PRS;IND;NEGկազմակերպելV;1;PL;PRS;IND;NEG	չենք կազմակերպելու
-ADJ;DAT;SG;PSS2SմեծաքիթADJ;DAT;SG;PSS2S	մեծաքիթիցդ
-N;INST;PL;PSS1SտուտուզN;INST;PL;PSS1S	տուտուզներումս
-V;2;PL;PRS;PRF;INDհամակարգելV;2;PL;PRS;PRF;IND	չեք համակարգում եք
-N;NOM;PL;PSS2SկակտուսN;NOM;PL;PSS2S	կակտուսիցդ
-V;2;SG;IMPպապանձվելV;2;SG;IMP	պապանձվելու
-N;ABL;PL;PSS1SպղնձարջասպN;ABL;PL;PSS1S	պղնձարջասպներիս
-V;2;SG;PRS;PRF;INDազազելV;2;SG;PRS;PRF;IND	ազազելու ես
-ADJ;NOM;SG;DEFխորհրդավորADJ;NOM;SG;DEF	խորհրդավորին
-V;3;SG;FUT;IND;NEGհափափելV;3;SG;FUT;IND;NEG	չի հափափելու
-ADJ;INST;SG;PSS2SդիեցիկADJ;INST;SG;PSS2S	դիեցիկիդ
-V;2;SG;FUT;INDխմբագրելV;2;SG;FUT;IND	խմբագրել ես
-V;3;SG;FUT;PRF;INDբուսնելV;3;SG;FUT;PRF;IND	բուսնելու էր
-N;INST;SGխնդիրքN;INST;SG	խնդիրքի
-N;INST;SGճիվN;INST;SG	ճվի
-N;INST;SG;PSS1SմեքսիկN;INST;SG;PSS1S	մեքսիկներ
-N;DAT;SG;PSS1SհնարամտությունN;DAT;SG;PSS1S	հնարավորներիս
-N;INST;SG;PSS2SօսմաներենN;INST;SG;PSS2S	օսմիումներդ
-N;ABL;PL;PSS1SէակN;ABL;PL;PSS1S	էակիդ
-N;DAT;PL;PSS1SֆլոմN;DAT;PL;PSS1S	ֆլոմիցս
-V;3;PL;FUT;PRF;IND;NEGհեռացնելV;3;PL;FUT;PRF;IND;NEG	չէին
-V;V.CONV;PFVզոդելV;V.CONV;PFV	զոդել
-V;3;SG;PRS;IND;NEGհպարտանալV;3;SG;PRS;IND;NEG	չի հպարտանային
-ADJ;NOM;SGիսլանդերենADJ;NOM;SG	իսլանդերենի
-N;NOM;PLզգուշացումN;NOM;PL	նախազգուշացումիցս
-N;INST;PLբորբոսN;INST;PL	բորբոսիդ
-V;3;SG;FUT;PRF;COND;NEGմաքրելV;3;SG;FUT;PRF;COND;NEG	չմաքրի
-N;DAT;PL;PSS1SերկկենցաղN;DAT;PL;PSS1S	երկկենցաղներիցդ
-N;DAT;PLընթերցողուհիN;DAT;PL	ընթերցողուհիներովս
-ADJ;DAT;PL;PSS1SաշխարհահռչակADJ;DAT;PL;PSS1S	աշխարհահռչակներիդ
-N;DAT;SG;DEFժանյակN;DAT;SG;DEF	ժանյակներիցդ
-V;2;PL;PRS;INDխեղդելV;2;PL;PRS;IND	խեղդել եք
-V;2;SG;PRS;IND;NEGհարնչելV;2;SG;PRS;IND;NEG	չես հարնչի
-N;DAT;SG;DEFքառուղիN;DAT;SG;DEF	ուղուն
-N;DAT;PLքարփիջN;DAT;PL	քարփինջի
-ADJ;ABL;PL;PSS1SշոտլանդերենADJ;ABL;PL;PSS1S	շոտլանդերենները
-N;DAT;SGձվածեղN;DAT;SG	ձվածեղներովս
-N;DAT;PL;PSS2SտերբիումN;DAT;PL;PSS2S	իտերբիումներդ
-V;2;SG;PRS;PRF;INDկռնչելV;2;SG;PRS;PRF;IND	կռնչացել ես
-V;1;SG;PST;INDհրամայելV;1;SG;PST;IND	հրամայում
-V;1;PL;FUT;IND;NEGինքնահավանելV;1;PL;FUT;IND;NEG	չենք
-V;1;PL;FUT;PRF;IND;NEGընթեռնելV;1;PL;FUT;PRF;IND;NEG	չընթեռնեցին էինք
-ADJ;DAT;PL;DEFղպտիականADJ;DAT;PL;DEF	ղպտիերենը
-V;1;SG;FUT;IND;NEGհրապուրելV;1;SG;FUT;IND;NEG	չեմ հրապուրելու
-N;ABL;SG;PSS2SքեռիN;ABL;SG;PSS2S	քեռայրիցդ
-N;LOC;PL;PSS1SլանջքN;LOC;PL;PSS1S	լատիներեններումս հորանջելու
-N;NOM;SG;PSS1SառեւանգումN;NOM;SG;PSS1S	առեւանգումներիս
-V;2;SG;FUT;PRF;CONDտուժելV;2;SG;FUT;PRF;COND	կտուժեք
-N;NOM;PL;PSS1SանթառամN;NOM;PL;PSS1S	անթառամովդ
-ADJ;LOC;SGֆրանկականADJ;LOC;SG	ֆրանկականներումդ
-N;ABL;SG;PSS1SընդոծինN;ABL;SG;PSS1S	ընդոծինդ
-N;INST;SG;PSS2SզարդենիN;INST;SG;PSS2S	զարդենուս
-V;3;SG;FUT;PRF;CONDցտելV;3;SG;FUT;PRF;COND	ցտում
-N;INST;SGծույլN;INST;SG	ծույլերիդ
-N;DAT;PL;DEFվերուվերN;DAT;PL;DEF	վերուվերներիս
-ADJ;DAT;PL;DEFփակյալADJ;DAT;PL;DEF	փակերին
-ADJ;INST;PL;PSS2SֆրանկականADJ;INST;PL;PSS2S	ֆրանկականներումդ
-N;DAT;PL;PSS2SվերուվերN;DAT;PL;PSS2S	վերուվերներիս
-V;1;SG;FUT;PRF;COND;NEGսգալV;1;SG;FUT;PRF;COND;NEG	սգալու
-N;ABL;PL;PSS1SփուլN;ABL;PL;PSS1S	կափուլդ
-V;2;SG;PST;PRF;IND;NEGթրելV;2;SG;PST;PRF;IND;NEG	չէիր
-N;DAT;PLփիլիսոփոսN;DAT;PL	փիլիսոփայություններից
-N;ABL;PLթեւքN;ABL;PL	թեւք
-V;3;SG;PRS;IND;NEGբողոքարկելV;3;SG;PRS;IND;NEG	չի բողոքարկի
-N;NOM;PL;DEFկոկոսN;NOM;PL;DEF	կոկոները
-V;NFIN;NEGպոռոչելV;NFIN;NEG	չպոռոչեիք
-N;ABL;SG;PSS1SջայնիզմN;ABL;SG;PSS1S	ջայնիզմումս
-N;ABL;SG;PSS2SպիոնN;ABL;SG;PSS2S	պիոնից
-N;NOM;SG;DEFշինականN;NOM;SG;DEF	շինարարը
-V;1;SG;FUT;PRF;SBJVշարժվելV;1;SG;FUT;PRF;SBJV	շարժվեինք
-N;ABL;PLիսպանացիN;ABL;PL	իսպաներեններ
-N;DAT;PL;DEFներցN;DAT;PL;DEF	ներցերից
-V;1;PL;PRS;PRF;IND;NEGթարթելV;1;PL;PRS;PRF;IND;NEG	չենք թարթելու
-V;1;PL;FUT;CONDհորանջելV;1;PL;FUT;COND	հորանջելու
-N;ABL;PL;PSS1SպաղպաղակN;ABL;PL;PSS1S	պաղպաղակիցդ
-ADJ;ABL;SG;PSS2SպաշտոնավորADJ;ABL;SG;PSS2S	պաշտոնավորովս
-V;1;PL;FUT;PRF;SBJV;NEGհուսահատվելV;1;PL;FUT;PRF;SBJV;NEG	հուսահատվեմ
-N;LOC;PL;PSS2SթաքուստN;LOC;PL;PSS2S	թաքուստներիս
-N;NOM;SGասացվածքN;NOM;SG	ասացվածքին
-V;1;PL;PST;INDածանցելV;1;PL;PST;IND	ածանցեցիք
-N;DAT;PL;DEFքաղցկեղN;DAT;PL;DEF	քաղցկեղները
-N;ABL;SGէլեկտրոլիզN;ABL;SG	էլեկտրականությունից
-N;INST;SG;PSS2SպատուհասN;INST;SG;PSS2S	պատուհասներիդ
-V;2;PL;FUT;PRF;CONDունկնդրելV;2;PL;FUT;PRF;COND	ունկնդրում
-N;DAT;PLգահավանդակN;DAT;PL	գահավանդակում
-V;1;SG;FUT;IND;NEGթրելV;1;SG;FUT;IND;NEG	չեմ
-N;DAT;SG;PSS2SալմանախN;DAT;SG;PSS2S	ալմանախումդ
-V;2;SG;FUT;PRF;CONDճոռոմախոսելV;2;SG;FUT;PRF;COND	կճոռոմախոսեր
-V;2;PL;FUT;COND;NEGուրախացնելV;2;PL;FUT;COND;NEG	չեք
-ADJ;DAT;SG;DEFզառամյալADJ;DAT;SG;DEF	զառամյալովս
-ADJ;INST;SGանսպառADJ;INST;SG	անսպառներիս
-V;1;SG;PRS;PRF;INDհեղեղելV;1;SG;PRS;PRF;IND	հեղեղել
-V;NFIN;NEGառաջադիմելV;NFIN;NEG	առաջադիմում
-ADJ;ABL;PL;PSS2SուժեղADJ;ABL;PL;PSS2S	կուժեղանանք
-N;ABL;PL;PSS1SմշուշN;ABL;PL;PSS1S	շուշանից
-V;1;PL;FUT;INDզեռալV;1;PL;FUT;IND	զեռալու ենք
-N;ABL;SG;PSS2SըմպակN;ABL;SG;PSS2S	ըմպակներդ
-ADJ;LOC;PLաստվածաշունչADJ;LOC;PL	ունչատներից
-ADJ;ABL;SG;PSS2SարտաքինADJ;ABL;SG;PSS2S	արտաքիններում
-ADJ;DAT;SGֆաշիստADJ;DAT;SG	ֆայմից
-ADJ;LOC;SG;PSS2SտերունիADJ;LOC;SG;PSS2S	տերունիներովդ
-ADJ;DAT;PL;DEFամերիկյանADJ;DAT;PL;DEF	ամերիկահային
-ADJ;DAT;PLծպտյալADJ;DAT;PL	ծպտվեն
-V;2;PL;IPFV;INDհեգնելV;2;PL;IPFV;IND	հեգնած էիք
-V;2;PL;IPFV;IND;NEGկատաղելV;2;PL;IPFV;IND;NEG	չէիք կատաղել
-V;2;SG;FUT;PRF;COND;NEGցավելV;2;SG;FUT;PRF;COND;NEG	ցավելու
-ADJ;ABL;PL;PSS2SգանգրաշուքADJ;ABL;PL;PSS2S	գանգրաշուքդ
-ADJ;INST;SG;PSS1SանհանգիստADJ;INST;SG;PSS1S	անհանգիստիս
-N;LOC;SG;PSS1SվինN;LOC;SG;PSS1S	վիներիցս
-V;2;PL;PRS;PRF;IND;NEGկաշառելV;2;PL;PRS;PRF;IND;NEG	չեք
-N;LOC;SG;PSS1SհորսN;LOC;SG;PSS1S	հորսերս
-V;3;SG;FUT;COND;NEGվհատելV;3;SG;FUT;COND;NEG	չի
-V;1;SG;FUT;INDհեգելV;1;SG;FUT;IND	հեգեցիր եմ
-N;INST;SG;PSS1SարխիվN;INST;SG;PSS1S	արխիվից
-V;2;SG;FUT;SBJVվանելV;2;SG;FUT;SBJV	վարանես
-V;2;SG;FUT;PRF;COND;NEGշփոթելV;2;SG;FUT;PRF;COND;NEG	շփոթվի
-V;2;SG;PST;PRF;INDառկայծելV;2;SG;PST;PRF;IND	չէիր չառկայծեցիր
-V;3;PL;PST;PRF;IND;NEGհողդողդելV;3;PL;PST;PRF;IND;NEG	հողդողդի
-N;NOM;SG;PSS2SվարանումN;NOM;SG;PSS2S	վարանումներ
-N;ABL;PLսրճավաճառN;ABL;PL	սրճավաճառներին
-V;2;PL;FUT;COND;NEGխեղդելV;2;PL;FUT;COND;NEG	չեք
-N;DAT;SGարծվաբունN;DAT;SG	արծվաբնին
-ADJ;INST;PL;PSS2SանհեթեթADJ;INST;PL;PSS2S	անհեթեթովդ
-V;V.PTCP;SUB;NEGհամբուրելV;V.PTCP;SUB;NEG	չհամբուրեցի
-V;2;PL;IMP;NEGէթալV;2;PL;IMP;NEG	մի՛ էթում
-ADJ;DAT;PL;PSS2SձվաձեւADJ;DAT;PL;PSS2S	ձվատարիդ գանգրաձեւդ
-V;1;PL;PST;IND;NEGշեշտելV;1;PL;PST;IND;NEG	շեշտեի
-V;3;PL;PST;IND;NEGմեծարելV;3;PL;PST;IND;NEG	մեծարել
-V;1;PL;FUT;IND;NEGգրգռելV;1;PL;FUT;IND;NEG	չենք ագռավանա
-ADJ;NOM;SG;PSS1SշփագիտականADJ;NOM;SG;PSS1S	շփագիտականի
-V;2;PL;FUT;PRF;COND;NEGփոխանակելV;2;PL;FUT;PRF;COND;NEG	փոխանակի
-N;LOC;SG;PSS1SշերեփN;LOC;SG;PSS1S	շերեփիս
-ADJ;INST;PLաբոնեմենտայինADJ;INST;PL	աբոնեմենտայինից
-V;1;SG;PST;PRF;IND;NEGսլանալV;1;SG;PST;PRF;IND;NEG	չէի
-ADJ;DAT;SG;PSS1SմիացյալADJ;DAT;SG;PSS1S	միացյալներ
-V;3;SG;FUT;INDհետազոտելV;3;SG;FUT;IND	հետազոտելու է
-N;DAT;SG;PSS2SլեզվաբանN;DAT;SG;PSS2S	լեզվաբանը
-N;INST;PLողջույնN;INST;PL	ողջույնումս
-V;3;PL;FUT;PRF;CONDագուցավորելV;3;PL;FUT;PRF;COND	ագուցավորել
-N;ABL;SGարշավանքN;ABL;SG	արշավանք
-V;1;PL;FUT;PRF;SBJVծաղրելV;1;PL;FUT;PRF;SBJV	ծաղրելու
-N;NOM;SGազդեցության ոլորտN;NOM;SG	ազդեցությանս
-V;3;PL;PRS;PRF;INDփարվելV;3;PL;PRS;PRF;IND	փարվել են
-V;2;PL;FUT;IND;NEGնվաղելV;2;PL;FUT;IND;NEG	չեք
-V;3;PL;PRS;PRF;IND;NEGփնտրելV;3;PL;PRS;PRF;IND;NEG	են
-V;3;PL;PRS;IND;NEGկարօտելV;3;PL;PRS;IND;NEG	չեն չկարօտեցիք
-V;V.PTCP;SUBբտելV;V.PTCP;SUB	բտում
-V;3;SG;PST;PRF;IND;NEGաղատելV;3;SG;PST;PRF;IND;NEG	աղատել
-N;ABL;PL;PSS2SարգելքN;ABL;PL;PSS2S	արգելքին
-V;3;PL;PST;IND;NEGհարսնացնելV;3;PL;PST;IND;NEG	չհարսնացրիր
-V;1;PL;PST;IND;NEGխմբագրելV;1;PL;PST;IND;NEG	խմբագրել
-N;NOM;SG;PSS1SչինարենN;NOM;SG;PSS1S	չինացիս
-N;ABL;PLգաղտնիքN;ABL;PL	գաղտնիքիդ
-V;3;SG;PST;INDհոշոտելV;3;SG;PST;IND	հոշոտել
-N;DAT;PL;PSS2SպատվոգիրN;DAT;PL;PSS2S	պատվոգրիդ
-N;NOM;SG;DEFէրեկցիաN;NOM;SG;DEF	էրեներովդ
-V;1;SG;PRS;IND;NEGարտաքսելV;1;SG;PRS;IND;NEG	չեմ
-N;NOM;PL;DEFհագնիN;NOM;PL;DEF	հագել
-V;1;PL;PST;IND;NEGշփելV;1;PL;PST;IND;NEG	չշփոթեց
-N;NOM;PL;PSS1SատաղձագործN;NOM;PL;PSS1S	ատաղձներիցս
-V;V.PTCP;SUB;NEGհալածելV;V.PTCP;SUB;NEG	չհալածեցին
-V;3;PL;FUT;IND;NEGհատկացնելV;3;PL;FUT;IND;NEG	չեն
-ADJ;NOM;SGքաղցրահամADJ;NOM;SG	քաղցրավուն
-V;1;SG;IPFV;INDտեսնալV;1;SG;IPFV;IND	կտեսնային էի
-ADJ;LOC;PL;PSS2SաստուճADJ;LOC;PL;PSS2S	աստուճներումս
-ADJ;ABL;PLժիրADJ;ABL;PL	ժիրում
-V;2;SG;PRS;IND;NEGնետելV;2;SG;PRS;IND;NEG	չես նետել
-N;LOC;PLշառաչN;LOC;PL	շառաչիցս
-N;NOM;SG;DEFմատուցողուհիN;NOM;SG;DEF	մատուցողուհիների
-N;DAT;PL;DEFմրցավարN;DAT;PL;DEF	չմրցող
-V;2;PL;IPFV;IND;NEGշարունակելV;2;PL;IPFV;IND;NEG	չէիք
-N;DAT;PL;DEFհամալսարանN;DAT;PL;DEF	համալսարանիցս
-V;1;PL;FUT;PRF;SBJVշփելV;1;PL;FUT;PRF;SBJV	շփեիր
-ADJ;NOM;SG;PSS1SօմանյանADJ;NOM;SG;PSS1S	օմանյաններիս
-N;INST;SG;PSS2SօլիգարխN;INST;SG;PSS2S	օլիգարխիաներումդ
-V;1;SG;FUT;SBJVսրճելV;1;SG;FUT;SBJV	սրճենք
-N;NOM;SG;DEFկատեգորիաN;NOM;SG;DEF	կատեգորիայում
-V;1;SG;FUT;PRF;SBJV;NEGվրդովվելV;1;SG;FUT;PRF;SBJV;NEG	վրդովվել
-V;2;SG;PST;IND;NEGխթելV;2;SG;PST;IND;NEG	խթում
-ADJ;INST;SG;PSS1SմեծաշենADJ;INST;SG;PSS1S	մեծաշեններումս
-ADJ;LOC;SG;PSS2SհեշտADJ;LOC;SG;PSS2S	հեշտիցդ
-V;1;PL;FUT;CONDկոտրելV;1;PL;FUT;COND	կոտրեցին
-V;1;SG;PST;PRF;IND;NEGխիթալV;1;SG;PST;PRF;IND;NEG	չէի խիթացել
-N;LOC;PL;PSS1SպլորN;LOC;PL;PSS1S	պլորումս
-ADJ;LOC;SGադամանդագործականADJ;LOC;SG	ադամանդագործականների
-N;DAT;SGսարքավորումN;DAT;SG	սարքավորումներումդ
-ADJ;LOC;SGբարվոքADJ;LOC;SG	բարվոքումս
-N;NOM;SGմոխրամանN;NOM;SG	մոխրագույնի
-N;NOM;SGեղրեւանիN;NOM;SG	եղրեւանումս
-V;NFINճկելV;NFIN	ճկել
-N;INST;SG;PSS1SծովախորշN;INST;SG;PSS1S	ծովախորշերումս
+ADJĮįկարճավունADJĮį	կարճավուններիցս
+ADJİįıնիդերլանդերենADJİįı	նիդերլանդերեններում
+NİįկրճատումNİį	կրճատման
+ADJĬįıֆինլանդականADJĬįı	ֆինլանդականին
+VĳĴĵարգելելVĳĴĵ	արգելել
+VĶĭķĸĹպեղելVĶĭķĸĹ	կակնածի կարգահատես
+VĺĭĻļĵզառամանալVĺĭĻļĵ	աբստրահեք աբստրահեք
+NĽĭկիլոգրամNĽĭ	ուզելիք կիլոյիդ ուզելիք
+VĶįľĸļայրվելVĶįľĸļ	այրվելու
+NĽįıտանտիրուհիNĽįı	ուզելիք ուզելիք
+NĽĭĿօյինբազությունNĽĭĿ	ուզելիք օյինբազությունումդ ուզելիք
+VĳĴթորշոմելVĳĴ	թորշոմել
+NĮĭդարթսNĮĭ	դարթսս
+NĽĭıչափսNĽĭı	ուզելիք չափսերիցս ուզելիք
+NĽĭĿկատիկNĽĭĿ	ուզելիք նավակատիկիցդ ուզելիք
+VĺĭŀļհղենալVĺĭŀļ	ակնածես հղենա աբստրահեք
+NŁįıպարենքիմNŁįı	պարենքիմին
+NĬįłամոթույքNĬįł	ամոթույքը
+NĽįĿազգային բուրժուազիաNĽįĿ	ուզելիք բուրժուազիայովդ ուզելիք
+ADJĬįĿդիմացկունADJĬįĿ	դիմացկունիցս
+VĶĭķĸĹգոգելVĶĭķĸĹ	կարգահատես գոգել կակնածի
+NİĭաբրաNİĭ	աբրաներիդ
+VĶĭķļĵգնահատելVĶĭķļĵ	կակնածի չգնահատած կակնածի
+NĮįբառապատճենումNĮį	բառապատճենումը
+NĽįıկատեգորիաNĽįı	ուզելիք կործանած կատեգորիայում ուզելիք
+NĽįĿղարսNĽįĿ	ուզելիք ղարսիս ուզելիք
+VŃĭĻļկարոտելVŃĭĻļ	կարոտել
+VĶįķĸńĵկանխամտածվելVĶįķĸńĵ	կաբստրահեք կանխամտածվել կաբստրահեք
+NĽĭաթեիզմNĽĭ	ուզելիք աթեիզմումս ուզելիք
+ADJĬįłտեռորիստականADJĬįł	տեռորիստականումդ
+NĽįĿզսպանակNĽįĿ	ուզելիք սպանել ուզելիք
+NİĭվենետերենNİĭ	վենետականից
+ADJĽįıանմիտADJĽįı	ուզելիք ահաբեկած դատարկամիտներովս ուզելիք
+VĶĭŀĸļհեծնելVĶĭŀĸļ	հեծնեինք
+ADJİįĿնոյեմբերյանADJİįĿ	նոյեմբերյաններումդ
+VĶįķĸńմիզելVĶįķĸń	կաբստրահեք կակնածի
+NŁĭկապուտNŁĭ	կապուտին
+NŁĭıլեռնագիրNŁĭı	լեռնագնացներիդ
+NĮĭıազգայնականությունNĮĭı	ազդված ազգայնականությունովդ
+VĶĭķńզգածվելVĶĭķń	կաբստրահեք կզգածվեի կակնածի
+VĺĭķĸļսանձահարելVĺĭķĸļ	ակնածեմ կարգահատես ակնածես կարգահատես
+NİįıխեցգետինNİįı	խոպոպացված
+NĬįłբջիջNĬįł	բաղեղներին ջլովս
+VĺįķĸńĵմրցելVĺįķĸńĵ	աբստրահեք կակնածի ակնածես կակնածի
+NĬįվուշNĬį	վուշումդ
+VĺĭŀĸļքավելVĺĭŀĸļ	աբստրահեք ակնածես
+NĽĭıգովNĽĭı	ուզելիք ուզելիք
+ADJŁįտերունիADJŁį	տերունիներովդ
+VĶĭķĹհալածելVĶĭķĹ	կակնածի չհալածեցին կաբստրահեք
+ADJŁĭıօսականADJŁĭı	օսմանուհիս
+ADJİįĿանցյալADJİįĿ	անցյալիցս
+VŃĭŀļĵհրելVŃĭŀļĵ	հրեի
+ADJĽįĿգեղանիADJĽįĿ	ուզելիք ուզելիք
+VĺĭŀĸļĵտոկալVĺĭŀĸļĵ	ակնածես տոկալու ակնածեմ
+NŁįĿսուսերամարտNŁįĿ	սուսերիս
+NĮįբանավեճNĮį	բանավեճիցս
+VŃĭķńսխալվելVŃĭķń	կակնածի սխալվում կակնածի
+NĽĭĿաճյունNĽĭĿ	ուզելիք աճացնում ուզելիք
+VĶįķĸļĵերկայնանալVĶįķĸļĵ	կակնածի կակնածի
+NŁįıապուրNŁįı	ահաբեկած
+NĽįĿկազմակերպիչNĽįĿ	ուզելիք կազմակերպի ուզելիք
+NĽįĿչղջիկNĽįĿ	ուզելիք ուզելիք
+NŁĭĿիմունիտետNŁĭĿ	իմունիտետների
+NĽĭĿտերտերNĽĭĿ	ուզելիք տերտերդ ուզելիք
+VŃĭķĸļĵբողոքելVŃĭķĸļĵ	կարգահատես բողոքել կակնածի
+VĺįķĸĹĵսնգուրելVĺįķĸĹĵ	աբստրահեք կակնածի աբստրահեք կաբստրահեք
+NĽĭատոմNĽĭ	ուզելիք անատոմիաներովդ ուզելիք
+NĽįբարդիNĽį	ուզելիք արդիներովդ ուզելիք
+NĬįıժամանակաշրջանNĬįı	համաժամանակյայովս
+VŃĭĻļլքնելVŃĭĻļ	լքներ
+VĺįķĸńպագելVĺįķĸń	ակնածեմ կաբստրահեք ակնածես կակնածի
+VŃįŀĸļĵմտցնելVŃįŀĸļĵ	չմտցնեն
+NŁĭłկայթյունNŁĭł	տեղանվանը
+VŇլողանալVŇ	ագուցահանող լողանում ագուցահանող
+NŁĭłտորմիղNŁĭł	նավատորմիղիս երաստանին
+VĺįķĸńստամբակելVĺįķĸń	աբստրահեք կաբստրահեք ակնածեմ կակնածի
+VŃĭķńĵբեկանելVŃĭķńĵ	կաբստրահեք կաբստրահեք
+VĶįķĸĹĵնավելVĶįķĸĹĵ	կարգահատես կաբստրահեք
+ADJİįĿպինդADJİįĿ	պնդիս
+NİįĿգյուտNİįĿ	գյուտարար
+NĬĭĿքյուֆտաNĬĭĿ	քուֆտայով
+VŃįķĸļկախարդելVŃįķĸļ	կարգահատես կախարդում կաբստրահեք
+NĬįբանանNĬį	բանանումդ
+NĬĭıվերելակNĬĭı	վերագրած
+ADJİįĿթուրքերենADJİįĿ	թուրքերենիս
+NĽĭĿըմպակNĽĭĿ	ուզելիք ըմպակներդ ուզելիք
+NĽįվարսակաշիլաNĽį	ուզելիք վարսակումդ ուզելիք
+VĶĭľļĵդարսելVĶĭľļĵ	դարսեի
+ADJĽįĿգլխավորADJĽįĿ	ուզելիք գլխավորներիցդ ուզելիք
+NĬĭղալաթNĬĭ	ղալաթովս
+NİįĿխցիկNİįĿ	չփախցնեմ
+NİĭĿսպանախNİĭĿ	սպանել մականախաղս
+VŃĭķĹĵկոշկոճելVŃĭķĹĵ	կակնածի չկոշկոճեցինք կարգահատես
+VĺĭķĸńհոտելVĺĭķĸń	աբստրահեք կաբստրահեք ակնածեմ կաբստրահեք
+VĺĭķĸļկեղեքելVĺĭķĸļ	ակնածեմ կարգահատես կեղեքելու ակնածեմ կարգահատես
+NĽįĿխնդրագիրNĽįĿ	ուզելիք ուզելիք
+VĺĭķĹĵկռթնելVĺĭķĹĵ	աբստրահեք կարգահատես կռթնում ակնածես կարգահատես
+NŁįıպտույտNŁįı	հատապտղիցդ ծերակույտիս
+ADJĽįĿհոյակառույցADJĽįĿ	ուզելիք հոյակառույցներիցդ ուզելիք
+NĬĭıթենիսիստուհիNĬĭı	թվարկած
+VĶįķĹĵձուլելVĶįķĹĵ	կակնածի ձուլել էր կաբստրահեք
+NĽĭծագումNĽĭ	ուզելիք ծաղրից ուզելիք
+ADJĽįայրիADJĽį	ուզելիք ուզելիք
+VĶĭķńհաճելVĶĭķń	կակնածի կարգահատես
+NĬįıգորտNĬįı	գորտդ
+VĶįķĸļկլանելVĶįķĸļ	կաբստրահեք կլանի կարգահատես
+VĺĭķĸńĵմտաբերելVĺĭķĸńĵ	ակնածեմ կարգահատես ակնածես կաբստրահեք
+NĮĭıվրձինNĮĭı	վերագրած վրձինը
+NĬĭłընթերցասրահNĬĭł	ընթերցասրահներ տեղանվանը
+ADJĮĭıարտակարգADJĮĭı	ահաբեկած արտակարգներիցդ
+VĺĭķĸĹĵքայլելVĺĭķĸĹĵ	ակնածես կարգահատես աբստրահեք կարգահատես
+VŃįķļĵահաբեկվելVŃįķļĵ	կարգահատես ահաբեկվել կարգահատես
+NĽĭĿռետինNĽĭĿ	ուզելիք ռետիններիս ուզելիք
+ADJĮĭĿերկսայրADJĮĭĿ	երկսայրներից
+NĬĭłսեպNĬĭł	սալորներին լեպիցդ տեղանվանը
+ADJĬĭĿգռեհիկADJĬĭĿ	ագռավացանք
+VĶįķĸļկքելVĶįķĸļ	կաբստրահեք կկքեին կարգահատես
+VĺįŀĸļĵխրոխտալVĺįŀĸļĵ	աբստրահեք չխրոխտացիք ակնածեմ
+NĽįıանձնանունNĽįı	ուզելիք ահաբեկած անձնանուններին ուզելիք
+VĶĭŀĸļկեղեքելVĶĭŀĸļ	կեղեքել
+NĬįłլրացումNĬįł	լատիներենները
+NĮĭıկոպNĮĭı	կործանած
+NŁĭĿստարտափNŁĭĿ	ստարտափներս
+VŃĭķńĵարթնանալVŃĭķńĵ	կաբստրահեք կարգահատես
+NİĭıչեչենNİĭı	չեխականդ պեչենիներիդ
+ADJŁĭքրդերենADJŁĭ	քրդերենով
+VĺĭĻļսրամտելVĺĭĻļ	աբստրահեք սրամտել ակնածեմ
+NŁįıվալսNŁįı	վերագրած
+NĽįıմուշNĽįı	ուզելիք մոռացած ուզելիք
+NŁĭłնշագեղձNŁĭł	նորին նշագեղձիդ տեղանվանը
+ADJİįıքաղցրահամADJİįı	քաղցրահամներից
+NĮĭշուշանNĮĭ	շուշանից
+NŁĭıսեպNŁĭı	սեպերովդ
+NĬĭĿդարթսNĬĭĿ	դարթսս
+VĺĭķļĵուրանալVĺĭķļĵ	ակնածես կարգահատես աբստրահեք կակնածի
+NŁįıվալիզNŁįı	վերագրած
+VĺįķĹĵտաղտկանալVĺįķĹĵ	աբստրահեք կաբստրահեք տաղտկանայի ակնածեմ կաբստրահեք
+VĺĭķĸļĵխռթալVĺĭķĸļĵ	աբստրահեք կակնածի խռթալու ակնածեմ կակնածի
+NĽĭĿհեղաշրջումNĽĭĿ	ուզելիք հեղաշրջումներով ուզելիք
+NĽĭֆրիզերենNĽĭ	ուզելիք ֆրիզերենից ուզելիք
+NĮįĿձմեթNĮįĿ	ձմեթները
+NĬįĿլաւաշNĬįĿ	սեւամորթիս
+NĬĭıմալայալամNĬĭı	մոռացած մալայալամովս
+VŃįĻļլողանալVŃįĻļ	լողանում
+NŁĭıմեծավորNŁĭı	մոռացած մեծավորներ
+NĮįıհարցումNĮįı	հեգնած
+NĮĭıակնոցNĮĭı	ահաբեկած
+ADJİįıոսկիADJİįı	ոսկիներումդ
+NŁĭփականքNŁĭ	փականք
+NĽĭıնկուղNĽĭı	ուզելիք նկուղայինները ուզելիք
+NŁįկարեկցությունNŁį	կարեկցությամբ
+NĬĭıհողակոշտNĬĭı	հավատացած հողակոշտերիցս
+VŃĭķĹĵվանկելVŃĭķĹĵ	կաբստրահեք վանկի կակնածի
+NĮįհեղաշրջումNĮį	հեղաշրջումներով
+VŃįķńգլտորելVŃįķń	կաբստրահեք գլտորում կարգահատես
+ADJŁįłկանադականADJŁįł	կանադականիցս
+NİĭĿխոպոպիկNİĭĿ	խոպոպիքավորներից
+NĬĭıձնագնդիկNĬĭı	ձուլած
+NİĭվարձNİĭ	վարշամակի
+VĶĭķĸĹմեղանչելVĶĭķĸĹ	կակնածի կարգահատես
+ADJĬįłպարզADJĬįł	պալատականը
+VŃįňĵբեկանելVŃįňĵ	երգիծի երգիծի
+NĮĭıխրամատNĮĭı	խոպոպացված
+VŃįķĸńծառայելVŃįķĸń	կակնածի կաբստրահեք
+VŅņգրգռելVŅņ	գրենականիցդ չագռավանայինք
+NŁĭıլոգանքNŁĭı	լոգանում
+NĽįկեղNĽį	ուզելիք ուզելիք
+NİĭĿսովորույթNİĭĿ	սովորություններիս նորույթներում
+ADJİįĿմարգարտահուռADJİįĿ	մարգարտահուռիցդ
+VŃĭķĸļĵենթարկելVŃĭķĸļĵ	կարգահատես ենթարկել կաբստրահեք
+VĺĭĻļմտցնելVĺĭĻļ	ակնածես չմտցնես աբստրահեք
+NĬįıխեցգետինNĬįı	խոպոպացված
+VŃįķļĵքամելVŃįķļĵ	կաբստրահեք չքամես կարգահատես
+NİĭĿկիմերերենNİĭĿ	երկիմաստովդ
+VĺįķĸńĵթուլանալVĺįķĸńĵ	աբստրահեք կաբստրահեք ակնածես կաբստրահեք
+NĬįĿթիկունքNĬįĿ	ազատութեանդ
+NĽĭթաքուստNĽĭ	ուզելիք թաքուստներիս ուզելիք
+VŅņհեռացնելVŅņ	հատկացնել
+NŁĭĿգրասեղանNŁĭĿ	գրասեղաններիցդ
+NŁĭıգետառNŁĭı	գետառներիցս
+ADJĬįłսաղADJĬįł	սալորներին
+VĶĭķĸĹĵխոստանալVĶĭķĸĹĵ	կարգահատես կաբստրահեք
+VĺįķĹաղերսելVĺįķĹ	ակնածես կակնածի աղերսի աբստրահեք կակնածի
+VĺĭŀļĵայրվելVĺĭŀļĵ	ակնածեմ այրվելու ակնածեմ
+VĲօղողելVĲ	չօղողեցի
+NĬįհամալսարանNĬį	համալսարանիցս
+ADJĽįĿէժանADJĽįĿ	ուզելիք էակներովդ ուզելիք
+NĬĭĿկվենիNĬĭĿ	կվենովս
+VŃĭķĸĹգիշատելVŃĭķĸĹ	կակնածի գիշատում կարգահատես
+ADJĬĭĿլիմբուրգերենADJĬĭĿ	լիմբուրգերենիդ
+NĬĭıարյունահոսությունNĬĭı	ահաբեկած չարյունահոսեինք
+NĬįıքարփիջNĬįı	քարփիճից
+VŃĭňĵհիրելVŃĭňĵ	երգիծի հիրելու երգիծի
+VĺĭķĸĹĵշառաչելVĺĭķĸĹĵ	աբստրահեք կակնածի աբստրահեք կարգահատես
+NŁĭıարքադNŁĭı	ահաբեկած արքադներիդ
+NĮįıփապNĮįı	փլված
+NŁĭĿմեջքNŁĭĿ	մեջտեղում
+NŁĭյոթներյակNŁĭ	յոթներյակներիս
+VŅŉհիմնավորելVŅŉ	հաճում
+NĽįıմուրացիկNĽįı	ուզելիք մոռացած ուզելիք
+VĶĭķńկեղելVĶĭķń	կակնածի կարգահատես
+NĮįıանմահությունNĮįı	ահաբեկած
+VĺįĻļապահովանալVĺįĻļ	աբստրահեք աբստրահեք
+NĽĭդարբինNĽĭ	ուզելիք դարպասից ուզելիք
+NŁĭıսմբուլNŁĭı	սմբուլիդ
+NĬĭերնջակNĬĭ	երնջակովս
+ADJĮįհոյակառույցADJĮį	հոյակառույցներիցդ
+NİįĿհանրախանութNİįĿ	հանրախանութիս
+VŃĭķĸļĵփայլունացվելVŃĭķĸļĵ	կարգահատես փայլունացվել կակնածի
+ADJŁįվճիտADJŁį	վճիտումդ
+VĺĭľļĵփայլունանալVĺĭľļĵ	ակնածեմ ակնածեմ
+VĶįķńկամենալVĶįķń	կարգահատես կաբստրահեք
+ADJİįıխարդախADJİįı	խոպոպացված
+VĺĭŀļĵագուցանելVĺĭŀļĵ	աբստրահեք ակնածեմ
+VĺĭľĸļĵծածկելVĺĭľĸļĵ	ակնածեմ ծածկում աբստրահեք
+ADJĮįıխաժADJĮįı	խոպոպացված տարաժամանակյայի
+NĮįıվարագույրNĮįı	վարանած արույրիցդ
+VĺįķĸļĵշռելVĺįķĸļĵ	աբստրահեք կարգահատես չկշռեց ակնածես կակնածի
+VĳŊĵաբստրահվելVĳŊĵ	ածանցել աբստրահվի ածանցել
+NĬįավտոտնակNĬį	ավտովարորդներիս գրտնակդ
+NĬĭĿշավիղNĬĭĿ	բավիղում
+NŁĭłգրամեքենաNŁĭł	մեքսիկներ տեղանվանը
+NĽĭıամսագիրNĽĭı	ուզելիք ահաբեկած ամսագրովդ ուզելիք
+ADJĬĭıխորվաթերենADJĬĭı	խոցոտած խորվաթերեններին
+ADJŁįıհիվանդADJŁįı	հեգնած
+VĶįŀļբացառվելVĶįŀļ	բացառվել
+ADJĽĭĿթանձրADJĽĭĿ	ուզելիք թանձրերի ուզելիք
+VĶĭľĸļĵբդկելVĶĭľĸļĵ	բդկելու
+VĺįķĸĹպոռոչելVĺįķĸĹ	աբստրահեք կակնածի պոռոչել աբստրահեք կաբստրահեք
+NŁįկարամելNŁį	կարամելներովս
+VĶįķĸńĵտանջելVĶįķĸńĵ	կաբստրահեք կակնածի
+ADJĬĭłաժդահաADJĬĭł	աժդահակին տեղանվանը
+NŁįզուգահեռագիծNŁį	տրամագիծս
+VĺĭķĸńĵգրառելVĺĭķĸńĵ	ակնածես կաբստրահեք գրառի աբստրահեք կակնածի
+NİĭıթեոսոֆիաNİĭı	թվարկած կարտոֆիլներովդ
+NĬĭłմալգաշերենNĬĭł	տեղանվանը
+NĬĭıխնձորենիNĬĭı	խոպոպացված
+NĮįĿհայեցվածNĮįĿ	հայեցվածին
+NĽĭկնիքNĽĭ	ուզելիք կնիքումդ ուզելիք
+ADJĬĭıհեզADJĬĭı	հեգնած
+VŃĭŀļĵխիթալVŃĭŀļĵ	խիթացել
+ADJĽįակնածալիADJĽį	ուզելիք ակնածելու ուզելիք
+VĺįķļդատարկելVĺįķļ	աբստրահեք կակնածի ակնածես կակնածի
+NĽįտատմերNĽį	ուզելիք նախապատմությունիս ուզելիք
+ADJİĭմեղմեխADJİĭ	մեղվով մեխակիդ
+NİĭıքուրչNİĭı	քուրչդ
+VĶįŀĸļլքելVĶįŀĸļ	լքելու
+NŁįշեֆNŁį	շեֆերովդ
+NĽĭվոլեյբոլNĽĭ	ուզելիք նեյտրինոներում ուզելիք
+VĺįľļխանձելVĺįľļ	աբստրահեք աբստրահեք
+VŃįľļĵկթոտելVŃįľļĵ	կթոտում
+NĬįĿհյուսնNĬįĿ	հյուսնդ
+NĬįłձորNĬįł	ձուլածոները
+VĶįķĹĵստրկացնելVĶįķĹĵ	կաբստրահեք ստրկացնելու կակնածի
+VĺįľļծլարձակելVĺįľļ	ակնածես աբստրահեք
+VŃįķļոստնելVŃįķļ	կակնածի ոստնի կաբստրահեք
+NĮįıկառեNĮįı	կառչած
+NĬįնախիրNĬį	նախիրիցդ
+ADJĬįդուզնաքյաADJĬį	դուզերիս
+VĶįķĹĵզգենալVĶįķĹĵ	կակնածի զգեցել կարգահատես
+NĽĭխինդNĽĭ	ուզելիք խույլով ուզելիք
+VĶįľĸļպատկերելVĶįľĸļ	պատկերել
+ADJİĭդալուկADJİĭ	դալուկ
+VĺĭķĸļĵկկելVĺĭķĸļĵ	աբստրահեք կաբստրահեք կկում աբստրահեք կաբստրահեք
+NİįĿաքսորավայրNİįĿ	աքսորվել
+ADJĬįուրիշADJĬį	ուրիշս
+VŅŋկթոտելVŅŋ	կողպելիս
+ADJĬįıհայդուկականADJĬįı	հեգնած
+NĽĭլամպըչկաNĽĭ	ուզելիք լամպըչկեքի ուզելիք
+VĺĭķĸļձաղելVĺĭķĸļ	ակնածեմ կակնածի ձաղել ակնածեմ կակնածի
+NĮįıսրճանոցNĮįı	սրճատներիդ
+ADJŁįłկաթոլիկADJŁįł	կաթոլիկս
+VĶĭķļĵկատարելVĶĭķļĵ	կարգահատես կաբստրահեք
+VĺįľļĵխրոխտանալVĺįľļĵ	ակնածես ակնածեմ
+NŁįıարցունքNŁįı	ահաբեկած մրցույթներիցդ
+NĽĭıգոթերենNĽĭı	ուզելիք ուզելիք
+VĶįŀĸļĵծպտվելVĶįŀĸļĵ	ծպտվել
+NĽĭհոգեբանNĽĭ	ուզելիք հոգեբաններդ ուզելիք
+VĶĭķĸļĵխռմփալVĶĭķĸļĵ	կարգահատես խռմփացել կաբստրահեք
+VľպանծալVľ	պանծացել
+VŅĻառկայծելVŅĻ	առկայծի
+NİĭĿթիթեռնակNİĭĿ	թիթեռնակովս
+VŃįķļĵսահմանելVŃįķļĵ	կարգահատես սահմանի կակնածի
+VĶįķĸńկիսելVĶįķĸń	կակնածի կիսելու կակնածի
+VĶĭķĸńĵնվագելVĶĭķĸńĵ	կակնածի կնվագեինք կաբստրահեք
+NĽįıվեղարNĽįı	ուզելիք վերագրած ուզելիք
+NŁįելունդNŁį	ելունդդ
+VŃįňĵհափափելVŃįňĵ	երգիծի հափափեցի երգիծի
+NİįıանդյաNİįı	ահաբեկած
+NİĭıկզաքիսNİĭı	կործանած կզաքիսով
+VĶįŀĸļմոգոնելVĶįŀĸļ	չմոգոնեմ
+NŁįıհաստոցNŁįı	հավատացած խառատահաստոցիցս
+NŁĭłշարքայինNŁĭł	շարքայիններիցս երաստանին
+VĺįķĸńĵարմանալVĺįķĸńĵ	ակնածեմ կակնածի աբստրահեք կաբստրահեք
+NĽĭıխնձորենիNĽĭı	ուզելիք խոպոպացված ուզելիք
+VŅŉզավթելVŅŉ	զառանցում
+ADJĬĭկաշկանդիչADJĬĭ	կաշկանդիչից
+VŃĭŀĸļճաքելVŃĭŀĸļ	չճաքեցիք
+ADJĽĭıհայդուկականADJĽĭı	ուզելիք հեգնած ուզելիք
+ADJĬįıթովիչADJĬįı	թվարկած
+ADJĬįıամուսնացածADJĬįı	ահաբեկած ամուսնացնի
+VĶĭķĹաբսորբելVĶĭķĹ	կակնածի աբսորբի կարգահատես
+ADJĽįծանծաղուտADJĽį	ուզելիք ծանծաղուտը ուզելիք
+ADJŁįĿլատվիերենADJŁįĿ	լատվիերենում
+ADJİĭĿավազուտADJİĭĿ	ավազուտ
+VĺĭĻļհագեցնելVĺĭĻļ	աբստրահեք աբստրահեք
+ADJĽįĿարդարացիADJĽįĿ	ուզելիք ուզելիք
+VĶįķĸńĵխնչելVĶįķĸńĵ	կարգահատես խնչի կակնածի
+NİĭıծիրանենիNİĭı	ծափահարած
+ADJİĭĿկանամբիADJİĭĿ	կանամբիներիցդ
+VĶįķĸļհալածելVĶįķĸļ	կաբստրահեք հալածել կարգահատես
+NĬįłքարտեսNĬįł	քանակները
+VĳĴուժեղանալVĳĴ	կուժեղանանք
+VŇհեգնելVŇ	հետազոտող ագուցահանող
+NŁįսնդուկNŁį	սնդուկդ
+ADJİĭıթոռոմADJİĭı	թվարկած
+ADJĮįĿհուլիսյանADJĮįĿ	հուլիսյաններիցդ
+VŃįķĸńĵհագելVŃįķĸńĵ	կարգահատես հագում կաբստրահեք
+NĬĭłբուգNĬĭł	բուին տեղանվանը
+NĬĭıսայլորդNĬĭı	սայլորդիցդ
+NŁįłմաղթանքNŁįł	կմաղթեիք
+ADJİįĿերկբայելիADJİįĿ	երկբայել
+ADJĽĭĿկապտավունADJĽĭĿ	ուզելիք կապտավուններիդ ուզելիք
+VĺįĻļĵկողպելVĺįĻļĵ	աբստրահեք կողպել աբստրահեք
+NĽĭĿքենիNĽĭĿ	ուզելիք քենիները ուզելիք
+VĺĭķĸļսիրւելVĺĭķĸļ	ակնածես կակնածի աբստրահեք կաբստրահեք
+VĺįķĸĹĵէթալVĺįķĸĹĵ	աբստրահեք կաբստրահեք էթում ակնածես կակնածի
+NŁĭłխուլիգանNŁĭł	տեղանվանը
+VŃĭľĸļմրմնջալVŃĭľĸļ	մրմնջալու
+VĺįŀĸļինքնահավանելVĺįŀĸļ	աբստրահեք աբստրահեք
+VĶĭķĸĹհատնելVĶĭķĸĹ	կաբստրահեք կակնածի
+NĮįգեղմNĮį	գեղմնավորներիս
+VĺĭķĸļգիշատելVĺĭķĸļ	աբստրահեք կաբստրահեք գիշատում ակնածեմ կակնածի
+ADJĮįıմշուշապատADJĮįı	մոռացած
+NĬĭıմաշկյակNĬĭı	մոռացած մաշկյակին
+ADJŁįերկսայրADJŁį	երկսայրներիս
+NŁįıգունNŁįı	գուները
+VĶįľļագուցվելVĶįľļ	ագուցվում
+VĺįŀļագուցահանելVĺįŀļ	աբստրահեք աբստրահեք
+ADJĮĭıքառակուսիADJĮĭı	քառակուսիներիդ
+VĺįľĸļչարաշահելVĺįľĸļ	աբստրահեք ակնածես
+NŁĭĿգլորNŁĭĿ	գլորում
+NŁįıթագվորNŁįı	թվարկած
+ADJİĭıողորկADJİĭı	ողորկիս
+NŁĭĿամորձիքNŁĭĿ	ամորձիքներիցս
+VĶĭŀĸļĵխնկելVĶĭŀĸļĵ	խնկել
+NİįĿարբանյակNİįĿ	արբանյակներին
+ADJĽįĿբարվոքADJĽįĿ	ուզելիք բարվոքովս ուզելիք
+NİįĿչափագիտությունNİįĿ	չափագիտությամբդ
+VĺįŀļպարտվելVĺįŀļ	ակնածես չպարտվեցիր աբստրահեք
+VĺĭķĸĹĵվերծանելVĺĭķĸĹĵ	աբստրահեք կարգահատես աբստրահեք կարգահատես
+ADJİĭփութաջանADJİĭ	փույթից փութաջանություններումդ
+NŁįıտեգերակինNŁįı	տեգերակին
+ADJĮĭĿհարսնանմանADJĮĭĿ	հարսնանմաններս
+NĽįմարխNĽį	ուզելիք ուզելիք
+NĬĭĿուրարտացիNĬĭĿ	ուրարտացիների
+VĶĭķĸļմեղադրելVĶĭķĸļ	կակնածի կարգահատես
+NŁįłկռատուկNŁįł	կռատուկներումս
+VĶįķĸĹĵավելացնելVĶįķĸĹĵ	կարգահատես կարգահատես
+VĶįķĹĵշեշտելVĶįķĹĵ	կարգահատես շեշտ կակնածի
+VŃįķļĵպարապելVŃįķļĵ	կակնածի կաբստրահեք
+ADJŁįĿմտառուADJŁįĿ	մտառուիցս
+VĶĭķńĵօծելVĶĭķńĵ	կաբստրահեք օծել կաբստրահեք
+ADJŁĭանհեթեթADJŁĭ	անհեթեթներում
+ADJŁįıկաստայականADJŁįı	կործանած
+NİĭıվերջածանցNİĭı	վերագրած
+NİĭշաքարաքլորNİĭ	շաքարախտով աքլորովս
+NİįĿհնչյունNİįĿ	հնագետներիցս գոչյունովս
+ADJĽįıանձնավորADJĽįı	ուզելիք ահաբեկած կնձնիներում ուզելիք
+VŅŌքրթմնջալVŅŌ	քրթմնջալու
+NĬĭնժդեհNĬĭ	նժդեհիս
+ADJŁĭխոնավADJŁĭ	խոնավից
+ADJŁįալեկոծADJŁį	ալեկոծիցդ
+VĺĭķĸļհիմնավորելVĺĭķĸļ	աբստրահեք կաբստրահեք աբստրահեք կարգահատես
+VĺįķĸńմագլցելVĺįķĸń	աբստրահեք կարգահատես մագլցում աբստրահեք կարգահատես
+VĺĭľļմատնելVĺĭľļ	ակնածեմ մատնի աբստրահեք
+NŁįպոլիոմիելիտNŁį	պոլաբերենը
+NĬĭłպանNĬĭł	պալատականը տեղանվանը
+VŃįŀļĵզգենալVŃįŀļĵ	զգեցել
+VŃĭķĹհաճախելVŃĭķĹ	կաբստրահեք կաբստրահեք
+NĽįծոցատետրNĽį	ուզելիք ուզելիք
+ADJĮĭıհեշտոցայինADJĮĭı	հեգնած հեշտոցայինով
+ADJĽĭĿոլորապտույտADJĽĭĿ	ուզելիք ուզելիք
+VŃįķļհիրելVŃįķļ	կաբստրահեք հիրելու կարգահատես
+NİĭառյուծNİĭ	գետնառյուծիցդ
+VŃįķĸĹĵարմանալVŃįķĸĹĵ	կակնածի կաբստրահեք
+ADJŁįդաշտայինADJŁį	դաշտայինին
+NĽįշտեմարանNĽį	ուզելիք ուզելիք
+NİįıհրապատNİįı	հեգնած
+VĺįķńալեկոծելVĺįķń	ակնածես կարգահատես ալեկոծել աբստրահեք կարգահատես
+VŃįľļսպասարկելVŃįľļ	սպասարկել
+VŃįķńուզենալVŃįķń	կաբստրահեք ուզենալու կաբստրահեք
+VŅōմղձկալVŅō	մղձկա
+VĺĭķĸńկաշառելVĺĭķĸń	ակնածեմ կաբստրահեք կաշառելու աբստրահեք կակնածի
+NĬįłհղացքNĬįł	հայը
+VĺĭķĸĹշփոթվելVĺĭķĸĹ	աբստրահեք կարգահատես շփոթվի աբստրահեք կարգահատես
+ADJĽĭĿմաշկաթեւADJĽĭĿ	ուզելիք ուզելիք
+VĳĴĵանզգայացնելVĳĴĵ	անզգայացնելու
+VĺįķļĵուժեղանալVĺįķļĵ	ակնածեմ կաբստրահեք կուժեղանանք աբստրահեք կաբստրահեք
+NĬįłնկուղNĬįł	նկուղայինները
+NĽĭգադոլինիումNĽĭ	ուզելիք գադոլինիումիցս ուզելիք
+NĽĭĿերկանաքարNĽĭĿ	ուզելիք երկանաքարերիդ ուզելիք
+VĺįķńĵհրճվելVĺįķńĵ	աբստրահեք կարգահատես հրճվանքից ակնածես կաբստրահեք
+VĺĭĻļĵհարթուկելVĺĭĻļĵ	ակնածես ակնածես
+VĺįķńĵմնչելVĺįķńĵ	ակնածեմ կակնածի ակնածես կակնածի
+VĺįĻļĵպապանձեցնելVĺįĻļĵ	ակնածեմ պապանձեցր ակնածես
+NŁĭıհաստությունNŁĭı	հավատացած
+ADJİĭկապույտADJİĭ	պույտը
+VĺįķĸńարկանելVĺįķĸń	աբստրահեք կաբստրահեք աբստրահեք կարգահատես
+ADJŁįıզորավորADJŁįı	զարմացած
+NĽĭĿժանիքNĽĭĿ	ուզելիք տանիքներից ուզելիք
+NŁĭıթխկիNŁĭı	թվարկած տեկիլայումդ
+VŃįķĸļհենելVŃįķĸļ	կաբստրահեք կարգահատես
+NĬįազնվամորիNĬį	ազնվամորու
+VĺįķĸńխառնելVĺįķĸń	աբստրահեք կաբստրահեք աբստրահեք կարգահատես
+NİĭıլրացումNİĭı	լրատուիս
+VŃĭķĸńբառնալVŃĭķĸń	կակնածի չբարձեցիր կաբստրահեք
+NĽįĿմտավորականությունNĽįĿ	ուզելիք ուզելիք
+NĬĭĿավիշNĬĭĿ	ավշովդ
+VŃĭĻļխորովելVŃĭĻļ	խորովի
+NĽįչափագիտությունNĽį	ուզելիք չափագիտությամբդ ուզելիք
+VĺĭķĹĵփութացնելVĺĭķĹĵ	ակնածեմ կակնածի փութացնում ակնածեմ կաբստրահեք
+NĽĭĿլուրNĽĭĿ	ուզելիք լուրերիս ուզելիք
+VĶįķĸļոլորելVĶįķĸļ	կաբստրահեք կաբստրահեք
+ADJĬĭıկեղակարծADJĬĭı	կործանած կեղակարծդ
+ADJĮįĿմիահամուռADJĮįĿ	միահամուռին
+VĺįľĸļերկնչելVĺįľĸļ	աբստրահեք երկնչել աբստրահեք
+VĶįķĸńĵվախելVĶįķĸńĵ	կակնածի վախելու կաբստրահեք
+NİįչանգալNİį	չանգալներումս
+ADJŁĭłանշուքADJŁĭł	անշուքներովս տեղանվանը
+VĺĭķĹĵսորալVĺĭķĹĵ	աբստրահեք կաբստրահեք սորացել ակնածես կաբստրահեք
+NĽĭĿբասկերենNĽĭĿ	ուզելիք բասկերենին ուզելիք
+NĽįĿբրնձապուրNĽįĿ	ուզելիք բրնձապուրս ուզելիք
+ADJĽįĿանհրաժեշտADJĽįĿ	ուզելիք անհրաժեշտիս ուզելիք
+NĬĭłհոլովակNĬĭł	հոլովակումս տեղանվանը
+NŁĭարեւելքNŁĭ	արեւելյանի
+ADJŁĭջրածինADJŁĭ	ջրամբարով
+NĬįıկաղկանձNĬįı	կործանած կաղկանձեցիք
+NĮįվերջակետNĮį	վերջակետերիցս
+VĳŊկլանելVĳŊ	կտղել ածանցել
+VĺįĻļհորդորելVĺįĻļ	աբստրահեք աբստրահեք
+NŁĭĿուռույցNŁĭĿ	ուռույցներից
+ADJŁĭերդվյալADJŁĭ	երդվյալիցս
+NĬįıընդունակությունNĬįı	ընդգծած
+NİĭլյուստրաNİĭ	լամպ
+NŁĭհորիզոնNŁĭ	հորթի
+NĬįıսերկեւիլենիNĬįı	սերկեւիլենիներովս
+NĽĭմարդելույզNĽĭ	ուզելիք մարդելույզներիցդ ուզելիք
+VĺĭķĸńհեռելVĺĭķĸń	ակնածես կաբստրահեք ակնածեմ կակնածի
+VĶįķĸĹանզգայանալVĶįķĸĹ	կաբստրահեք անցգայացել կաբստրահեք
+VĶįķĹĵծառայելVĶįķĹĵ	կակնածի կաբստրահեք
+VĶĭķńĵհարբելVĶĭķńĵ	կակնածի չհարբեց կարգահատես
+ADJĮįĿհամեղADJĮįĿ	համեղիցս
+VĺįķĹերկբայանալVĺįķĹ	ակնածեմ կակնածի երկբայացել ակնածեմ կակնածի
+NĬĭłճաքNĬĭł	ճայը տեղանվանը
+NĬĭıչամիչNĬĭı	չամիչներումդ
+NĮĭıթայֆունNĮĭı	թվարկած թայֆունիցս
+VĺĭķńĵկանչելVĺĭķńĵ	ակնածեմ կարգահատես աբստրահեք կարգահատես
+VĶĭķĸļխափանելVĶĭķĸļ	կակնածի խափանել կաբստրահեք
+VŃįňĵդատարկելVŃįňĵ	երգիծի երգիծի
+NŁĭĿսվիտերNŁĭĿ	սվիտերներիդ
+NŁĭıմետաղալարNŁĭı	մոռացած
+VŃįŀĸļĵտրամադրելVŃįŀĸļĵ	տրամադրել
+ADJĬĭբոբիկADJĬĭ	բոբիկների
+NĬĭıայլատյացNĬĭı	ահաբեկած այլատյացությամբդ
+VĶįķļզառամանալVĶįķļ	կաբստրահեք կակնածի
+ADJĽĭĿտաքADJĽĭĿ	ուզելիք ուզելիք
+NĽĭժանրNĽĭ	ուզելիք ժանիով ուզելիք
+VĶįķĸļլծելVĶįķĸļ	կաբստրահեք լծում կարգահատես
+NİĭıլեհNİĭı	լեհերս
+NĽĭıլայնուցքNĽĭı	ուզելիք լայնուցքիցս ուզելիք
+NĬįլիբրետոNĬį	լիբրետոյում
+NĬįłզավտրըկNĬįł	զարմանքները զավտրըկներս
+NĮĭպղինձNĮĭ	անագապղնձիցս
+VŃĭķļĵերկբայելVŃĭķļĵ	կաբստրահեք երկբայել կարգահատես
+ADJĮįաղբուտADJĮį	աղբուտս
+VŃĭķļĵկատակելVŃĭķļĵ	կակնածի կարգահատես
+VĺįľĸļĵսուզելVĺįľĸļĵ	աբստրահեք սուզել ակնածես
+NŁįĿհիվանդությունNŁįĿ	հիվանդագիններդ
+NĬĭգոնդոլNĬĭ	գոնդոլումս
+VŃįľļĵճոռոմաբանելVŃįľļĵ	կճոռոմաբանեի
+VĶĭķĸĹĵկանգնելVĶĭķĸĹĵ	կաբստրահեք կանգնում կարգահատես
+VŃĭŀļĵապշելVŃĭŀļĵ	ապշում
+NĽįıաղբուտNĽįı	ուզելիք ահաբեկած աղբուտս ուզելիք
+ADJİįĿթարշամADJİįĿ	անթարշամները
+NĽįչեմպիոնNĽį	ուզելիք ավետչեքով պիոնովս ուզելիք
+VĺĭķĹĵգողանալVĺĭķĹĵ	ակնածես կաբստրահեք աբստրահեք կակնածի
+NİįխանձNİį	խանձատել
+VĺįķĸļĵդատարկելVĺįķĸļĵ	ակնածեմ կարգահատես ակնածեմ կակնածի
+VĳŊĵհրահրելVĳŊĵ	ածանցել հրահրելու ածանցել
+VĺįĻļĵխորխելVĺįĻļĵ	աբստրահեք ակնածեմ
+VĺĭķļձաղելVĺĭķļ	ակնածես կարգահատես ձաղել ակնածեմ կարգահատես
+NĬįıանատոմիաNĬįı	ահաբեկած անատոմիաներովդ
+NİĭıմուղNİĭı	մոռացած
+VŃĭĻļայրվելVŃĭĻļ	այրվելու
+NİĭıթուլիումNİĭı	թվարկած
+VŃįķńĵսազալVŃįķńĵ	կակնածի չսազաց կաբստրահեք
+VĺįŀļշատանալVĺįŀļ	ակնածես շատացել ակնածես
+NĽĭիտրիումNĽĭ	ուզելիք ինչքում ուզելիք
+VŃįķĸļĵնազելVŃįķĸļĵ	կարգահատես կակնածի
+VĶĭĻļĵվախելVĶĭĻļĵ	վախելու
+NİĭıքյանդրբազությունNİĭı	դուքյաններիցս
+VĶĭĻļĵսիկտիրվելVĶĭĻļĵ	սիկտիրվեինք
+NĽįĿզանգակածաղիկNĽįĿ	ուզելիք ուզելիք
+VŃĭĻļձաղկելVŃĭĻļ	ձաղկեր
+ADJĮįıչաթլախADJĮįı	չաթլախովդ
+VĺĭķĸļĵփնտրելVĺĭķĸļĵ	աբստրահեք կարգահատես փնտրել ակնածեմ կակնածի
+NĮĭխառատահաստոցNĮĭ	խառատահաստոցիցդ
+VŃĭľļբզզալVŃĭľļ	բզզանք
+NĬĭłաստղաբույլNĬĭł	աստղաբույլերիդ տեղանվանը
+ADJĽįĿհայդուկականADJĽįĿ	ուզելիք ուզելիք
+NĽĭıգույքNĽĭı	ուզելիք հետույքով ուզելիք
+NŁĭłբոզNŁĭł	բոզերդ տեղանվանը
+NĮĭկաղնիNĮĭ	կաղնիներդ
+ADJĽįıեվրասիականADJĽįı	ուզելիք եպերած ուզելիք
+VŃįķļթանալVŃįķļ	կակնածի կարգահատես
+VŃĭňհնանալVŃĭň	հառաչի երգիծի
+ADJĽĭĿբացառականADJĽĭĿ	ուզելիք ուզելիք
+NŁįĿապստամբNŁįĿ	ապստամբել
+VĺįķńĵխայթելVĺįķńĵ	ակնածեմ կաբստրահեք աբստրահեք կակնածի
+VŃįķĸńĵկողպելVŃįķĸńĵ	կաբստրահեք կողպելու կակնածի
+NĬĭıերկրաշարժNĬĭı	եպերած երկրաշարժդ
+ADJĮįıաղկաղկADJĮįı	ահաբեկած
+VĶįķńĵթաղելVĶįķńĵ	կաբստրահեք կաբստրահեք
+NİĭհնոցNİĭ	հնդկականից
+VĺĭľļĵխոթելVĺĭľļĵ	աբստրահեք կխոթեիք աբստրահեք
+VŃĭķńհագելVŃĭķń	կարգահատես հագում կարգահատես
+ADJĽĭկարոտADJĽĭ	ուզելիք կարոտում ուզելիք
+NĬĭłշագանակագեղձNĬĭł	նշագեղձիդ տեղանվանը
+NĮĭհորջորջNĮĭ	հորջորջում
+ADJŁįłառապարADJŁįł	առապարովդ
+NĽįıպանթուրքիստNĽįı	ուզելիք պանթուրքիստներս ուզելիք
+NĬĭıկենացNĬĭı	կործանած կենացներումս
+VĺĭķĸļĵալեկոծելVĺĭķĸļĵ	աբստրահեք կարգահատես ալեկոծել աբստրահեք կաբստրահեք
+NŁĭıթաթարNŁĭı	թվարկած
+VĶĭĻļĵողջագուրելVĶĭĻļĵ	ողջագուրել
+NŁįıվախճանNŁįı	վերագրած վախճանիս
+NŁįĿհարցազրույցNŁįĿ	զրույցը
+VĺĭķĸĹճոռոմախոսելVĺĭķĸĹ	ակնածես կարգահատես ճոռոմախոսելու ակնածես կաբստրահեք
+VŃįķĸĹշտկելVŃįķĸĹ	կաբստրահեք շտկել կակնածի
+ADJĮĭլեռնագնացADJĮĭ	լեռնագնացից
+NŁĭմոխրագույնNŁĭ	մոխրագույնի
+ADJĽĭĿտմարդիADJĽĭĿ	ուզելիք նախապատմությունիս արդիներովդ ուզելիք
+NŁįłգոչյունNŁįł	գերանը
+NĮĭաղբանոցNĮĭ	աղբանոցները
+NĮĭıռեակցիաNĮĭı	ռեակցիայում
+VĺĭĻļĵկանխամտածվելVĺĭĻļĵ	ակնածեմ կանխամտածվել աբստրահեք
+NĮįıսպառնալիքNĮįı	անսպառներիս
+NİĭաշխատակազմNİĭ	աշխատակազմերիս
+VĺĭķĸĹմաքառելVĺĭķĸĹ	ակնածեմ կաբստրահեք մաքառում ակնածեմ կաբստրահեք
+NŁįłռեզերֆորդիումNŁįł	տորֆերին
+VŃĭķĹկտղելVŃĭķĹ	կաբստրահեք կտղենք կակնածի
+VĶĭķĸńհանվելVĶĭķĸń	կաբստրահեք կակնածի
+VĺĭŀļĵզարմանալVĺĭŀļĵ	աբստրահեք ակնածես
+NĽįĿիլենիNĽįĿ	ուզելիք ուզելիք
+VĺĭŀļĵազդելVĺĭŀļĵ	ակնածես ազդել ակնածեմ
+VĶĭķĸĹĵնախաճաշելVĶĭķĸĹĵ	կարգահատես կարգահատես
+ADJĽįĿխեղանդամADJĽįĿ	ուզելիք խեղանդամներդ ուզելիք
+NĬįłկարեկցումNĬįł	կարեկցումումս
+VĺĭķĹĵկթոտելVĺĭķĹĵ	աբստրահեք կաբստրահեք կթոտում ակնածեմ կաբստրահեք
+VĺįķĸĹĵողջագուրելVĺįķĸĹĵ	ակնածես կարգահատես ողջագուրել ակնածեմ կակնածի
+VĺįŀļĵխոթելVĺįŀļĵ	ակնածես խոթելու ակնածես
+NŁĭłձեռնարկNŁĭł	ձեռնածուն ակնարկներիս տեղանվանը
+ADJĬįıմիահամուռADJĬįı	մոռացած
+VĶĭķńĵքոչելVĶĭķńĵ	կակնածի քոչում կակնածի
+VĺįķĸļլրթանալVĺįķĸļ	ակնածեմ կակնածի աբստրահեք կաբստրահեք
+VŃįķńորոճելVŃįķń	կաբստրահեք որոճա կակնածի
+NĬįĿմուժNĬįĿ	մուժերումս
+NİĭıելունդNİĭı	եպերած
+NŁĭշեֆNŁĭ	շեֆերովդ
+VĺįŀļĵարկանելVĺįŀļĵ	ակնածեմ ակնածես
+ADJĽĭգաղջADJĽĭ	ուզելիք գաղջերիդ ուզելիք
+VĺįķļĵկարողանալVĺįķļĵ	աբստրահեք կարգահատես ակնածեմ կաբստրահեք
+VŃįňĵբնութագրելVŃįňĵ	երգիծի երգիծի
+NŁĭմեղեդիNŁĭ	մեղվով
+VĶįŀļĵէթալVĶįŀļĵ	էթում
+NŁįıպիոնNŁįı	պիոնովս
+ADJŁĭłվրացականADJŁĭł	վրացականդ տեղանվանը
+NİįıորդյակNİįı	վաղորդյանիցս
+NŁįłօրանNŁįł	օրանգուտանգներովդ
+NŁĭłջաղացNŁĭł	ջաղացները տեղանվանը
+VĺįķĸĹվանելVĺįķĸĹ	ակնածես կակնածի ակնածես կաբստրահեք
+NĮįսիլիցիումNĮį	սիլիցիումումդ
+NĮĭıբուրբոնNĮĭı	բուրբոններումդ
+VĶĭķļĵվիճաբանելVĶĭķļĵ	կարգահատես կաբստրահեք
+VŃĭķĹբաղձալVŃĭķĹ	կակնածի կակնածի
+VĺĭķĸĹխոթելVĺĭķĸĹ	ակնածեմ կաբստրահեք խոթելու ակնածեմ կարգահատես
+ADJĬĭłհորդADJĬĭł	հայը տեղանվանը
+VĶįŀļĵկազմակերպելVĶįŀļĵ	կազմակերպի
+ADJŁĭĿմեծաքիթADJŁĭĿ	մեծաքիթիցդ
+ADJŁĭզրահամորթADJŁĭ	զբոսանավ
+NĽįıտուտուզNĽįı	ուզելիք տուտուզին ուզելիք
+VŃįŀĸļհամակարգելVŃįŀĸļ	համակարգում
+NĬįĿկակտուսNĬįĿ	կակտուսիցդ
+VŃĭňպապանձվելVŃĭň	երգիծի պապանձվ երգիծի
+NİįıպղնձարջասպNİįı	պղնձարջասպներիս
+ADJĬĭłխորհրդավորADJĬĭł	խորհրդավորին տեղանվանը
+VĺĭķļĵհափափելVĺĭķļĵ	աբստրահեք կարգահատես հափափեցի ակնածես կարգահատես
+NĮįıմետրNĮįı	մոռացած
+ADJĽĭĿդիեցիկADJĽĭĿ	ուզելիք դիեցիկիդ ուզելիք
+NĽįĿծամոնNĽįĿ	ուզելիք ծամոնումս ուզելիք
+VŃĭķļխմբագրելVŃĭķļ	կակնածի խմբագրել կակնածի
+VĺĭķĸļբուսնելVĺĭķĸļ	աբստրահեք կաբստրահեք բուսնելու ակնածեմ կակնածի
+NĽĭխնդիրքNĽĭ	ուզելիք խնդիրքի ուզելիք
+NĽĭճիվNĽĭ	ուզելիք ճվի ուզելիք
+NĽĭıմեքսիկNĽĭı	ուզելիք մոռացած մեքսիկներ ուզելիք
+NŁĭıհնարամտությունNŁĭı	հեգնած
+NĽĭĿօսմաներենNĽĭĿ	ուզելիք օսմաներենով ուզելիք
+NİĭıվախNİĭı	վերագրած
+NİįıէակNİįı	էակիդ
+NŁįıֆլոմNŁįı	ֆլոմիցս
+ADJİĭıբեռնյանADJİĭı	կներբեռնեին
+VĺįķĸļĵհեռացնելVĺįķĸļĵ	աբստրահեք կակնածի ակնածեմ կարգահատես
+VŅŉզոդելVŅŉ	զառանցում մեթոդդ
+NĬĭłկողբացիNĬĭł	տեղանվանը
+VĺĭŀļĵհպարտանալVĺĭŀļĵ	ակնածեմ հպարտանայիք ակնածեմ
+ADJĬĭիսլանդերենADJĬĭ	իսլանդերենովս
+ADJŁįĿկոշտADJŁįĿ	կոշտդ
+NĬįզգուշացումNĬį	նախազգուշացումիցս
+NĽįբորբոսNĽį	ուզելիք բորբոսիդ ուզելիք
+VĺĭķĸńĵմաքրելVĺĭķĸńĵ	ակնածեմ կարգահատես չմաքրի աբստրահեք կակնածի
+VĶĭķĸĹնախանձելVĶĭķĸĹ	կակնածի նախանձոտներիդ կարգահատես
+ADJŁĭչարADJŁĭ	չաղոյով
+NŁįıերկկենցաղNŁįı	եպերած երկկենցաղներիցդ
+NŁįընթերցողուհիNŁį	ընթերցողուհիներովս
+ADJŁįıաշխարհահռչակADJŁįı	ահաբեկած աշխարհահռչակում
+VĶįķĸĹաճելVĶįķĸĹ	կարգահատես կակնածի
+NŁĭłժանյակNŁĭł	ժանյակներիցդ տեղանվանը
+VŃįŀļխեղդելVŃįŀļ	խեղդել
+VŃĭŀļĵհարնչելVŃĭŀļĵ	չհարնչեին
+NŁĭłքառուղիNŁĭł	ուղուն տեղանվանը
+NŁįքարփիջNŁį	քարփիճից
+ADJİįıշոտլանդերենADJİįı	շոտլանդերենները
+NŁĭձվածեղNŁĭ	ձվածեղներովս
+NŁĭարտորայքNŁĭ	հետույքով
+NŁįĿտերբիումNŁįĿ	իտերբիումներդ
+VŃĭŀĸļկռնչելVŃĭŀĸļ	կռնչալու
+NĬįıհնախոսNĬįı	հեգնած
+VĶįķļĵինքնահավանելVĶįķļĵ	կարգահատես կակնածի
+VĶįķĸļĵընթեռնելVĶįķĸļĵ	կարգահատես չընթեռնեցին կակնածի
+ADJŁįłղպտիականADJŁįł	ղանոններին ստրիպտիզիդ
+VĶĭķļĵհրապուրելVĶĭķļĵ	կակնածի հրապուրելու կաբստրահեք
+NİĭĿքեռիNİĭĿ	քեռայրիցդ
+NĬĭıառեւանգումNĬĭı	ահաբեկած
+VŃĭķĸńտուժելVŃĭķĸń	կաբստրահեք կարգահատես
+NĬįıանթառամNĬįı	ազդված շանթահարիս
+ADJĮĭֆրանկականADJĮĭ	ֆրանսուհու
+NİĭıընդոծինNİĭı	ընդգծած
+NĽĭĿզարդենիNĽĭĿ	ուզելիք զարդենուս ուզելիք
+VĺĭķĸńցտելVĺĭķĸń	ակնածես կակնածի ցտում ակնածեմ կարգահատես
+NĽĭծույլNĽĭ	ուզելիք ծույլերիդ ուզելիք
+NŁĭıհուշարձանNŁĭı	հեգնած
+NŁįłվերուվերNŁįł	վասալներին
+NĬĭıձայնավորNĬĭı	ձուլած
+ADJŁįłփակյալADJŁįł	փականները
+ADJĽįĿֆրանկականADJĽįĿ	ուզելիք ֆրանկականիցս ուզելիք
+VĺĭŀĸļĵխորխելVĺĭŀĸļĵ	աբստրահեք ակնածես
+NŁįĿվերուվերNŁįĿ	վերուվերներիս
+VĶĭķĸńĵսգալVĶĭķĸńĵ	կարգահատես սգա՛ կարգահատես
+NİįıփուլNİįı	փլված
+VŃĭľĸļĵթրելVŃĭľĸļĵ	թրել
+NŁįփիլիսոփոսNŁį	փիլիսոփայովդ
+NİįթեւքNİį	թեւքին
+VĺĭŀļĵբողոքարկելVĺĭŀļĵ	ակնածես բողոքարկիր աբստրահեք
+NĬįłկոկոսNĬįł	կոկոսիցս
+VŇĵպոռոչելVŇĵ	ագուցահանող պոռոչել ագուցահանող
+NİĭıջայնիզմNİĭı	ջայնիզմումս
+NİĭĿպիոնNİĭĿ	պիոնովս
+NĬĭłշինականNĬĭł	շուրթերը տեղանվանը
+VĶĭķĸĹշարժվելVĶĭķĸĹ	կաբստրահեք կշարժվեր կարգահատես
+VĶįķĸńĵհարելVĶįķĸńĵ	կակնածի կաբստրահեք
+VĶĭķĸńĵգանգրացվելVĶĭķĸńĵ	կաբստրահեք կարգահատես
+NİįիսպանացիNİį	իսպանացին
+VĶįŀĸļĵթարթելVĶįŀĸļĵ	թարթելու
+VĶįķńհորանջելVĶįķń	կակնածի չհորանջեցինք կարգահատես
+NİįıպաղպաղակNİįı	պաղպաղակիցդ
+ADJİĭĿպաշտոնավորADJİĭĿ	պաշտոնավորները
+NİįıփլատակNİįı	փլված
+VĶįķĸĹĵհուսահատվելVĶįķĸĹĵ	կարգահատես հուսահատվի կակնածի
+NĮįĿթաքուստNĮįĿ	թաքուստներիս
+NĬĭասացվածքNĬĭ	ասացվածքներից
+NŁįłքաղցկեղNŁįł	քանակները քաղցկեղովս
+NİĭլանջապանNİĭ	լծակից
+NİĭէլեկտրոլիզNİĭ	էլեկտրականությունից
+NĽĭĿպատուհասNĽĭĿ	ուզելիք պատուհասներիդ ուզելիք
+VŃįķĸńունկնդրելVŃįķĸń	կակնածի ունկնդրելու կարգահատես
+VĶĭķļĵթրելVĶĭķļĵ	կաբստրահեք թրում կակնածի
+NŁĭĿալմանախNŁĭĿ	ալմանախումդ
+VŃĭķĸńճոռոմախոսելVŃĭķĸń	կարգահատես կճոռոմախոսեր կաբստրահեք
+VŃįķńĵուրախացնելVŃįķńĵ	կարգահատես կարգահատես
+ADJŁĭłզառամյալADJŁĭł	զառամյալներիս երաստանին
+ADJĽĭանսպառADJĽĭ	ուզելիք անսպառներիս ուզելիք
+VŇĵառաջադիմելVŇĵ	ագուցահանող առաջադիմում ագուցահանող
+ADJİįĿուժեղADJİįĿ	կուժեղանանք
+NİįıմշուշNİįı	մոռացած շուշաններդ
+VĶįķļզեռալVĶįķļ	կաբստրահեք զեռացել կակնածի
+NİĭĿըմպակNİĭĿ	ըմպակներդ
+ADJİĭĿարտաքինADJİĭĿ	արտաքիններում
+NĽįıվարձNĽįı	ուզելիք վարանած ուզելիք
+ADJŁĭֆաշիստADJŁĭ	ֆերմիումի
+NĽĭĿգրամNĽĭĿ	ուզելիք ուզելիք
+ADJĮĭĿտերունիADJĮĭĿ	տերունիներովդ
+ADJŁįłամերիկյանADJŁįł	ամերիկահային
+ADJŁįծպտյալADJŁį	ծպտում
+VŃįĻļհեգնելVŃįĻļ	հեգնի
+ADJİĭıսեռականADJİĭı	լիսեռներովս
+VŃĭķĸńĵցավելVŃĭķĸńĵ	կաբստրահեք ցավելու կարգահատես
+ADJĽĭıանհանգիստADJĽĭı	ուզելիք ազդված անհանգիստիս ուզելիք
+NĮĭıվինNĮĭı	վերագրած
+VŃįŀĸļĵկաշառելVŃįŀĸļĵ	կաշառելու
+NĮĭıհորսNĮĭı	հեգնած
+VĺĭķńĵվհատելVĺĭķńĵ	ակնածեմ կարգահատես ակնածեմ կակնածի
+VĶĭķļհեգելVĶĭķļ	կաբստրահեք կարգահատես
+NĬįłհայրNĬįł	հայը
+NĽĭıարխիվNĽĭı	ուզելիք ահաբեկած չխարխալեցի ազնիվներս ուզելիք
+VŃĭķĹվանելVŃĭķĹ	կաբստրահեք կարգահատես
+VŃĭķĸńĵշփոթելVŃĭķĸńĵ	կակնածի կարգահատես
+VŃĭľĸļառկայծելVŃĭľĸļ	առկայծի
+VĺįľĸļĵհողդողդելVĺįľĸļĵ	ակնածես չհողդողդեի ակնածեմ
+NĬĭıծափահարությունNĬĭı	ծափահարած
+NİįսրճավաճառNİį	սրճավաճառներին
+ADJĽĭգանգրավունADJĽĭ	ուզելիք ուզելիք
+VŃįķńĵխեղդելVŃįķńĵ	կաբստրահեք խեղդել կակնածի
+NĽįıարքաNĽįı	ուզելիք ահաբեկած ուզելիք
+NĬĭıկիրNĬĭı	կործանած
+NŁĭարծվաբունNŁĭ	արծվաբնին
+NĬįĿզովNĬįĿ	զովին
+ADJĽįĿանհեթեթADJĽįĿ	ուզելիք անհեթեթներում ուզելիք
+VŃįňĵէթալVŃįňĵ	երգիծի էթում երգիծի
+ADJŁįĿձվաձեւADJŁįĿ	պապանձվում գանգրաձեւներովդ
+VĶįľļĵշեշտելVĶįľļĵ	շեշտ
+VĺįľļĵմեծարելVĺįľļĵ	ակնածես մեծարեի աբստրահեք
+VĶįķļĵգրգռելVĶįķļĵ	կակնածի ստորագրելու ագռավանանք կարգահատես
+VŃįķĸńĵփոխանակելVŃįķĸńĵ	կակնածի չփոխանակենք կակնածի
+NĮĭıշերեփNĮĭı	շերեփիս
+ADJĽįաբոնեմենտայինADJĽį	ուզելիք աբոնեմենտայիններումդ ուզելիք
+ADJŁĭıմիացյալADJŁĭı	մոռացած միացյալներ
+VĺĭķļհետազոտելVĺĭķļ	աբստրահեք կակնածի աբստրահեք կարգահատես
+NİĭĿքիլNİĭĿ	քիլերիս
+VĺįķĹմարտնչելVĺįķĹ	աբստրահեք կարգահատես ակնածես կարգահատես
+NĽįıլալոնNĽįı	ուզելիք ուզելիք
+NŁĭĿլեզվաբանNŁĭĿ	լեզվաբանը
+NĽįողջույնNĽį	ուզելիք ողջույնումս ուզելիք
+VĺįķĸńագուցավորելVĺįķĸń	աբստրահեք կակնածի ակնածեմ կաբստրահեք
+NİĭարշավանքNİĭ	արշավանք
+VĶįķĸĹծաղրելVĶįķĸĹ	կաբստրահեք ծաղրելու կաբստրահեք
+NĬĭազդեցության ոլորտNĬĭ	ազդեցությանս
+VĺįŀĸļփարվելVĺįŀĸļ	ակնածեմ ակնածես
+VŃįķļĵնվաղելVŃįķļĵ	կարգահատես կաբստրահեք
+VĺįŀĸļĵփնտրելVĺįŀĸļĵ	ակնածեմ փնտրել ակնածես
+ADJŁįականակիտADJŁį	ականակիտովս
+VĺįŀļĵկարօտելVĺįŀļĵ	ակնածեմ կարօտել աբստրահեք
+VĳĴբտելVĳĴ	կբտեի
+VĺĭľĸļĵաղատելVĺĭľĸļĵ	ակնածես ակնածես
+NĽĭանգNĽĭ	ուզելիք ուզելիք
+NĽįռուսաստանցիNĽį	ուզելիք ռուսաստանցուդ ուզելիք
+NİįĿարգելքNİįĿ	արգելքին
+VĺįľļĵհարսնացնելVĺįľļĵ	աբստրահեք հարսնացրեց աբստրահեք
+VĶįľļĵխմբագրելVĶįľļĵ	խմբագրել
+NĬĭıչինարենNĬĭı	չինարիներս
+VŅĻայցելելVŅĻ	այցելի
+NİįգաղտնիքNİį	գաղտնիքիդ
+ADJİįıարդիականADJİįı	ահաբեկած
+VĺĭľļհոշոտելVĺĭľļ	աբստրահեք հոշոտի ակնածեմ
+NŁįĿպատվոգիրNŁįĿ	պատվոգրերովդ
+NĬĭłէրեկցիաNĬĭł	էրեներովդ տեղանվանը
+NĬįłհագնիNĬįł	հորանները
+NİĭĿվաճառականNİĭĿ	վաճառականները
+ADJĮĭĿսեռականADJĮĭĿ	լիսեռներովս
+VĶįľļĵշփելVĶįľļĵ	շփեիր
+NĬįıատաղձագործNĬįı	ահաբեկած անգործում
+NŁĭłքաջNŁĭł	քաջովս տեղանվանը
+NŁĭտատմայրNŁĭ	տախտակամածի
+NĬĭողնաշարNĬĭ	ստեղնաշարերում
+ADJŁĭłհամրADJŁĭł	տեղանվանը
+VĳĴĵհալածելVĳĴĵ	հալածել
+VĺįķļĵհատկացնելVĺįķļĵ	աբստրահեք կաբստրահեք աբստրահեք կակնածի
+ADJĬĭքաղցրահամADJĬĭ	քաղցրահամներից
+VĶĭĻļտեսնալVĶĭĻļ	կտեսնային
+ADJĮįĿաստուճADJĮįĿ	աստուճներումս
+ADJİįժիրADJİį	ռեժիսորների
+NĽĭıարմNĽĭı	ուզելիք ահաբեկած ուզելիք
+NĮįշառաչNĮį	շառաչիցս
+NĬĭłմատուցողուհիNĬĭł	տեղանվանը
+VľմաղթելVľ	մաղթեին
+VŃįĻļĵշարունակելVŃįĻļĵ	շարունակեիք
+NŁįłհամալսարանNŁįł	հարուստներին համալսարանիցս
+ADJŁĭկարողADJŁĭ	կարոտի
+VĶįķĸĹշփելVĶįķĸĹ	կարգահատես շփել կարգահատես
+ADJĬĭıօմանյանADJĬĭı	օմանյաններիդ
+NĽĭĿօլիգարխNĽĭĿ	ուզելիք օլիգարխիաներումդ ուզելիք
+VĶĭķĹսրճելVĶĭķĹ	կաբստրահեք կարգահատես
+NĬĭłկատեգորիաNĬĭł	կատեգորիայում տեղանվանը
+VĶĭķĸĹĵվրդովվելVĶĭķĸĹĵ	կաբստրահեք վրդովվել կակնածի
+VŃĭľļĵխթելVŃĭľļĵ	խթում
+ADJĽĭıմեծաշենADJĽĭı	ուզելիք մոռացած մեծաշենումդ ուզելիք
+VŃįķĸńĵաղարտելVŃįķĸńĵ	կարգահատես կարգահատես
+ADJĮĭĿհեշտADJĮĭĿ	հեշտիցդ
+VĶįķńկոտրելVĶįķń	կարգահատես կակնածի
+VĺįľĸļĵխոպոպեցնելVĺįľĸļĵ	աբստրահեք ակնածես
+VĶĭľĸļĵխիթալVĶĭľĸļĵ	խիթացել
+NĮįıպլորNĮįı	պլորիս
+ADJĮĭադամանդագործականADJĮĭ	ադամանդագործականների
+NŁĭսարքավորումNŁĭ	սարքավորումներումդ
+ADJĮĭբարվոքADJĮĭ	բարվոքովս
+NĬĭմոխրամանNĬĭ	մոխրագույնի
+NĬĭեղրեւանիNĬĭ	եղրեւանումս
+VŇճկելVŇ	ճողոպրող ագուցահանող
+VĺĭķĹĵհանվելVĺĭķĹĵ	ակնածեմ կակնածի աբստրահեք կակնածի
+NĽĭıծովախորշNĽĭı	ուզելիք ծափահարած ծովախորշերումս ուզելիք

@@ -1,572 +1,896 @@
-ADJ;CMPR;MASC;SG;ACC;DEFтретиADJ;CMPR;MASC;SG;ACC;DEF	третия
-ADJ;MASC;SG;NOM;DEFполувисшADJ;MASC;SG;NOM;DEF	по-полувисшите
-V.MSDR;PL;INDFпопичамV.MSDR;PL;INDF	попичали
-V.PTCP;ACT;PST;MASC;SG;DEF;ACCбушувамV.PTCP;ACT;PST;MASC;SG;DEF;ACC	бушуващия
-ADJ;CMPR;PL;INDFглухонямADJ;CMPR;PL;INDF	глухоням
-N;SG;INDFщукаN;SG;INDF	щуката
-ADJ;CMPR;FEM;SG;DEFмедицинскиADJ;CMPR;FEM;SG;DEF	най-медицинската
-N;SG;VOCзвънецN;SG;VOC	звънците
-V.PTCP;ACT;PST;PL;INDFизплашвамV.PTCP;ACT;PST;PL;INDF	изплашвала
-V;IND;PROG;PST;1;PLпредрекаV;IND;PROG;PST;1;PL	предречем
-N;SG;ACC;DEFхрастN;SG;ACC;DEF	храбреца
-N;SG;ACC;DEFхубавецN;SG;ACC;DEF	по-хубави
-ADJ;MASC;SG;ACC;DEFслънчевADJ;MASC;SG;ACC;DEF	по-слънчеви
-N;PL;INDFагнеN;PL;INDF	агностици
-V.PTCP;ACT;PST;NFH;FEM;SG;INDFпрепекаV.PTCP;ACT;PST;NFH;FEM;SG;INDF	препекла
-V.PTCP;ACT;PST;NFH;PL;INDFпочитамV.PTCP;ACT;PST;NFH;PL;INDF	почитани
-ADJ;CMPR;MASC;SG;VOCгневенADJ;CMPR;MASC;SG;VOC	гневни
-ADJ;NEUT;SG;DEFвъзголямADJ;NEUT;SG;DEF	възголемия голям
-N;PL;VOCдолN;PL;VOC	доле
-V;IND;PST;3;SGзаподозраV;IND;PST;3;SG	заподозрях
-V;IND;PROG;PST;2;SGпасаV;IND;PROG;PST;2;SG	пасеш
-V;IND;PROG;PST;3;SGизковавамV;IND;PROG;PST;3;SG	изковавах
-V.PTCP;ACT;PST;NFH;FEM;SG;INDFгубяV.PTCP;ACT;PST;NFH;FEM;SG;INDF	губен
-N;PLанализN;PL	по-аналитически
-V.PTCP;PASS;PST;PL;INDFпростяV.PTCP;PASS;PST;PL;INDF	простели
-V.PTCP;ACT;PST;NFH;FEM;SG;INDFабдикирамV.PTCP;ACT;PST;NFH;FEM;SG;INDF	абдикирал
-V.PTCP;PASS;PST;FEM;SG;INDFпредплатяV.PTCP;PASS;PST;FEM;SG;INDF	предплатили
-N;PL;DEFзаключениеN;PL;DEF	отключват
-V.PTCP;PASS;PST;FEM;SG;DEFизпияV.PTCP;PASS;PST;FEM;SG;DEF	изпиваната
-N;SG;VOCмонахN;SG;VOC	монаси
-ADJ;SPRL;PL;INDFенергиченADJ;SPRL;PL;INDF	най-енергична
-V;IND;PROG;PST;1;SGсъгласявам сеV;IND;PROG;PST;1;SG	съглася
-ADJ;SPRL;MASC;SG;VOCпрактиченADJ;SPRL;MASC;SG;VOC	най-практичен
-N;PL;DEFзабаваN;PL;DEF	забавата
-V.PTCP;PASS;PST;FEM;SG;DEFизтървавамV.PTCP;PASS;PST;FEM;SG;DEF	изтърваващите
-V;IND;PRS;1;PLвтечняV;IND;PRS;1;PL	втечняваме
-V;IND;PRS;1;PLкладаV;IND;PRS;1;PL	кладохме
-V.PTCP;ACT;PST;PL;DEFизплашаV.PTCP;ACT;PST;PL;DEF	изплашеното
-ADJ;SPRL;PL;DEFтънъкADJ;SPRL;PL;DEF	по-тънката
-ADJ;CMPR;MASC;SG;ACC;DEFазбестовADJ;CMPR;MASC;SG;ACC;DEF	най-азбестовия
-N;SG;INDFбдениеN;SG;INDF	бдението
-V.PTCP;ACT;PST;PL;INDFвъзпраV.PTCP;ACT;PST;PL;INDF	възпирала
-V.PTCP;ACT;PST;NEUT;SG;INDFснасямV.PTCP;ACT;PST;NEUT;SG;INDF	снасяло
-ADJ;CMPR;MASC;SG;NOM;DEFдоверчивADJ;CMPR;MASC;SG;NOM;DEF	доверчивият
-ADJ;CMPR;NEUT;SG;INDFсеверняшкиADJ;CMPR;NEUT;SG;INDF	северняшки
-V.MSDR;PL;DEFимам сеV.MSDR;PL;DEF	ималите
-ADJ;SPRL;PL;DEFсвръхестественADJ;SPRL;PL;DEF	най-свръхестественият
-N;SG;VOCкъделяN;SG;VOC	къделите
-N;PL;DEFлимонN;PL;DEF	лимона
-V;IND;PST;2;SGзапридамV;IND;PST;2;SG	запридаха
-V;IND;PST;2;PLпитам сеV;IND;PST;2;PL	питахте
-ADJ;PL;DEFгосподарскиADJ;PL;DEF	най-господарският
-N;SG;ACC;DEFмилиметърN;SG;ACC;DEF	милиметърът
-V;IND;PROG;PST;3;SGотключвамV;IND;PROG;PST;3;SG	отключваш
-N;PL;DEFногаN;PL;DEF	нозе
-V.PTCP;ACT;PST;MASC;SG;DEF;NOMчакамV.PTCP;ACT;PST;MASC;SG;DEF;NOM	чакало
-V.PTCP;ACT;PRS;MASC;SG;DEF;NOMмразяV.PTCP;ACT;PRS;MASC;SG;DEF;NOM	мразеният
-ADJ;FEM;SG;DEFсръбскиADJ;FEM;SG;DEF	най-сръбския
-V;IND;PROG;PST;1;SGвъзпраV;IND;PROG;PST;1;SG	възлезех
-V.PTCP;PASS;PST;FEM;SG;INDFпопитамV.PTCP;PASS;PST;FEM;SG;INDF	попитал
-V.PTCP;ACT;PST;FEM;SG;DEFспасяV.PTCP;ACT;PST;FEM;SG;DEF	спасените
-ADJ;CMPR;MASC;SG;ACC;DEFалуминиевADJ;CMPR;MASC;SG;ACC;DEF	най-алуминиевия
-V;IND;PST;3;SGвечерямV;IND;PST;3;SG	вечерям
-V.MSDR;NEUT;SG;DEFизпявамV.MSDR;NEUT;SG;DEF	изпявалите
-V.PTCP;PASS;PST;FEM;SG;INDFзапраV.PTCP;PASS;PST;FEM;SG;INDF	запрян
-V;IMP;2;SGизнасямV;IMP;2;SG	изнасяше
-V.PTCP;PASS;PST;PL;DEFнагребвамV.PTCP;PASS;PST;PL;DEF	нагребващите
-N;SG;ACC;DEFгалицизъмN;SG;ACC;DEF	галицизме
-V.CVBпредричамV.CVB	предричащият
-N;PL;INDFпатицаN;PL;INDF	патка
-N;PL;DEFсуевериеN;PL;DEF	суеверия
-ADJ;NEUT;SG;DEFагитационенADJ;NEUT;SG;DEF	най-агитационните
-ADJ;SPRL;NEUT;SG;INDFмакедонскиADJ;SPRL;NEUT;SG;INDF	македонска
-V;IND;PRS;2;SGобещаяV;IND;PRS;2;SG	обещаете
-V;IND;PRS;1;SGоцветявамV;IND;PRS;1;SG	оцветеше
-V.PTCP;PASS;PST;PL;DEFпродължавамV.PTCP;PASS;PST;PL;DEF	продължавалите
-ADJ;NEUT;SG;INDFестетиченADJ;NEUT;SG;INDF	естетична
-V.PTCP;ACT;PST;NFH;MASC;SG;INDFпрепрочитамV.PTCP;ACT;PST;NFH;MASC;SG;INDF	препрочитан
-V.PTCP;ACT;PST;PL;INDFзаплетаV.PTCP;ACT;PST;PL;INDF	заплела
-V.PTCP;ACT;PRS;PL;INDFпадамV.PTCP;ACT;PRS;PL;INDF	падали
-V.PTCP;PASS;PST;MASC;SG;INDFначитамV.PTCP;PASS;PST;MASC;SG;INDF	начитала
-ADJ;MASC;SG;VOCалуминиевADJ;MASC;SG;VOC	по-алуминиеви
-N;SG;DEFсемеN;SG;DEF	племето
-V;IND;PST;1;SGнагребвамV;IND;PST;1;SG	нагребвах
-V.PTCP;PASS;PST;FEM;SG;DEFобещаяV.PTCP;PASS;PST;FEM;SG;DEF	обещани
-N;PL;INDFгръден кошN;PL;INDF	най-гръдни кошовете
-V.PTCP;PASS;PST;NEUT;SG;DEFзанасямV.PTCP;PASS;PST;NEUT;SG;DEF	занасялото
-V.PTCP;ACT;PST;NFH;MASC;SG;INDFодобрявамV.PTCP;ACT;PST;NFH;MASC;SG;INDF	одобрявана
-N;SG;ACC;DEFкелнерN;SG;ACC;DEF	келнере
-ADJ;CMPR;PL;INDFавгиевADJ;CMPR;PL;INDF	най-авгиева
-ADJ;CMPR;MASC;SG;ACC;DEFпродажбенADJ;CMPR;MASC;SG;ACC;DEF	по-продажбените
-ADJ;SPRL;FEM;SG;DEFслънчевADJ;SPRL;FEM;SG;DEF	по-слънчеви
-ADJ;CMPR;NEUT;SG;DEFвъзсинADJ;CMPR;NEUT;SG;DEF	най-възсиньото
-V.PTCP;PASS;PST;MASC;SG;INDFпочитамV.PTCP;PASS;PST;MASC;SG;INDF	почитала
-ADJ;SPRL;FEM;SG;INDFпорнографскиADJ;SPRL;FEM;SG;INDF	порнографски
-ADJ;CMPR;FEM;SG;DEFнисшADJ;CMPR;FEM;SG;DEF	нисшето
-N;SG;NOM;DEFнеприятелN;SG;NOM;DEF	неприятелите
-N;PL;INDFлепилоN;PL;INDF	лепилата
-N;SG;VOCветропоказателN;SG;VOC	ветропоказатели
-V.PTCP;ACT;PRS;MASC;SG;DEF;ACCповтарямV.PTCP;ACT;PRS;MASC;SG;DEF;ACC	повтарящо
-N;PL;VOCабдукцияN;PL;VOC	абдукцийо
-N;SG;VOCбактериологN;SG;VOC	бактериолог
-ADJ;CMPR;FEM;SG;INDFеластиченADJ;CMPR;FEM;SG;INDF	най-еластична
-V.PTCP;ACT;PST;NFH;FEM;SG;INDFпрепичамV.PTCP;ACT;PST;NFH;FEM;SG;INDF	препичаща
-V.PTCP;PASS;PST;MASC;SG;INDFпрепоръчамV.PTCP;PASS;PST;MASC;SG;INDF	препоръчал
-V;IND;PST;1;SGпотушавамV;IND;PST;1;SG	потушах
-V;IND;PRS;1;SGбушувамV;IND;PRS;1;SG	бушувах
-ADJ;FEM;SG;DEFваженADJ;FEM;SG;DEF	по-важната
-ADJ;FEM;SG;DEFбодърADJ;FEM;SG;DEF	бодри
-V.PTCP;ACT;PRS;FEM;SG;DEFимам сеV.PTCP;ACT;PRS;FEM;SG;DEF	имащото
-V;IMP;2;PLпоопекаV;IMP;2;PL	поопечахте
-V.MSDR;NEUT;SG;DEFсъзирамV.MSDR;NEUT;SG;DEF	съзираната
-ADJ;CMPR;MASC;SG;VOCнеопитенADJ;CMPR;MASC;SG;VOC	най-неопитни
-ADJ;SPRL;MASC;SG;NOM;DEFбавничъкADJ;SPRL;MASC;SG;NOM;DEF	най-бавничкото
-V;IND;PROG;PST;2;SGнаклаждамV;IND;PROG;PST;2;SG	наклажда
-V.MSDR;NEUT;SG;DEFнаранявамV.MSDR;NEUT;SG;DEF	нараняваното
-V.PTCP;PASS;PST;NEUT;SG;INDFобсъдяV.PTCP;PASS;PST;NEUT;SG;INDF	обсъдела
-ADJ;SPRL;NEUT;SG;DEFапетитенADJ;SPRL;NEUT;SG;DEF	апетитите
-ADJ;NEUT;SG;INDFвалиденADJ;NEUT;SG;INDF	валиден
-ADJ;FEM;SG;DEFводоравенADJ;FEM;SG;DEF	най-водоравната
-N;SG;VOCагитпропчикN;SG;VOC	агитпропчиците
-N;SG;VOCфемтометърN;SG;VOC	фемтометър
-V;IND;PROG;PST;3;PLаплодирамV;IND;PROG;PST;3;PL	аплодирате
-V.PTCP;ACT;PST;NEUT;SG;DEFискамV.PTCP;ACT;PST;NEUT;SG;DEF	искащата
-V;IND;PRS;2;PLодобрявамV;IND;PRS;2;PL	одобрявахте
-V.PTCP;ACT;PST;NEUT;SG;INDFизпредаV.PTCP;ACT;PST;NEUT;SG;INDF	изпредено
-ADJ;SPRL;FEM;SG;INDFмускулестADJ;SPRL;FEM;SG;INDF	по-мускулеста
-V.MSDR;PL;INDFзачитамV.MSDR;PL;INDF	зачитали
-N;SG;NOM;DEFплодN;SG;NOM;DEF	плода
-N;PLъгълN;PL	тръгвахме биноклите
-V;IND;PRS;3;SGпреживеяV;IND;PRS;3;SG	преживееше
-V;IND;PRS;3;PLспекаV;IND;PRS;3;PL	спечаха
-ADJ;MASC;SG;NOM;DEFгрижливADJ;MASC;SG;NOM;DEF	грижливи
-ADJ;CMPR;NEUT;SG;DEFдалеченADJ;CMPR;NEUT;SG;DEF	по-далечния
-ADJ;CMPR;MASC;SG;INDFагресивенADJ;CMPR;MASC;SG;INDF	по-агресивно
-V.PTCP;ACT;PRS;PL;DEFоцветявамV.PTCP;ACT;PRS;PL;DEF	оцветявалите
-V.PTCP;ACT;PRS;MASC;SG;DEF;NOMзагребвамV.PTCP;ACT;PRS;MASC;SG;DEF;NOM	загребвалата
-V.PTCP;ACT;PST;NFH;NEUT;SG;INDFунищожаV.PTCP;ACT;PST;NFH;NEUT;SG;INDF	унищожаващо
-V;IND;PROG;PST;2;PLполудеяV;IND;PROG;PST;2;PL	полудявате
-V;IND;PST;3;SGпростраV;IND;PST;3;SG	простре
-ADJ;SPRL;PL;INDFхепаталенADJ;SPRL;PL;INDF	най-хепатална
-V;IMP;2;PLпонавлязаV;IMP;2;PL	понавлязохте
-V;IND;PST;2;SGпричиняV;IND;PST;2;SG	причиниш
-V;IND;PST;3;SGподпраV;IND;PST;3;SG	подпра
-N;SG;DEFполитикаN;SG;DEF	политиките
-V.MSDR;NEUT;SG;INDFеба сеV.MSDR;NEUT;SG;INDF	ебяла
-V;IND;PST;2;SGпрепоръчамV;IND;PST;2;SG	препоръчате
-V;IND;PST;1;SGподпраV;IND;PST;1;SG	подпра
-V;IND;PRS;3;SGчувамV;IND;PRS;3;SG	чупи
-V;IND;PST;2;PLцелувамV;IND;PST;2;PL	целуват
-N;PL;DEFгъбаN;PL;DEF	гъсоците
-N;PL;DEFсмянаN;PL;DEF	сметаните
-V;IND;PRS;2;PLбомбардирамV;IND;PRS;2;PL	бомбардирало
-N;SG;NOM;DEFчасовникN;SG;NOM;DEF	часовниците
-V.PTCP;ACT;PST;MASC;SG;DEF;ACCобличамV.PTCP;ACT;PST;MASC;SG;DEF;ACC	обличащия
-V;IMP;2;SGушияV;IMP;2;SG	ушивай
-N;PL;INDFпясъкN;PL;INDF	блясъка
-V;IMP;2;PLнадвнасямV;IMP;2;PL	надвнасяха
-ADJ;SPRL;FEM;SG;DEFнеузрялADJ;SPRL;FEM;SG;DEF	неузрялото
-V;IND;PST;3;SGдъвчаV;IND;PST;3;SG	дъвках
-N;SG;INDFслончеN;SG;INDF	слончето
-ADJ;PL;DEFрускиADJ;PL;DEF	руски
-N;PL;DEFбратоубиецN;PL;DEF	братоубиецо
-ADJ;SPRL;MASC;SG;VOCазотистADJ;SPRL;MASC;SG;VOC	азотисти
-ADJ;MASC;SG;VOCавтономенADJ;MASC;SG;VOC	по-автономни
-N;SG;INDFабсолвенткаN;SG;INDF	най-абсолвентски
-V.PTCP;ACT;PST;MASC;SG;DEF;ACCизмитамV.PTCP;ACT;PST;MASC;SG;DEF;ACC	измитащия
-ADJ;FEM;SG;DEFвещADJ;FEM;SG;DEF	най-вещата
-N;SG;INDFактивистN;SG;INDF	активиста
-ADJ;PL;DEFсребъренADJ;PL;DEF	най-сребърните
-ADJ;CMPR;PL;INDFдълъгADJ;CMPR;PL;INDF	по-дълъг
-V;IND;PRS;3;SGпревъзнесаV;IND;PRS;3;SG	превъзнесеше
-N;SG;INDFчобанинN;SG;INDF	чобани
-V;IND;PRS;2;SGцупя сеV;IND;PRS;2;SG	цупеше
-V.PTCP;ACT;PST;PL;INDFотключаV.PTCP;ACT;PST;PL;INDF	отключел
-V.MSDR;NEUT;SG;DEFнапредвамV.MSDR;NEUT;SG;DEF	напредвалата
-V;IND;PRS;1;SGрешавамV;IND;PRS;1;SG	решавах
-V.PTCP;ACT;PST;NFH;NEUT;SG;INDFпричиняV.PTCP;ACT;PST;NFH;NEUT;SG;INDF	причинило
-ADJ;SPRL;PL;DEFагресивенADJ;SPRL;PL;DEF	агресивния
-ADJ;CMPR;PL;DEFеластиченADJ;CMPR;PL;DEF	по-еластичното
-N;PL;DEFцитатN;PL;DEF	циците
-ADJ;CMPR;NEUT;SG;INDFненадежденADJ;CMPR;NEUT;SG;INDF	ненадеждни
-V;IND;PST;1;PLснесаV;IND;PST;1;PL	снесяхме
-V;IND;PST;3;SGнавраV;IND;PST;3;SG	навреше
-V;IND;PROG;PST;3;SGзабодаV;IND;PROG;PST;3;SG	забоде
-ADJ;CMPR;MASC;SG;ACC;DEFперпендикуляренADJ;CMPR;MASC;SG;ACC;DEF	най-перпендикулярният
-V;IND;PROG;PST;1;PLпреживеяV;IND;PROG;PST;1;PL	преживявахме
-V.PTCP;ACT;PST;NEUT;SG;INDFопридамV.PTCP;ACT;PST;NEUT;SG;INDF	опридане
-ADJ;MASC;SG;INDFвтороразреденADJ;MASC;SG;INDF	най-второразрядно
-V;IND;PST;2;PLнаобличамV;IND;PST;2;PL	наобличате
-V.PTCP;PASS;PST;MASC;SG;INDFшибамV.PTCP;PASS;PST;MASC;SG;INDF	шибал
-V.PTCP;PASS;PST;MASC;SG;DEF;ACCизкупувамV.PTCP;PASS;PST;MASC;SG;DEF;ACC	изкупувал
-V.MSDR;NEUT;SG;INDFвечерямV.MSDR;NEUT;SG;INDF	вечеряла
-ADJ;MASC;SG;ACC;DEFдебелADJ;MASC;SG;ACC;DEF	по-дебелия
-V;IND;PST;1;PLлижаV;IND;PST;1;PL	лижем
-ADJ;SPRL;NEUT;SG;INDFсветлосинADJ;SPRL;NEUT;SG;INDF	най-светлосините
-V;IND;PROG;PST;3;SGизревавамV;IND;PROG;PST;3;SG	изревава
-N;PLшумN;PL	шумовете
-ADJ;CMPR;PL;INDFалтовADJ;CMPR;PL;INDF	алтернативи
-N;PL;INDFотмянаN;PL;INDF	отмяна
-V;IND;PROG;PST;1;PLползвамV;IND;PROG;PST;1;PL	ползвахте
-ADJ;MASC;SG;VOCаларменADJ;MASC;SG;VOC	по-алармена
-V.PTCP;ACT;PRS;PL;INDFшантажирамV.PTCP;ACT;PRS;PL;INDF	шантажирала
-ADJ;CMPR;MASC;SG;NOM;DEFгъвкавADJ;CMPR;MASC;SG;NOM;DEF	по-гъвкави
-N;SG;INDFтуркиняN;SG;INDF	най-турско
-V;IND;PRS;3;PLзашияV;IND;PRS;3;PL	зашиеха
-N;PL;DEFшаранN;PL;DEF	шаран
-V.PTCP;ACT;PST;PL;DEFсмазвамV.PTCP;ACT;PST;PL;DEF	смазваните
-V;IND;PST;3;SGпронесаV;IND;PST;3;SG	пронесете
-ADJ;CMPR;PL;DEFблагоразуменADJ;CMPR;PL;DEF	най-благоразумната
-V;IND;PRS;1;PLизслушвамV;IND;PRS;1;PL	изслушвахме
-ADJ;FEM;SG;DEFинфантиленADJ;FEM;SG;DEF	по-инфантилната
-V.PTCP;ACT;PST;FEM;SG;INDFанатемосвамV.PTCP;ACT;PST;FEM;SG;INDF	анатемосвали
-V;IND;PROG;PST;3;PLпрегърнаV;IND;PROG;PST;3;PL	прегърнаха
-V.PTCP;ACT;PST;FEM;SG;DEFпопичамV.PTCP;ACT;PST;FEM;SG;DEF	попичаната
-V;IND;PST;3;SGцупя сеV;IND;PST;3;SG	цупеше
-V.PTCP;ACT;PRS;FEM;SG;DEFпопичамV.PTCP;ACT;PRS;FEM;SG;DEF	попичаната
-N;SG;DEFконтрамяркаN;SG;DEF	контрамерки
-V.PTCP;ACT;PRS;NEUT;SG;INDFпривнасямV.PTCP;ACT;PRS;NEUT;SG;INDF	привнасяла
-ADJ;SPRL;FEM;SG;INDFдоверчивADJ;SPRL;FEM;SG;INDF	доверчивост
-V.MSDR;PL;INDFподслушвамV.MSDR;PL;INDF	подслушвал
-V;IND;PST;3;SGпричиняV;IND;PST;3;SG	причинява
-V.PTCP;PASS;PST;MASC;SG;DEF;NOMближаV.PTCP;PASS;PST;MASC;SG;DEF;NOM	ближещият
-V;IND;PRS;3;SGизпивамV;IND;PRS;3;SG	изпиташе
-ADJ;SPRL;PL;INDFдързъкADJ;SPRL;PL;INDF	най-дръзкия
-V;IND;PRS;1;SGпреживявамV;IND;PRS;1;SG	преживявах
-V.MSDR;NEUT;SG;DEFправяV.MSDR;NEUT;SG;DEF	правенията-нетата
-ADJ;SPRL;FEM;SG;DEFглухонямADJ;SPRL;FEM;SG;DEF	най-глухонямото
-N;SG;ACC;DEFалигаторN;SG;ACC;DEF	алигатор
-N;PL;INDFковчегN;PL;INDF	ковчезите
-ADJ;CMPR;PL;DEFабдоминаленADJ;CMPR;PL;DEF	по-абдоминалния
-ADJ;SPRL;MASC;SG;ACC;DEFпродажбенADJ;SPRL;MASC;SG;ACC;DEF	най-продажбеното
-V.PTCP;ACT;PST;NFH;MASC;SG;INDFспасяV.PTCP;ACT;PST;NFH;MASC;SG;INDF	спасила
-V.PTCP;ACT;PST;PL;DEFвзимамV.PTCP;ACT;PST;PL;DEF	взиманите
-ADJ;SPRL;NEUT;SG;DEFазиатскиADJ;SPRL;NEUT;SG;DEF	азиатското
-N;SG;VOCангличанкаN;SG;VOC	англичанино
-N;PL;INDFавантюристN;PL;INDF	авантюристичен
-V.PTCP;ACT;PST;NFH;FEM;SG;INDFзачитамV.PTCP;ACT;PST;NFH;FEM;SG;INDF	зачитащо
-V.PTCP;PASS;PST;PL;INDFвземамV.PTCP;PASS;PST;PL;INDF	вземало
-V.PTCP;ACT;PRS;NEUT;SG;DEFприсъствамV.PTCP;ACT;PRS;NEUT;SG;DEF	присъствала
-V.PTCP;PASS;PST;PL;DEFзакупувамV.PTCP;PASS;PST;PL;DEF	закупувалите
-ADJ;MASC;SG;NOM;DEFморскосинADJ;MASC;SG;NOM;DEF	по-морскосинята
-ADJ;SPRL;MASC;SG;INDFполувисшADJ;SPRL;MASC;SG;INDF	по-полувисше
-N;PL;DEFполусянкаN;PL;DEF	полуделите сенки
-V.PTCP;ACT;PST;NEUT;SG;INDFшантажирамV.PTCP;ACT;PST;NEUT;SG;INDF	шантажирала
-N;PL;INDFфериботN;PL;INDF	ферибота
-ADJ;SPRL;MASC;SG;INDFчернодробенADJ;SPRL;MASC;SG;INDF	чернодробен
-N;SG;INDFагресияN;SG;INDF	агресии
-ADJ;PL;INDFдетинскиADJ;PL;INDF	най-детински
-V.PTCP;ACT;PST;FEM;SG;INDFзаметаV.PTCP;ACT;PST;FEM;SG;INDF	заметен
-V.PTCP;ACT;PRS;PL;INDFмоляV.PTCP;ACT;PRS;PL;INDF	молещи
-N;PL;VOCцаркиняN;PL;VOC	царици
-V.PTCP;ACT;PRS;NEUT;SG;INDFсънувамV.PTCP;ACT;PRS;NEUT;SG;INDF	сънувал
-V;IND;PST;3;SGинтересувам сеV;IND;PST;3;SG	интересувалите
-V;IND;PROG;PST;3;PLгласувамV;IND;PROG;PST;3;PL	гласуваха
-N;SG;VOCчорапN;SG;VOC	чорапи
-ADJ;PL;INDFшестиADJ;PL;INDF	шести
-ADJ;CMPR;NEUT;SG;INDFвертикаленADJ;CMPR;NEUT;SG;INDF	вертикална
-N;SG;VOCзмеицаN;SG;VOC	змеици
-V;IND;PROG;PST;2;PLзачевамV;IND;PROG;PST;2;PL	зачевахте
-V.PTCP;PASS;PST;PL;INDFзапалвамV.PTCP;PASS;PST;PL;INDF	запалвали
-ADJ;CMPR;NEUT;SG;DEFнеголямADJ;CMPR;NEUT;SG;DEF	неголеми
-V.PTCP;ACT;PST;NEUT;SG;INDFвтечнявамV.PTCP;ACT;PST;NEUT;SG;INDF	втечнявал
-ADJ;NEUT;SG;INDFздравADJ;NEUT;SG;INDF	най-здраво
-ADJ;CMPR;MASC;SG;INDFвалиденADJ;CMPR;MASC;SG;INDF	валиден
-ADJ;SPRL;MASC;SG;VOCбактериаленADJ;SPRL;MASC;SG;VOC	по-бактериални
-V;IND;PST;2;SGпестяV;IND;PST;2;SG	пестеше
-V.MSDR;PL;INDFарестувамV.MSDR;PL;INDF	арестуваща
-N;PL;VOCавтостопN;PL;VOC	автостоп
-N;PL;DEFвръхN;PL;DEF	дъха
-V.PTCP;ACT;PST;FEM;SG;INDFнакладаV.PTCP;ACT;PST;FEM;SG;INDF	накладяла
-N;SG;VOCфениксN;SG;VOC	феникси
-ADJ;MASC;SG;INDFабстрактенADJ;MASC;SG;INDF	по-абстрактният
-V.PTCP;ACT;PST;PL;DEFпотушавамV.PTCP;ACT;PST;PL;DEF	потушаванията-нетата
-V.PTCP;ACT;PST;PL;DEFчуяV.PTCP;ACT;PST;PL;DEF	чудесата
-V.PTCP;ACT;PST;NEUT;SG;INDFпрегърнаV.PTCP;ACT;PST;NEUT;SG;INDF	прегърнал
-V;IND;PROG;PST;1;PLдопичамV;IND;PROG;PST;1;PL	допичахме
-ADJ;CMPR;NEUT;SG;DEFжелезенADJ;CMPR;NEUT;SG;DEF	желалото
-ADJ;PL;INDFширокADJ;PL;INDF	по-широк
-V;IMP;2;PLсвирамV;IMP;2;PL	свирате
-N;SG;INDFимеN;SG;INDF	имала
-V;IND;PRS;2;SGарестувамV;IND;PRS;2;SG	арестувам
-V;IND;PRS;3;SGсприятелявам сеV;IND;PRS;3;SG	сприятели
-V;IND;PROG;PST;1;SGсъзирамV;IND;PROG;PST;1;SG	съзираш
-ADJ;SPRL;NEUT;SG;INDFабстрактенADJ;SPRL;NEUT;SG;INDF	по-абстрактният
-V.PTCP;ACT;PST;PL;INDFанулирамV.PTCP;ACT;PST;PL;INDF	анулирания-нета
-V;IND;PROG;PST;1;SGпрепрочетаV;IND;PROG;PST;1;SG	препрочетох
-ADJ;NEUT;SG;INDFгневенADJ;NEUT;SG;INDF	гневни
-N;PL;VOCмъртвецN;PL;VOC	мъртъвците
-N;SG;INDFанглицизъмN;SG;INDF	ангел галицизме
-V.PTCP;ACT;PST;NEUT;SG;INDFзанасямV.PTCP;ACT;PST;NEUT;SG;INDF	занасящо
-V.PTCP;ACT;PST;NEUT;SG;INDFсъздамV.PTCP;ACT;PST;NEUT;SG;INDF	създали
-ADJ;FEM;SG;INDFгерманскиADJ;FEM;SG;INDF	най-германски
-V.PTCP;PASS;PST;MASC;SG;DEF;NOMпикаяV.PTCP;PASS;PST;MASC;SG;DEF;NOM	пикаещата
-ADJ;SPRL;FEM;SG;DEFстомашенADJ;SPRL;FEM;SG;DEF	по-стомашното
-ADJ;MASC;SG;VOCразсъдливADJ;MASC;SG;VOC	неразсъдливия
-V;IND;PRS;2;SGотнасямV;IND;PRS;2;SG	отнася
-ADJ;MASC;SG;VOCалкохоленADJ;MASC;SG;VOC	алкохолният
-V;IND;PST;1;SGвзимамV;IND;PST;1;SG	взимаха
-V;IND;PST;3;PLпрелъстявамV;IND;PST;3;PL	прелъстиха
-ADJ;SPRL;MASC;SG;ACC;DEFавстралийскиADJ;SPRL;MASC;SG;ACC;DEF	най-австралийски
-V;IND;PST;3;SGотключаV;IND;PST;3;SG	отключеше
-V.PTCP;ACT;PST;MASC;SG;DEF;NOMубедяV.PTCP;ACT;PST;MASC;SG;DEF;NOM	убедели
-ADJ;SPRL;FEM;SG;INDFантиченADJ;SPRL;FEM;SG;INDF	по-антична
-V.PTCP;ACT;PST;PL;DEFползвамV.PTCP;ACT;PST;PL;DEF	ползващото
-ADJ;SPRL;MASC;SG;INDFдребенADJ;SPRL;MASC;SG;INDF	най-дребна
-V;IND;PST;3;SGпитам сеV;IND;PST;3;SG	пика
-V;IND;PRS;2;SGдебелеяV;IND;PRS;2;SG	дебелееше
-V.PTCP;PASS;PST;PL;INDFпрепрочитамV.PTCP;PASS;PST;PL;INDF	препрочитащи
-ADJ;MASC;SG;VOCписателскиADJ;MASC;SG;VOC	по-писателски
-V;IMP;2;SGподвеждамV;IMP;2;SG	подведи
-ADJ;MASC;SG;VOCвероятенADJ;MASC;SG;VOC	най-вероятни
-V;IND;PRS;2;PLоцветявамV;IND;PRS;2;PL	оцветявахте
-V;IND;PST;1;SGобзавеждамV;IND;PST;1;SG	обзавежда
-V;IND;PRS;3;PLцупя сеV;IND;PRS;3;PL	цупеха
-V;IMP;2;PLомитамV;IMP;2;PL	омитахме
-N;SG;VOCприятелкаN;SG;VOC	приятели
-ADJ;SPRL;FEM;SG;DEFсеизмиченADJ;SPRL;FEM;SG;DEF	най-сеизмичните
-V.PTCP;ACT;PST;MASC;SG;DEF;NOMунищожаV.PTCP;ACT;PST;MASC;SG;DEF;NOM	унищожавалата
-ADJ;MASC;SG;VOCзълADJ;MASC;SG;VOC	зъбе
-V.PTCP;ACT;PST;MASC;SG;INDFшантажирамV.PTCP;ACT;PST;MASC;SG;INDF	шантажирала
-N;PL;DEFалкохолN;PL;DEF	алкохоличките
-V;IND;PROG;PST;3;PLизкупувамV;IND;PROG;PST;3;PL	изкупувате
-ADJ;SPRL;FEM;SG;INDFперпендикуляренADJ;SPRL;FEM;SG;INDF	най-перпендикулярен
-V.PTCP;PASS;PST;MASC;SG;INDFсъздавамV.PTCP;PASS;PST;MASC;SG;INDF	създал
-V;IND;PROG;PST;3;SGвковавамV;IND;PROG;PST;3;SG	вковавах
-ADJ;CMPR;MASC;SG;INDFсръбскиADJ;CMPR;MASC;SG;INDF	сръбски
-N;SG;VOCчайкаN;SG;VOC	чайките
-N;PLгуляйN;PL	гуляите
-V.PTCP;PASS;PST;PL;INDFпренесаV.PTCP;PASS;PST;PL;INDF	пренесена
-ADJ;MASC;SG;NOM;DEFазотистADJ;MASC;SG;NOM;DEF	по-азотистият
-V.PTCP;ACT;PRS;MASC;SG;INDFкупувамV.PTCP;ACT;PRS;MASC;SG;INDF	купували
-ADJ;SPRL;MASC;SG;ACC;DEFнедоврялADJ;SPRL;MASC;SG;ACC;DEF	по-недоврелите
-V.PTCP;ACT;PRS;FEM;SG;DEFпреживявамV.PTCP;ACT;PRS;FEM;SG;DEF	преживяната
-N;PL;DEFадвокатN;PL;DEF	адвокате
-N;SG;ACC;DEFсинигерN;SG;ACC;DEF	синигерите
-V.PTCP;PASS;PST;PL;INDFоцветявамV.PTCP;PASS;PST;PL;INDF	оцветявания-нета
-V.PTCP;ACT;PRS;FEM;SG;INDFснасямV.PTCP;ACT;PRS;FEM;SG;INDF	снасяло
-V.PTCP;ACT;PST;NEUT;SG;INDFпеяV.PTCP;ACT;PST;NEUT;SG;INDF	пеело
-V.PTCP;ACT;PST;MASC;SG;DEF;ACCподнесаV.PTCP;ACT;PST;MASC;SG;DEF;ACC	поднесели
-ADJ;CMPR;MASC;SG;INDFгрижливADJ;CMPR;MASC;SG;INDF	грижливи
-V;IND;PST;1;PLподчертаяV;IND;PST;1;PL	подчертаехме
-V.PTCP;PASS;PST;FEM;SG;INDFизпеяV.PTCP;PASS;PST;FEM;SG;INDF	изпеели
-V;IND;PROG;PST;1;PLразбераV;IND;PROG;PST;1;PL	разберат
-ADJ;NEUT;SG;INDFавгустейшиADJ;NEUT;SG;INDF	най-августейшо
-V.MSDR;PL;DEFстудентствамV.MSDR;PL;DEF	студентстването
-N;SG;INDFсладоледN;SG;INDF	сладоледи
-V;IND;PST;2;PLзавраV;IND;PST;2;PL	завряхте
-ADJ;CMPR;MASC;SG;INDFавангарденADJ;CMPR;MASC;SG;INDF	най-авангарден
-N;SG;VOCалкохоликN;SG;VOC	по-алкохолния
-V;IND;PROG;PST;1;SGпростяV;IND;PROG;PST;1;SG	прости
-V.MSDR;PL;DEFнанасямV.MSDR;PL;DEF	нанасянето
-V.PTCP;ACT;PST;NFH;FEM;SG;INDFподметаV.PTCP;ACT;PST;NFH;FEM;SG;INDF	подметени
-V;IMP;2;PLпоглеждамV;IMP;2;PL	погледнете
-ADJ;SPRL;PL;INDFсеренADJ;SPRL;PL;INDF	най-сярна
-V;IND;PST;2;SGнадвнасямV;IND;PST;2;SG	надвнасях
-ADJ;NEUT;SG;DEFамериканскиADJ;NEUT;SG;DEF	най-американският
-ADJ;SPRL;NEUT;SG;DEFобиленADJ;SPRL;NEUT;SG;DEF	обилната
-ADJ;SPRL;PL;DEFбързичъкADJ;SPRL;PL;DEF	по-бързичките
-N;PL;DEFазербайджанецN;PL;DEF	азербайджанец
-ADJ;SPRL;PL;DEFвисокADJ;SPRL;PL;DEF	по-високите
-V.PTCP;ACT;PRS;MASC;SG;DEF;ACCтанцувамV.PTCP;ACT;PRS;MASC;SG;DEF;ACC	танцувания
-ADJ;SPRL;PL;DEFотровенADJ;SPRL;PL;DEF	отровната
-V;IND;PST;2;SGомитамV;IND;PST;2;SG	омитай
-ADJ;CMPR;MASC;SG;ACC;DEFгневенADJ;CMPR;MASC;SG;ACC;DEF	гневни
-V;IND;PST;1;SGзапалвамV;IND;PST;1;SG	запалва
-N;SG;VOCсъперницаN;SG;VOC	съперницата
-V.PTCP;ACT;PST;NFH;FEM;SG;INDFзаметаV.PTCP;ACT;PST;NFH;FEM;SG;INDF	заметен
-V.PTCP;ACT;PST;NFH;MASC;SG;INDFобещаяV.PTCP;ACT;PST;NFH;MASC;SG;INDF	обещан
-ADJ;CMPR;MASC;SG;NOM;DEFтънъкADJ;CMPR;MASC;SG;NOM;DEF	по-тънката
-V.PTCP;ACT;PST;MASC;SG;DEF;ACCпостроявамV.PTCP;ACT;PST;MASC;SG;DEF;ACC	построяващия
-V.PTCP;ACT;PST;MASC;SG;DEF;NOMуча сеV.PTCP;ACT;PST;MASC;SG;DEF;NOM	учещият
-V.PTCP;PASS;PST;FEM;SG;INDFизпявамV.PTCP;PASS;PST;FEM;SG;INDF	изпявало
-ADJ;CMPR;FEM;SG;DEFлекторскиADJ;CMPR;FEM;SG;DEF	най-лекторското
-V.PTCP;ACT;PST;NEUT;SG;INDFприпекаV.PTCP;ACT;PST;NEUT;SG;INDF	припечен
-V;IND;PST;2;PLизкупувамV;IND;PST;2;PL	изкупувате
-ADJ;SPRL;MASC;SG;ACC;DEFподробенADJ;SPRL;MASC;SG;ACC;DEF	най-подробният
-V;IMP;2;PLкупувамV;IMP;2;PL	купувате
-V;IND;PROG;PST;1;SGпречупяV;IND;PROG;PST;1;SG	пречупи
-V.PTCP;ACT;PST;NFH;FEM;SG;INDFозадачаV.PTCP;ACT;PST;NFH;FEM;SG;INDF	озадачил
-N;SG;INDFгрижаN;SG;INDF	грижи
-ADJ;CMPR;MASC;SG;ACC;DEFсатанинскиADJ;CMPR;MASC;SG;ACC;DEF	по-сатанински
-N;PL;INDFаберацияN;PL;INDF	аберациите
-ADJ;CMPR;FEM;SG;INDFнадежденADJ;CMPR;FEM;SG;INDF	надеждна
-V;IND;PRS;3;PLкомбинирамV;IND;PRS;3;PL	комбинираха
-N;PL;VOCалгоритъмN;PL;VOC	алгоритъмът
-ADJ;SPRL;NEUT;SG;INDFабатскиADJ;SPRL;NEUT;SG;INDF	по-абатски
-V;IND;PST;1;SGнапредвамV;IND;PST;1;SG	напредваше
-ADJ;MASC;SG;ACC;DEFясенADJ;MASC;SG;ACC;DEF	най-ясния
-V.PTCP;ACT;PST;FEM;SG;INDFразхождам сеV.PTCP;ACT;PST;FEM;SG;INDF	разхождана
-ADJ;SPRL;FEM;SG;DEFмайсторскиADJ;SPRL;FEM;SG;DEF	по-майсторската
-N;SG;INDFбинокълN;SG;INDF	биноклите
-ADJ;SPRL;PL;DEFотличенADJ;SPRL;PL;DEF	най-отличната
-N;SG;INDFрушветN;SG;INDF	рушвете
-N;SG;ACC;DEFшвейцарецN;SG;ACC;DEF	швейцарският
-V;IND;PST;2;SGговоряV;IND;PST;2;SG	говори
-V.PTCP;ACT;PST;NEUT;SG;INDFзагивамV.PTCP;ACT;PST;NEUT;SG;INDF	загиващо
-ADJ;CMPR;NEUT;SG;DEFосъществимADJ;CMPR;NEUT;SG;DEF	най-осъществимото
-N;SG;ACC;DEFбордейN;SG;ACC;DEF	бордеят
-V.PTCP;ACT;PST;NFH;NEUT;SG;INDFобезсмъртявамV.PTCP;ACT;PST;NFH;NEUT;SG;INDF	обезсмъртяване
-V;IND;PST;2;PLпревеждамV;IND;PST;2;PL	превеждахте
-ADJ;CMPR;FEM;SG;INDFдързъкADJ;CMPR;FEM;SG;INDF	по-дръзкият
-N;SG;DEFсоколицаN;SG;DEF	соколици
-V;IND;PROG;PST;3;SGизплетаV;IND;PROG;PST;3;SG	изплетеше
-V.MSDR;NEUT;SG;INDFзакупувамV.MSDR;NEUT;SG;INDF	закупуващи
-V;IND;PROG;PST;2;PLобковавамV;IND;PROG;PST;2;PL	обковаваме
-ADJ;CMPR;PL;INDFпърворазреденADJ;CMPR;PL;INDF	по-първоразрядно
-V.PTCP;ACT;PST;NFH;NEUT;SG;INDFобвинявамV.PTCP;ACT;PST;NFH;NEUT;SG;INDF	обвинявали
-N;SG;INDFгърдаN;SG;INDF	гърди
-V.PTCP;ACT;PST;MASC;SG;DEF;NOMухапяV.PTCP;ACT;PST;MASC;SG;DEF;NOM	ухапело
-V.PTCP;PASS;PST;MASC;SG;INDFподнесаV.PTCP;PASS;PST;MASC;SG;INDF	поднесъл
-ADJ;SPRL;NEUT;SG;DEFнекомпетентенADJ;SPRL;NEUT;SG;DEF	най-некомпетентната
-ADJ;MASC;SG;NOM;DEFтънъкADJ;MASC;SG;NOM;DEF	по-тънката
-ADJ;PL;DEFслънчевADJ;PL;DEF	по-слънчеви
-V;IND;PRS;2;PLвковавамV;IND;PRS;2;PL	вковават
-V;IND;PST;1;PLобосновавамV;IND;PST;1;PL	обосновава
-V.PTCP;PASS;PST;MASC;SG;INDFизтървавамV.PTCP;PASS;PST;MASC;SG;INDF	изтърваващ
-ADJ;MASC;SG;NOM;DEFбезскрупуленADJ;MASC;SG;NOM;DEF	по-безскрупулния
-V.PTCP;ACT;PST;NFH;NEUT;SG;INDFмлъквамV.PTCP;ACT;PST;NFH;NEUT;SG;INDF	млъкване
-N;PLсловенецN;PL	словенци
-V.PTCP;ACT;PRS;NEUT;SG;DEFаплодирамV.PTCP;ACT;PRS;NEUT;SG;DEF	аплодиралите
-N;PL;DEFкилолитърN;PL;DEF	килолитъра
-V;IND;PST;2;PLподписвам сеV;IND;PST;2;PL	написвалото
-ADJ;CMPR;FEM;SG;INDFпорнографиченADJ;CMPR;FEM;SG;INDF	по-порнографичната
-V;IND;PROG;PST;1;SGпрепрочитамV;IND;PROG;PST;1;SG	препрочита
-V.PTCP;PASS;PST;MASC;SG;DEF;ACCнасичамV.PTCP;PASS;PST;MASC;SG;DEF;ACC	насичалия
-V;IND;PRS;3;SGдовеждамV;IND;PRS;3;SG	довежда
-N;SG;ACC;DEFварваринN;SG;ACC;DEF	варварите
-V.PTCP;ACT;PRS;PL;INDFотвеждамV.PTCP;ACT;PRS;PL;INDF	отвеждала
-V.PTCP;ACT;PST;PL;DEFозадачавамV.PTCP;ACT;PST;PL;DEF	озадачаващото
-N;SG;ACC;DEFорганизъмN;SG;ACC;DEF	микроорганизмите
-ADJ;CMPR;MASC;SG;INDFнемскиADJ;CMPR;MASC;SG;INDF	най-немско
-N;PL;VOCученикN;PL;VOC	ученикът
-ADJ;CMPR;MASC;SG;INDFсъвършенADJ;CMPR;MASC;SG;INDF	най-съвършена
-ADJ;MASC;SG;INDFавторитаренADJ;MASC;SG;INDF	по-авторитарно
-ADJ;SPRL;PL;INDFнисшADJ;SPRL;PL;INDF	по-нисша
-V;IND;PST;1;SGнаводнявамV;IND;PST;1;SG	наводнявай
-V.PTCP;ACT;PST;NFH;FEM;SG;INDFпеяV.PTCP;ACT;PST;NFH;FEM;SG;INDF	пяла
-ADJ;SPRL;MASC;SG;ACC;DEFанархиченADJ;SPRL;MASC;SG;ACC;DEF	анархичния
-N;SG;VOCраздялаN;SG;VOC	раздяла
-V.PTCP;PASS;PST;FEM;SG;INDFограничавамV.PTCP;PASS;PST;FEM;SG;INDF	ограничаващ
-V.PTCP;PASS;PST;FEM;SG;DEFизбераV.PTCP;PASS;PST;FEM;SG;DEF	избралото
-V;IND;PST;2;SGпрехапвамV;IND;PST;2;SG	прехапваш
-ADJ;CMPR;MASC;SG;VOCварварскиADJ;CMPR;MASC;SG;VOC	най-варварски
-V;IMP;2;PLграничаV;IMP;2;PL	граничите
-V.PTCP;ACT;PRS;MASC;SG;INDFстудентствамV.PTCP;ACT;PRS;MASC;SG;INDF	студентствала
-ADJ;SPRL;PL;INDFсеизмиченADJ;SPRL;PL;INDF	сеизмичен
-V;IND;PST;1;PLпотъвамV;IND;PST;1;PL	потъвахте
-ADJ;SPRL;MASC;SG;NOM;DEFвертикаленADJ;SPRL;MASC;SG;NOM;DEF	вертикалния
-ADJ;SPRL;FEM;SG;INDFкосместADJ;SPRL;FEM;SG;INDF	косместия
-ADJ;MASC;SG;VOCлявADJ;MASC;SG;VOC	най-лявото
-V.PTCP;PASS;PST;MASC;SG;DEF;ACCмечтаяV.PTCP;PASS;PST;MASC;SG;DEF;ACC	мечтаните
-ADJ;CMPR;PL;DEFлюбезенADJ;CMPR;PL;DEF	по-любезния
-V;IND;PROG;PST;1;SGвъзпирамV;IND;PROG;PST;1;SG	възпирай
-ADJ;CMPR;PL;INDFучителскиADJ;CMPR;PL;INDF	най-учителски
-N;SG;DEFбъзлаN;SG;DEF	бъзлите
-V.PTCP;ACT;PST;PL;DEFобесвамV.PTCP;ACT;PST;PL;DEF	обесващото
-V;IND;PST;1;PLпрочетаV;IND;PST;1;PL	прочетем
-V;IND;PRS;2;SGвлюбвам сеV;IND;PRS;2;SG	влюбва
-N;PL;DEFбудилникN;PL;DEF	будалите
-N;PL;DEFавторитетN;PL;DEF	авторитетните
-N;SG;ACC;DEFасириецN;SG;ACC;DEF	асириец
-ADJ;SPRL;MASC;SG;INDFвтороразреденADJ;SPRL;MASC;SG;INDF	най-второразрядно
-ADJ;CMPR;NEUT;SG;INDFнеопитенADJ;CMPR;NEUT;SG;INDF	по-неопитна
-V.PTCP;PASS;PST;FEM;SG;INDFполучаV.PTCP;PASS;PST;FEM;SG;INDF	получавала
-ADJ;CMPR;PL;INDFвъзтесенADJ;CMPR;PL;INDF	възтесни
-V.PTCP;ACT;PRS;MASC;SG;INDFвземамV.PTCP;ACT;PRS;MASC;SG;INDF	вземало
-N;PL;VOCавстралиецN;PL;VOC	австралийците
-N;PL;VOCавтономияN;PL;VOC	автономиите
-N;SG;DEFбедроN;SG;DEF	бедра
-V;IND;PROG;PST;1;PLподобря сеV;IND;PROG;PST;1;PL	подобрявахме
-V;IND;PROG;PST;2;SGзаслужавамV;IND;PROG;PST;2;SG	заслужава
-N;SG;INDFбелогвардейкаN;SG;INDF	белогвардейко
-N;PL;DEFкомунисткаN;PL;DEF	комунистки
-V.MSDR;NEUT;SG;INDFзаподозирамV.MSDR;NEUT;SG;INDF	заподозирания-нета
-V;IND;PST;2;PLизковавамV;IND;PST;2;PL	изковават
-ADJ;CMPR;FEM;SG;DEFсветлосинADJ;CMPR;FEM;SG;DEF	най-светлосините
-V.PTCP;ACT;PST;MASC;SG;INDFцелувамV.PTCP;ACT;PST;MASC;SG;INDF	целуван
-V;IND;PROG;PST;2;SGрадеяV;IND;PROG;PST;2;SG	радея
-V.PTCP;ACT;PST;PL;INDFдъвчаV.PTCP;ACT;PST;PL;INDF	дъвчела
-N;PLавтомобилN;PL	автомобили
-V;IND;PROG;PST;2;SGиграяV;IND;PROG;PST;2;SG	игра
-ADJ;CMPR;NEUT;SG;DEFвъзтесенADJ;CMPR;NEUT;SG;DEF	възтясно
-V.PTCP;ACT;PRS;MASC;SG;DEF;ACCизгребвамV.PTCP;ACT;PRS;MASC;SG;DEF;ACC	изгребвалия
-ADJ;MASC;SG;NOM;DEFнебреженADJ;MASC;SG;NOM;DEF	небрежното
-V.PTCP;ACT;PST;NFH;PL;INDFпотънаV.PTCP;ACT;PST;NFH;PL;INDF	потънела
-V.PTCP;ACT;PRS;NEUT;SG;DEFпрощавамV.PTCP;ACT;PRS;NEUT;SG;DEF	прощаваното
-ADJ;CMPR;NEUT;SG;INDFадекватенADJ;CMPR;NEUT;SG;INDF	най-адекватно
-ADJ;FEM;SG;DEFпроницателенADJ;FEM;SG;DEF	най-проницателни
-V;IMP;2;PLлегализирамV;IMP;2;PL	легализираме
-ADJ;CMPR;NEUT;SG;INDFдяволскиADJ;CMPR;NEUT;SG;INDF	дяволски
-V.MSDR;NEUT;SG;DEFвършеяV.MSDR;NEUT;SG;DEF	вършеенията-нетата
-V.PTCP;ACT;PRS;MASC;SG;DEF;ACCближаV.PTCP;ACT;PRS;MASC;SG;DEF;ACC	близания
-V;IMP;2;SGавансирамV;IMP;2;SG	авансираше
-ADJ;FEM;SG;INDFсеизмиченADJ;FEM;SG;INDF	сеизмичен
-ADJ;PL;DEFапетитенADJ;PL;DEF	апетитите
-V.PTCP;ACT;PST;MASC;SG;INDFпредскажаV.PTCP;ACT;PST;MASC;SG;INDF	предскажело
-V.PTCP;ACT;PRS;NEUT;SG;DEFвъвирамV.PTCP;ACT;PRS;NEUT;SG;DEF	въвирането
-V;IND;PRS;1;SGлягам сиV;IND;PRS;1;SG	лягах
-ADJ;CMPR;MASC;SG;VOCбезскрупуленADJ;CMPR;MASC;SG;VOC	по-безскрупулния
-V.PTCP;PASS;PST;NEUT;SG;INDFозадачавамV.PTCP;PASS;PST;NEUT;SG;INDF	озадачавал
-N;SG;INDFцарN;SG;INDF	царкиня
-V.PTCP;ACT;PST;NEUT;SG;INDFобезглавяV.PTCP;ACT;PST;NEUT;SG;INDF	обезглавяла
-N;PL;INDFсказуемоN;PL;INDF	неразумният
-V;IND;PRS;2;PLпострояV;IND;PRS;2;PL	построихте
-ADJ;CMPR;MASC;SG;NOM;DEFобиленADJ;CMPR;MASC;SG;NOM;DEF	най-обилният
-V;IMP;2;SGзакупяV;IMP;2;SG	закупиш
-ADJ;PL;INDFбързADJ;PL;INDF	бърза
-ADJ;SPRL;MASC;SG;VOCчешкиADJ;SPRL;MASC;SG;VOC	чешки
-ADJ;CMPR;PL;DEFразуменADJ;CMPR;PL;DEF	най-разумните
-V.PTCP;ACT;PST;FEM;SG;INDFвдишамV.PTCP;ACT;PST;FEM;SG;INDF	вдишани
-N;SG;VOCлисугерN;SG;VOC	лисугери
-V.PTCP;PASS;PST;MASC;SG;DEF;ACCобезглавяV.PTCP;PASS;PST;MASC;SG;DEF;ACC	обезглавена
-V.MSDR;NEUT;SG;DEFобковавамV.MSDR;NEUT;SG;DEF	обковаваната
-V;IND;PST;1;PLстрояV;IND;PST;1;PL	строяхме
-N;SG;DEFбайноN;SG;DEF	байновците
-V;IND;PRS;2;SGпосещавамV;IND;PRS;2;SG	посещава
-ADJ;SPRL;FEM;SG;INDFоскъденADJ;SPRL;FEM;SG;INDF	най-оскъдно
-ADJ;CMPR;MASC;SG;ACC;DEFенергиченADJ;CMPR;MASC;SG;ACC;DEF	енергичния
-V;IND;PST;3;SGозадачаV;IND;PST;3;SG	озадачеше
-V.PTCP;ACT;PRS;MASC;SG;DEF;ACCсъществувамV.PTCP;ACT;PRS;MASC;SG;DEF;ACC	съществувалия
-V.PTCP;ACT;PST;FEM;SG;DEFизбераV.PTCP;ACT;PST;FEM;SG;DEF	избралото
-ADJ;CMPR;FEM;SG;INDFнеразсъдителенADJ;CMPR;FEM;SG;INDF	неразсъдително
-V;IND;PROG;PST;3;SGзаповядвамV;IND;PROG;PST;3;SG	заповядва
-ADJ;SPRL;MASC;SG;ACC;DEFвертикаленADJ;SPRL;MASC;SG;ACC;DEF	вертикалния
-V;IND;PRS;3;SGнаемаV;IND;PRS;3;SG	наема
-N;PL;DEFряпаN;PL;DEF	репи
-V;IND;PST;3;SGобковавамV;IND;PST;3;SG	обковава
-N;PL;VOCгенийN;PL;VOC	по-австралийско
-N;SG;NOM;DEFболногледачN;SG;NOM;DEF	болногледач
-ADJ;CMPR;NEUT;SG;INDFздравADJ;CMPR;NEUT;SG;INDF	най-здраво
-ADJ;CMPR;PL;DEFдалеченADJ;CMPR;PL;DEF	далечните
-N;PLкрайN;PL	края
-ADJ;CMPR;MASC;SG;VOCвъзтесенADJ;CMPR;MASC;SG;VOC	възеле
-V.PTCP;ACT;PRS;FEM;SG;DEFпристигамV.PTCP;ACT;PRS;FEM;SG;DEF	пристигала
-N;SG;INDFябълкаN;SG;INDF	най-ябълкова
-V;IND;PST;1;PLчествамV;IND;PST;1;PL	честитим
-V.PTCP;ACT;PST;MASC;SG;INDFсияяV.PTCP;ACT;PST;MASC;SG;INDF	сияел
-V.PTCP;ACT;PST;NFH;FEM;SG;INDFнапредвамV.PTCP;ACT;PST;NFH;FEM;SG;INDF	напредваща
-ADJ;MASC;SG;INDFизпълнимADJ;MASC;SG;INDF	най-изпълними
-ADJ;SPRL;FEM;SG;INDFгневенADJ;SPRL;FEM;SG;INDF	гневни
-ADJ;SPRL;FEM;SG;INDFплътенADJ;SPRL;FEM;SG;INDF	плътна
-N;SG;ACC;DEFгвоздейN;SG;ACC;DEF	гвоздеят
-ADJ;MASC;SG;VOCбезформенADJ;MASC;SG;VOC	безформен
-V.PTCP;ACT;PRS;PL;DEFпрелъстявамV.PTCP;ACT;PRS;PL;DEF	прелъстявалите
-V.PTCP;PASS;PST;NEUT;SG;DEFзашияV.PTCP;PASS;PST;NEUT;SG;DEF	зашивалите
-ADJ;SPRL;NEUT;SG;INDFвещADJ;SPRL;NEUT;SG;INDF	най-веща
-V;IND;PST;3;SGвземамV;IND;PST;3;SG	вземаше
-N;SG;NOM;DEFдеребейN;SG;NOM;DEF	деребея
-ADJ;SPRL;PL;INDFкрасивADJ;SPRL;PL;INDF	най-красива
-V.PTCP;ACT;PST;FEM;SG;DEFучаV.PTCP;ACT;PST;FEM;SG;DEF	учената
-V.MSDR;NEUT;SG;DEFбияV.MSDR;NEUT;SG;DEF	биещите
-V.PTCP;ACT;PRS;FEM;SG;INDFпрегръщамV.PTCP;ACT;PRS;FEM;SG;INDF	прегръщащо
-V.PTCP;ACT;PRS;MASC;SG;INDFобесвамV.PTCP;ACT;PRS;MASC;SG;INDF	обесвал
-ADJ;SPRL;FEM;SG;INDFвтороразреденADJ;SPRL;FEM;SG;INDF	най-второразрядно
-ADJ;CMPR;FEM;SG;INDFлекомисленADJ;CMPR;FEM;SG;INDF	най-лекомислена
-N;SG;INDFавенюN;SG;INDF	авенютата
-V.MSDR;NEUT;SG;DEFнадонасямV.MSDR;NEUT;SG;DEF	надонасящата
-N;SG;VOCсептолитърN;SG;VOC	септолитъра
-V.PTCP;PASS;PST;NEUT;SG;INDFизползвамV.PTCP;PASS;PST;NEUT;SG;INDF	използвало
-V.PTCP;ACT;PRS;NEUT;SG;DEFопридамV.PTCP;ACT;PRS;NEUT;SG;DEF	опридащата
-V;IND;PRS;2;PLабдикирамV;IND;PRS;2;PL	абдикирайте
-ADJ;CMPR;MASC;SG;ACC;DEFбързичъкADJ;CMPR;MASC;SG;ACC;DEF	по-бързичките
-V.PTCP;ACT;PST;FEM;SG;DEFсъглася сеV.PTCP;ACT;PST;FEM;SG;DEF	съгласявалата
-N;PL;INDFсимволN;PL;INDF	символите
-V;IND;PRS;1;SGизплашаV;IND;PRS;1;SG	изплашех
-ADJ;CMPR;NEUT;SG;INDFаморфенADJ;CMPR;NEUT;SG;INDF	аморфно
-ADJ;MASC;SG;VOCщастливADJ;MASC;SG;VOC	най-щастливото
-V.PTCP;PASS;PST;PL;INDFзанасямV.PTCP;PASS;PST;PL;INDF	занасящи
-V.PTCP;ACT;PST;FEM;SG;INDFвъзпирамV.PTCP;ACT;PST;FEM;SG;INDF	възпирала
-ADJ;CMPR;MASC;SG;ACC;DEFанатомиченADJ;CMPR;MASC;SG;ACC;DEF	анатомичната
-N;SG;VOCйоктометърN;SG;VOC	йоталитре
+ADJĭĮıİполувисшADJĭĮıİ	повличаш полувисше
+VĲĳĴĵнадонасямVĲĳĴĵ	надонасяния-нета
+ADJĶĮķбезкраенADJĶĮķ	безаварийното досадно изпичахме
+V.MSDRĵķпопичамV.MSDRĵķ	изпичах изпичахме
+V.PTCPĸĳĭĮİįбушувамV.PTCPĸĳĭĮİį	бушуващ
+ADJĬĵķглухонямADJĬĵķ	изрича бедничките изпичахте
+NĮķщукаNĮķ	изпичах щуреца изпичахте
+ADJĬĺĮİмедицинскиADJĬĺĮİ	мете писателските
+V.PTCPĸĳĶĮİпасаV.PTCPĸĳĶĮİ	пасе
+VĲĻļĵобезсмъртявамVĲĻļĵ	строели обезсмъртяващата наобличали
+NĮĽзвънецNĮĽ	звънците
+V.PTCPĸĳĵķизплашвамV.PTCPĸĳĵķ	изплашващите изпичах
+VĲľĳĿĵпредрекаVĲľĳĿĵ	предречеше
+NĮįİхрастNĮįİ	аметисте
+NĮįİхубавецNĮįİ	по-хубави чужденец
+ADJĭĮįİслънчевADJĭĮįİ	по-слънчеви
+NĵķагнеNĵķ	изпичах агностици наказанието изпичахте
+V.PTCPĸĳĹĺĮķпрепекаV.PTCPĸĳĹĺĮķ	изпичах препечено изрича
+V.PTCPĸĳĹĵķпочитамV.PTCPĸĳĹĵķ	изпичахме
+ADJĬĭĮĽгневенADJĬĭĮĽ	гневни
+ADJĶĮİвъзголямADJĶĮİ	безаварийното вдиша възголемия аметистово
+NĵĽдолNĵĽ	долове
+V.PTCPĸĳĺĮķумирамV.PTCPĸĳĺĮķ	изпичахте умирала изпичах
+NĵİстраданиеNĵİ	словосъчетание
+VĲĳļĮзаподозраVĲĳļĮ	съчетаели заподозри изгризвали
+VĲľĳĴĮпасаVĲľĳĴĮ	наобличате
+VĲľĳļĵдопринасямVĲľĳļĵ	строели допринасялия изгризвали
+VĲľĳļĮизковавамVĲľĳļĮ	изгризвали съчетаели
+V.PTCPĸĳĹĺĮķгубяV.PTCPĸĳĹĺĮķ	изпичахме изпичахте
+V.PTCPŀĳĺĮİспекаV.PTCPŀĳĺĮİ	спирам
+NĵанализNĵ	мразове
+V.PTCPŀĳĵķпростяV.PTCPŀĳĵķ	изпичах простили
+V.PTCPĸĳĹĺĮķабдикирамV.PTCPĸĳĹĺĮķ	изпичахме абдикиралия изпичах
+V.PTCPŀĳĺĮķпредплатяV.PTCPŀĳĺĮķ	изпичахте предплатения изрича
+NĮįİочен лекарNĮįİ	авар
+NĵİзаключениеNĵİ	отключеше сеченията
+V.PTCPŀĳĺĮİизпияV.PTCPŀĳĺĮİ	изпече пиещата
+V.PTCPĸĻĶĮķобяснявамV.PTCPĸĻĶĮķ	изпичахме обясняващ изпичахме
+NĮĽмонахNĮĽ	монаси
+VĲĻĴĵпродължаVĲĻĴĵ	избождащ продължи навеждащ
+ADJŁĵķенергиченADJŁĵķ	енергична античният изпичахте
+ADJŁĺĮİсеверозападенADJŁĺĮİ	сека най-северозападна
+VĲĳĴĮпонапичамVĲĳĴĮ	излизате
+VĲľĳļĮотичамVĲľĳļĮ	наобличали измрели
+VĲľĳĿĮсъгласявам сеVĲľĳĿĮ	съгласявайте
+ADJŁĭĮĽпрактиченADJŁĭĮĽ	най-практичното античният
+V.PTCPŀĳĺĮİизтървавамV.PTCPŀĳĺĮİ	изпече
+VĲĻļĮзапраVĲĻļĮ	изгризвали строели
+VĲĻĿĵвтечняVĲĻĿĵ	втечнявал
+VĲĻĿĵкладаVĲĻĿĵ	кладяла
+V.PTCPĸĳĭĮķсъгласявам сеV.PTCPĸĳĭĮķ	изпичахте съгласявайте
+ADJŁĺĮİзападенADJŁĺĮİ	забоде
+VĲľĳĴĮсравнявамVĲľĳĴĮ	сравняващата понапичат
+ADJŁĵİтънъкADJŁĵİ	тънък
+NĮķбдениеNĮķ	бдението изпичах
+V.PTCPĸĳĭĮķдовличамV.PTCPĸĳĭĮķ	изрича довличало изрича
+V.PTCPĸĳĵķвъзпраV.PTCPĸĳĵķ	изпичахте възпрения изрича
+V.PTCPĸĳĶĮķснасямV.PTCPĸĳĶĮķ	изпичах снасяли изпичахме
+ADJĬĭĮıİдоверчивADJĬĭĮıİ	довежда доверчивите
+ADJĬĶĮķсеверняшкиADJĬĶĮķ	изпичах най-северняшкия писателските
+VĲĳļĵзагубяVĲĳļĵ	изгризвали изгризвали
+V.MSDRĵİимам сеV.MSDRĵİ	имам
+ADJŁĵİсвръхестественADJŁĵİ	най-свръхестествени правителствения
+NĮĽкъделяNĮĽ	къделите копрали
+NĵİлимонNĵİ	слоновете
+VĲĳĴĮзапридамVĲĳĴĮ	излизам запридали повлечем
+VĲĳĴĵпитам сеVĲĳĴĵ	питала
+ADJĵİгосподарскиADJĵİ	господарски
+V.PTCPĸĻĵķзагубвамV.PTCPĸĻĵķ	изрича загубвани изпичах
+NĮįİмилиметърNĮįİ	атометър авар
+VĲĻļĵзасекаVĲĻļĵ	изгризвали засеклия наобличали
+VĲĻĴĵнавестяVĲĻĴĵ	режещ навестяхте завеждащо
+VĲľĳļĮотключвамVĲľĳļĮ	строели отключвало измрели
+V.PTCPĸĻĵİотнасямV.PTCPĸĻĵİ	отнасяло
+V.PTCPĸĻĭĮİıмразяV.PTCPĸĻĭĮİı	мразилата
+ADJĺĮİсръбскиADJĺĮİ	сека сръбски
+VĲľĳĿĮвъзпраVĲľĳĿĮ	възпрения
+V.PTCPŀĳĭĮķопраV.PTCPŀĳĭĮķ	изпичах изрича
+V.PTCPŀĳĺĮķпопитамV.PTCPŀĳĺĮķ	изрича питала изпичахме
+V.PTCPĸĳĹĶĮķставамV.PTCPĸĳĹĶĮķ	изпичахте изпичахте
+V.PTCPĸĳĺĮİспасяV.PTCPĸĳĺĮİ	спича
+ADJĬĭĮįİалуминиевADJĬĭĮįİ	най-алуминиевия
+V.PTCPĸĳĭĮķизтекаV.PTCPĸĳĭĮķ	изпичахте изпичах
+VĲĳļĮвечерямVĲĳļĮ	строели вечерям измрели
+V.MSDRĶĮİизпявамV.MSDRĶĮİ	изпече продаване
+NĮĽагентNĮĽ	документе
+V.PTCPŀĳĺĮķзапраV.PTCPŀĳĺĮķ	изпичахме изпичах
+VłĴĮизнасямVłĴĮ	изричат изнасяла изпича
+V.PTCPĸĳĵİсприятелявам сеV.PTCPĸĳĵİ	сприятелявах
+VĲľĳĿĮсераVĲľĳĿĮ	серяхме
+V.PTCPŀĳĵİнагребвамV.PTCPŀĳĵİ	нагребвала
+VĲĻļĵначитамVĲĻļĵ	наобличали начита изгризвали
+V.PTCPĸĳĹĺĮķзагинаV.PTCPĸĳĹĺĮķ	изпичахме загинали изпичахме
+NĮįİгалицизъмNĮįİ	атоми
+V.PTCPĸĳĶĮķрачаV.PTCPĸĳĶĮķ	изрича изпичахме
+V.CVBпредричамV.CVB	предричалото
+NĵķпатицаNĵķ	изпичах
+NĵİсуевериеNĵİ	суеверия наказание
+ADJĶĮİагитационенADJĶĮİ	безаварийното арестувам най-агитационна авторитетно
+V.PTCPĸĳĶĮķзапаляV.PTCPĸĳĶĮķ	изпичах изпичахте
+ADJŁĶĮķмакедонскиADJŁĶĮķ	изпичах изпичахме
+ADJĬĭĮĽовчиADJĬĭĮĽ	най-овчи
+VĲĻĴĮобещаяVĲĻĴĮ	инвестираща обещано отбождащата
+VĲĻĿĮоцветявамVĲĻĿĮ	оцветявахте
+V.PTCPŀĳĵİпродължавамV.PTCPŀĳĵİ	продължавалият
+ADJĶĮķестетиченADJĶĮķ	безаварийното изрича автоматично изпичахме
+V.PTCPĸĳĹĭĮķпрепрочитамV.PTCPĸĳĹĭĮķ	изпичах препрочитан изрича
+V.PTCPĸĳĵķзаплетаV.PTCPĸĳĵķ	изрича
+V.PTCPĸĻĵķпадамV.PTCPĸĻĵķ	падали
+V.PTCPŀĳĭĮķначитамV.PTCPŀĳĭĮķ	изпичахме начита изпичах
+ADJĭĮĽалуминиевADJĭĮĽ	най-алуминиевата
+NĮİсемеNĮİ	сра наказанието
+V.PTCPĸĳĹĺĮķподкладаV.PTCPĸĳĹĺĮķ	подклалата изпичахме
+VĲĻļĮизпитвамVĲĻļĮ	изгризвали изпитващи строели
+VĲĳĿĮнагребвамVĲĳĿĮ	нагребвала
+V.PTCPŀĳĺĮİобещаяV.PTCPŀĳĺĮİ	опря обещан
+V.PTCPĸĳĺĮķпрочитамV.PTCPĸĳĺĮķ	изпичахте изпичах
+Nĵķгръден кошNĵķ	кошовете
+V.PTCPĸĳĹĶĮķпредаV.PTCPĸĳĹĶĮķ	изпичахме изпичахме
+V.PTCPŀĳĶĮİзареждамV.PTCPŀĳĶĮİ	забоде
+V.PTCPŀĳĶĮİзанасямV.PTCPŀĳĶĮİ	забоде
+V.PTCPĸĻĵİпоопичамV.PTCPĸĻĵİ	поопечах
+NĮķнаркоманкаNĮķ	изпичахте изпичахте
+V.PTCPĸĳĹĭĮķодобрявамV.PTCPĸĳĹĭĮķ	изпичах одобряваше изпичахте
+NĮįİкелнерNĮįİ	пчелар
+ADJĬĵķавгиевADJĬĵķ	изпичахте най-авгиева анилиновите
+ADJĬĭĮįİпродажбенADJĬĭĮįİ	продажбените
+ADJŁĺĮİслънчевADJŁĺĮİ	слезеш по-слънчеви
+ADJĬĶĮİвъзсинADJĬĶĮİ	вдиша най-възсиньото безкрайни
+V.PTCPŀĳĭĮķпочитамV.PTCPŀĳĭĮķ	изпичахме изпичахме
+ADJŁĺĮķпорнографскиADJŁĺĮķ	изпичахме порнографски
+ADJĬĭĮįİизкусенADJĬĭĮįİ	неизкусна
+ADJĬĺĮİнисшADJĬĺĮİ	наведа беднички
+V.PTCPĸĳĺĮİизоравамV.PTCPĸĳĺĮİ	изпече
+V.PTCPĸĳĭĮİįнаписвамV.PTCPĸĳĭĮİį	написваните
+NĮĽварваркаNĮĽ	аварките
+NĮıİнеприятелNĮıİ	наведа неприятелите
+NĮķзмияNĮķ	изпичах безмилостно амнистийо изпичах
+NĵķлепилоNĵķ	лепилата изпичах
+NĮĽветропоказателNĮĽ	ветропоказатели
+V.PTCPĸĻĭĮİįповтарямV.PTCPĸĻĭĮİį	повтарян
+NĵĽабдукцияNĵĽ	абдукцийо земя
+V.PTCPĸĳĭĮİįдовличамV.PTCPĸĳĭĮİį	довличало
+NĮĽбактериологNĮĽ	анестезиолог
+ADJĬĺĮķеластиченADJĬĺĮķ	саркастичните изпичахте
+V.PTCPĸĳĹĺĮķпрепичамV.PTCPĸĳĹĺĮķ	изрича препичащи изпичах
+VĲĳļĵнабодаVĲĳļĵ	строели съчетаели
+VĲľĳļĮотведаVĲľĳļĮ	измрели строели
+V.MSDRĵİзабранявамV.MSDRĵİ	ранявало продаване
+V.PTCPŀĳĭĮķпрепоръчамV.PTCPŀĳĭĮķ	препоръчало изпичахме
+VĲĳĿĮпотушавамVĲĳĿĮ	потушавана
+V.PTCPŀĳĵİсрещамV.PTCPŀĳĵİ	срещах
+VĲĻĿĮбушувамVĲĻĿĮ	бушуване
+ADJĺĮİваженADJĺĮİ	вдиша
+NĮİбедствиеNĮİ	бесиш бедствия
+ADJĺĮİбодърADJĺĮİ	благослови
+V.PTCPĸĻĺĮİимам сеV.PTCPĸĻĺĮİ	изпасваш
+VłĴĮудовлетворявамVłĴĮ	понапичат изпича
+VłĴĵпоопекаVłĴĵ	поопеклите
+V.MSDRĶĮİсъзирамV.MSDRĶĮİ	създаде прозирането
+ADJĬĭĮĽнеопитенADJĬĭĮĽ	неопитното
+VĲĳĴĮслушамVĲĳĴĮ	наобличаме
+ADJŁĭĮıİбавничъкADJŁĭĮıİ	благослови
+V.PTCPĸĳĹĵķсрещамV.PTCPĸĳĹĵķ	срещащият изрича
+NĵķгосподаркаNĵķ	изпичахме изпичахте
+VĲľĳĴĮнаклаждамVĲľĳĴĮ	понапичат
+V.PTCPĸĳĺĮİуплашвамV.PTCPĸĳĺĮİ	умра изплашващите
+V.MSDRĶĮİнаранявамV.MSDRĶĮİ	навира ранявало продаване
+V.PTCPŀĳĶĮķобсъдяV.PTCPŀĳĶĮķ	обсъдела
+ADJŁĶĮİапетитенADJŁĶĮİ	арестувам по-апетитно
+NĵİбебеNĵİ	небе
+ADJĶĮķвалиденADJĶĮķ	безаварийното изпичах валидните северозападно
+ADJŁĭĮķблагADJŁĭĮķ	изпичах изпичах
+ADJĺĮİводоравенADJĺĮİ	вдиша правителствения
+V.PTCPĸĳĹĺĮķпрезраV.PTCPĸĳĹĺĮķ	изпичахте презряло изпичахме
+NĮĽагитпропчикNĮĽ	агитпропчиците
+NĮĽфемтометърNĮĽ	фемтолитрите атометър пчелар
+VĲľĳļĵаплодирамVĲľĳļĵ	наобличали аплодирал наобличали
+ADJĬĵķподробенADJĬĵķ	изпичахме подобни изпичах
+V.PTCPĸĳĶĮİискамV.PTCPĸĳĶĮİ	искам
+VĲĻĴĵодобрявамVĲĻĴĵ	одобряваше инвестираща
+V.PTCPĸĳĶĮķизпредаV.PTCPĸĳĶĮķ	изпичахте изпичахме
+ADJĶĮİазотенADJĶĮİ	безаварийното арестувам по-азотно авторитетно
+ADJŁĺĮķмускулестADJŁĺĮķ	най-мускулестите изпичахте
+V.MSDRĵķзачитамV.MSDRĵķ	изпичахме помитания-нета изпичахте
+V.PTCPĸĳĺĮİнакажаV.PTCPĸĳĺĮİ	наказва
+NĮıİплодNĮıİ	плаче ледове
+NĵъгълNĵ	гърдестия долове
+VĲĻļĮпреживеяVĲĻļĮ	изгризвали преживени изгризвали
+VĲĻļĵспекаVĲĻļĵ	съчетаели измрели
+V.PTCPŀĳĺĮİвиняV.PTCPŀĳĺĮİ	вдиша
+V.PTCPŀĳĶĮķзамитамV.PTCPŀĳĶĮķ	замитали изпичахме
+ADJĭĮıİгрижливADJĭĮıİ	горя по-грижлива
+NĮķанакондаNĮķ	изрича стандарт изрича
+ADJĬĶĮİдалеченADJĬĶĮİ	дава ароматичните
+V.PTCPĸĳĺĮķизгубяV.PTCPĸĳĺĮķ	изпичахте
+ADJĬĭĮķагресивенADJĬĭĮķ	изпичах по-агресивно изпичах
+V.PTCPĸĻĵİоцветявамV.PTCPĸĻĵİ	оцелеех
+V.PTCPŀĳĺĮİподмитамV.PTCPŀĳĺĮİ	подмита
+VłĴĮзачитамVłĴĮ	повлечем
+V.PTCPĸĳĭĮİıподслушамV.PTCPĸĳĭĮİı	подслушалия
+V.PTCPĸĳĹĵķсъветвамV.PTCPĸĳĹĵķ	изпичах посъветвания изпичахме
+VĲľĳĴĮизведаVĲľĳĴĮ	изричате изричат
+V.PTCPĸĻĭĮİıзагребвамV.PTCPĸĻĭĮİı	загребвалата
+ADJŁĭĮķподобенADJŁĭĮķ	изрича изпичах
+V.PTCPĸĳĹĶĮķунищожаV.PTCPĸĳĹĶĮķ	изпичах унищожени изрича
+V.MSDRĶĮķуволнявамV.MSDRĶĮķ	изрича уволнявал продаване изпичах
+V.MSDRĶĮİизтървавамV.MSDRĶĮİ	изпече продаване
+VĲľĳļĮзагубвамVĲľĳļĮ	изгризвали загубващият наобличали
+VĲľĳĴĵполудеяVĲľĳĴĵ	полудяло
+VĲĳļĮпростраVĲĳļĮ	строели изгризвали
+V.PTCPĸĳĶĮİпочетаV.PTCPĸĳĶĮİ	повличаш
+ADJŁĵķхепаталенADJŁĵķ	изпичах хепаталният
+VłĴĵпонавлязаVłĴĵ	понавлязохте
+VĲĳĴĮпричиняVĲĳĴĮ	потичате потичате
+VĲĳļĮподпраVĲĳļĮ	наобличали подпряла строели
+NĮİполитикаNĮİ	повличаш политиките
+V.PTCPŀĳĶĮķобличамV.PTCPŀĳĶĮķ	изпичах изрича
+VĲĳĴĮпрепоръчамVĲĳĴĮ	изричате препоръчаният изричат
+ADJŁĶĮİновADJŁĶĮİ	надяваш
+V.PTCPĸĻĭĮİįпринасямV.PTCPĸĻĭĮİį	допринасялите
+VĲĳĿĮподпраVĲĳĿĮ	подпрели
+VĲĻļĮчувамVĲĻļĮ	изгризвали измрели
+VĲĻļĵпротичамVĲĻļĵ	изгризвали строели
+VĲĳĴĵцелувамVĲĳĴĵ	оцеляват
+V.PTCPĸĳĵķнабодаV.PTCPĸĳĵķ	изпичахме
+NĵİгъбаNĵİ	бегъл
+V.PTCPĸĳĭĮİįинтересувамV.PTCPĸĳĭĮİį	интересуваш
+NĵİсмянаNĵİ	смазвах измяната
+V.PTCPĸĳĺĮİгубяV.PTCPĸĳĺĮİ	губиш
+VĲĻĴĵбомбардирамVĲĻĴĵ	изчезващ бомбардирана провиращ
+NĮıİчасовникNĮıİ	чака племенник
+VłĴĵкупяVłĴĵ	изкупехте
+NĵномерNĵ	авар
+VłĴĮушияVłĴĮ	изпича изтичам
+NĵķпясъкNĵķ	изрича купеха капаци изрича
+VĲĻĴĮпоопичамVĲĻĴĮ	обзавеждаща поопичания режещ
+VłĴĵнадвнасямVłĴĵ	надвнасяла
+V.PTCPŀĳĭĮİįочаквамV.PTCPŀĳĭĮİį	очаквана
+V.PTCPĸĳĺĮİпотекаV.PTCPĸĳĺĮİ	произтичаш
+ADJŁĺĮİнеузрялADJŁĺĮİ	наведе неузряло
+VĲĳļĮдъвчаVĲĳļĮ	изгризвали дъвках строели
+NĮķслончеNĮķ	слончето небе
+ADJĵİрускиADJĵİ	руски
+NĵİбратоубиецNĵİ	братоубиецо
+ADJŁĭĮĽазотистADJŁĭĮĽ	азотисто
+ADJŁĭĮķгърдестADJŁĭĮķ	изпичахте гърдесто
+V.PTCPĸĳĹĵķизнудяV.PTCPĸĳĹĵķ	изпичахме изнудеше изпичах
+ADJĭĮĽавтономенADJĭĮĽ	по-автономни
+NĮķабсолвенткаNĮķ	изпичах по-абсолвентски изпичахме
+V.PTCPĸĳĭĮķопраV.PTCPĸĳĭĮķ	изпичах изрича
+VĲľĳļĵвярвамVĲľĳļĵ	изгризвали повярвалия наобличали
+ADJĺĮİвещADJĺĮİ	вдиша вещото
+NĮķактивистNĮķ	изпичахте аметист изпичах
+ADJĵİсребъренADJĵİ	по-сребърни
+ADJĬĵķдълъгADJĬĵķ	изрича най-дълга анилиновите изпичах
+V.MSDRĶĮİдавамV.MSDRĶĮİ	дава продаване
+VĲĻĴĵсъчетавамVĲĻĴĵ	отбождащата продаващото
+V.MSDRĶĮİзабременявамV.MSDRĶĮİ	забременея продаване
+VĲĻļĮпревъзнесаVĲĻļĮ	изгризвали превъзнесете изгризвали
+NĮķчобанинNĮķ	изпичах чобанът арабин изрича
+VĲĻĴĮцупя сеVĲĻĴĮ	забождащото цупеше заораващ
+V.PTCPĸĳĵķотключаV.PTCPĸĳĵķ	отключеше изпичах
+V.MSDRĶĮİнапредвамV.MSDRĶĮİ	навира продаване
+V.PTCPĸĳĭĮİıзахапяV.PTCPĸĳĭĮİı	захапел
+V.PTCPĸĳĹĶĮķпричиняV.PTCPĸĳĹĶĮķ	изпичах изрича
+V.PTCPŀĳĭĮİįпродължаV.PTCPŀĳĭĮİį	продължало
+V.PTCPĸĻĺĮķотварямV.PTCPĸĻĺĮķ	изпичахте отваряното изпичах
+V.PTCPĸĻĺĮķнуждая сеV.PTCPĸĻĺĮķ	изпичахме изпичах
+NĮĽакулаNĮĽ	акулата
+NĮķбронтозавърNĮķ	изпичах куре
+NĵчовекNĵ	птицечовките северняци
+ADJĬĭĮıİсатанистиченADJĬĭĮıİ	спирам
+ADJŁĵİагресивенADJŁĵİ	по-агресивно
+ADJĬĵİеластиченADJĬĵİ	саркастичните
+NĵİцитатNĵİ	аромати
+ADJĬĶĮķненадежденADJĬĶĮķ	изпичахте ненадеждни ароматичните
+VĲĳĿĵснесаVĲĳĿĵ	снесена
+V.PTCPĸĳĹĺĮķспичамV.PTCPĸĳĹĺĮķ	изпичахте спичал изпичахме
+VĲĳļĮнавраVĲĳļĮ	съчетаели навреше наобличали
+VĲľĳļĮзабодаVĲľĳļĮ	наобличали изтичали
+ADJĬĭĮįİперпендикуляренADJĬĭĮįİ	най-перпендикулярният
+V.PTCPĸĳĶĮķразплачаV.PTCPĸĳĶĮķ	изпичахте плакалия изпичах
+VĲľĳĿĵпреживеяVĲľĳĿĵ	преживееше
+V.PTCPĸĳĶĮķопридамV.PTCPĸĳĶĮķ	изпичах опридащата
+VĲĻļĮизслушамVĲĻļĮ	изгризвали строели
+ADJĺĮİбезбоженADJĺĮİ	бера
+V.PTCPŀĳĵķпоспирамV.PTCPŀĳĵķ	изпичах поспира изпичахте
+V.MSDRĶĮİнаказвамV.MSDRĶĮİ	наказва продаване
+ADJĭĮķвтороразреденADJĭĮķ	изпичах най-второразрядно изпичахме
+V.PTCPĸĻĺĮķнапичамV.PTCPĸĻĺĮķ	напичали изпичах
+V.PTCPŀĳĭĮķшибамV.PTCPŀĳĭĮķ	изпичахме шибащата изпичахме
+V.PTCPŀĳĭĮİįизкупувамV.PTCPŀĳĭĮİį	изкупувало
+ADJŁĭĮķопакADJŁĭĮķ	изпичах
+V.MSDRĶĮķвечерямV.MSDRĶĮķ	изрича вечерящо изпичахте
+ADJĭĮįİдебелADJĭĮįİ	дебели
+V.PTCPĸĳĺĮķпопекаV.PTCPĸĳĺĮķ	попечал изпичахте
+ADJŁĶĮķсветлосинADJŁĶĮķ	светлосиньото
+VĲľĳļĮизревавамVĲľĳļĮ	изтичали съчетаели
+V.PTCPŀĳĭĮİįпрегърнаV.PTCPŀĳĭĮİį	прегърнел
+V.PTCPĸĳĹĭĮķприпаднаV.PTCPĸĳĹĭĮķ	изпичахме припаднем изпичах
+NĵшумNĵ	бушуващите косми
+ADJĬĵķалтовADJĬĵķ	изпичахте по-алтовият анилиновите
+VĲľĳļĵсъздамVĲľĳļĵ	съчетаели създадеше строели
+NĵķотмянаNĵķ	изпичахме отмяна изрича
+VĲľĳĿĵползвамVĲľĳĿĵ	ползвалата
+V.PTCPŀĳĺĮİпродавамV.PTCPŀĳĺĮİ	произтича
+ADJĭĮĽаларменADJĭĮĽ	алармената
+V.PTCPĸĻĵķшантажирамV.PTCPĸĻĵķ	изпичахте изпичахме
+ADJĬĭĮıİгъвкавADJĬĭĮıİ	грабиш
+NĮķтуркиняNĮķ	туркините авария изпичахме
+V.PTCPĸĻĶĮķпасаV.PTCPĸĻĶĮķ	изрича изпичахме
+VĲĻļĵзашияVĲĻļĵ	съчетаели зашилият изгризвали
+NĵİшаранNĵİ	шаран
+V.PTCPĸĳĵİсмазвамV.PTCPĸĳĵİ	смазвала
+VĲĳļĮпронесаVĲĳļĮ	строели измрели
+VĲĳĿĮизмирамVĲĳĿĮ	измирахте
+ADJĬĵİблагоразуменADJĬĵİ	неблагоразумен ароматичните
+NĮķалебардаNĮķ	бомбардирана изпичах
+VĲĻĿĵизслушвамVĲĻĿĵ	изслушваше
+V.PTCPĸĳĭĮķбоядисамV.PTCPĸĳĭĮķ	изрича боядисам
+ADJĺĮİинфантиленADJĺĮİ	изпасваш по-инфантилната
+V.PTCPĸĳĺĮķанатемосвамV.PTCPĸĳĺĮķ	анатемосвали изпичахте
+V.PTCPĸĳĭĮİıдоказвамV.PTCPĸĳĭĮİı	доказващи
+VĲľĳļĵпрегърнаVĲľĳļĵ	измрели прегърнел измрели
+V.PTCPĸĳĺĮķзлоупотребявамV.PTCPĸĳĺĮķ	изпичахте
+ADJĭĮķчетвъртиADJĭĮķ	изпичахме
+VĲĳļĵпотичамVĲĳļĵ	измрели изтичали
+ADJĭĮķавтентиченADJĭĮķ	изпичахте античният изрича
+V.PTCPĸĳĺĮİпопичамV.PTCPĸĳĺĮİ	повличаш
+VĲĳļĮцупя сеVĲĳļĮ	наобличали цупела строели
+ADJŁĶĮķгладенADJŁĶĮķ	изрича изпичахме
+V.PTCPĸĻĺĮİпопичамV.PTCPĸĻĺĮİ	повличаш
+ADJĬĶĮķслабADJĬĶĮķ	изпичах състезателни изпичахте
+NĮİконтрамяркаNĮİ	комбинирах контрамерки
+V.PTCPĸĳĹĭĮķдокажаV.PTCPĸĳĹĭĮķ	изпичахте изрича
+NĮķсиренеNĮķ	изпичах адресираме словосъчетание изпичахте
+V.PTCPĸĻĶĮķпривнасямV.PTCPĸĻĶĮķ	изпичахме привнасялото изпичах
+ADJŁĺĮķдоверчивADJŁĺĮķ	изпичах доверчивите
+NĵķварваркаNĵķ	изпичахте кварки изпичах
+V.MSDRĵķподслушвамV.MSDRĵķ	продаване изпичахте
+VĲĻĴĮнакажаVĲĻĴĮ	протичаща наказали завеждащо
+VĲĳļĮпричиняVĲĳļĮ	наобличали строели
+V.PTCPŀĳĭĮİıближаV.PTCPŀĳĭĮİı	близала
+VĲľĳĴĮсвраVĲľĳĴĮ	понапичат по-сврачи излиза
+VĲĻļĮизпивамVĲĻļĮ	съчетаели строели
+ADJŁĵķдързъкADJŁĵķ	изпичахте най-дръзкият изпичах
+NĮķгенийNĮķ	изпичахме славеи изрича
+V.PTCPĸĳĶĮİнаранявамV.PTCPĸĳĶĮİ	навира ранявало
+V.MSDRĶĮİправяV.MSDRĶĮİ	подпира
+ADJŁĺĮİглухонямADJŁĺĮİ	горя
+NĮįİалигаторNĮįİ	алигатори авар
+NĵķковчегNĵķ	изпичахте ковчезите изпичах
+ADJĬĵİабдоминаленADJĬĵİ	абдоминалната батерийните
+ADJŁĭĮįİпродажбенADJŁĭĮįİ	по-продажбени
+V.PTCPĸĳĹĭĮķспасяV.PTCPĸĳĹĭĮķ	изпичахме спасените изпичахте
+V.PTCPĸĳĵİвзимамV.PTCPĸĳĵİ	взимала
+ADJŁĶĮİазиатскиADJŁĶĮİ	арестувам азиатския
+NĮĽангличанкаNĮĽ	англичаните
+VĲĳĴĮдамVĲĳĴĮ	потичате излизате
+NĵķавантюристNĵķ	изрича най-авантюристично аметист изпичах
+V.PTCPĸĳĹĺĮķзачитамV.PTCPĸĳĹĺĮķ	изрича
+V.PTCPŀĳĵķвземамV.PTCPŀĳĵķ	изпичах вземания изпичах
+V.PTCPĸĳĭĮİįвъвирамV.PTCPĸĳĭĮİį	въвирали
+V.PTCPĸĻĶĮİприсъствамV.PTCPĸĻĶĮİ	припира
+V.PTCPŀĳĵİзакупувамV.PTCPŀĳĵİ	закупувах
+ADJĭĮıİморскосинADJĭĮıİ	молих
+V.PTCPĸĻĶĮİграничаV.PTCPĸĻĶĮİ	граничи
+V.CVBзачевамV.CVB	зачевало
+ADJŁĭĮķполувисшADJŁĭĮķ	изпичах полувисше изрича
+NĵİполусянкаNĵİ	полудях атинянките
+V.PTCPĸĳĶĮķшантажирамV.PTCPĸĳĶĮķ	изпичах
+NĵķрозмаринNĵķ	изрича авари изпичахме
+NĵķфериботNĵķ	изпичахме ферибота болести изпичахме
+ADJŁĭĮķчернодробенADJŁĭĮķ	чернодробен
+V.PTCPĸĳĹĶĮķсекаV.PTCPĸĳĹĶĮķ	изрича изпичахме
+NĮķагресияNĮķ	кутийо изпичахме
+VĲľĳĴĮповедаVĲľĳĴĮ	наобличате
+ADJĵķдетинскиADJĵķ	изпичахме най-детински изпичахте
+VĲĳĿĵнапишаVĲĳĿĵ	написания
+V.PTCPĸĳĺĮķзаметаV.PTCPĸĳĺĮķ	изпичахме
+V.PTCPĸĻĵķмоляV.PTCPĸĻĵķ	изпичахме изрича
+NĵĽцаркиняNĵĽ	царствата артилерията
+VĲľĳĴĵзасекаVĲľĳĴĵ	засеклия
+VĲĳļĵглобявамVĲĳļĵ	съчетаели съчетаели
+V.PTCPĸĳĵķрачаV.PTCPĸĳĵķ	изпичахте изрича
+V.PTCPĸĻĶĮķсънувамV.PTCPĸĻĶĮķ	сънували изпичахте
+ADJĺĮķбезидеенADJĺĮķ	изпичахте
+VĲĳļĮинтересувам сеVĲĳļĮ	наобличали интересуваш строели
+VĲľĳļĵгласувамVĲľĳļĵ	изгризвали измрели
+NĮĽчорапNĮĽ	чорапогащниците арапе
+NĮķсметанаNĮķ	изпичах изпичах
+ADJĵķшестиADJĵķ	изпичахме шести изпичахте
+V.MSDRĵİинтересувамV.MSDRĵİ	интересувах продаване
+ADJĬĶĮķвертикаленADJĬĶĮķ	изпичахме саркастичните
+NĮĽзмеицаNĮĽ	змеици
+NĵĽаперитивNĵĽ	заливе
+VĲľĳĴĵзачевамVĲľĳĴĵ	зачевало
+V.PTCPŀĳĵķзапалвамV.PTCPŀĳĵķ	изпичах запалвала изпичах
+V.PTCPĸĳĹĭĮķприпадамV.PTCPĸĳĹĭĮķ	изпичах изпичахме
+ADJĬĶĮİнеголямADJĬĶĮİ	навлизам азотните
+V.PTCPĸĳĶĮķвтечнявамV.PTCPĸĳĶĮķ	изпичах втечнявал изрича
+V.PTCPĸĳĭĮķзатрисамV.PTCPĸĳĭĮķ	изпичах изрича
+ADJĶĮķздравADJĶĮķ	безаварийното изпичах здрава аметистово изпичах
+ADJĶĮİгосподарскиADJĶĮİ	безаварийното господарува аналитическото
+VĲľĳļĵприпичамVĲľĳļĵ	наобличали припичания-нета съчетаели
+ADJĬĭĮķвалиденADJĬĭĮķ	изпичахте валидното изпичахте
+VĲĳĴĮпестяVĲĳĴĮ	повлечем спести излиза
+V.MSDRĵķарестувамV.MSDRĵķ	изрича изпичахте
+NĵĽавтостопNĵĽ	коноп
+NĵİвръхNĵİ	евнуси
+NĮĽфениксNĮĽ	фаготите адрес
+ADJĭĮķабстрактенADJĭĮķ	най-абстрактните изпичахме
+V.PTCPĸĳĵİпотушавамV.PTCPĸĳĵİ	потушах
+ADJĬĶĮķюженADJĬĶĮķ	изпичахте южният подобни
+V.PTCPĸĳĵİчуяV.PTCPĸĳĵİ	чуеше
+V.PTCPĸĳĶĮķпрегърнаV.PTCPĸĳĶĮķ	изрича прегърнел изрича
+ADJŁĺĮİбремененADJŁĺĮİ	будя
+ADJĬĶĮİжелезенADJĬĶĮİ	железният подобни
+ADJĵķширокADJĵķ	изрича широка изрича
+VłĴĵсвирамVłĴĵ	свиранията-нетата
+V.PTCPĸĳĹĭĮķзаревавамV.PTCPĸĳĹĭĮķ	изпичахме изрича
+NĮķимеNĮķ	изпичахме небесата изрича
+VĲĻĿĵзавеждамVĲĻĿĵ	обзавеждалите
+VĲĻĴĮарестувамVĲĻĴĮ	режещо
+VĲĻļĮсприятелявам сеVĲĻļĮ	изгризвали съчетаели
+VĲľĳĿĮсъзирамVĲľĳĿĮ	съзираната
+VĲĳĴĵразплачаVĲĳĴĵ	плакали
+ADJŁĶĮķабстрактенADJŁĶĮķ	изпичахте най-абстрактните изрича
+VĲľĳĴĮдонесаVĲľĳĴĮ	донесях излизам
+ADJĶĮķабаносовADJĶĮķ	безаварийното изпичах аметистово изпичахме
+V.PTCPĸĳĵķанулирамV.PTCPĸĳĵķ	изпичахте анулирания-нета изпичахте
+VĲľĳĿĮпрепрочетаVĲľĳĿĮ	препрочела
+V.PTCPĸĻĭĮķумирамV.PTCPĸĻĭĮķ	изпичах умирала изпичахме
+V.PTCPĸĳĶĮİизпекаV.PTCPĸĳĶĮİ	изпече
+V.PTCPĸĳĶĮķзаплитамV.PTCPĸĳĶĮķ	изпичах изпичах
+V.PTCPĸĳĭĮİįобезсмъртяV.PTCPĸĳĭĮİį	обезсмъртилият
+ADJĶĮķгневенADJĶĮķ	безаварийното изпичахме гневни водоравно изпичахме
+NĵĽмъртвецNĵĽ	мъртъвците немци
+NĮķанглицизъмNĮķ	изрича гърцизми гръм изпичахме
+V.PTCPĸĳĶĮķзанасямV.PTCPĸĳĶĮķ	изрича занасящо
+V.PTCPĸĳĶĮķсъздамV.PTCPĸĳĶĮķ	създали изрича
+ADJĺĮķгерманскиADJĺĮķ	изпичахте изпичахме
+V.PTCPŀĳĵİямV.PTCPŀĳĵİ	отварящ
+VĲĻĴĵповеждамVĲĻĴĵ	продаващото повеждало протичаща
+V.PTCPŀĳĭĮİıпикаяV.PTCPŀĳĭĮİı	пикаещата
+VĲĻļĵпредсказвамVĲĻļĵ	измрели предсказваше строели
+ADJŁĺĮİстомашенADJŁĺĮİ	става
+ADJĭĮĽавторскиADJĭĮĽ	най-авторските
+ADJĭĮĽразсъдливADJĭĮĽ	по-разсъдливата
+VĲĳĿĮизговарямVĲĳĿĮ	изговаря
+VĲĻĴĮотнасямVĲĻĴĮ	повеждащо отнася продаващ
+ADJĭĮĽалкохоленADJĭĮĽ	алкохолната
+VĲĳĿĮвзимамVĲĳĿĮ	взимала
+VĲĳļĵпрелъстявамVĲĳļĵ	изгризвали прелъстеше съчетаели
+VĲĻĴĵзаведаVĲĻĴĵ	режещо зареждащото
+V.PTCPĸĳĺĮİблагословяV.PTCPĸĳĺĮİ	благословиш
+ADJŁĭĮįİавстралийскиADJŁĭĮįİ	най-австралийски
+VĲĳļĮотключаVĲĳļĮ	измрели отключеше изгризвали
+ADJŁĺĮķантиченADJŁĺĮķ	изпичахме античният изпичахте
+V.PTCPĸĳĵİползвамV.PTCPĸĳĵİ	ползващ
+ADJŁĭĮķдребенADJŁĭĮķ	изрича изпичах
+VĲĳļĮпитам сеVĲĳļĮ	строели питала изгризвали
+VĲĻĴĮдебелеяVĲĻĴĮ	доплитащо изораващ
+V.PTCPŀĳĵķпрепрочитамV.PTCPŀĳĵķ	препрочиталото
+V.PTCPĸĻĺĮİработяV.PTCPĸĻĺĮİ	разболява
+ADJĭĮĽписателскиADJĭĮĽ	по-писателският
+ADJĬĭĮıİкривADJĬĭĮıİ	каза
+VĲĳļĮометаVĲĳļĮ	съчетаели изтичали
+VłĴĮподвеждамVłĴĮ	подвеждаща
+V.PTCPĸĳĵİвъзлязаV.PTCPĸĳĵİ	възлезех
+ADJĬĶĮķкоременADJĬĶĮķ	изпичах саркастичните изпичахте
+ADJĭĮĽвероятенADJĭĮĽ	най-вероятната
+VĲĻĴĵоцветявамVĲĻĴĵ	продаващото оцветявахме заплитащ
+VĲĳĿĮобзавеждамVĲĳĿĮ	обзавеждалите
+VĲľĳĿĮзабраняVĲľĳĿĮ	ранявало
+ADJŁĺĮķсърдитADJŁĺĮķ	изрича по-сърдит
+VĲĻļĵцупя сеVĲĻļĵ	наобличали цупела строели
+NĮĽприятелкаNĮĽ	неприятелки
+ADJŁĺĮİсеизмиченADJŁĺĮİ	сра античният
+V.PTCPĸĳĭĮİıунищожаV.PTCPĸĳĭĮİı	унищожени
+V.MSDRĶĮķрежаV.MSDRĶĮķ	изпичахте изрича
+ADJĭĮĽзълADJĭĮĽ	злата
+V.PTCPĸĳĭĮķшантажирамV.PTCPĸĳĭĮķ	изпичахте изпичахте
+NĵİалкохолNĵİ	алкохоли
+VĲľĳļĵизкупувамVĲľĳļĵ	измрели изкупувало измрели
+ADJŁĺĮķперпендикуляренADJŁĺĮķ	по-перпендикулярни изрича
+V.PTCPŀĳĭĮķсъздавамV.PTCPŀĳĭĮķ	изпичах изпичах
+VĲľĳļĮвковавамVĲľĳļĮ	измрели строели
+ADJĬĭĮķсръбскиADJĬĭĮķ	изпичахме сръбски изпичах
+V.PTCPĸĳĹĵķзапичамV.PTCPĸĳĹĵķ	изпичахме изрича
+VĲĳĿĵобезсмъртяVĲĳĿĵ	обезсмъртяващата
+NĮĽчайкаNĮĽ	чайките
+VĲĻĴĮглобяVĲĻĴĮ	обичаща глобявахме обзавеждаща
+NĵгуляйNĵ	гуляите
+V.PTCPŀĳĵķпренесаV.PTCPŀĳĵķ	изпичахме пренесената изпичахме
+V.PTCPŀĳĺĮİнаследяV.PTCPŀĳĺĮİ	навира наследял
+ADJĭĮıİазотистADJĭĮıİ	арестувам азотисто
+V.PTCPĸĳĺĮİнаведаV.PTCPĸĳĺĮİ	навира
+V.PTCPĸĻĭĮķкупувамV.PTCPĸĻĭĮķ	изрича изпичахме
+NĮķбежанкаNĮķ	изпичахте калинка изрича
+ADJŁĭĮįİнедоврялADJŁĭĮįİ	недоврял
+VĲĳĴĵподмитамVĲĳĴĵ	подмиталите
+V.PTCPŀĳĵķподобряV.PTCPŀĳĵķ	изрича подобрилото изпичахме
+V.PTCPĸĻĺĮİпреживявамV.PTCPĸĻĺĮİ	превежда
+V.PTCPĸĻĭĮİįспасявамV.PTCPĸĻĭĮİį	спасяваният
+VĲĳļĵбоядисамVĲĳļĵ	изтичали боядисам наобличали
+NĵİадвокатNĵİ	адвокате катове
+NĵķсветлинаNĵķ	изпичахте светлината изпичахте
+V.PTCPĸĳĶĮİзачетаV.PTCPĸĳĶĮİ	забоде
+NĮįİсинигерNĮįİ	синигер авар
+NĵķвизаNĵķ	изрича изрича
+V.PTCPŀĳĺĮķспекаV.PTCPŀĳĺĮķ	изпичахте
+V.PTCPŀĳĵķоцветявамV.PTCPŀĳĵķ	изпичах оцветявало изпичахме
+V.PTCPĸĻĺĮķобучавамV.PTCPĸĻĺĮķ	изпичахме обучи изпичахте
+V.PTCPĸĳĭĮķвъзлизамV.PTCPĸĳĭĮķ	изпичах възлизала изпичахме
+V.PTCPĸĻĺĮķснасямV.PTCPĸĻĺĮķ	изпичах снасяли изпичахме
+V.PTCPĸĳĶĮķпеяV.PTCPĸĳĶĮķ	пеещия изпичах
+V.PTCPĸĳĭĮİįподнесаV.PTCPĸĳĭĮİį	поднесъл
+ADJĬĺĮİневеренADJĬĺĮİ	навлиза саркастичните
+ADJĬĭĮķгрижливADJĬĭĮķ	изрича грижливи изрича
+VĲĻļĮизпасаVĲĻļĮ	строели съчетаели
+VĲľĳļĵзамраVĲľĳļĵ	наобличали съчетаели
+VĲľĳļĵнахапвамVĲľĳļĵ	съчетаели нахапвалите съчетаели
+ADJŁĭĮįİанонименADJŁĭĮįİ	най-анонимният
+VĲĳĿĵподчертаяVĲĳĿĵ	подчертаваше
+VĲĻĿĮдовличамVĲĻĿĮ	довличало
+V.PTCPĸĳĺĮİухапвамV.PTCPĸĳĺĮİ	умра захапвал
+ADJĭĮıİединадесетиADJĭĮıİ	единадесета
+VĲĻĴĵзавлекаVĲĻĴĵ	завлекли провиращ
+V.PTCPĸĳĹĵķразплаквамV.PTCPĸĳĹĵķ	изпичахте разплаквала изпичахте
+V.PTCPŀĳĺĮķизпеяV.PTCPŀĳĺĮķ	изпеели
+ADJŁĭĮıİсладъкADJŁĭĮıİ	слизаш
+V.PTCPĸĳĵİпосетяV.PTCPĸĳĵİ	посетения
+ADJŁĵİантипартиенADJŁĵİ	по-антипартийният
+VĲĳļĵупреквамVĲĳļĵ	изгризвали упреквания изгризвали
+V.PTCPĸĳĺĮİокрадвамV.PTCPĸĳĺĮİ	опичам окрадващият
+V.PTCPĸĻĺĮķобещавамV.PTCPĸĻĺĮķ	изпичах обещавал изпичах
+ADJĶĮķавгустейшиADJĶĮķ	безаварийното изпичахме най-августейшо трето изпичахме
+V.PTCPĸĻĭĮİıуволнявамV.PTCPĸĻĭĮİı	уволнявал
+V.MSDRĵİстудентствамV.MSDRĵİ	студентствала продаване
+NĮķсладоледNĮķ	сладоледи изрича
+ADJŁĺĮİдесетиADJŁĺĮİ	дели
+V.PTCPĸĳĹĵķпровирамV.PTCPĸĳĹĵķ	изрича изпичахме
+ADJĬĭĮķавангарденADJĬĭĮķ	изпичахме най-авангардния
+V.PTCPĸĳĹĺĮķобясняV.PTCPĸĳĹĺĮķ	изрича обясняващ изпичахте
+NĮĽалкохоликNĮĽ	алкохоличките агитпропчиците
+VĲľĳĿĮпростяVĲľĳĿĮ	простили
+V.PTCPĸĳĹĺĮķподметаV.PTCPĸĳĹĺĮķ	изпичахте подмелото изрича
+ADJŁĵķсеренADJŁĵķ	изпичахме изпичахте
+V.PTCPŀĳĭĮİįанулирамV.PTCPŀĳĭĮİį	анулирания-нета
+VĲĳĴĮнадвнасямVĲĳĴĮ	понапичат надвнасяха излиза
+V.PTCPŀĳĶĮķпрощавамV.PTCPŀĳĶĮķ	прощаваното изпичахте
+V.PTCPŀĳĭĮķдояV.PTCPŀĳĭĮķ	доено изпичахте
+V.PTCPĸĳĹĺĮķпринасямV.PTCPĸĳĹĺĮķ	изрича допринасялия изпичах
+NĮĽзаекNĮĽ	северняци
+VłĴĮснесаVłĴĮ	повлечем снесена изтичам
+NĮįİдоматNĮįİ	аромати
+VłĴĮнаоблекаVłĴĮ	наизлизам наобличаме
+ADJĶĮİамериканскиADJĶĮİ	безаварийното арестувам най-американски аналитическото
+ADJŁĶĮİобиленADJŁĶĮİ	озадачава
+V.PTCPŀĳĭĮķпростраV.PTCPŀĳĭĮķ	изрича изпичахме
+NĵİазербайджанецNĵİ	азербайджанец германец
+ADJŁĵİвисокADJŁĵİ	високата
+V.PTCPĸĻĭĮİįтанцувамV.PTCPĸĻĭĮİį	танцувания
+NĮĽабдалNĮĽ	по-абдоминалното артикулите
+ADJŁĵİотровенADJŁĵİ	правителствения
+V.PTCPŀĳĵİпричиняV.PTCPŀĳĵİ	причинявам
+V.PTCPĸĻĺĮķзабременявамV.PTCPĸĻĺĮķ	изпичахте забременявали
+V.PTCPĸĳĵķтичамV.PTCPĸĳĵķ	изпичахме изпичах
+VĲĳĴĮомитамVĲĳĴĮ	излиза потичате
+NĮįİкваркNĮįİ	облаци
+ADJĬĭĮįİгневенADJĬĭĮįİ	гневни
+VĲĳĿĮзапалвамVĲĳĿĮ	запалвала
+NĮĽсъперницаNĮĽ	съперницата
+V.PTCPĸĳĹĺĮķзаметаV.PTCPĸĳĹĺĮķ	изрича изпичахме
+V.PTCPĸĳĺĮİнаизлизамV.PTCPĸĳĺĮİ	навира
+V.PTCPĸĳĹĭĮķобещаяV.PTCPĸĳĹĭĮķ	изрича обещан изпичах
+V.PTCPĸĳĵİнаследяV.PTCPĸĳĵİ	наследено
+ADJĬĭĮıİтънъкADJĬĭĮıİ	тънък
+V.PTCPĸĻĺĮİлижаV.PTCPĸĻĺĮİ	легна
+VĲĻĴĮизгубвамVĲĻĴĮ	заплитащ изгубвания протичаща
+V.PTCPĸĳĭĮİįпостроявамV.PTCPĸĳĭĮİį	построявалите
+V.PTCPŀĳĵķнаписвамV.PTCPŀĳĵķ	изпичахте написваните
+V.PTCPŀĳĺĮķизпявамV.PTCPŀĳĺĮķ	изпичахте изпяващи изпичахме
+V.PTCPĸĳĵķработяV.PTCPĸĳĵķ	изпичах работещите
+ADJĬĺĮİлекторскиADJĬĺĮİ	легна писателските
+VĲĳĿĮзагинаVĲĳĿĮ	загинали
+ADJĬĺĮķгръденADJĬĺĮķ	изрича ароматичните изпичах
+V.PTCPĸĳĶĮķприпекаV.PTCPĸĳĶĮķ	изпичахте припечен изрича
+VĲĳĴĵизкупувамVĲĳĴĵ	изкупувало
+ADJĬĺĮķкукувичиADJĬĺĮķ	изпичахме по-кукувичите четвърти
+NĵĽбояNĵĽ	бои
+VĲľĳĿĮпречупяVĲľĳĿĮ	пречупения
+V.PTCPĸĳĹĺĮķозадачаV.PTCPĸĳĹĺĮķ	изрича озадачеше изрича
+V.PTCPĸĳĵİизпасвамV.PTCPĸĳĵİ	изпасвало
+VĲľĳĴĮговоряVĲľĳĴĮ	потичате говори наобличаме
+NĮķгрижаNĮķ	грижливи изпичах
+ADJĬĭĮįİсатанинскиADJĬĭĮįİ	по-сатанински
+NĵķаберацияNĵķ	изпичахте аберацийо амнистиите изрича
+ADJĬĺĮķнадежденADJĬĺĮķ	изпичахте батерийните изпичахме
+VĲĻļĵкомбинирамVĲĻļĵ	измрели строели
+VĲĳĿĵобучаVĲĳĿĵ	обучи
+NĵĽалгоритъмNĵĽ	домове
+V.PTCPĸĳĶĮİнакажаV.PTCPĸĳĶĮİ	наказва
+V.PTCPĸĳĹĭĮķподклаждамV.PTCPĸĳĹĭĮķ	изпичахте подклаждалата изпичах
+V.PTCPĸĳĹĵķдопраV.PTCPĸĳĹĵķ	изрича изпичах
+ADJŁĶĮķабатскиADJŁĶĮķ	изпичахме по-абатски
+VĲĳĿĮнапредвамVĲĳĿĮ	напредващ
+V.PTCPĸĳĶĮİподпишаV.PTCPĸĳĶĮİ	подпра подписали
+ADJĭĮįİясенADJĭĮįİ	най-ясния
+V.PTCPĸĳĺĮķразхождам сеV.PTCPĸĳĺĮķ	изрича разхожда
+ADJŁĺĮİмайсторскиADJŁĺĮİ	можах майсторски
+NĮķбинокълNĮķ	нокъте разстрели изрича
+NĵķбуляNĵķ	изпичахте копрали изпичах
+VĲľĳļĮпоотичамVĲľĳļĮ	съчетаели изгризвали
+ADJŁĵİотличенADJŁĵİ	отлични античният
+VĲľĳļĵотбождамVĲľĳļĵ	изгризвали наобличали
+NĵķрозаNĵķ	изпичах изпичахте
+NĮķрушветNĮķ	изметите изпичахте
+NĮįİшвейцарецNĮįİ	швейцарска скорците
+VłĴĮходяVłĴĮ	понапичат ходеше
+ADJĵķгръденADJĵķ	изрича
+ADJĬĭĮĽчистADJĬĭĮĽ	най-чистата
+VĲĳĴĮговоряVĲĳĴĮ	изпича говори наобличаме
+V.PTCPĸĳĶĮķзагивамV.PTCPĸĳĶĮķ	изпичахте загиващата изпичахме
+ADJĬĭĮıİхрабърADJĬĭĮıİ	ходя
+V.PTCPĸĳĭĮķпредупреждавамV.PTCPĸĳĭĮķ	изрича предупреждава изпичахме
+V.MSDRĶĮİумирамV.MSDRĶĮİ	умира прозирането
+NĮįİтъртейNĮįİ	бордеи
+ADJĬĶĮİосъществимADJĬĶĮİ	опреде осъществимите бедничките
+V.PTCPĸĳĹĶĮķгосподарствувамV.PTCPĸĳĹĶĮķ	изпичахте
+NĮįİбордейNĮįİ	бордеи
+V.PTCPĸĻĺĮİпиша сеV.PTCPĸĻĺĮİ	простя
+V.PTCPĸĳĹĶĮķобезсмъртявамV.PTCPĸĳĹĶĮķ	обезсмъртяващата изпичахте
+VĲĳĴĮзаревавамVĲĳĴĮ	изпича изпича
+ADJĬĭĮķбезкраенADJĬĭĮķ	изпичахме изпичахме
+VĲĳĴĵпревеждамVĲĳĴĵ	превеждахте
+V.PTCPĸĻĺĮķпочвамV.PTCPĸĻĺĮķ	изпичахте почвали изпичах
+ADJĬĺĮķдързъкADJĬĺĮķ	изпичахме най-дръзкия писателските
+NĮİсоколицаNĮİ	сврях
+V.PTCPŀĳĵķизсекаV.PTCPŀĳĵķ	изрича
+VĲĻļĵполучаVĲĻļĵ	изгризвали получавала изгризвали
+VĲľĳļĮизплетаVĲľĳļĮ	изгризвали наобличали
+VłĴĮгоряVłĴĮ	гореше изпича
+V.MSDRĶĮķзакупувамV.MSDRĶĮķ	изрича закупуванията-нетата изчезването изпичахте
+VĲĻļĵокрадаVĲĻļĵ	съчетаели строели
+ADJĬĵķпърворазреденADJĬĵķ	изрича най-първоразрядно батерийните изрича
+ADJĺĮķдесенADJĺĮķ	изпичах изрича
+V.PTCPĸĳĹĶĮķобвинявамV.PTCPĸĳĹĶĮķ	изпичах изрича
+NĮķгърдаNĮķ	гърдесто изпичахме
+V.PTCPĸĳĭĮİıухапяV.PTCPĸĳĭĮİı	ухапело
+V.PTCPŀĳĭĮķподнесаV.PTCPŀĳĭĮķ	изпичахме поднеслото изпичах
+ADJŁĶĮİнекомпетентенADJŁĶĮİ	навреш най-компетентни
+VĲľĳĿĵзахапяVĲľĳĿĵ	захапел
+VĲĻĿĵзлоупотребяVĲĻĿĵ	злоупотребила
+V.PTCPĸĳĹĺĮķобрекаV.PTCPĸĳĹĺĮķ	изпичах изпичахте
+ADJĭĮıİтънъкADJĭĮıİ	тънък
+ADJĵİслънчевADJĵİ	по-слънчеви
+V.PTCPĸĳĵķсравняV.PTCPĸĳĵķ	изпичахте сравняване изпичах
+VĲĻĴĵвковавамVĲĻĴĵ	инвестираща
+VĲĳĿĵобосновавамVĲĳĿĵ	обосновавана
+ADJĶĮİбезкраенADJĶĮİ	безаварийното ближе подобното
+V.PTCPŀĳĭĮķизтървавамV.PTCPŀĳĭĮķ	изпичахме изтърваванията-нетата
+ADJĭĮıİбезскрупуленADJĭĮıİ	ближе по-безскрупулния
+V.PTCPĸĳĹĶĮķмлъквамV.PTCPĸĳĹĶĮķ	изпичах млъкването изрича
+NĵсловенецNĵ	словенец
+V.PTCPĸĻĶĮİаплодирамV.PTCPĸĻĶĮİ	анатемосва
+NĵİкилолитърNĵİ	килолитъра сантилитър куре
+VĲĳĴĵподписвам сеVĲĳĴĵ	подписвам
+ADJĬĺĮķпорнографиченADJĬĺĮķ	изпичах порнографичното саркастичните
+VĲľĳĿĮпрепрочитамVĲľĳĿĮ	препрочитащи
+ADJĺĮİбезидеенADJĺĮİ	будя
+ADJŁĵİлястовичиADJŁĵİ	лястовичата
+VĲĻļĮдовеждамVĲĻļĮ	изгризвали наобличали
+V.PTCPĸĳĭĮķзабравяV.PTCPĸĳĭĮķ	изпичахме забравено изпичах
+NĮįİварваринNĮįİ	варвари
+VĲĳĴĮнабодаVĲĳĴĮ	изричате наизлизам
+V.PTCPĸĻĵķотвеждамV.PTCPĸĻĵķ	изпичах изпичахте
+VĲĳĴĮизбождамVĲĳĴĮ	повлечем понапичат
+NĮįİорганизъмNĮįİ	атоми
+VĲĳĴĮнавестявамVĲĳĴĮ	излизам навестяваха наобличаме
+ADJĬĭĮķнемскиADJĬĭĮķ	изпичахте немският изрича
+VĲĳĴĵблагодаряVĲĳĴĵ	благодарило
+V.PTCPĸĳĶĮİсъглася сеV.PTCPĸĳĶĮİ	спичаш съгласило
+NĵĽученикNĵĽ	учената племенник
+ADJĬĭĮķсъвършенADJĬĭĮķ	изрича най-съвършена
+ADJĭĮķавторитаренADJĭĮķ	изрича изрича
+VĲĻĴĵспасявамVĲĻĴĵ	спасяваха заплитащ
+ADJŁĵķнисшADJŁĵķ	нисшето изпичахме
+V.PTCPĸĻĺĮķходяV.PTCPĸĻĺĮķ	ходеше
+V.PTCPŀĳĶĮķпишаV.PTCPŀĳĶĮķ	изпичахме писали изпичах
+V.PTCPĸĳĹĺĮķпеяV.PTCPĸĳĹĺĮķ	изпичахме пят изрича
+ADJŁĭĮįİанархиченADJŁĭĮįİ	анархичната античният
+NĮĽраздялаNĮĽ	разделите
+V.PTCPĸĳĹĭĮķобвиняV.PTCPĸĳĹĭĮķ	изпичахме изрича
+V.PTCPŀĳĺĮķограничавамV.PTCPŀĳĺĮķ	изрича изпичахте
+V.PTCPŀĳĺĮİизбераV.PTCPŀĳĺĮİ	изпече
+VĲĳĿĵсъгласявам сеVĲĳĿĵ	съгласявайте
+NĵбогоубиецNĵ	братоубиецо
+VĲĻĴĵзачетаVĲĻĴĵ	режещ отичащата
+V.PTCPĸĳĶĮİпоотичамV.PTCPĸĳĶĮİ	повличаш
+VĲĳĴĮпрехапвамVĲĳĴĮ	прехапваща излизате
+VĲľĳĿĵспасявамVĲľĳĿĵ	спасявал
+V.PTCPĸĳĭĮİįстудентствамV.PTCPĸĳĭĮİį	студентствала
+V.PTCPĸĻĭĮķстудентствамV.PTCPĸĻĭĮķ	студентствала изрича
+ADJŁĵķсеизмиченADJŁĵķ	изпичахме сеизмичен античният изпичахте
+NĮķкъделяNĮķ	изпичах оскъдния копрали изпичах
+ADJĺĮİбезавариенADJĺĮİ	бесиш
+VĲĳĿĵпотъвамVĲĳĿĵ	потъвали
+V.PTCPŀĳĭĮķсекаV.PTCPŀĳĭĮķ	изпичахме изпичахме
+ADJŁĭĮıİвертикаленADJŁĭĮıİ	вдиша
+ADJŁĺĮķкосместADJŁĺĮķ	изпичахме косместия
+ADJĭĮĽлявADJĭĮĽ	най-лявото
+V.PTCPŀĳĭĮİįмечтаяV.PTCPŀĳĭĮİį	мечтани
+VĲĻļĵбудяVĲĻļĵ	изтичали измрели
+V.PTCPĸĳĶĮİгосподарствувамV.PTCPĸĳĶĮİ	господарствах
+VĲľĳĴĵвъвлекаVĲľĳĴĵ	въвлича
+ADJĬĵİлюбезенADJĬĵİ	любезния батерийните
+VĲľĳĿĮвъзпирамVĲľĳĿĮ	възпирай
+ADJĬĵķучителскиADJĬĵķ	изрича писателските изпичахме
+ADJĬĭĮĽдебелADJĬĭĮĽ	дебели
+NĮİбъзлаNĮİ	бесиш
+V.PTCPĸĳĵİобесвамV.PTCPĸĳĵİ	обесвал
+VĲĳĿĵпрочетаVĲĳĿĵ	прочела
+V.PTCPĸĳĺĮķразпростирамV.PTCPĸĳĺĮķ	изпичахме изпичахте
+VĲĻĴĮвлюбвам сеVĲĻĴĮ	доплитащо влюбващото инвестираща
+VĲĻĴĮпонапичамVĲĻĴĮ	завеждащо обзавеждаща
+NĵİбудилникNĵİ	племенник
+NĵİавторитетNĵİ	авторитет
+NĮįİасириецNĮįİ	австралийците
+V.PTCPĸĳĶĮķвиняV.PTCPĸĳĶĮķ	изпичахме изрича
+ADJŁĭĮķвтороразреденADJŁĭĮķ	изпичах най-второразрядно
+ADJĬĶĮķнеопитенADJĬĶĮķ	изпичахте саркастичните изпичах
+V.PTCPĸĳĹĶĮķбоядисамV.PTCPĸĳĹĶĮķ	боядисам изпичахме
+V.PTCPŀĳĺĮķполучаV.PTCPŀĳĺĮķ	изпичах получавала изпичахме
+ADJĬĵķвъзтесенADJĬĵķ	възтясно саркастичните изпичах
+V.PTCPĸĻĭĮķвземамV.PTCPĸĻĭĮķ	вземания изрича
+ADJĬĶĮİбедняшкиADJĬĶĮİ	бесиш писателските
+NĵĽавстралиецNĵĽ	австралийците
+NĵĽавтономияNĵĽ	автономиите амнистийо
+NĮİбедроNĮİ	бесиш езеро
+VĲľĳĿĵподобря сеVĲľĳĿĵ	подобряващата
+ADJĭĮķсатанистиченADJĭĮķ	изпичахме античният
+ADJĬĵķчистADJĬĵķ	изрича четвърти
+VĲľĳĴĮзаслужавамVĲľĳĴĮ	изпича заслужава излизате
+ADJŁĶĮķдеветиADJŁĶĮķ	изпичахме
+NĮķсветилникNĮķ	племенник изпичахме
+NĮķбелогвардейкаNĮķ	изпичахме белогвардейко изпичах
+NĵİкомунисткаNĵİ	комунистки акордеонистката
+V.MSDRĶĮķзаподозирамV.MSDRĶĮķ	изпичахте заподозирания-нета прозирането изпичахме
+V.PTCPĸĳĹĵķизметаV.PTCPĸĳĹĵķ	изрича изрича
+ADJĬĺĮİсветлосинADJĬĺĮİ	сврях светлосиньото гръдните
+V.PTCPĸĳĭĮķцелувамV.PTCPĸĳĭĮķ	оцеляващото изпичахте
+VĲľĳĴĮрадеяVĲľĳĴĮ	понапичат
+V.PTCPĸĳĵķдъвчаV.PTCPĸĳĵķ	изрича дъвчела изрича
+NĵавтомобилNĵ	долове
+VĲľĳĴĮиграяVĲľĳĴĮ	изтичам игра
+ADJĬĶĮİвъзтесенADJĬĶĮİ	вдиша възтесни ароматичните
+VĲĻĿĮнаранявамVĲĻĿĮ	нарани
+V.PTCPĸĳĭĮİıходяV.PTCPĸĳĭĮİı	ходеше
+V.PTCPĸĻĭĮİįизгребвамV.PTCPĸĻĭĮİį	нагребвала
+ADJĭĮıİнебреженADJĭĮıİ	надонесеш
+V.PTCPĸĳĹĵķпотънаV.PTCPĸĳĹĵķ	изпичах потънела изрича
+V.PTCPĸĻĶĮİпрощавамV.PTCPĸĻĶĮİ	прости съобщаваната
+ADJĬĺĮķсивADJĬĺĮķ	изпичахте анилиновите изпичахме
+ADJĬĶĮķадекватенADJĬĶĮķ	най-адекватно ароматичните изрича
+V.PTCPĸĳĹĵķподслушамV.PTCPĸĳĹĵķ	изпичахте подслушалия изпичахме
+ADJĺĮİпроницателенADJĺĮİ	произтича
+VĲĻĴĮобвиняVĲĻĴĮ	доплитащо заплитащ
+VłĴĵлегализирамVłĴĵ	легализиралият
+ADJŁĶĮķбезидеенADJŁĶĮķ	изпичахте изпичахме
+ADJĬĶĮķдяволскиADJĬĶĮķ	изрича писателските изрича
+V.MSDRĶĮİвършеяV.MSDRĶĮİ	вдиша вършал
+V.PTCPĸĻĭĮİįближаV.PTCPĸĻĭĮİį	близала
+NĮķдовериеNĮķ	растението изрича
+ADJŁĺĮİбесенADJŁĺĮİ	бесиш
+VłĴĮавансирамVłĴĮ	авансиращ излизам
+ADJĺĮķсеизмиченADJĺĮķ	изпичахме сеизмичен античният изпичахте
+VĲĳĴĵодобряVĲĳĴĵ	одобряваше
+V.MSDRĵķобличамV.MSDRĵķ	изпичахте изпичахме
+V.PTCPĸĳĺĮİвлязаV.PTCPĸĳĺĮİ	влиза
+NĮįİсандалNĮįİ	ветропоказатели
+ADJĵİапетитенADJĵİ	по-апетитно
+V.PTCPĸĳĭĮķпредскажаV.PTCPĸĳĭĮķ	изрича предскажело изпичах
+V.PTCPŀĳĭĮķуволняV.PTCPŀĳĭĮķ	изпичахме уволнял изпичахте
+V.PTCPĸĻĶĮİвъвирамV.PTCPĸĻĶĮİ	вдишаш въвирали
+V.PTCPŀĳĵķпричинявамV.PTCPŀĳĵķ	изпичахме
+VĲľĳĴĮуча сеVĲľĳĴĮ	наизлиза наобличаме
+VĲĻĿĮлягам сиVĲĻĿĮ	лягало
+V.PTCPĸĳĹĶĮķосиновяV.PTCPĸĳĹĶĮķ	изрича изпичах
+ADJĬĭĮĽбезскрупуленADJĬĭĮĽ	по-безскрупулния
+V.PTCPŀĳĶĮķозадачавамV.PTCPŀĳĶĮķ	озадачеше изпичах
+NĮķцарNĮķ	изрича отрицателното авари изпичахме
+V.PTCPĸĳĶĮķобезглавяV.PTCPĸĳĶĮķ	изпичахме обезглавилият
+V.PTCPĸĳĭĮķпростраV.PTCPĸĳĭĮķ	изрича изпичахме
+V.PTCPŀĳĶĮİпрозраV.PTCPŀĳĶĮİ	произтича зрели
+VłĴĮизнудяVłĴĮ	понапичат изнудеше понапичат
+NĵķсказуемоNĵķ	предсказвам суеверия селата
+VĲĻĿĵзахапяVĲĻĿĵ	захапел
+VĲĻļĮнабождамVĲĻļĮ	изгризвали изтичали
+NĮįİврагNĮįİ	плугове
+V.PTCPŀĳĵİнавестявамV.PTCPŀĳĵİ	навестявания
+VĲĻĴĵпострояVĲĻĴĵ	отичащата провиращ
+V.PTCPĸĳĹĺĮķдамV.PTCPĸĳĹĺĮķ	изпичахме
+ADJĬĭĮıİобиленADJĬĭĮıİ	ограничих
+VłĴĮзакупяVłĴĮ	повлечем закупех потичате
+ADJĵķбързADJĵķ	бързият изпичах
+ADJŁĭĮĽчешкиADJŁĭĮĽ	чешката
+ADJĬĵİразуменADJĬĵİ	благоразумен ароматичните
+V.PTCPĸĳĶĮİизлизамV.PTCPĸĳĶĮİ	изпече
+VĲĳļĵзабранявамVĲĳļĵ	изгризвали ранявало наобличали
+NĵİземетресениеNĵİ	растението
+V.PTCPĸĳĺĮķвдишамV.PTCPĸĳĺĮķ	изпичах изрича
+VĲľĳļĵподобряVĲľĳļĵ	изгризвали подобрявала съчетаели
+NĮĽлисугерNĮĽ	лисугери авари
+V.PTCPŀĳĭĮİįобезглавяV.PTCPŀĳĭĮİį	обезглавилият
+V.MSDRĶĮİобковавамV.MSDRĶĮİ	ограничи продаване
+V.PTCPĸĻĶĮķдоказвамV.PTCPĸĻĶĮķ	доказваните изпичах
+NĮİбайноNĮİ	благословиш байновците словото
+V.PTCPĸĳĭĮİıобясняV.PTCPĸĳĭĮİı	обясниха
+VĲĻĴĮпосещавамVĲĻĴĮ	протичаща посещава повеждащо
+ADJŁĺĮķоскъденADJŁĺĮķ	изпичахте най-оскъдно
+ADJĬĭĮįİенергиченADJĬĭĮįİ	енергичният
+V.PTCPĸĳĹĺĮķзабранявамV.PTCPĸĳĹĺĮķ	ранявало изпичах
+VĲĳļĮозадачаVĲĳļĮ	изгризвали озадачеше измрели
+V.PTCPĸĻĭĮİįсъществувамV.PTCPĸĻĭĮİį	съществувала
+V.PTCPĸĳĺĮİизбераV.PTCPĸĳĺĮİ	изпече
+ADJĬĺĮķнеразсъдителенADJĬĺĮķ	неразсъдливи ароматичните
+VĲľĳļĮзаповядвамVĲľĳļĮ	измрели заповядвалият съчетаели
+V.MSDRĵİизслушвамV.MSDRĵİ	изслушваше продаване
+VĲĻļĮнаемаVĲĻļĮ	строели изгризвали
+NĵİряпаNĵİ	репи
+VĲĳļĮобковавамVĲĳļĮ	измрели изтичали
+NĵĽгенийNĵĽ	господарствалото вестовою
+V.PTCPĸĳĶĮİнаоблекаV.PTCPĸĳĶĮİ	навира
+NĮıİболногледачNĮıİ	будих болногледач
+ADJĬĶĮķздравADJĬĶĮķ	изпичахме най-здрави анилиновите изпичахме
+ADJĬĵİдалеченADJĬĵİ	най-далечно подобни
+NĵкрайNĵ	край
+ADJĬĭĮĽвъзтесенADJĬĭĮĽ	възтясно
+V.PTCPĸĻĺĮİпристигамV.PTCPĸĻĺĮİ	припира пристигала
+NĮķябълкаNĮķ	по-ябълкови изпичах
+VĲĳĴĵдометаVĲĳĴĵ	дометях
+V.PTCPĸĳĭĮķсияяV.PTCPĸĳĭĮķ	изпичахме сияел
+V.PTCPĸĳĹĺĮķнапредвамV.PTCPĸĳĹĺĮķ	изпичахте напредващ изпичахме
+ADJĭĮķизпълнимADJĭĮķ	изпълнимото изпичахте
+VĲĳļĮзаредяVĲĳļĮ	изгризвали заредените изтичали
+ADJŁĺĮķгневенADJŁĺĮķ	гневни правителствения изрича
+ADJŁĺĮķплътенADJŁĺĮķ	изпичахме плътна изпичахте
+NĮįİгвоздейNĮįİ	гвоздеи
+V.PTCPĸĳĵķпоспраV.PTCPĸĳĵķ	изпичахте поспрелия изрича
+ADJĭĮĽбезформенADJĭĮĽ	безформеното
+V.PTCPĸĻĵİпрелъстявамV.PTCPĸĻĵİ	прелъстеше
+V.PTCPŀĳĶĮİзашияV.PTCPŀĳĶĮİ	забоде
+V.MSDRĶĮİотвличамV.MSDRĶĮİ	отвориш
+ADJŁĶĮķвещADJŁĶĮķ	вещото изпичах
+VĲĻĴĮпривнесаVĲĻĴĮ	зареждащото привнесете повеждащо
+VĲĳļĮвземамVĲĳļĮ	съчетаели вземаме съчетаели
+V.PTCPĸĳĺĮķпростраV.PTCPĸĳĺĮķ	изпичах изпичахте
+NĵķавторNĵķ	авар изрича
+NĮıİдеребейNĮıİ	дели вестовою
+ADJŁĵķкрасивADJŁĵķ	изпичахте
+V.PTCPŀĳĵİсравнявамV.PTCPŀĳĵİ	сравнявала
+V.PTCPĸĳĺĮİучаV.PTCPĸĳĺĮİ	убиваш
+V.MSDRĶĮİбияV.MSDRĶĮİ	будих
+V.PTCPĸĻĺĮķпрегръщамV.PTCPĸĻĺĮķ	изпичахме прегръщащо изрича
+VĲľĳĿĵплатяVĲľĳĿĵ	платен
+V.PTCPĸĻĭĮķобесвамV.PTCPĸĻĭĮķ	изпичахте обесвано изрича
+ADJŁĺĮķвтороразреденADJŁĺĮķ	изрича най-второразрядно изпичах
+ADJĬĺĮķлекомисленADJĬĺĮķ	изрича най-лекомислено подобни изпичахте
+NĮķавенюNĮķ	изрича авенютата изпичах
+V.MSDRĶĮİнадонасямV.MSDRĶĮİ	надонесеш
+NĮĽсептолитърNĮĽ	септолитъра сантилитър куре
+V.PTCPĸĳĶĮİизтичамV.PTCPĸĳĶĮİ	изпече
+VĲĻĴĮпоизметаVĲĻĴĮ	режещо
+ADJĬĭĮĽспособенADJĬĭĮĽ	най-способната подобни
+V.PTCPŀĳĶĮķизползвамV.PTCPŀĳĶĮķ	използва изпичахте
+VĲĳļĮобезсмъртявамVĲĳļĮ	строели обезсмъртяващата наобличали
+NĮįİбогоубиецNĮįİ	братоубиецо
+V.PTCPĸĻĶĮİопридамV.PTCPĸĻĶĮİ	опреде
+VĲĳĿĵспасяVĲĳĿĵ	спасени
+VĲĻĴĵабдикирамVĲĻĴĵ	доплитащо абдикиралия извеждаща
+VĲĳĴĮпрощавамVĲĳĴĮ	изтичам прощаваното излизате
+V.PTCPĸĳĺĮİсъглася сеV.PTCPĸĳĺĮİ	спичаш съгласило
+V.PTCPĸĳĶĮķспичамV.PTCPĸĳĶĮķ	изпичахте спичащите
+NĵķсимволNĵķ	символите адмиралите изпичахме
+VĲĻĿĮизплашаVĲĻĿĮ	изплашеното
+ADJĬĶĮķаморфенADJĬĶĮķ	изпичах по-аморфното саркастичните изрича
+ADJĭĮĽщастливADJĭĮĽ	щастливото
+VĲľĳļĮзамитамVĲľĳļĮ	наобличали замитали измрели
+V.PTCPŀĳĵķзанасямV.PTCPŀĳĵķ	изрича занасялия изпичах
+V.PTCPĸĳĺĮķвъзпирамV.PTCPĸĳĺĮķ	изпичах възпиращият изпичах
+ADJĬĭĮįİанатомиченADJĬĭĮįİ	анатомичен
+V.PTCPĸĳĹĶĮķработяV.PTCPĸĳĹĶĮķ	изпичах работещите изпичахме
+NĮĽйоктометърNĮĽ	йоктолитрите атометър куре

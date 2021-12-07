@@ -1,566 +1,684 @@
-V;IMP;2;PLизмазниV;IMP;2;PL	измазни
-N;SG;DEF;PROXциркусантN;SG;DEF;PROX	циркусантиве
-V;PROG;PST;3;PLраспишеV;PROG;PST;3;PL	распишевме
-V;PST;1;SGсе раздуваV;PST;1;SG	се
-V;IMP;2;PLвеслаV;IMP;2;PL	веслаат
-N;SG;DEF;PROXфилозофN;SG;DEF;PROX	филозофу
-V;PST;1;PLуплашиV;PST;1;PL	уплатите
-V;PST;2;PLсе вљубиV;PST;2;PL	се вљубеше
-V;PST;3;SGпотчиниV;PST;3;SG	потчинете
-V.PTCP;PROG;PST;FEM;SGсе досадуваV.PTCP;PROG;PST;FEM;SG	се
-N;SG;INDFждребецN;SG;INDF	ждребе
-V;PST;3;PLодложиV;PST;3;PL	одложиме
-V;PRS;2;SGизбувнеV;PRS;2;SG	избувнуваш
-V.PTCP;PST;PLсе џитнеV.PTCP;PST;PL	се џитнала
-N;PL;INDFочеN;PL;INDF	очевидци
+VĬĭĮкреваVĬĭĮ	кваселе
+VįİıизмазниVįİı	измазни
+NĮĲĳциркусантNĮĲĳ	циркусант
+VĴĵĶıраспишеVĴĵĶı	запишеше
+VĵĭĮсе раздуваVĵĭĮ	се
+NıķшамијаNıķ	шамиине
+NĮĲĸфелациоNĮĲĸ	фантастичнава
+NĮĲĳфилозофNĮĲĳ	финале
+VĵĭıуплашиVĵĭı	унаказил
+Vĵİıсе вљубиVĵİı	се вљубеше
+VĵĶĮпотчиниVĵĶĮ	поттикнеле
+V.PTCPĴĵĺĮсе досадуваV.PTCPĴĵĺĮ	седеле
+NĮķждребецNĮķ	ждребено
+ADJĻĮĲĸлетенADJĻĮĲĸ	лековернава
+VĵĶıодложиVĵĶı	одложиме
+VĬİĮизбувнеVĬİĮ	избувнеа
+ADJĻĮĲĸпороченADJĻĮĲĸ	планинсково
+VĬĶĮзанишаVĬĶĮ	заниша
+V.PTCPĵıсе џитнеV.PTCPĵı	се џитнала
+NĮĲĸзаробеништвоNĮĲĸ	зависнава
+NĮĲĳдибекNĮĲĳ	дизајнер
+NıĲĸгаламаNıĲĸ	горенаведеново
+NĮĽмлекаркаNĮĽ	млекаркава
 V.CVBчеткаV.CVB	чешлајќи
-V.PTCP;PST;PLсе умориV.PTCP;PST;PL	се
-V;PRS;2;PLнедостасуваV;PRS;2;PL	недостасувала
-V.PTCP;PROG;PST;PLизбушиV.PTCP;PROG;PST;PL	избушиме
-V.PTCP;PROG;PST;FEM;SGисушиV.PTCP;PROG;PST;FEM;SG	исушам
-ADJ;PL;DEFбукваленADJ;PL;DEF	букетите
-ADJ;NEUT;SG;DEFнервенADJ;NEUT;SG;DEF	нервната
-V.PTCP;PROG;PST;NEUT;SGсе прославиV.PTCP;PROG;PST;NEUT;SG	се
-V;PRS;2;SGпораснеV;PRS;2;SG	пораснеше
-ADJ;PL;DEF;PROXкорејскиADJ;PL;DEF;PROX	корејскава
-V.PTCP;PST;PLокрвавиV.PTCP;PST;PL	окрвавиме
-V;PRS;1;SGусовршиV;PRS;1;SG	усовршите
-ADJ;MASC;SG;INDFшведскиADJ;MASC;SG;INDF	шведска
-V;IMP;2;PLиспокршиV;IMP;2;PL	испокрши
-V;PST;1;PLсе осветиV;PST;1;PL	се
-N;PL;DEFинженерствоN;PL;DEF	инженерството
-V;PROG;PST;1;PLнаседнуваV;PROG;PST;1;PL	наседнувам
-V;PRS;1;SGдоведеV;PRS;1;SG	доведи
-V.PTCP;PST;FEM;SGсе раскиваV.PTCP;PST;FEM;SG	се
-V;PROG;PST;3;PLпримениV;PROG;PST;3;PL	применевме
-N;SG;VOCтекN;SG;VOC	текови
-V.PTCP;PST;PLнавадиV.PTCP;PST;PL	навадило
-V;PST;1;SGсе развиеV;PST;1;SG	се
-N;PL;DEFшпионкаN;PL;DEF	шпенаглите
-V;PFV;PROG;PST;2;PLпрепарираV;PFV;PROG;PST;2;PL	препариравме
-ADJ;MASC;SG;DEF;PROXспецијаленADJ;MASC;SG;DEF;PROX	специјалистов
-N;SG;INDFшолјаN;SG;INDF	шолјине
-ADJ;FEM;SG;DEFархаиченADJ;FEM;SG;DEF	архаичниов
-V;PRS;1;SGпропржиV;PRS;1;SG	пропржеше
-V;PST;1;SG‘рѓосаV;PST;1;SG	‘рѓосавте
-N;SG;DEFархитектN;SG;DEF	архиепископите
-ADJ;NEUT;SG;DEF;PROXкиселкастADJ;NEUT;SG;DEF;PROX	кисели
-V;PST;3;SGотрчаV;PST;3;SG	отрчаше
-V;IMP;2;PLскапеV;IMP;2;PL	скапавме
-V.PTCP;PROG;PST;PLодмрзнеV.PTCP;PROG;PST;PL	одмрзнаа
-N;PL;DEF;REMTкалинаN;PL;DEF;REMT	калинана
-N;SG;INDFепиглотисN;SG;INDF	епиглотисон
-V;PROG;PST;1;PLоскверниV;PROG;PST;1;PL	осквернело
-N;PL;DEF;REMTАлбанкаN;PL;DEF;REMT	Албанке
-ADJ;MASC;SG;DEF;PROXтрговскиADJ;MASC;SG;DEF;PROX	трговсково
-V;PST;1;SGполиеV;PST;1;SG	поли
-N;SG;DEFдоверливостN;SG;DEF	доверливово
-ADJ;PL;DEF;PROXќосADJ;PL;DEF;PROX	ќоси
-V;PRS;1;PLдочекаV;PRS;1;PL	дочекав
-V.PTCP;PST;PASSпогребеV.PTCP;PST;PASS	погребувај
-N;PL;DEFподлогаN;PL;DEF	подлогиве
-ADJ;NEUT;SG;DEF;PROXкафеавADJ;NEUT;SG;DEF;PROX	кафетеријава
-N;PL;VOCдвопекN;PL;VOC	двогласке
-V;PRS;1;PLсе распрснуваV;PRS;1;PL	се распрснувате
-V.PTCP;PROG;PST;FEM;SGжалиV.PTCP;PROG;PST;FEM;SG	жалиш
-N;SG;DEF;REMTдеминутивN;SG;DEF;REMT	деминутив
-V;PRS;2;SGсе припремаV;PRS;2;SG	се припремате
-V.PTCP;PST;PASSтушираV.PTCP;PST;PASS	тркалан
-V.PTCP;PROG;PST;NEUT;SGсе рониV.PTCP;PROG;PST;NEUT;SG	се
-N;PL;DEF;REMTпрогестеронN;PL;DEF;REMT	прогестероните
-N;SG;INDFзајчеN;SG;INDF	зајчено
-N;PL;DEFотстапувањеN;PL;DEF	отстапувања
-V.PTCP;IPFV;PST;MASC;SGпоулавиV.PTCP;IPFV;PST;MASC;SG	поулавеше
-ADJ;FEM;SG;DEF;REMTнебесенADJ;FEM;SG;DEF;REMT	небеснион
-V;PST;3;PLпотцртаV;PST;3;PL	потцрта
-N;PL;INDFтурнејаN;PL;INDF	турнејана
-N;SG;VOCпослугаN;SG;VOC	послуги
-N;PL;DEF;REMTизненадувањеN;PL;DEF;REMT	изненадувањата
-V;PST;2;SGодминеV;PST;2;SG	одминат
-V;PRS;2;SGсе одучиV;PRS;2;SG	се
-N;SG;DEFдисциплинаN;SG;DEF	самодисциплинава
-N;SG;DEFсељакN;SG;DEF	сељачиште
-V;PRS;1;PLпреполнуваV;PRS;1;PL	преполнивме
+V.PTCPĵıсе умориV.PTCPĵı	се
+VĬİıнедостасуваVĬİı	недостасувала
+V.PTCPĴĵıизбушиV.PTCPĴĵı	избушиме
+ADJĹĮĲнервенADJĹĮĲ	нервната
+V.PTCPĴĵĹĮсе прославиV.PTCPĴĵĹĮ	се
+VĬİĮпораснеVĬİĮ	пораснеше
+ADJıĲĳкорејскиADJıĲĳ	корејскава
+V.PTCPĵıокрвавиV.PTCPĵı	озарила
+VĬĭĮусовршиVĬĭĮ	усовршила
+ADJĻĮķшведскиADJĻĮķ	шведскиве
+VįİıиспокршиVįİı	испокрши
+NıĲĳкапиштеNıĲĳ	капи
+V.PTCPľĵĺĮобелиV.PTCPľĵĺĮ	обележеле
+V.CVBдокторираV.CVB	докториравте
+Vĵĭıсе осветиVĵĭı	се
+NıĲинженерствоNıĲ	инженерството
+VĴĵĭıнаседнуваVĴĵĭı	наседнувам
+V.PTCPĵĺĮсе раскиваV.PTCPĵĺĮ	седеле раскивате
+VĴĵĶıпримениVĴĵĶı	применевме
+NĮĽтекNĮĽ	текови
+VĴĵĶĮнаселуваVĴĵĶĮ	населувате
+VĵĭĮсе развиеVĵĭĮ	се превиеше
+NĮĲĳсладоледNĮĲĳ	слабоумни
+NıĲшпионкаNıĲ	шпенаглана
+VĬĭĮзачудиVĬĭĮ	зачуделе
+NıĲĸложаNıĲĸ	лековернава
+VľĴĵİıпрепарираVľĴĵİı	инспирираше
+ADJĻĮĲĳспецијаленADJĻĮĲĳ	специјалистов
+NĮķшолјаNĮķ	шолјине
+ADJĺĮĲархаиченADJĺĮĲ	архаичнава
+ADJıĲĸслабADJıĲĸ	слабоумниов слабава
+VĬĭĮпропржиVĬĭĮ	пропржеше
+VĵĭĮ‘рѓосаVĵĭĮ	отапеле ‘рѓосавте
+V.CVBзабележуваV.CVB	забележувај
+NĮĲархитектNĮĲ	архивиран
+ADJĹĮĲĳкиселкастADJĹĮĲĳ	кисели
+VĵĶĮотрчаVĵĶĮ	отрчале
+NıĽфармакологNıĽ	фармакологијава
+VĬĶıнапрегнеVĬĶı	напрегаше
+V.PTCPĴĵıодмрзнеV.PTCPĴĵı	одмрзнат
+VĴĵİĮдогориVĴĵİĮ	догореа
+NıĲĸкалинаNıĲĸ	карактерниов
+NĮķепиглотисNĮķ	епиглотисон
+VĴĵĭıоскверниVĴĵĭı	осквернело
+NıĲĸАлбанкаNıĲĸ	Албанке
+ADJĺĮĲпреводливADJĺĮĲ	преводлив
+V.PTCPĵĹĮзастенкаV.PTCPĵĹĮ	застанавме
+V.PTCPĴĵĻĮрастревожуваV.PTCPĴĵĻĮ	тревожната
+ADJĻĮĲĳтрговскиADJĻĮĲĳ	тренерка
+NıĲĳзачинNıĲĳ	закачковци
+VĵĭĮполиеVĵĭĮ	прелиев
+ADJıĲĳќосADJıĲĳ	ќоси
+VĬĭıдочекаVĬĭı	дочекав
+NĮĲĸлидерNĮĲĸ	лековернава
+V.PTCPĵĿпогребеV.PTCPĵĿ	елиминирала елиминирала
+NıĲподлогаNıĲ	подлогиве
+ADJĹĮĲĳкафеавADJĹĮĲĳ	кафетерии
+NĮĲĳлисицаNĮĲĳ	лигавчиња
+NıĽдвопекNıĽ	двогласке
+VĬĭıсе распрснуваVĬĭı	се распрснувате
+V.PTCPĴĵĺĮжалиV.PTCPĴĵĺĮ	жртвувале
+NĮĽверонаукаNĮĽ	вероломници
+NĮĲĸдеминутивNĮĲĸ	двособнава
+VĬİĮсе припремаVĬİĮ	се припремате
+V.PTCPĵĿтушираV.PTCPĵĿ	проектирало истушираа фиксирала
+V.PTCPĴĵĹĮсе рониV.PTCPĴĵĹĮ	се
+VĵİıпапсаVĵİı	папса
+NıĲĸпрогестеронNıĲĸ	просечнава прогестерони
+NĮķзајчеNĮķ	зајчено
+NıĲотстапувањеNıĲ	отстапувања
+V.PTCPļĵĻĮпоулавиV.PTCPļĵĻĮ	поулавеше
+ADJĺĮĲĸнебесенADJĺĮĲĸ	неменливава
+NĮĲĸвешNĮĲĸ	ветровитиов
+VĵĶıпотцртаVĵĶı	потцртав
+ADJĺĮĲĸрозовADJĺĮĲĸ	романскиов
+ADJĻĮĲĸпролетенADJĻĮĲĸ	прометново
+ADJĻĮĲĸненадеенADJĻĮĲĸ	ненадејново
+NıķтурнејаNıķ	турнејана
+NĮĽпослугаNĮĽ	послуги
+NıĲезерцеNıĲ	порцелан
+NıĲĸизненадувањеNıĲĸ	избувливово изненадувањата
+VĵİĮодминеVĵİĮ	одминат
+VĬİĮсе одучиVĬİĮ	се
+NĮĲдисциплинаNĮĲ	дисциплинирала
+NĮĲсељакNĮĲ	сељачиште
+VĬĶıпорекнеVĬĶı	порекнела
+VĬĭıштипеVĬĭı	штипен
+VĬĭıпреполнуваVĬĭı	преполнувала
 V.CVBусложнуваV.CVB	усложнуваат
-V;PST;1;SGнастапиV;PST;1;SG	настапило
-N;PL;DEFФинецN;PL;DEF	Финцине
-V;PRS;2;SGнамигнуваV;PRS;2;SG	намигнуваат
-N;PL;DEF;REMTбарањеN;PL;DEF;REMT	бариерине разочарувањава
-V;PFV;PRS;2;PLпишеV;PFV;PRS;2;PL	допишавте
-N;SG;DEF;PROXпараноикN;SG;DEF;PROX	параноици
-V.PTCP;PST;NEUT;SGнасадиV.PTCP;PST;NEUT;SG	насадеше
-ADJ;FEM;SG;DEF;PROXслабоуменADJ;FEM;SG;DEF;PROX	слабоумниов
-V;PROG;PST;2;PLугњавиV;PROG;PST;2;PL	угњавиме
-N;SG;VOCтикварN;SG;VOC	тикварот
-V;PROG;PST;1;SGзакрпиV;PROG;PST;1;SG	закрпеа
-N;PL;VOCмажиштеN;PL;VOC	мажиштава
-ADJ;MASC;SG;DEFговедскиADJ;MASC;SG;DEF	говедски
-ADJ;NEUT;SG;DEFзгоденADJ;NEUT;SG;DEF	згодната
+VĵĭĮнастапиVĵĭĮ	настапило
+NıĲФинецNıĲ	Финцине
+VĬİĮнамигнуваVĬİĮ	намигнуваат
+NıĲĸбарањеNıĲĸ	бандоглавава недоразбирање
+VľĬİıпишеVľĬİı	деактивирала запишеше абортирале
+NĮĲĳпараноикNĮĲĳ	партитура
+V.PTCPĵĹĮнасадиV.PTCPĵĹĮ	насадеше
+ADJĺĮĲĳслабоуменADJĺĮĲĳ	слабоумни
+VĴĵİıугњавиVĴĵİı	угњавиме
+NıĽонкологNıĽ	онкологов
+VĵİıзглобиVĵİı	зглобиле
+NĮĲĳпретставкаNĮĲĳ	претставевме
+V.PTCPĵĿкараV.PTCPĵĿ	проектирало инсприрало
+VĴĵĭĮзакрпиVĴĵĭĮ	закрпиле
+ADJĹĮĲĸгрчкиADJĹĮĲĸ	годишнава
+NıĽмажиштеNıĽ	мажиштава
+ADJĻĮĲговедскиADJĻĮĲ	говедски
+ADJĹĮĲзгоденADJĹĮĲ	згодната
 V.CVBблуеV.CVB	барикадирајќи
-V;PROG;PST;1;SGпрегориV;PROG;PST;1;SG	прегориш
-V.PTCP;PROG;PST;FEM;SGнатежнеV.PTCP;PROG;PST;FEM;SG	натежнала
-V.PTCP;PST;PLзачудиV.PTCP;PST;PL	зачуделе
-V;IPFV;IMP;2;SGликвидираV;IPFV;IMP;2;SG	ликвидирав
-N;PLџандарN;PL	џигерот
-V;PRS;2;SGвознемируваV;PRS;2;SG	вознемиреше
-V;PST;2;SGзаебеV;PST;2;SG	заебам
-V.PTCP;PROG;PST;MASC;SGсе случиV.PTCP;PROG;PST;MASC;SG	се
-V;PROG;PST;3;SGзабележуваV;PROG;PST;3;SG	забележувај
-ADJ;NEUT;SG;INDFдостапенADJ;NEUT;SG;INDF	достапноно
-V;PRS;2;SGскрбиV;PRS;2;SG	скрбеше
-N;PL;DEFменопаузаN;PL;DEF	менијата пауза
-ADJ;MASC;SG;DEFмраченADJ;MASC;SG;DEF	мрачната
-N;SG;DEF;REMTтитулаN;SG;DEF;REMT	партитура
-V;PROG;PST;3;SGваросаV;PROG;PST;3;SG	варосаше
-V;PRS;1;SGсе раскомотиV;PRS;1;SG	се раскомотивте
-V.PTCP;PROG;PST;MASC;SGобземeV.PTCP;PROG;PST;MASC;SG	обзела
-V;PROG;PST;1;PLсе закоравиV;PROG;PST;1;PL	се
-V;PST;2;SGизмрсулавиV;PST;2;SG	мрсулко
-N;PL;VOCбилбилN;PL;VOC	билбилине
-ADJ;MASC;SG;DEF;PROXогроменADJ;MASC;SG;DEF;PROX	огромново
-ADJ;FEM;SG;DEF;REMTдводневенADJ;FEM;SG;DEF;REMT	двојнион
-V;PRS;1;PLсе шашардисаV;PRS;1;PL	се шашардисаме
-V;IMP;2;PLкомуницираV;IMP;2;PL	комуницирате
-V;PRS;3;SGзапечатиV;PRS;3;SG	запечатиш
-N;SG;DEFвдлабнатинаN;SG;DEF	вдлабнатини
-V.PTCP;PST;PASSгасиV.PTCP;PST;PASS	гмечен
-N;PL;DEFгенијалецN;PL;DEF	геномите
-N;PL;DEF;PROXкоњушарN;PL;DEF;PROX	коњушаркиве
-V;PRS;3;SGсе надуваV;PRS;3;SG	се
-N;SG;VOCсаатN;SG;VOC	саатчии
-V.PTCP;PST;PASSплетеV.PTCP;PST;PASS	платен
-ADJ;FEM;SG;DEF;REMTактуеленADJ;FEM;SG;DEF;REMT	актуелноно
-N;PL;DEF;REMTтитулаN;PL;DEF;REMT	партитура
-N;SG;VOCзлатоN;SG;VOC	злобнику
-V;IMP;2;PLсе развиваV;IMP;2;PL	развивајте
-N;SG;DEFнастроениеN;SG;DEF	настроениов
-V;PROG;PST;2;SGразжалостиV;PROG;PST;2;SG	разжалостиле
-V.PTCP;PST;MASC;SGнашминкаV.PTCP;PST;MASC;SG	нашминкале
-V;PST;1;SGнапуштиV;PST;1;SG	напуштеше
-ADJ;FEM;SG;INDFсегашенADJ;FEM;SG;INDF	сегашниов
-V.PTCP;PST;PLпрокоментираV.PTCP;PST;PL	прокоментира
-N;SG;VOCпешкирN;SG;VOC	пешаку
-V;PST;1;PLсе згрозиV;PST;1;PL	се
-N;SG;DEF;PROXсвињаN;SG;DEF;PROX	свирепава кнегињиве
-N;PL;DEFџигерN;PL;DEF	џигерот
-V;PROG;PST;1;SGсе гордееV;PROG;PST;1;SG	се
-V;PROG;PST;1;SGнасадиV;PROG;PST;1;SG	насадеше
-ADJ;NEUT;SG;DEF;PROXсвоеволенADJ;NEUT;SG;DEF;PROX	своеволно
-N;PL;DEF;REMTбанкротN;PL;DEF;REMT	банкротирав
-V;PROG;PST;1;PLклоцаV;PROG;PST;1;PL	клоцаа
-V.PTCP;PROG;PST;PLсе изнагледаV.PTCP;PROG;PST;PL	се
-ADJ;NEUT;SG;DEF;PROXпријателскиADJ;NEUT;SG;DEF;PROX	пријателсконо
-V.PTCP;PROG;PST;PLпритискаV.PTCP;PROG;PST;PL	притиснеле
-ADJ;PL;INDFанатомскиADJ;PL;INDF	анатомскиве
-N;PL;VOCидолN;PL;VOC	идолот
-ADJ;FEM;SG;DEF;PROXнесоодветенADJ;FEM;SG;DEF;PROX	несоодветните
-V.PTCP;PROG;PST;FEM;SGсе расприкажеV.PTCP;PROG;PST;FEM;SG	се
-N;PL;DEF;PROXсредбаN;PL;DEF;PROX	споредби
-N;PL;DEF;PROXбакшишN;PL;DEF;PROX	бакшишу
-N;SG;DEFмеанџикаN;SG;DEF	кираџиката
-V.PTCP;PROG;PST;NEUT;SGистакнуваV.PTCP;PROG;PST;NEUT;SG	истакнувам
-V;PRS;3;SGочуваV;PRS;3;SG	очерупа
-N;PL;INDFсостојкаN;PL;INDF	состојки
-V;PRS;2;PLчемрееV;PRS;2;PL	чемрееле
-V;PST;3;PLраскашавиV;PST;3;PL	раскашавивте
-ADJ;PL;DEF;REMTмршавADJ;PL;DEF;REMT	мршавиот
-ADJ;NEUT;SG;DEF;PROXвирусенADJ;NEUT;SG;DEF;PROX	вируси
-ADJ;MASC;SG;DEFнеприфатливADJ;MASC;SG;DEF	неприфатливи
-V;PROG;PST;3;PLнастројуваV;PROG;PST;3;PL	настројувате
-V;PRS;3;PLсе окомиV;PRS;3;PL	се
-V.PTCP;PROG;PST;FEM;SGдекларираV.PTCP;PROG;PST;FEM;SG	деклариравте
-V;PROG;PST;3;SGхалуцинираV;PROG;PST;3;SG	архаичниов
-ADJ;FEM;SG;INDFгуменADJ;FEM;SG;INDF	гумено
-V.PTCP;PROG;PST;MASC;SGраспишеV.PTCP;PROG;PST;MASC;SG	распишала
-V.PTCP;PROG;PST;PLпоцрвенуваV.PTCP;PROG;PST;PL	поцрвенеле
-N;SG;DEFвреметраењеN;SG;DEF	времетраењана
-V;PROG;PST;2;PLсе заколнеV;PROG;PST;2;PL	се
-N;PL;VOCпропустN;PL;VOC	пропустов
-V.PTCP;PROG;PST;NEUT;SGдочитаV.PTCP;PROG;PST;NEUT;SG	дочитало
-V;PRS;3;SGсе договараV;PRS;3;SG	се договаравме
-N;SG;DEF;REMTсродникN;SG;DEF;REMT	сродствоно
-V;PST;3;PLразљубиV;PST;3;PL	разљубеле
-V;PRS;2;PLпокажеV;PRS;2;PL	покажете
-V;PRS;2;SGсе занесеV;PRS;2;SG	се
-V.PTCP;PST;MASC;SGлоцираV.PTCP;PST;MASC;SG	лови
-V.PTCP;PROG;PST;MASC;SGупотребуваV.PTCP;PROG;PST;MASC;SG	уплашил
-V;PST;3;SGопустошиV;PST;3;SG	опустошив
-V.PTCP;PROG;PST;FEM;SGпопливаV.PTCP;PROG;PST;FEM;SG	попливаше
-V.PTCP;PST;PLисцрпиV.PTCP;PST;PL	исцрпивме
-N;PL;INDFљубознајностN;PL;INDF	сезнајки
-N;SG;DEF;REMTбисерN;SG;DEF;REMT	бисернине
-N;SG;DEFневеродостојностN;SG;DEF	веродостојниот дејноста
-ADJ;FEM;SG;INDFпустADJ;FEM;SG;INDF	пустелија
-ADJ;FEM;SG;DEF;PROXбесконеченADJ;FEM;SG;DEF;PROX	бесконечните
-V;PST;2;PLурочиV;PST;2;PL	урочивме
-N;SG;DEF;PROXКорејкаN;SG;DEF;PROX	Корејка
-N;SG;VOCснеможеностN;SG;VOC	снеможел
-N;PL;DEFокругN;PL;DEF	кругот
-V.PTCP;PROG;PST;MASC;SGдокуцаV.PTCP;PROG;PST;MASC;SG	докуцавте
-V;PST;2;SGсе вознемириV;PST;2;SG	се
-ADJ;PL;DEFисландскиADJ;PL;DEF	исландскиине
-V;PST;1;PLискрвариV;PST;1;PL	искрварете
-N;PL;INDFвиежN;PL;INDF	вискија вртежа
-ADJ;FEM;SG;DEF;PROXповеќекатенADJ;FEM;SG;DEF;PROX	повеќекатницава
-V;PROG;PST;2;SGистураV;PROG;PST;2;SG	истуркало
-N;SG;VOCконопN;SG;VOC	конопа
-ADJ;NEUT;SG;DEF;REMTестонскиADJ;NEUT;SG;DEF;REMT	естонскине
-V.PTCP;PST;NEUT;SGоблечеV.PTCP;PST;NEUT;SG	облеало
-N;SG;DEF;PROXламинатN;SG;DEF;PROX	ламинатон
-V;PROG;PST;2;SGдокосиV;PROG;PST;2;SG	докосив
-V.PTCP;PST;PASSразрешуваV.PTCP;PST;PASS	разбеснат разрешувало
-V.PTCP;IPFV;PROG;PST;FEM;SGблокираV.PTCP;IPFV;PROG;PST;FEM;SG	блокирало
-V;PROG;PST;3;PLпопушиV;PROG;PST;3;PL	попушевме
-V;PROG;PST;2;SGсе дожалиV;PROG;PST;2;SG	се дожалеше
-ADJ;NEUT;SG;DEFрасенADJ;NEUT;SG;DEF	расната
-V.PTCP;PROG;PST;NEUT;SGпоткопаV.PTCP;PROG;PST;NEUT;SG	поткопал
-ADJ;MASC;SG;DEF;PROXприсутенADJ;MASC;SG;DEF;PROX	присуствово
-V.PTCP;PST;PASSисчистиV.PTCP;PST;PASS	исчашен
-N;SG;DEF;REMTимператорN;SG;DEF;REMT	императорите
-N;SG;DEF;REMTштрафN;SG;DEF;REMT	штрафот
-N;PL;DEFсвињарникN;PL;DEF	свирепиот избања
-V;PST;2;SGстапнеV;PST;2;SG	стапнела
-ADJ;PL;DEF;REMTлукавADJ;PL;DEF;REMT	лукавите
-V.PTCP;PST;PLсе препиеV.PTCP;PST;PL	се
-V.PTCP;PROG;PST;NEUT;SGисфалиV.PTCP;PROG;PST;NEUT;SG	исфалат
-V;PRS;3;PLотклучуваV;PRS;3;PL	отклучувавме
-N;PL;DEF;REMTстуденилоN;PL;DEF;REMT	студенткана
-ADJ;MASC;SG;DEF;PROXтамошенADJ;MASC;SG;DEF;PROX	понатамошен
-V.PTCP;PROG;PST;FEM;SGсе премислуваV.PTCP;PROG;PST;FEM;SG	се
-N;PL;DEFпротивдоказN;PL;DEF	спротивнава доказине
-V.PTCP;PROG;PST;PLразбуткаV.PTCP;PROG;PST;PL	избуткало
-V.PTCP;PST;NEUT;SGнадминеV.PTCP;PST;NEUT;SG	надминело
-V;PST;2;SGпретечеV;PST;2;SG	претечев
-V.PTCP;PROG;PST;MASC;SGнасочуваV.PTCP;PROG;PST;MASC;SG	насочувало
-V.PTCP;PST;FEM;SGнајадеV.PTCP;PST;FEM;SG	најал
-V;PROG;PST;3;PLизнајдеV;PROG;PST;3;PL	изнајдеше
-ADJ;FEM;SG;INDFхетеронормативенADJ;FEM;SG;INDF	хетеронормативно
-N;PL;INDFЕврејкаN;PL;INDF	Еврејката
-V;PROG;PST;2;PLпржиV;PROG;PST;2;PL	пржите
-N;SG;INDFИталијанецN;SG;INDF	Ирец
-N;SG;VOCцифраN;SG;VOC	цигариште дијафрагмата
-ADJ;FEM;SG;DEFмоногаменADJ;FEM;SG;DEF	моногамниов
-V.PTCP;PST;NEUT;SGдоградиV.PTCP;PST;NEUT;SG	доградело
-ADJ;PL;DEF;PROXлондонскиADJ;PL;DEF;PROX	лондонскава
-N;SG;VOCслепилоN;SG;VOC	слепилана
-ADJ;MASC;SG;INDFжаленADJ;MASC;SG;INDF	жално
-V.PTCP;PST;NEUT;SGсе откачиV.PTCP;PST;NEUT;SG	се
-V.PTCP;PROG;PST;PLкомандуваV.PTCP;PROG;PST;PL	командувал
-V;PRS;2;SGпретставуваV;PRS;2;SG	претставуваше
-V.PTCP;PST;MASC;SGначукаV.PTCP;PST;MASC;SG	начукало
-ADJ;PL;DEF;REMTарогантенADJ;PL;DEF;REMT	арогантнава
-N;SG;DEF;REMTкругN;SG;DEF;REMT	кругот
-N;PL;DEF;REMTзанимањеN;PL;DEF;REMT	занимаваме
-ADJ;FEM;SG;INDFволчиADJ;FEM;SG;INDF	волчицана
-N;SG;VOCцртежN;SG;VOC	вртежа
-V;PROG;PST;1;SGизмачкаV;PROG;PST;1;SG	измачкав
-V.PTCP;PST;PLсумV.PTCP;PST;PL	биделе
-ADJ;NEUT;SG;INDFнадлеженADJ;NEUT;SG;INDF	надлежнава
-N;PL;VOCпаркиралиштеN;PL;VOC	паркиралиштана
-V;PST;1;PLстокмиV;PST;1;PL	стокми
-V;PROG;PST;3;SGпремотаV;PROG;PST;3;SG	премота
-V;IMP;2;SGпрефрлиV;IMP;2;SG	префрлив
-ADJ;MASC;SG;DEF;REMTразнороденADJ;MASC;SG;DEF;REMT	разностранион
-N;SG;INDFжртваN;SG;INDF	жртвеникот
-V.PTCP;PROG;PST;MASC;SGдонесеV.PTCP;PROG;PST;MASC;SG	донел
-ADJ;PL;DEF;REMTповеќенаменскиADJ;PL;DEF;REMT	повеќенаменската
-V;IPFV;PRS;1;SGелиминираV;IPFV;PRS;1;SG	елиминирал
-V;PROG;PST;3;PLусреќиV;PROG;PST;3;PL	усреќиш
-V;PROG;PST;3;PLсе разделиV;PROG;PST;3;PL	се
-V;PROG;PST;3;SGизговараV;PROG;PST;3;SG	изговарате
-ADJ;NEUT;SG;DEF;PROXтрпеливADJ;NEUT;SG;DEF;PROX	нетрпеливите
-V.PTCP;PROG;PST;FEM;SGусреќиV.PTCP;PROG;PST;FEM;SG	усреќи
-V;IMP;2;SGповрзеV;IMP;2;SG	поврза
-V;PROG;PST;2;PLпојасниV;PROG;PST;2;PL	појасниле
-ADJ;NEUT;SG;DEF;PROXмечкинADJ;NEUT;SG;DEF;PROX	мечкината
-ADJ;FEM;SG;DEFнеприкосновенADJ;FEM;SG;DEF	неприкосновените
-V;PST;3;SGграбнеV;PST;3;SG	грабнеше
-ADJ;PL;INDFпопладневенADJ;PL;INDF	попладневното
-V;PRS;3;SGпроречеV;PRS;3;SG	проречеа
-N;PL;INDFинформатичарN;PL;INDF	информатичарот
-ADJ;PL;INDFтрговскиADJ;PL;INDF	трговсково
-V;PRS;3;PLсе опуштиV;PRS;3;PL	се
-V;PRS;1;PLпродолжиV;PRS;1;PL	продолжат
-N;SG;VOCфонтанаN;SG;VOC	фотосинтезо
-V;IPFV;PROG;PST;3;SGдокументираV;IPFV;PROG;PST;3;SG	документираше
-N;PL;DEF;REMTбуреN;PL;DEF;REMT	бубине
-ADJ;MASC;SG;DEF;REMTбезуменADJ;MASC;SG;DEF;REMT	безумниов
-N;PL;DEF;REMTкучиштеN;PL;DEF;REMT	кугларницине
-V;IMP;2;SGебеV;IMP;2;SG	изгребевме
-V;PRS;1;SGсе придружиV;PRS;1;SG	се
-N;PL;DEF;PROXчардакN;PL;DEF;PROX	чардаку
-N;SG;DEF;REMTспанаќN;SG;DEF;REMT	семоќните
-ADJ;MASC;SG;DEF;PROXженскиADJ;MASC;SG;DEF;PROX	женствениов
-ADJ;FEM;SG;DEF;REMTизбувливADJ;FEM;SG;DEF;REMT	избувливово
-ADJ;FEM;SG;DEF;REMTмозоченADJ;FEM;SG;DEF;REMT	мозочно
-V.PTCP;PST;PLистуриV.PTCP;PST;PL	истуркавте
-V;IMP;2;SGпоедноставиV;IMP;2;SG	поедноставел
-N;SG;DEF;REMTапостолкаN;SG;DEF;REMT	апостолката
-V;PST;3;PLскопчаV;PST;3;PL	скопчав
-V;IPFV;PRS;3;PLполудиV;IPFV;PRS;3;PL	полудуваа
-V;IMP;2;PLпошизиV;IMP;2;PL	пошизат
-V;PROG;PST;1;PLсе искурчиV;PROG;PST;1;PL	се искурчевте
-V;PROG;PST;3;SGнаговестуваV;PROG;PST;3;SG	наговестувај
-N;SG;VOCдивечN;SG;VOC	дивечот
-ADJ;MASC;SG;INDFкраставADJ;MASC;SG;INDF	краставиот
-V;PST;2;SGунаказиV;PST;2;SG	унаказев
-V;PRS;3;PLраскомотуваV;PRS;3;PL	раскомотувала
-ADJ;NEUT;SG;DEF;REMTвоншколскиADJ;NEUT;SG;DEF;REMT	воншколска
-V.PTCP;PROG;PST;NEUT;SGџвакаV.PTCP;PROG;PST;NEUT;SG	џигерот
-V;PROG;PST;3;PLутешиV;PROG;PST;3;PL	утепаа
-N;SG;VOCсреброN;SG;VOC	среброно
-V;PROG;PST;3;SGвнесеV;PROG;PST;3;SG	внесе
-N;SG;DEF;REMTдобротворствоN;SG;DEF;REMT	добротворнион
-V;PST;1;SGонеспособиV;PST;1;SG	онеспособете
-ADJ;NEUT;SG;DEF;PROXкатастрофаленADJ;NEUT;SG;DEF;PROX	катастрофалната
-ADJ;FEM;SG;DEF;PROXтегобенADJ;FEM;SG;DEF;PROX	тегобните
-ADJ;NEUT;SG;DEF;PROXнеснаодливADJ;NEUT;SG;DEF;PROX	неснаодлива
-V;IMP;2;PLупропастиV;IMP;2;PL	упропастиш
-N;SG;INDFрандевуN;SG;INDF	набавуваат
-V.PTCP;PST;PASSосамуваV.PTCP;PST;PASS	оспоруван
-V;PROG;PST;3;SGпотиштиV;PROG;PST;3;SG	потишти
-V;PRS;1;PLпонижуваV;PRS;1;PL	понижувала
-ADJ;NEUT;SG;DEF;PROXвиновенADJ;NEUT;SG;DEF;PROX	виновноно
-V.PTCP;PROG;PST;NEUT;SGпрашуваV.PTCP;PROG;PST;NEUT;SG	прашувал
-V;PST;2;PLсе расониV;PST;2;PL	се
-ADJ;PL;DEF;PROXслучаенADJ;PL;DEF;PROX	случајни
-V;PST;2;SGизмрдаV;PST;2;SG	размрдаше
-V;PROG;PST;3;PLзасушиV;PROG;PST;3;PL	засушете
-V;PRS;2;SGсе изгорчиV;PRS;2;SG	се изгорчела
-V;PRS;3;SGнадитриV;PRS;3;SG	надитрив
-V;PST;2;PLзарипнеV;PST;2;PL	зарипневме
-V;IMP;2;PLнатрупаV;IMP;2;PL	натрупаш
-V;PROG;PST;3;PLсквернавиV;PROG;PST;3;PL	осквернело
-ADJ;NEUT;SG;DEF;PROXдоминантенADJ;NEUT;SG;DEF;PROX	доминантно
-N;SG;VOCзлосторствоN;SG;VOC	злобнику
-ADJ;MASC;SG;INDFнервозенADJ;MASC;SG;INDF	нервозно
-V.PTCP;PROG;PST;PLпрочистуваV.PTCP;PROG;PST;PL	прочистеше
-ADJ;PL;DEFеколошкиADJ;PL;DEF	еколошкиве
-V;PST;2;SGсе искурчиV;PST;2;SG	се искурчевте
-V;PROG;PST;2;SGувидуваV;PROG;PST;2;SG	увидував
-V.PTCP;PROG;PST;PLнатажиV.PTCP;PROG;PST;PL	натажил
-V;PROG;PST;3;PLсе прашуваV;PROG;PST;3;PL	се
-V;PRS;2;SGпружаV;PRS;2;SG	пружа
-ADJ;FEM;SG;DEF;PROXљубочовеченADJ;FEM;SG;DEF;PROX	љубочовечнине
-N;SG;DEF;PROXжелбаN;SG;DEF;PROX	желбите
-ADJ;PL;DEFдијамантскиADJ;PL;DEF	дијамантски
-V;PRS;1;SGиситниV;PRS;1;SG	иситниме
-V;PST;2;SGнавлезеV;PST;2;SG	навлезеле
-V;PST;2;SGсе воздржиV;PST;2;SG	се
-V;PROG;PST;1;PLпорануваV;PROG;PST;1;PL	порануваме
-V.PTCP;PROG;PST;MASC;SGодолговлечиV.PTCP;PROG;PST;MASC;SG	одолговлечев
-V;IMP;2;SGистрпиV;IMP;2;SG	истрпи
-V;PROG;PST;1;PLотсвириV;PROG;PST;1;PL	отсвиривте
-V.PTCP;PROG;PST;PLтуркаV.PTCP;PROG;PST;PL	туреле
-ADJ;FEM;SG;DEF;REMTнепознатADJ;FEM;SG;DEF;REMT	непознатиов
-V.PTCP;PROG;PST;MASC;SGосновеV.PTCP;PROG;PST;MASC;SG	основало
-N;PL;VOCкичмаN;PL;VOC	чмае
-V;PRS;2;SGзавртиV;PRS;2;SG	заврте
-N;SG;INDFглутницаN;SG;INDF	глутници
-ADJ;MASC;SG;DEF;REMTнездравADJ;MASC;SG;DEF;REMT	нездравиве
-V;PROG;PST;2;PLѕенѕаV;PROG;PST;2;PL	ѕенѕате
-V;PRS;3;SGисцрпиV;PRS;3;SG	исцрпеше
-ADJ;PL;INDFклиматскиADJ;PL;INDF	климатското
+VĴĵĭĮпрегориVĴĵĭĮ	прегориш
+V.PTCPĴĵĺĮнатежнеV.PTCPĴĵĺĮ	натежнала
+V.PTCPĵıзачудиV.PTCPĵı	зезнала
+V.CVBприкачуваV.CVB	прикачувавте
+VľĬĶĮаплицираVľĬĶĮ	абортирале групирале
+NıџандарNı	џандарон
+VĴĵĭıси легнуваVĴĵĭı	прилегнев
+VĴĵĶıизгориVĴĵĶı	изгорчела
+VĬİĮвознемируваVĬİĮ	вознемиревме
+V.PTCPĴĵĻĮсе случиV.PTCPĴĵĻĮ	се
+VĴĵĶĮзабележуваVĴĵĶĮ	забележувај
+ADJĹĮķдостапенADJĹĮķ	достапниот
+VĬİĮскрбиVĬİĮ	скрбеше
+NıĲменопаузаNıĲ	пауза
+NĮĲĸтитулаNĮĲĸ	тврдокорнава
+VĴĵĶĮваросаVĴĵĶĮ	варосаше
+VĬĭĮсе раскомотиVĬĭĮ	седеле раскомотувало
+VįİĮсе стопиVįİĮ	се
+V.PTCPĴĵĻĮобземeV.PTCPĴĵĻĮ	обзела
+VĴĵĭıсе закоравиVĴĵĭı	се
+NĮĽзбункаNĮĽ	збункиве
+VĵİĮизмрсулавиVĵİĮ	мрсулко
+NıĽбилбилNıĽ	билбилине
+VĴĵĶĮтурнеVĴĵĶĮ	туреле
+ADJĻĮĲĳогроменADJĻĮĲĳ	офицер
+ADJĺĮĲĸдводневенADJĺĮĲĸ	двособнава
+VĬĭıсе шашардисаVĬĭı	шашардисаме
+VĬĶĮзапечатиVĬĶĮ	запечатат
+V.PTCPĵĿгасиV.PTCPĵĿ	блокирало елиминирала
+NıĲгенијалецNıĲ	генијалниве
+NıĲĳкоњушарNıĲĳ	коњушаркиве
+VĬĶĮсе надуваVĬĶĮ	свиреле
+NĮĽсаатNĮĽ	саатчии
+V.PTCPĵĿплетеV.PTCPĵĿ	збудалело апелирал
+ADJĺĮĲĸактуеленADJĺĮĲĸ	арново
+NıĲĸтитулаNıĲĸ	тврдокорнава
+NĮĽзлатоNĮĽ	зандани
+Vįİıсе развиваVįİı	се развиваше
+VĴĵİĮразжалостиVĴĵİĮ	разжалостел
+VĴĵĭıпразниVĴĵĭı	испразнев
+VĵĭĮнапуштиVĵĭĮ	напуштеше
+ADJĺĮķсегашенADJĺĮķ	сегашниов
+V.PTCPĵĹĮпопушиV.PTCPĵĹĮ	попушевме
+V.PTCPĵıпрокоментираV.PTCPĵı	прокоментира
+NĮĲĸмачетаNĮĲĸ	магливово
+NĮĲпроизводствоNĮĲ	производителиве
+NĮĽпешкирNĮĽ	пешаку
+NıĲĸоптекNıĲĸ	огромново
+VįİĮположиVįİĮ	онерасположите
+NĮĲĳсвињаNĮĲĳ	сточари кнегињиве
+NıĲĸископNıĲĸ	избувливово
+NıĲџигерNıĲ	џитнала
+VĴĵĶĮнишаVĴĵĶĮ	нијансирале
+VĴĵĭĮсе гордееVĴĵĭĮ	се одолееше
+VĴĵĭĮнасадиVĴĵĭĮ	насадеше
+VĬİĮспасуваVĬİĮ	спасувавте
+ADJĹĮĲĳсвоеволенADJĹĮĲĳ	своерачни своеволнине
+NıĲĸбанкротNıĲĸ	бандоглавава банкротирав
+VĴĵĭıклоцаVĴĵĭı	клоцаа
+V.PTCPĴĵıсе изнагледаV.PTCPĴĵı	се
+V.PTCPĴĵĹĮдолжиV.PTCPĴĵĹĮ	издолжен
+ADJĹĮĲĳпријателскиADJĹĮĲĳ	пријателски
+V.PTCPĴĵıпритискаV.PTCPĴĵı	притискавте
+ADJıķанатомскиADJıķ	анатомскиве
+NıĽидолNıĽ	идолот
+ADJĺĮĲĳнесоодветенADJĺĮĲĳ	несоодветните
+V.PTCPĴĵĺĮсе расприкажеV.PTCPĴĵĺĮ	седеле расприкажевме
+V.PTCPĴĵĻĮвложиV.PTCPĴĵĻĮ	вложите
+NıĲĳсредбаNıĲĳ	средства
+ADJĻĮĲĸкаменADJĻĮĲĸ	карактерниов
+NıĲĳбакшишNıĲĳ	бактерии
+NĮĲмеанџикаNĮĲ	синџир
+V.PTCPĴĵĹĮистакнуваV.PTCPĴĵĹĮ	истакнувам
+NıķсостојкаNıķ	состојки
+VĬİıчемрееVĬİı	старееше
+VĵĶıраскашавиVĵĶı	раскашавите
+ADJıĲĸмршавADJıĲĸ	месечново
+VĬĶĮмесиVĬĶĮ	магистрирале
+ADJĹĮĲĳвирусенADJĹĮĲĳ	вируси
+ADJĻĮĲнеприфатливADJĻĮĲ	неприфатливоно
+VĴĵĶıнастројуваVĴĵĶı	настројувате
+VĬĶıсе окомиVĬĶı	се
+VĴĵĭıотпееVĴĵĭı	опееја
+V.PTCPĴĵĺĮдекларираV.PTCPĴĵĺĮ	деклариравте
+VĴĵĶĮхалуцинираVĴĵĶĮ	матријархалнион
+V.PTCPĴĵĻĮраспишеV.PTCPĴĵĻĮ	распишала
+NĮĲвреметраењеNĮĲ	времетраењана
+VĴĵİıсе заколнеVĴĵİı	се
+NıĽпропустNıĽ	пропустов
+VĬĶĮсе договараVĬĶĮ	седеле договаравме
+NıĲовцаNıĲ	овцана
+NĮĲĸсродникNĮĲĸ	сребрениов
+VĵĶıпоживееVĵĶı	поживееше
+VĵĶıразљубиVĵĶı	разљубел
+VĬİĮсе занесеVĬİĮ	се нанесевте
+V.PTCPĵĻĮлоцираV.PTCPĵĻĮ	лоцирате
+V.PTCPĴĵĻĮупотребуваV.PTCPĴĵĻĮ	употребувала
+VĵĶĮопустошиVĵĶĮ	опустошиле
+NĮĲĳпоробителNĮĲĳ	поробители
+VĬĶĮшикнеVĬĶĮ	ширеле
+VĬĶĮпоседуваVĬĶĮ	поседувала
+V.PTCPĵıисцрпиV.PTCPĵı	исцрпеше
+NıķљубознајностNıķ	дејност
+NĮĲĸбисерNĮĲĸ	битново
+NĮĲневеродостојностNĮĲ	веродостојниот дејности
+ADJĺĮķпустADJĺĮķ	непопустлививе
+ADJĺĮĲĳбесконеченADJĺĮĲĳ	бесмислени
+NĮĲĳКорејкаNĮĲĳ	Корејка
+NĮĽснеможеностNĮĽ	снеможеле
+ADJĺĮĲĳметеоролошкиADJĺĮĲĳ	метро
+VĴĵİĮзгоиVĴĵİĮ	згоен
+VĴĵĶĮизвлечеVĴĵĶĮ	извиткале
+V.PTCPĴĵĻĮдокуцаV.PTCPĴĵĻĮ	докуцавте
+VĵİĮсе вознемириVĵİĮ	се вознемиревме
+VĴĵĭĮизбричиVĴĵĭĮ	зачистиле избричеа
+NıĲподбрадокNıĲ	подберел
+ADJıĲисландскиADJıĲ	исландскиине
+VĵİıодмаздиVĵİı	одмазди
+ADJĺĮĲĳповеќекатенADJĺĮĲĳ	повеќекатницава
+NĮĽконопNĮĽ	конопа
+VĬĶıодржиVĬĶı	одржела
+ADJĹĮĲĸестонскиADJĹĮĲĸ	естонскиов
+NĮĲĳвепарNĮĲĳ	верни
+NĮĲĳламинатNĮĲĳ	ламинатон
+VĴĵİĮдокосиVĴĵİĮ	докосив
+V.PTCPĵĿразрешуваV.PTCPĵĿ	фиксирала разрешувало елиминирала
+ADJĻĮĲĸфаличенADJĻĮĲĸ	фантастичнава
+VĴĵĶıпопушиVĴĵĶı	попушевме
+VĴĵİĮсе дожалиVĴĵİĮ	се дожалеше
+V.PTCPĴĵĹĮпоткопаV.PTCPĴĵĹĮ	поткопал
+NĮĲĳпеескаNĮĲĳ	пераја
+VĴĵĭıзначиVĴĵĭı	зезнала
+V.PTCPĵĿисчистиV.PTCPĵĿ	инсприрало сондирала
+NĮĲĸимператорNĮĲĸ	избувливово
+NıĽбрусницаNıĽ	бричу
+NĮĲĸштрафNĮĲĸ	штрафовиве
+VĴĵĶıнабиеVĴĵĶı	збиеше
+VĴĵİıизбодеVĴĵİı	избодел
+NıĲсвињарникNıĲ	отсвиривте монахињи
+ADJıĲĸлукавADJıĲĸ	лековернава
+V.PTCPĵıсе препиеV.PTCPĵı	се препиело
+V.PTCPĴĵĹĮисфалиV.PTCPĴĵĹĮ	исфалат
+VĬĶıотклучуваVĬĶı	отклучувавме
+VįİĮсе заљубиVįİĮ	се
+NıĲĸстуденилоNıĲĸ	стомачнава
+ADJĻĮĲĳтамошенADJĻĮĲĳ	понатамошен
+NĮĲĳматурантNĮĲĳ	материјални
+ADJıĲĳјазиченADJıĲĳ	јазичари
+V.PTCPĴĵĺĮсе премислуваV.PTCPĴĵĺĮ	седеле
+NıĲпротивдоказNıĲ	доказине
+V.PTCPĴĵıразбуткаV.PTCPĴĵı	избуткало
+V.PTCPĵĿнамалиV.PTCPĵĿ	инсприрало апелирал
+VĵĭıонемиVĵĭı	озарила
+V.PTCPĵĹĮнадминеV.PTCPĵĹĮ	надминале
+ADJıĲĸпонизенADJıĲĸ	пензионерскиов
+V.PTCPĴĵĻĮнасочуваV.PTCPĴĵĻĮ	насочувавте
+VĴĵĶıизнајдеVĴĵĶı	изнајдеше
+NıигуменNı	заиграв
+ADJĺĮķхетеронормативенADJĺĮķ	хетеронормативната
+NĮķИталијанецNĮķ	Италијанкине
+NĮĲĸнадимакNĮĲĸ	надлежнава
+VĬİĮзатвораVĬİĮ	затвораше
+VĴĵĶĮтраеVĴĵĶĮ	тетовирале опееја
+NĮĽцифраNĮĽ	циркуси шифри
+VĵĭıвклучиVĵĭı	вкусон
+ADJıĲĳлондонскиADJıĲĳ	лондонскава
+NĮĽслепилоNĮĽ	слепилана
+V.PTCPĵĹĮсе откачиV.PTCPĵĹĮ	се
+V.PTCPĴĵıкомандуваV.PTCPĴĵı	командувал
+VĬİĮпретставуваVĬİĮ	претставуваше
+ADJĻĮĲĳспаленADJĻĮĲĳ	силикони
+ADJıĲĸарогантенADJıĲĸ	арново
+NĮĲĸмисиркаNĮĲĸ	микроскопскава
+NĮĲĸкругNĮĲĸ	краткорочново
+V.PTCPĵĺĮпочувствуваV.PTCPĵĺĮ	поразувале
+NıĲĸзанимањеNıĲĸ	заменсково влошувањево
+ADJĺĮķволчиADJĺĮķ	волчицана
+VĴĵĭıкрунисуваVĴĵĭı	крунисуван
+NĮĽцртежNĮĽ	циркуси вртежа
+VĴĵĭĮизмачкаVĴĵĭĮ	зачистиле измачкаа
+V.PTCPĵıсумV.PTCPĵı	биделе
+NĮĽчисткаNĮĽ	чистилишта
+VĵĭıстокмиVĵĭı	стокми
+VĴĵĶĮпремотаVĴĵĶĮ	премота
+VįİĮпрефрлиVįİĮ	префрлија
+ADJĻĮĲĸразнороденADJĻĮĲĸ	работничкиов
+NĮķжртваNĮķ	жртвував
+V.PTCPĵĿкомпонираV.PTCPĵĿ	сондирала елиминирала
+ADJıĲĸповеќенаменскиADJıĲĸ	потчинетово повеќенаменската
+VĴĵĶıусреќиVĴĵĶı	усрала усреќи
+VĴĵĶıсе разделиVĴĵĶı	се
+VĴĵĶĮизговараVĴĵĶĮ	изговарате
+ADJĹĮĲĳтрпеливADJĹĮĲĳ	нетрпеливите
+V.PTCPĴĵĺĮусреќиV.PTCPĴĵĺĮ	усреќи
+VĬĶĮдобиеVĬĶĮ	пробиев
+NıĲĳгелNıĲĳ	главчиња
+VĬĭĮгасиVĬĭĮ	гарантирале
+NıĲеретикNıĲ	еретиков
+VľĵĶĮпишеVľĵĶĮ	запишеше
+VĬĭĮиздолжиVĬĭĮ	изведувале раздолжевте
+VįİĮповрзеVįİĮ	поврзаа
+VĴĵİıпојасниVĴĵİı	појаснев
+ADJĹĮĲĳмечкинADJĹĮĲĳ	мегдани
+ADJĺĮĲнеприкосновенADJĺĮĲ	неприкосновените
+VĵĶĮграбнеVĵĶĮ	грабнеше
+ADJıķпопладневенADJıķ	попладневното
+VĬĶĮпроречеVĬĶĮ	проречеа
+NıķинформатичарNıķ	информатичарот
+NıķсечивоNıķ	сечивово
+ADJıķтрговскиADJıķ	трговското
+VĴĵİıизгасиVĴĵİı	изгаси
+VĬĭıпродолжиVĬĭı	продолжат
+ADJĺĮĲĸизмисленADJĺĮĲĸ	измисленово
+NĮĽфонтанаNĮĽ	фарови
+VĴĵİıиспипаVĴĵİı	испипале
+NıĲĸбуреNıĲĸ	будалестава
+ADJĻĮĲĸбезуменADJĻĮĲĸ	бездушново
+NıĲĸкучиштеNıĲĸ	квалитативниов
+VĬĭĮизопачиVĬĭĮ	излечеле
+VĬĭĮсе придружиVĬĭĮ	седеле дружеше
+NıĲĳликерNıĲĳ	лигавчиња
+NıĲĳчардакNıĲĳ	чајни
+NıĲĳмераклијаNıĲĳ	медал
+NĮĲĸспанаќNĮĲĸ	световново повраќав
+ADJĻĮĲĳженскиADJĻĮĲĳ	жирија
+ADJĺĮĲĸизбувливADJĺĮĲĸ	избувливово
+NĮĲĸчинNĮĲĸ	чаршискава
+ADJĺĮĲĸмозоченADJĺĮĲĸ	моногамниов
+NĮĲĸапостолкаNĮĲĸ	арново
+VĵĶıскопчаVĵĶı	раскопчаа
+NĮķсватNĮķ	старосвата
+VįİıпошизиVįİı	пошизат
+V.PTCPĴĵıзбиваV.PTCPĴĵı	зезнала
+VĴĵĭıсе искурчиVĴĵĭı	се искурчевте
+VĴĵĶĮнаговестуваVĴĵĶĮ	наговестувај
+VĬĭĮпрдиVĬĭĮ	преправеле
+NĮĽдивечNĮĽ	дивтари
+VĵİĮунаказиVĵİĮ	унаказев
+VĬĶıраскомотуваVĬĶı	раскомотувала
+ADJĹĮĲĸвоншколскиADJĹĮĲĸ	водестава воншколска
+V.PTCPĴĵĹĮџвакаV.PTCPĴĵĹĮ	џогиравме
+VĴĵĶıутешиVĴĵĶı	унаказил накострешев
+VĴĵĶĮвнесеVĴĵĶĮ	возбуделе нанесевте
+ADJĺĮĲĳпогрешенADJĺĮĲĳ	половни
+ADJıĲĳскаранADJıĲĳ	скарани
+NĮĲĸдобротворствоNĮĲĸ	добродушнава
+VĵĭĮонеспособиVĵĭĮ	занемариле онеспособете
+VľĴĵĶĮпоцрвениVľĴĵĶĮ	позеленевте
+ADJĹĮĲĳкатастрофаленADJĹĮĲĳ	катастрофалната
+VĬİıпрограмираVĬİı	програмираше
+ADJĺĮĲĳтегобенADJĺĮĲĳ	телепатија
+NĮĲĳбелетристикаNĮĲĳ	белетристика
+NĮķрандевуNĮķ	присуствувај
+V.PTCPĵĿосамуваV.PTCPĵĿ	блокирало осамувало сондирала
+VĴĵĶĮпотиштиVĴĵĶĮ	потиштеа
+Nıķдел-реченицаNıķ	исеченицаана
+VĬĭıпонижуваVĬĭı	понижувала
+ADJĻĮĲĳвозможенADJĻĮĲĳ	невозможнава
+ADJĹĮĲĳвиновенADJĹĮĲĳ	виновнине
+NĮĲĳговорникNĮĲĳ	говорникон
+V.PTCPĴĵĹĮпрашуваV.PTCPĴĵĹĮ	прашувал
+NıĲĸиконоборствоNıĲĸ	избувливово
+Vĵİıсе расониVĵİı	се
+ADJıĲĳслучаенADJıĲĳ	случајни
+VĵİĮизмрдаVĵİĮ	размрдаше
+VĴĵĶıзасушиVĴĵĶı	зезнала
+VĬİĮсе изгорчиVĬİĮ	се изгорчела
+VĬĶĮнадитриVĬĶĮ	надитревме
+VĵİıзарипнеVĵİı	зарипневме
+VįİıнатрупаVįİı	натрупаш
+VĴĵĶıсквернавиVĴĵĶı	осквернам
+ADJĹĮĲĳдоминантенADJĹĮĲĳ	доминантно
+NĮĽзлосторствоNĮĽ	завештаниjа
+ADJĻĮķнервозенADJĻĮķ	нервозно
+V.PTCPĴĵıпрочистуваV.PTCPĴĵı	прочистеше
+ADJıĲеколошкиADJıĲ	еколошкиве
+NıĲĸсреќаNıĲĸ	сребрениов
+VĬĭĮзатвориVĬĭĮ	заменеле
+V.PTCPĵĹĮзагориV.PTCPĵĹĮ	загадевме
+VĵİĮсе искурчиVĵİĮ	се искурчевте
+VĴĵİĮувидуваVĴĵİĮ	увидував
+NıĲĳклунNıĲĳ	клунчево
+V.PTCPĴĵıнатажиV.PTCPĴĵı	натажил
+VĴĵĶıсе прашуваVĴĵĶı	прашувал
+VĬİĮпружаVĬİĮ	пружа
+ADJĻĮĲĸдигестивенADJĻĮĲĸ	досадниов
+ADJĺĮĲĳљубочовеченADJĺĮĲĳ	љубочовечнине
+NĮĲĳжелбаNĮĲĳ	жезла
+ADJıĲдијамантскиADJıĲ	дијамантски
+VĬĭĮиситниVĬĭĮ	иситниме
+NĮĲĳровкаNĮĲĳ	ровки
+V.PTCPĴĵıнатртиV.PTCPĴĵı	натрти
+VĵİĮсе воздржиVĵİĮ	се
+VĬĭĮпопееVĬĭĮ	попишеле опееја
+VĴĵĭıпорануваVĴĵĭı	порануваме
+V.PTCPĴĵĻĮодолговлечиV.PTCPĴĵĻĮ	одолговлечев
+VįİĮистрпиVįİĮ	истрпи
+VĴĵĭıотсвириVĴĵĭı	отсвиривте
+V.PTCPĴĵıтуркаV.PTCPĴĵı	третирала
+ADJĺĮĲĸнепознатADJĺĮĲĸ	неблагодарнава непознатиов
+V.PTCPĴĵĻĮосновеV.PTCPĴĵĻĮ	основан
+V.PTCPĴĵĹĮбодеV.PTCPĴĵĹĮ	бодеме
+ADJĻĮĲĸнездравADJĻĮĲĸ	незначајнава
+VĴĵİıѕенѕаVĴĵİı	ѕенѕаше
+V.PTCPĴĵĺĮзгоиV.PTCPĴĵĺĮ	згоен
+VĬĶĮисцрпиVĬĶĮ	исцрпеше
+ADJıķклиматскиADJıķ	климатското
 V.CVBфотокопираV.CVB	фокусирајќи
-V.PTCP;PROG;PST;PLпотсетуваV.PTCP;PROG;PST;PL	потсетевме
-V;PRS;1;SGмрднеV;PRS;1;SG	мрднавме
-ADJ;NEUT;SG;DEF;PROXшпанскиADJ;NEUT;SG;DEF;PROX	шпекулацијава
-N;SG;VOCЕрменецN;SG;VOC	Ерменци
-ADJ;FEM;SG;DEF;PROXборбенADJ;FEM;SG;DEF;PROX	борбенине
-N;SG;DEF;PROXбубуљицаN;SG;DEF;PROX	бутов
-V;PST;3;PLпотпаднеV;PST;3;PL	потпаднавме
-V;PROG;PST;3;SGизмрсиV;PROG;PST;3;SG	измореше
-V;PRS;1;PLсе обложиV;PRS;1;PL	се
-N;PL;VOCизлетN;PL;VOC	излетиве
-V;PRS;2;PLрасцепиV;PRS;2;PL	расцепивте
-V;PST;1;PLдокосиV;PST;1;PL	докосив
-ADJ;MASC;SG;DEFнервозенADJ;MASC;SG;DEF	нервозни
-ADJ;NEUT;SG;DEF;REMTјугословенскиADJ;NEUT;SG;DEF;REMT	југозападноно
-V;PRS;1;SGомекнуваV;PRS;1;SG	омекнувавме
-V;PRS;3;SGуправуваV;PRS;3;SG	управување
-V;PROG;PST;3;SGослониV;PROG;PST;3;SG	ослони
-N;PL;INDFкрлежN;PL;INDF	крлеживе
-N;PL;DEF;PROXбранителN;PL;DEF;PROX	брановиве
-V;PST;1;PLсвртиV;PST;1;PL	свртите
-V;PST;1;SGоцениV;PST;1;SG	оценеше
-ADJ;PL;INDFизборенADJ;PL;INDF	изборно
-V.PTCP;PROG;PST;NEUT;SGсе извадиV.PTCP;PROG;PST;NEUT;SG	се
-V;PRS;1;SGразгневиV;PRS;1;SG	разгневи
-V;PRS;2;PLобновуваV;PRS;2;PL	обновите
-V;PST;3;PLиспаднеV;PST;3;PL	испадневте
-V;PRS;1;SGсоодветствуваV;PRS;1;SG	соодветствувавме
-V.PTCP;PST;MASC;SGсе насекираV.PTCP;PST;MASC;SG	се
-V;PST;3;PLотежниV;PST;3;PL	отежнете
-V;IMP;2;SGобразоваV;IMP;2;SG	образоваш
-N;SG;DEFнервN;SG;DEF	нервите
-ADJ;NEUT;SG;INDFаргатскиADJ;NEUT;SG;INDF	аргати
-ADJ;FEM;SG;DEF;PROXконзервативенADJ;FEM;SG;DEF;PROX	конзервативизмов
-V.PTCP;PST;FEM;SGсе размножиV.PTCP;PST;FEM;SG	се
-V;PST;1;SGподбуцнеV;PST;1;SG	подбуцнал
-N;SG;INDFџандарN;SG;INDF	џам
-V.PTCP;PROG;PST;PLсоздадеV.PTCP;PROG;PST;PL	создадеа
-V;PRS;3;PLзевнеV;PRS;3;PL	зеваат
-N;PL;VOCпрофилN;PL;VOC	професионалке
-V;PFV;PROG;PST;3;SGгрупираV;PFV;PROG;PST;3;SG	групираше
-V.PTCP;PST;FEM;SGизебеV.PTCP;PST;FEM;SG	изебеш
-V;PROG;PST;3;PLприсилуваV;PROG;PST;3;PL	присилувавте
-V;PRS;3;SGсе надоврзеV;PRS;3;SG	се надоврзеш
-V;IMP;2;SGзаведуваV;IMP;2;SG	заведуваше
-ADJ;PL;INDFзначаенADJ;PL;INDF	незначајните
-V.PTCP;PST;NEUT;SGодземеV.PTCP;PST;NEUT;SG	одземеш
+NıĲĸлопатаNıĲĸ	лековернава
+V.PTCPĴĵıпотсетуваV.PTCPĴĵı	потсетуван
+NıĽфрескаNıĽ	филозофу
+VĬĭĮмрднеVĬĭĮ	мрднавме
+V.PTCPĵĻĮоневозможиV.PTCPĵĻĮ	оневозможуваше
+ADJĹĮĲĳшпанскиADJĹĮĲĳ	шпенагли
+NĮĽЕрменецNĮĽ	Ерменци
+ADJĺĮĲĳборбенADJĺĮĲĳ	борци
+NĮĲĳбубуљицаNĮĲĳ	бубамара
+VĵĶıпотпаднеVĵĶı	потпаднавме
+VĴĵĶĮизмрсиVĴĵĶĮ	измумлале размрска
+VĬĭıсе обложиVĬĭı	се обложевте
+VĬİıрасцепиVĬİı	расцепи
+VĵĭıдокосиVĵĭı	докосив
+ADJĻĮĲнервозенADJĻĮĲ	нервозно
+ADJĹĮĲĸјугословенскиADJĹĮĲĸ	јавниов
+VĬĭĮомекнуваVĬĭĮ	омекнувавме
+V.PTCPĵĿкастрираV.PTCPĵĿ	фиксирала блокирало
+VĴĵĶĮокапеVĴĵĶĮ	окапела
+VĬĶĮуправуваVĬĶĮ	управување
+ADJĻĮĲĳебанADJĻĮĲĳ	ек
+V.PTCPĵĿсе разведеV.PTCPĵĿ	блокирало се изведела инсприрало
+VĴĵİıсолзиVĴĵİı	насолзија
+NıķкрлежNıķ	крлеживе
+NıĲĳбранителNıĲĳ	брави
+VĴĵĶĮкомбинираVĴĵĶĮ	кваселе
+VĬĭĮпоседиVĬĭĮ	поседеле
+NıĲĳцивилNıĲĳ	циркусант
+VĵĭĮоцениVĵĭĮ	слекле оценеше
+ADJıķизборенADJıķ	изборно
+V.PTCPĴĵĹĮсе извадиV.PTCPĴĵĹĮ	се извадело
+VĬĭĮразгневиVĬĭĮ	разгневеле
+VĬİıобновуваVĬİı	установувала
+VĵĶıиспаднеVĵĶı	испаднев
+Vįİıсе зачленуваVįİı	се зачленуваа
+VĬĭĮсоодветствуваVĬĭĮ	соодветствувавме
+V.PTCPĵĻĮсе насекираV.PTCPĵĻĮ	се
+VĵĶıотежниVĵĶı	отежнувавте
+VįİĮобразоваVįİĮ	образова
+NĮĲнервNĮĲ	нервирал
+ADJĹĮķаргатскиADJĹĮķ	аргати
+ADJĺĮĲĳконзервативенADJĺĮĲĳ	конзервативнион
+V.PTCPĵĺĮсе размножиV.PTCPĵĺĮ	седеле
+VĵĭĮподбуцнеVĵĭĮ	подбуцнал
+ADJıķслабADJıķ	слабава
+NĮķџандарNĮķ	џандарон
+V.PTCPĴĵıсоздадеV.PTCPĴĵı	создадеа
+NıĲĳдетствоNıĲĳ	детиште
+VĬĶıзевнеVĬĶı	зезнала
+NıĽпрофилNıĽ	професионалке
+V.PTCPĵĺĮизебеV.PTCPĵĺĮ	изебат
+NĮĲĸмироносецNĮĲĸ	микроскопскава
+VĬİıокапеVĬİı	окапела
+VĴĵĶıприсилуваVĴĵĶı	присилувавте
+NıĲĸфарNıĲĸ	фантастичнава
+VĬĶĮсе надоврзеVĬĶĮ	се надоврзала
+VįİĮзаведуваVįİĮ	заведувајте
+NıĲĸизданокNıĲĸ	избувливово
+NıĲĸбеснилоNıĲĸ	бесценетава
 V.MSDRзбунуваV.MSDR	збунувало
-N;PL;INDFмагнолијаN;PL;INDF	магнетскава
-N;SG;INDFзавршетокN;SG;INDF	завршетокон
-V;PROG;PST;2;PLсе одразиV;PROG;PST;2;PL	се
-V;PST;1;SGусмрдиV;PST;1;SG	смрдат
-V;PROG;PST;3;SGплакнеV;PROG;PST;3;SG	плакнеше
-ADJ;NEUT;SG;INDFзборлестADJ;NEUT;SG;INDF	зборлестите
-V;PROG;PST;3;SGпотцртаV;PROG;PST;3;SG	потцрта
-ADJ;NEUT;SG;DEFмокарADJ;NEUT;SG;DEF	мокрите
-N;PL;VOCконференцијаN;PL;VOC	конференциине
-V;PRS;1;PLсе развиваV;PRS;1;PL	се развиваше
-V;PFV;PRS;3;SGелиминираV;PFV;PRS;3;SG	елиминирал
-V;PRS;3;PLприпаѓаV;PRS;3;PL	припаѓајте
-V;PRS;1;SGразмрдаV;PRS;1;SG	размрдаше
-ADJ;MASC;SG;DEFчудовишенADJ;MASC;SG;DEF	чудовишноно
-N;SG;VOCјоргованN;SG;VOC	којотине
-N;PL;VOCменувачницаN;PL;VOC	менувачници
-N;PL;DEFаџамијаN;PL;DEF	џам
-V;PRS;2;PLсе поздравиV;PRS;2;PL	се
-V.PTCP;PST;MASC;SGпрелистаV.PTCP;PST;MASC;SG	прелистало
-V;PROG;PST;3;PLнаслонуваV;PROG;PST;3;PL	наслонувате
-V;PRS;1;SGскротиV;PRS;1;SG	скротиш
-V;PRS;3;SGпоцрнуваV;PRS;3;SG	поцрвени
-V;PROG;PST;3;PLсе паднеV;PROG;PST;3;PL	се
-V;PST;1;PLсе преселиV;PST;1;PL	се пресели
-ADJ;PL;INDFсиленADJ;PL;INDF	силно
-V;PST;3;SGпрепоиV;PST;3;SG	препоел
-ADJ;PL;DEF;PROXбелодробенADJ;PL;DEF;PROX	белодробно
-V;PST;1;SGдоспремиV;PST;1;SG	доспремам
-V;PROG;PST;1;SGналутиV;PROG;PST;1;SG	налутевте
-ADJ;MASC;SG;DEFсексуаленADJ;MASC;SG;DEF	сексуално
-V;PROG;PST;2;PLотфрлаV;PROG;PST;2;PL	отфрла
-N;SG;INDFУнгаркаN;SG;INDF	Унгаркиве
-V;PRS;1;SGотфрлаV;PRS;1;SG	отфрла
-V.PTCP;IPFV;PROG;PST;NEUT;SGакцентираV.PTCP;IPFV;PROG;PST;NEUT;SG	акцентираше
-V;PRS;2;SGзашеметиV;PRS;2;SG	зашеметеле
-ADJ;FEM;SG;DEF;PROXсовпадливADJ;FEM;SG;DEF;PROX	совпадливана
-N;SG;DEFБосанкаN;SG;DEF	Босанците
-V;PST;1;SGовозможиV;PST;1;SG	овозможевме
-ADJ;FEM;SG;DEF;REMTтамошенADJ;FEM;SG;DEF;REMT	понатамошна
-V;PST;2;PLнагостиV;PST;2;PL	нагостете
-ADJ;NEUT;SG;INDFреалистиченADJ;NEUT;SG;INDF	реалистичното
-N;PLзаштитникN;PL	заштитничка
-N;PL;INDFѓубривоN;PL;INDF	ѓубриво
-N;SG;VOCкундакN;SG;VOC	кундаков
-V;IMP;2;PLнаредуваV;IMP;2;PL	наредуваат
-V;PST;1;PLсе искезиV;PST;1;PL	се
-V;PST;2;PLснеможеV;PST;2;PL	снеможеше
-V;PRS;1;PLпробаV;PRS;1;PL	пробаа
-N;SG;DEF;REMTспокојствоN;SG;DEF;REMT	спокојство
-N;SG;DEFславеjN;SG;DEF	славеите
-N;SG;DEF;REMTседлоN;SG;DEF;REMT	седлото
-N;SG;VOCземјоделствоN;SG;VOC	земјоделскана
-V;PRS;1;SGклоцнеV;PRS;1;SG	клоцнавме
-N;SG;DEFзаемодавецN;SG;DEF	советодавецон
-ADJ;NEUT;SG;DEF;REMTтетовскиADJ;NEUT;SG;DEF;REMT	тетовскион
-ADJ;MASC;SG;DEFамбициозенADJ;MASC;SG;DEF	амбициознине
+NıķмагнолијаNıķ	магнетсково
+NĮķзавршетокNĮķ	завршетоциве
+VĴĵİıсе одразиVĴĵİı	се одрази
+VĵĭĮусмрдиVĵĭĮ	донеле засмрдете
+VĴĵĶĮплакнеVĴĵĶĮ	плакнеше
+VĴĵĶĮпотцртаVĴĵĶĮ	потцртав
+VįİĮпревиеVįİĮ	превиете
+ADJĹĮĲмокарADJĹĮĲ	мокра
+NıĽконференцијаNıĽ	конференцијана
+VĬĭıсе развиваVĬĭı	се развиваше
+VľĬĶĮелиминираVľĬĶĮ	групирале абортирале
+V.PTCPĵĹĮпричиниV.PTCPĵĹĮ	причиневме
+VĬĶıприпаѓаVĬĶı	припаѓајте
+NĮĲĳопитNĮĲĳ	опити
+VľĬĶĮеволуираVľĬĶĮ	анализирале абортирале
+VĬĭĮразмрдаVĬĭĮ	размрдаше
+ADJĻĮĲчудовишенADJĻĮĲ	чудовишноно
+NĮĽјоргованNĮĽ	јоргованине
+VĴĵĶıораVĴĵĶı	озарила
+NĮĲшестинаNĮĲ	шестинава
+NıĲаџамијаNıĲ	кираџии
+NıĲĳсечивоNıĲĳ	сечивово
+VĬİıсе поздравиVĬİı	се
+VĴĵĶıнаслонуваVĴĵĶı	наслонувате
+VĬĭĮскротиVĬĭĮ	скршеле
+VĴĵĶĮпонесеVĴĵĶĮ	нанесевте
+NĮķградежништвоNĮķ	падежа
+VĵĭıприпишеVĵĭı	запишеше
+VĵĶĮпрепоиVĵĶĮ	препознавале
+ADJıĲĳбелодробенADJıĲĳ	белодробно
+VĵĭĮдоспремиVĵĭĮ	дочитале доспремам
+VĴĵĭĮналутиVĴĵĭĮ	налутевте
+ADJĻĮĲсексуаленADJĻĮĲ	сексуално
+VĴĵİıотфрлаVĴĵİı	отфрла
+NĮķУнгаркаNĮķ	Унгаркиве
+VĬĭĮотфрлаVĬĭĮ	отфрла
+ADJĺĮĲтркалезенADJĺĮĲ	тркалезни
+V.PTCPļĴĵĹĮакцентираV.PTCPļĴĵĹĮ	акцентиравме
+ADJĺĮĲĳсовпадливADJĺĮĲĳ	совпадливана
+NĮĲБосанкаNĮĲ	Белгиецон
+VĵĭĮовозможиVĵĭĮ	почестиле овозможевме
+ADJĺĮĲĸтамошенADJĺĮĲĸ	тешкиов понатамошен
+VĵİıнагостиVĵİı	нагостеа
+ADJĹĮķреалистиченADJĹĮķ	реалистичното
+V.PTCPĴĵĺĮизвајаV.PTCPĴĵĺĮ	извајало
+NĮĲĸмачкаNĮĲĸ	мрачново
+NıķѓубривоNıķ	наѓубрело
+NĮĽкундакNĮĽ	кундаков
+NıĲкасетаNıĲ	касетава
+Vĵĭıсе искезиVĵĭı	се искези
+VĵİıснеможеVĵİı	снеможеше
+NĮĲĸспокојствоNĮĲĸ	споредливиов спокојство
+NĮĲславеjNĮĲ	славеите
+NĮĲĸеленNĮĲĸ	ебанава
+NĮĲĸседлоNĮĲĸ	сериозново
+ADJĹĮĲĸгрбоносенADJĹĮĲĸ	горделивово
+NĮĽземјоделствоNĮĽ	земјоделскана
+VĬĭĮклоцнеVĬĭĮ	клоцнавме
+VĴĵİĮвенееVĴĵİĮ	одолееше
+ADJĹĮĲĸтетовскиADJĹĮĲĸ	тешкиов
+ADJĻĮĲамбициозенADJĻĮĲ	амбициознине
 V.CVBсоодветствуваV.CVB	соодветствувавме
-V;PRS;3;PLизминеV;PRS;3;PL	изминаа
-V.PTCP;PST;PASSобложиV.PTCP;PST;PASS	обвиен
-V;PROG;PST;2;SGнајадеV;PROG;PST;2;SG	најадат
-V;PRS;1;SGпреболиV;PRS;1;SG	преболиле
-N;PLпокојникN;PL	јајник
-V;PST;2;PLмотивираV;PST;2;PL	мотивирате
-V;PST;1;PLизискуваV;PST;1;PL	изискувал
-V;PRS;3;PLдопишеV;PRS;3;PL	допишеме
-N;SG;DEFрелјефN;SG;DEF	релјефон
-ADJ;PL;DEF;REMTсовршенADJ;PL;DEF;REMT	несовршената
-V;IMP;2;SGопуштиV;IMP;2;SG	опушти
-V;IMP;2;SGшмркнеV;IMP;2;SG	шмркнам
-N;SG;INDFпрогнозаN;SG;INDF	прогресивен
-ADJ;MASC;SG;DEF;REMTбразилскиADJ;MASC;SG;DEF;REMT	бразилска
-V;PROG;PST;2;SGсе сеќаваV;PROG;PST;2;SG	се сеќавање
-N;PL;DEF;PROXакционерN;PL;DEF;PROX	акционеров
-N;PL;DEF;PROXбочваN;PL;DEF;PROX	бочвине
-V;IPFV;PRS;2;SGрезултираV;IPFV;PRS;2;SG	резултирал
-V.MSDR;IPFVпрепарираV.MSDR;IPFV	препариравме
-V;PRS;2;SGсе окучиV;PRS;2;SG	се
-ADJ;PL;DEF;REMTколосаленADJ;PL;DEF;REMT	колосална
-V;PROG;PST;3;PLсе изветрееV;PROG;PST;3;PL	се изветрееше
-N;SG;INDFфилозофијаN;SG;INDF	филозофиите
-V;PRS;3;SGразочараV;PRS;3;SG	разочараше
-V;PST;2;PLпрозбориV;PST;2;PL	прозбориме
-V;PST;3;SGрасклопиV;PST;3;SG	расклопете
-N;PL;INDFБосанецN;PL;INDF	Босанците
-ADJ;FEM;SG;DEF;PROXнепроменливADJ;FEM;SG;DEF;PROX	непроменливине
-V;PST;1;SGпроцениV;PST;1;SG	процени
-V;IMP;2;SGусрамиV;IMP;2;SG	усрами
-V;PROG;PST;1;SGдокрајчиV;PROG;PST;1;SG	докрајчат
-N;SG;DEF;PROXгрубијанN;SG;DEF;PROX	грубијаниве
-V;IMP;2;SGштрајкуваV;IMP;2;SG	штрајкуваш
-V;PRS;2;SGотепуваV;PRS;2;SG	отепувала
-N;SG;DEF;REMTхипофизаN;SG;DEF;REMT	хипотетичкион
-V;IMP;2;SGумножуваV;IMP;2;SG	умножува
-V;PRS;3;PLсе изнагледаV;PRS;3;PL	се
-N;PL;DEF;PROXменингитисN;PL;DEF;PROX	менингитисон
-V;PRS;1;SGпобеснеV;PRS;1;SG	побеснеше
-ADJ;PL;DEFзоолошкиADJ;PL;DEF	зоологијава
-ADJ;NEUT;SG;DEF;PROXсмешенADJ;NEUT;SG;DEF;PROX	смешниве
-V.PTCP;PROG;PST;PLсе истркалаV.PTCP;PROG;PST;PL	се
-V;PRS;1;SGпресадуваV;PRS;1;SG	пресадам
-V;PST;2;SGпотфрлиV;PST;2;SG	потфрлеле
-N;SG;DEF;REMTјуфкаN;SG;DEF;REMT	јуфка
-V;PST;1;SGподдржиV;PST;1;SG	поддржаа
-ADJ;NEUT;SG;DEF;PROXправеденADJ;NEUT;SG;DEF;PROX	праведниов
-V;PROG;PST;3;PLграбнуваV;PROG;PST;3;PL	грабнувај
-V;PROG;PST;2;PLстимулираV;PROG;PST;2;PL	стимулираме
-V;PROG;PST;3;SGстекнуваV;PROG;PST;3;SG	стекнувал
-V;PST;1;SGлоцираV;PST;1;SG	лоцираат
-ADJ;PL;DEF;REMTнељубезенADJ;PL;DEF;REMT	љубезност
-V.PTCP;PST;FEM;SGсе распееV.PTCP;PST;FEM;SG	се
-N;PLмагацинN;PL	магацини
-ADJ;PL;DEF;REMTнепотребенADJ;PL;DEF;REMT	непотребноно
-V;PST;2;PLзамиеV;PST;2;PL	замијте
-V;PROG;PST;1;PLпоткренеV;PROG;PST;1;PL	поткрени
-N;PL;DEF;REMTинформацијаN;PL;DEF;REMT	информатичарот
-ADJ;FEM;SG;DEF;PROXневработенADJ;FEM;SG;DEF;PROX	невработеново
-N;SG;DEF;REMTгенезаN;SG;DEF;REMT	генерациине
-V.PTCP;PROG;PST;PLферментираV.PTCP;PROG;PST;PL	федерализирале
-V;IMP;2;SGплаќаV;IMP;2;SG	отплаќа
-V;PRS;3;PLислушаV;PRS;3;PL	ислушаа
-V;PRS;2;PLсе збоктисаV;PRS;2;PL	се збоктисала
-ADJ;MASC;SG;DEF;PROXсвадбенADJ;MASC;SG;DEF;PROX	свадбените
-ADJ;PL;DEFнеменливADJ;PL;DEF	немите
-V;PRS;2;PLсе јавуваV;PRS;2;PL	се
-V;PRS;3;SGприбереV;PRS;3;SG	прибереше
-N;SG;INDFжичкаN;SG;INDF	женствена
-ADJ;MASC;SG;DEF;PROXодбојкарскиADJ;MASC;SG;DEF;PROX	одбојкарската
-N;PL;INDFаџијаN;PL;INDF	аџилак
-V.PTCP;PST;NEUT;SGсе скршиV.PTCP;PST;NEUT;SG	се
-N;SG;DEF;REMTпомфритN;SG;DEF;REMT	помфритине
-V;PST;1;PLспоредиV;PST;1;PL	споредевме
-V;PROG;PST;3;PLочајуваV;PROG;PST;3;PL	очајувај
-N;SG;DEF;PROXмилинаN;SG;DEF;PROX	милиниве
-V;PRS;2;PLположиV;PRS;2;PL	положете
-V;PROG;PST;2;SGсе разделуваV;PROG;PST;2;SG	се
-V;PROG;PST;1;PLсе помириV;PROG;PST;1;PL	се
-N;PL;VOCотсјајN;PL;VOC	јубилеи
-N;PL;DEFсфераN;PL;DEF	атмосферите
-V;PRS;3;SGнапредуваV;PRS;3;SG	напредуваат
-ADJ;FEM;SG;DEF;PROXќосADJ;FEM;SG;DEF;PROX	ќоси
-N;PL;DEFводичN;PL;DEF	водичов
-N;PL;DEFнервозаN;PL;DEF	нервите
-N;SG;DEF;PROXчестољубиеN;SG;DEF;PROX	честољубиено
-N;SG;DEF;PROXдуњаN;SG;DEF;PROX	гузоњата
-N;SG;VOCнепрактичностN;SG;VOC	практичноста
-V;PST;3;SGсе разбудиV;PST;3;SG	се разбудите
-V;PST;2;PLприготвиV;PST;2;PL	приготвија
-V;PRS;3;PLспоиV;PRS;3;PL	спојте
-V;PFV;PRS;3;SGпроектираV;PFV;PRS;3;SG	проектирало
-V;PRS;1;PLнакалемиV;PRS;1;PL	накалемија
-ADJ;FEM;SG;DEFефикасенADJ;FEM;SG;DEF	ефикаснана
-N;SG;DEF;PROXвелосипедN;SG;DEF;PROX	велосипеду
-V;PROG;PST;1;SGстеснуваV;PROG;PST;1;SG	стеснеше
-N;SG;DEF;PROXпчеларствоN;SG;DEF;PROX	пчеларкиве
-V.PTCP;PROG;PST;FEM;SGзамрзнеV.PTCP;PROG;PST;FEM;SG	замрзневте
+V.PTCPĵĿобложиV.PTCPĵĿ	апелирало санирал
+V.PTCPĵĿпеглаV.PTCPĵĿ	проектирало апелирало
+VĴĵİĮнајадеVĴĵİĮ	најадоа
+VĬĭĮпреболиVĬĭĮ	преболиле
+ADJĹĮĲбрбливADJĹĮĲ	брбливоно
+NıпокојникNı	чајникон
+VĬĶıдопишеVĬĶı	запишеше
+NĮĲрелјефNĮĲ	релјефон
+ADJıĲĸсовршенADJıĲĸ	современово совршеново
+NĮĲĳклунарNĮĲĳ	кондурчиња
+VįİĮопуштиVįİĮ	опуштаат
+VįİĮшмркнеVįİĮ	шмркнат
+VĴĵİĮсоблекуваVĴĵİĮ	соблекувај
+NĮĲĳболваNĮĲĳ	болежливи
+V.PTCPĴĵĺĮутврдуваV.PTCPĴĵĺĮ	учеле потврдувало
+VĬĶĮодолееVĬĶĮ	одолееше
+ADJĻĮĲĸбразилскиADJĻĮĲĸ	брановитово
+VĴĵİĮсе сеќаваVĴĵİĮ	се сеќавање
+VĬĶıодереVĬĶı	озарила
+NıĲĳакционерNıĲĳ	актуелност
+NıĲĳбочваNıĲĳ	боздогани
+ADJĹĮĲĸподносливADJĹĮĲĸ	прашалнава
+VļĬİĮрезултираVļĬİĮ	резултирал
+V.MSDRļпрепарираV.MSDRļ	пожолтен
+VĬİĮсе окучиVĬİĮ	се
+NĮĲĸбодNĮĲĸ	бодликавава
+V.PTCPĴĵıизгравираV.PTCPĴĵı	изгравирало
+ADJıĲĸколосаленADJıĲĸ	квалитативниов колосална
+VĴĵĶıсе изветрееVĴĵĶı	се изветрее
+V.PTCPĵıзаградиV.PTCPĵı	зезнала
+ADJĻĮĲĳупотребливADJĻĮĲĳ	успаванки неупотреблив
+VĬĶĮразочараVĬĶĮ	разочаравте
+VĵİıпрозбориVĵİı	прозбореше
+VĵĶĮрасклопиVĵĶĮ	расклопете
+NıķБосанецNıķ	Белгиецон
+NıĲĸфиналеNıĲĸ	финсково
+ADJĺĮĲĳнепроменливADJĺĮĲĳ	непроменливине
+VĵĭĮпроцениVĵĭĮ	проценувале
+NĮĽгласNĮĽ	гласачи
+VįİĮусрамиVįİĮ	усрами
+VĴĵĭĮдокрајчиVĴĵĭĮ	дочитале докрајчат
+NĮĲĳгрубијанNĮĲĳ	гризови
+VįİĮштрајкуваVįİĮ	штрајкуваа
+VĬİĮотепуваVĬİĮ	отепувала
+ADJĹĮĲĸветеринарскиADJĹĮĲĸ	ветровитиов манастирсконо
+NĮĲĸхипофизаNĮĲĸ	хипотетичкиов
+VįİĮумножуваVįİĮ	умножува
+VĬĶıсе изнагледаVĬĶı	се
+NıĲĸлокалитетNıĲĸ	лековернава
+NıĲĳменингитисNıĲĳ	менингитисон
+VĬĭĮпобеснеVĬĭĮ	побеснеше
+NĮĲĸгрлоNĮĲĸ	географскава
+ADJıĲзоолошкиADJıĲ	разонодивме
+ADJĹĮĲĳсмешенADJĹĮĲĳ	смешни
+V.PTCPĴĵıсе истркалаV.PTCPĴĵı	се истркалав
+VĵİĮпотфрлиVĵİĮ	потфрлеле
+NĮĲĸјуфкаNĮĲĸ	јавниов пуфкиве
+ADJĹĮĲĳетнолошкиADJĹĮĲĳ	етиди
+ADJĻĮĲĳметаленADJĻĮĲĳ	метро
+VĵĭĮподдржиVĵĭĮ	поддржаа
+VĬĭĮзбеснеVĬĭĮ	збеснеше
+VĴĵĶıграбнуваVĴĵĶı	грабнеше
+VĴĵİıстимулираVĴĵİı	стимулираме
+NĮĲĸсоставNĮĲĸ	современово
+VĴĵĶĮстекнуваVĴĵĶĮ	стекнувал
+NıĲскалиштеNıĲ	скалиштено
+VĵĭĮлоцираVĵĭĮ	исекле
+ADJıĲĸнељубезенADJıĲĸ	невработеново дружељубивата
+NıĲĸјамаNıĲĸ	јавниов
+V.PTCPĵĺĮсе распееV.PTCPĵĺĮ	седеле
+NıмагацинNı	магацини
+ADJıĲĸнепотребенADJıĲĸ	неграциозново непотребноно
+VĵİıзамиеVĵİı	промиевте
+V.PTCPĵĿпричинуваV.PTCPĵĿ	инсприрало причинуваат елиминирала
+VĴĵĭıпоткренеVĴĵĭı	поткрени
+NıĲĸинформацијаNıĲĸ	измисленово информатичарот
+ADJĺĮĲĳневработенADJĺĮĲĳ	неверство
+V.PTCPĴĵĹĮнаговориV.PTCPĴĵĹĮ	наговориле
+NĮĲĸгенезаNĮĲĸ	главново
+V.PTCPĴĵĺĮвоскреснеV.PTCPĴĵĺĮ	возбуделе
+VįİĮплаќаVįİĮ	отплаќа
+V.PTCPĵĹĮприредиV.PTCPĵĹĮ	приредивте
+NıĲĳсатарNıĲĳ	саатчии
+VĬĶıислушаVĬĶı	ислушаа
+VĬİıсе збоктисаVĬİı	се збоктисала
+ADJĻĮĲĳсвадбенADJĻĮĲĳ	свадбените
+V.CVBвртиV.CVB	вреднувајќи
+VĬİıсе јавуваVĬİı	се појавував
+NĮĲĸделтаNĮĲĸ	доследниов
+ADJĻĮĲĳодбојкарскиADJĻĮĲĳ	одбојкарската
+NıķаџијаNıķ	шегаџијо
+V.PTCPĵĹĮсе скршиV.PTCPĵĹĮ	се
+NĮĲĸпомфритNĮĲĸ	прашалнава помфритине
+VĴĵĶıочајуваVĴĵĶı	очајувај
+NĮĲĳмилинаNĮĲĳ	мигови
+VĬİıположиVĬİı	расположевте
+VĵİĮодолееVĵİĮ	одолееше
+VĴĵİĮсе разделуваVĴĵİĮ	се разделувало
+VĴĵĭıсе помириVĴĵĭı	се
+NıĽотсјајNıĽ	двобоју
+NıĲсфераNıĲ	атмосфера
+VĬĶĮнапредуваVĬĶĮ	напредуваат
+ADJĺĮĲĳќосADJĺĮĲĳ	ќоси
+NıĲводичNıĲ	водичов
+NıĲнервозаNıĲ	нервозно
+VĵĶıпревиеVĵĶı	превиеше
+NĮĲĳчестољубиеNĮĲĳ	честољубиено
+NĮĲĳдуњаNĮĲĳ	детел кнегињиве
+V.PTCPĴĵıтренираV.PTCPĴĵı	третирала
+V.PTCPĵĺĮонерасположиV.PTCPĵĺĮ	онерасположело
+NĮĽнепрактичностNĮĽ	практичноста
+V.PTCPĵıусереV.PTCPĵı	усрала
+VĵĶĮсе разбудиVĵĶĮ	седеле
+V.PTCPĴĵıзатрудниV.PTCPĴĵı	зезнала трудницана
+VĬĭıпрекоруваVĬĭı	прекорувала
+VľĬĶĮпроектираVľĬĶĮ	анализирале скалпирала
+VĬĭıнакалемиVĬĭı	накалемија
+NĮĽлудилоNĮĽ	лунапаркови
+NĮĲĳвелосипедNĮĲĳ	велосипеду
+VĴĵĭĮстеснуваVĴĵĭĮ	виделе стеснеше
+NĮĲĳпчеларствоNĮĲĳ	планинари
+V.PTCPĴĵĺĮзамрзнеV.PTCPĴĵĺĮ	замрзневте
