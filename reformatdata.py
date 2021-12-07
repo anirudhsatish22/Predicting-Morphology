@@ -28,7 +28,6 @@ def mapUnicode(fp, op, mode):
 
         x = listOfWords[2]
         features = x.split(";")
-        print(features)
         for feature in features[1:]:
             if feature not in D:
                 D[feature] = chr(i)
@@ -48,18 +47,21 @@ def mapUnicode(fp, op, mode):
         features = listOfWords[2]
 
 
-        print(features)
-        if features in D:
-            x = D[features]
-        else:
-            x = chr(i)
-            i+=1
+        listOfFeatures = features.split(";")
+        morphString = listOfFeatures[0]
+        for feature in listOfFeatures[1:]:
+            if feature in D:
+                morphString += D[feature]
+            else:
+                morphString += D[feature]
+                i+=1
+
         
         if (mode):
-            reformatted = x+lemma+x + "\t" + conjugated
+            reformatted = morphString+lemma+morphString + "\t" + conjugated + "\n"
         else:
-            reformatted = x+lemma+x
-        op.writeline(reformatted)
+            reformatted = morphString+lemma+morphString + "\n"
+        op.write(reformatted)
 
 def main(args):
 
