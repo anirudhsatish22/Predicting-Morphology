@@ -16,7 +16,7 @@ for root, _, files in os.walk("trainHigh", topdown=False):
             # print(splitList)
             
 
-            os.mkdir(language)
+            # os.mkdir(language)
 
             print(name)
             inputFp = open(full_input_path, "r")
