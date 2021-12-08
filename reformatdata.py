@@ -125,6 +125,19 @@ def mapUnicode(fp, op, mode, name):
         mapUnicodeTest(fp,op, name)
     
     
+def baseline(fp,op,mode):
+    for line in fp:
+        newLine  = line.rstrip()
+        listOfWords = newLine.split("\t")
+        lemma = listOfWords[0]
+        conjugated = listOfWords[1]
+        
+        if (mode):
+            reformatted = lemma + "\t" + conjugated + "\n"
+        else:
+            reformatted = lemma + "\n"
+        op.write(reformatted)
+
 
 def main(args):
 
@@ -134,6 +147,9 @@ def main(args):
         mapUnicode(args.input_file, args.output_file, args.train, args.language)
     elif (args.buckets):
         buckets(args.input_file, args.output_file, args.train, args.len_tags, args.len_lemma)
+    elif (args.baseline):
+        baseline(args.input_file, args.output_file, args.train)
+
     
 
 if __name__ == '__main__':
@@ -150,6 +166,7 @@ if __name__ == '__main__':
     compression_type.add_argument("--nocompression", action="store_true")
     compression_type.add_argument("--unicodeMap", action="store_true")
     compression_type.add_argument("--buckets", action="store_true")
+    compression_type.add_argument("--baseline", action="store_true")
 
     parser.add_argument("--len_lemma", type=int, help="length of the lemma bucket for bucket compression")
     parser.add_argument("--len_tags", type=int, help="length of the tags bucket for bucket compression")
