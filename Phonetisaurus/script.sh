@@ -1,4 +1,4 @@
-for f in reformatted-unicode-take2/*
+for f in reformatted-baseline/*
 do
     lang=$(basename $f)
     echo $lang
