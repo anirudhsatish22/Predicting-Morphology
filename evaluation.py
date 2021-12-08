@@ -89,7 +89,9 @@ def levenshtein(predictedfp, correctfp):
         if len(correctListOfWords) == 2:
             correctInflection = correctListOfWords[1]
         else:
-            correctInflection = "aaaaaaaaaa"
+            correctInflection = "aaaa"
+        # correctInflection = correctListOfWords[1]
+
         # print(correctInflection, predictedInflection)
         dist += distance(predictedInflection, correctInflection)
         total += 1

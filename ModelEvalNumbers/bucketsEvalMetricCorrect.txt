@@ -1,0 +1,304 @@
+serbo-croatian
+	total accuracy: 3.0
+	accuracy of guessed: 3.83
+	levenshtein: 10.13
+albanian
+	total accuracy: 5.5
+	accuracy of guessed: 5.62
+	levenshtein: 10.38
+azeri
+	total accuracy: 7.0
+	accuracy of guessed: 8.86
+	levenshtein: 8.82
+macedonian
+	total accuracy: 1.1
+	accuracy of guessed: 1.44
+	levenshtein: 8.97
+bulgarian
+	total accuracy: 1.3
+	accuracy of guessed: 1.57
+	levenshtein: 9.73
+yiddish
+	total accuracy: 23.0
+	accuracy of guessed: 23.71
+	levenshtein: 7.9
+classical-syriac
+	total accuracy: 20.0
+	accuracy of guessed: 21.74
+	levenshtein: 5.85
+friulian
+	total accuracy: 11.0
+	accuracy of guessed: 13.1
+	levenshtein: 6.63
+pashto
+	total accuracy: 13.0
+	accuracy of guessed: 13.27
+	levenshtein: 5.6
+breton
+	total accuracy: 0.0
+	accuracy of guessed: 0.0
+	levenshtein: 6.14
+czech
+	total accuracy: 9.6
+	accuracy of guessed: 10.86
+	levenshtein: 9.15
+catalan
+	total accuracy: 1.9
+	accuracy of guessed: 2.25
+	levenshtein: 8.17
+irish
+	total accuracy: 8.3
+	accuracy of guessed: 9.25
+	levenshtein: 9.46
+latvian
+	total accuracy: 4.5
+	accuracy of guessed: 5.49
+	levenshtein: 9.19
+livonian
+	total accuracy: 3.0
+	accuracy of guessed: 3.8
+	levenshtein: 8.22
+hindi
+	total accuracy: 4.2
+	accuracy of guessed: 4.23
+	levenshtein: 10.04
+bashkir
+	total accuracy: 6.6
+	accuracy of guessed: 8.34
+	levenshtein: 8.48
+estonian
+	total accuracy: 3.2
+	accuracy of guessed: 3.75
+	levenshtein: 9.71
+old-saxon
+	total accuracy: 19.7
+	accuracy of guessed: 20.78
+	levenshtein: 6.66
+slovene
+	total accuracy: 15.0
+	accuracy of guessed: 16.16
+	levenshtein: 7.95
+tatar
+	total accuracy: 0.0
+	accuracy of guessed: 0.0
+	levenshtein: 7.88
+swahili
+	total accuracy: 1.0
+	accuracy of guessed: 1.79
+	levenshtein: 5.62
+lithuanian
+	total accuracy: 3.6
+	accuracy of guessed: 4.0
+	levenshtein: 8.03
+latin
+	total accuracy: 1.4
+	accuracy of guessed: 2.11
+	levenshtein: 10.34
+galician
+	total accuracy: 7.1
+	accuracy of guessed: 8.0
+	levenshtein: 7.36
+hungarian
+	total accuracy: 0.3
+	accuracy of guessed: 0.44
+	levenshtein: 12.38
+welsh
+	total accuracy: 0.0
+	accuracy of guessed: 0.0
+	levenshtein: 8.09
+urdu
+	total accuracy: 9.4
+	accuracy of guessed: 9.42
+	levenshtein: 9.62
+slovak
+	total accuracy: 9.8
+	accuracy of guessed: 11.37
+	levenshtein: 6.5
+romanian
+	total accuracy: 5.2
+	accuracy of guessed: 6.04
+	levenshtein: 8.59
+uzbek
+	total accuracy: 5.0
+	accuracy of guessed: 6.02
+	levenshtein: 10.29
+old-armenian
+	total accuracy: 6.3
+	accuracy of guessed: 7.54
+	levenshtein: 7.69
+sanskrit
+	total accuracy: 15.0
+	accuracy of guessed: 17.73
+	levenshtein: 8.24
+votic
+	total accuracy: 0.0
+	accuracy of guessed: 0.0
+	levenshtein: 6.43
+turkish
+	total accuracy: 1.4
+	accuracy of guessed: 1.59
+	levenshtein: 10.67
+maltese
+	total accuracy: 0.0
+	accuracy of guessed: 0.0
+	levenshtein: 5.91
+georgian
+	total accuracy: 4.9
+	accuracy of guessed: 6.06
+	levenshtein: 9.25
+lower-sorbian
+	total accuracy: 11.4
+	accuracy of guessed: 13.43
+	levenshtein: 6.31
+zulu
+	total accuracy: 3.3
+	accuracy of guessed: 4.54
+	levenshtein: 7.75
+crimean-tatar
+	total accuracy: 0.0
+	accuracy of guessed: 0.0
+	levenshtein: 7.53
+icelandic
+	total accuracy: 6.4
+	accuracy of guessed: 7.67
+	levenshtein: 7.66
+old-church-slavonic
+	total accuracy: 41.0
+	accuracy of guessed: 43.62
+	levenshtein: 6.43
+italian
+	total accuracy: 1.0
+	accuracy of guessed: 1.32
+	levenshtein: 10.14
+greek
+	total accuracy: 5.7
+	accuracy of guessed: 6.7
+	levenshtein: 10.84
+norwegian-nynorsk
+	total accuracy: 3.5
+	accuracy of guessed: 4.45
+	levenshtein: 8.01
+old-french
+	total accuracy: 1.5
+	accuracy of guessed: 1.81
+	levenshtein: 8.9
+khaling
+	total accuracy: 6.4
+	accuracy of guessed: 8.82
+	levenshtein: 7.86
+portuguese
+	total accuracy: 1.0
+	accuracy of guessed: 1.15
+	levenshtein: 8.25
+occitan
+	total accuracy: 0.0
+	accuracy of guessed: 0.0
+	levenshtein: 6.07
+hebrew
+	total accuracy: 6.6
+	accuracy of guessed: 7.6
+	levenshtein: 5.61
+finnish
+	total accuracy: 0.0
+	accuracy of guessed: 0.0
+	levenshtein: 13.58
+navajo
+	total accuracy: 1.9
+	accuracy of guessed: 2.26
+	levenshtein: 8.43
+danish
+	total accuracy: 4.1
+	accuracy of guessed: 4.93
+	levenshtein: 8.95
+swedish
+	total accuracy: 2.9
+	accuracy of guessed: 4.21
+	levenshtein: 9.75
+norwegian-bokmaal
+	total accuracy: 0.1
+	accuracy of guessed: 0.13
+	levenshtein: 9.16
+belarusian
+	total accuracy: 18.7
+	accuracy of guessed: 20.46
+	levenshtein: 9.2
+armenian
+	total accuracy: 1.0
+	accuracy of guessed: 1.23
+	levenshtein: 10.52
+sorani
+	total accuracy: 0.0
+	accuracy of guessed: 0.0
+	levenshtein: 15.73
+spanish
+	total accuracy: 0.6
+	accuracy of guessed: 0.73
+	levenshtein: 8.97
+persian
+	total accuracy: 5.3
+	accuracy of guessed: 5.4
+	levenshtein: 10.97
+venetian
+	total accuracy: 23.6
+	accuracy of guessed: 24.89
+	levenshtein: 5.93
+neapolitan
+	total accuracy: 6.0
+	accuracy of guessed: 6.98
+	levenshtein: 7.62
+asturian
+	total accuracy: 3.5
+	accuracy of guessed: 3.92
+	levenshtein: 7.21
+kabardian
+	total accuracy: 0.0
+	accuracy of guessed: 0.0
+	levenshtein: 9.54
+northern-sami
+	total accuracy: 2.4
+	accuracy of guessed: 3.09
+	levenshtein: 8.36
+kurmanji
+	total accuracy: 0.0
+	accuracy of guessed: 0.0
+	levenshtein: 8.22
+arabic
+	total accuracy: 1.9
+	accuracy of guessed: 2.26
+	levenshtein: 10.68
+quechua
+	total accuracy: 0.1
+	accuracy of guessed: 0.2
+	levenshtein: 12.1
+faroese
+	total accuracy: 8.2
+	accuracy of guessed: 9.83
+	levenshtein: 7.26
+ukrainian
+	total accuracy: 18.2
+	accuracy of guessed: 22.03
+	levenshtein: 7.94
+west-frisian
+	total accuracy: 37.0
+	accuracy of guessed: 38.14
+	levenshtein: 5.57
+haida
+	total accuracy: 0.0
+	accuracy of guessed: 0.0
+	levenshtein: 16.33
+bengali
+	total accuracy: 3.0
+	accuracy of guessed: 4.62
+	levenshtein: 6.89
+basque
+	total accuracy: 0.0
+	accuracy of guessed: 0.0
+	levenshtein: 9.16
+adyghe
+	total accuracy: 0.1
+	accuracy of guessed: 0.13
+	levenshtein: 10.95
+ladin
+	total accuracy: 8.0
+	accuracy of guessed: 8.25
+	levenshtein: 6.79
