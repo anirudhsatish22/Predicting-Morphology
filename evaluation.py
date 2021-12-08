@@ -51,7 +51,7 @@ def accuracy(predictedFp, expectedFp):
     predictedFp.seek(0)
     if j == 0:
         j = 1
-    return (i/total, i/j)
+    return (i/total, j/total)
 
 
 
@@ -125,7 +125,7 @@ def evaluateOutput(predictedFp, expectedFp):
     acc = accuracy(predictedFp, expectedFp)
     levDist = levenshtein(predictedFp, expectedFp)
 
-    return ((round(acc[0]*100,2), round(acc[1]*100,2)), levDist)
+    return ((round(acc[0]*100,2), acc[1]), levDist)
 
 
 def evalAll(outputFp,directory):
@@ -143,7 +143,7 @@ def evalAll(outputFp,directory):
 
                 acc, levDist = evaluateOutput(predicted, expected)
                 # (name,  acc[0], levDist)
-                outputStr = name + "\n\ttotal accuracy: " + str(acc[0]) + "\n\taccuracy of guessed: " + str(acc[1]) + "\n\tlevenshtein: " + str(levDist) + "\n"
+                outputStr = name + "\n\tpercentage guessed: " + str(round(acc[1]*100,2)) + "\n"
                 outputFp.write(outputStr)
                 
 

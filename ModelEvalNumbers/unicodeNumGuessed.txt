@@ -1,0 +1,152 @@
+serbo-croatian
+	percentage guessed: 67.7
+albanian
+	percentage guessed: 97.0
+azeri
+	percentage guessed: 84.0
+macedonian
+	percentage guessed: 52.8
+bulgarian
+	percentage guessed: 56.5
+yiddish
+	percentage guessed: 88.0
+classical-syriac
+	percentage guessed: 90.0
+friulian
+	percentage guessed: 89.0
+pashto
+	percentage guessed: 94.0
+breton
+	percentage guessed: 87.0
+czech
+	percentage guessed: 78.7
+catalan
+	percentage guessed: 56.0
+irish
+	percentage guessed: 79.6
+latvian
+	percentage guessed: 71.0
+livonian
+	percentage guessed: 78.0
+hindi
+	percentage guessed: 99.8
+bashkir
+	percentage guessed: 74.7
+estonian
+	percentage guessed: 80.0
+old-saxon
+	percentage guessed: 86.6
+slovene
+	percentage guessed: 91.0
+tatar
+	percentage guessed: 77.0
+swahili
+	percentage guessed: 68.0
+lithuanian
+	percentage guessed: 65.3
+latin
+	percentage guessed: 46.6
+galician
+	percentage guessed: 71.4
+hungarian
+	percentage guessed: 59.4
+welsh
+	percentage guessed: 83.0
+urdu
+	percentage guessed: 99.9
+slovak
+	percentage guessed: 90.8
+romanian
+	percentage guessed: 75.0
+uzbek
+	percentage guessed: 80.0
+old-armenian
+	percentage guessed: 74.1
+sanskrit
+	percentage guessed: 90.5
+votic
+	percentage guessed: 93.0
+turkish
+	percentage guessed: 76.5
+maltese
+	percentage guessed: 90.0
+georgian
+	percentage guessed: 67.2
+lower-sorbian
+	percentage guessed: 92.1
+zulu
+	percentage guessed: 49.2
+crimean-tatar
+	percentage guessed: 65.0
+icelandic
+	percentage guessed: 73.0
+old-church-slavonic
+	percentage guessed: 98.0
+italian
+	percentage guessed: 57.4
+greek
+	percentage guessed: 82.1
+norwegian-nynorsk
+	percentage guessed: 62.9
+old-french
+	percentage guessed: 51.4
+khaling
+	percentage guessed: 92.1
+portuguese
+	percentage guessed: 45.8
+occitan
+	percentage guessed: 82.0
+hebrew
+	percentage guessed: 87.2
+finnish
+	percentage guessed: 58.4
+navajo
+	percentage guessed: 73.9
+danish
+	percentage guessed: 68.3
+swedish
+	percentage guessed: 59.9
+norwegian-bokmaal
+	percentage guessed: 58.2
+belarusian
+	percentage guessed: 88.5
+armenian
+	percentage guessed: 70.2
+sorani
+	percentage guessed: 69.6
+spanish
+	percentage guessed: 58.9
+persian
+	percentage guessed: 99.0
+venetian
+	percentage guessed: 87.0
+neapolitan
+	percentage guessed: 72.0
+asturian
+	percentage guessed: 62.2
+kabardian
+	percentage guessed: 68.0
+northern-sami
+	percentage guessed: 57.4
+kurmanji
+	percentage guessed: 85.2
+arabic
+	percentage guessed: 56.1
+quechua
+	percentage guessed: 20.2
+faroese
+	percentage guessed: 71.8
+ukrainian
+	percentage guessed: 86.2
+west-frisian
+	percentage guessed: 89.0
+haida
+	percentage guessed: 28.0
+bengali
+	percentage guessed: 83.0
+basque
+	percentage guessed: 63.7
+adyghe
+	percentage guessed: 64.0
+ladin
+	percentage guessed: 88.0
