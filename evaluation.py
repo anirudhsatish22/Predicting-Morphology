@@ -97,7 +97,7 @@ def levenshtein(predictedfp, correctfp):
         total += 1
 
     if total == 0:
-        total = 1
+        total = 0.1 # to avoid divide by 0 errors,  
 
 
     # print(round(dist/total, 2))
